@@ -1,0 +1,85 @@
+{
+  "NAV": {
+    "SUBTITLE": "Moroccan Artisanal Market",
+    "HOME": "Home",
+    "ABOUT": "About",
+    "SERVICES": "Our Services",
+    "BLOG": "Blog",
+    "MARKETPLACE": "Shop",
+    "TOURISM": "Tourism",
+    "FAQ": "FAQ",
+    "TOGGLE_THEME": "Toggle theme",
+    "TOGGLE_MENU": "Menu"
+  },
+  "HERO": {
+    "TITLE": "Discover the Treasure of Our Heritage",
+    "SUBTITLE": "Authentic artisans, cooperatives and local producers from Morocco",
+    "CTA_EXPLORE": "Explore the Shop",
+    "CTA_ANNUAIRE": "View Directory"
+  },
+  "HOME": {
+    "ARTICLES_TITLE": "Articles & News",
+    "ARTICLES_SUBTITLE": "Discover our latest publications",
+    "MARKETPLACE_TITLE": "Our Marketplace",
+    "MARKETPLACE_SUBTITLE": "Authentic handcrafted products, directly from producers",
+    "SEE_ALL": "See all",
+    "ANNUAIRE_TITLE": "Professional Actors Directory",
+    "ANNUAIRE_SUBTITLE": "Moroccan cooperatives, companies and artisans",
+    "FILTER_ALL": "All domains",
+    "VIEW_DETAIL": "View profile",
+    "NO_RESULTS": "No results for this domain"
+  },
+  "DOMAINS": {
+    "artisanat_service": "Service Crafts",
+    "produits_mer": "Sea Products",
+    "habillement_mode": "Fashion & Clothing",
+    "tourisme_rural": "Rural Tourism",
+    "artisanat_art": "Art Craftsmanship",
+    "agriculture_bio": "Organic Agriculture",
+    "soin_beaute": "Natural Beauty",
+    "produit_terroir": "Terroir Products",
+    "artisanat_culinaire": "Culinary Crafts"
+  },
+  "TOURISM": {
+    "TITLE": "Rural Tourism & Eco-tourism",
+    "SUBTITLE": "Explore the natural and cultural riches of Morocco",
+    "OTHER_PLACES": "Other places to visit",
+    "PRACTICAL_INFO": "Practical information",
+    "BEST_SEASON": "Best season",
+    "OPENING_HOURS": "Opening hours",
+    "ENTRY_FEE": "Entry fees",
+    "HOW_TO_GET": "How to get there"
+  },
+  "CAROUSEL": { "PREV": "Previous", "NEXT": "Next" },
+  "ANNUAIRE": {
+    "VERIFIED": "Verified",
+    "COOPERATIVE": "Cooperative",
+    "SARL": "LLC",
+    "ASSOCIATION": "Association",
+    "ARTISAN": "Independent Artisan",
+    "PRODUCTS_COUNT": "products",
+    "CONTACT": "Contact",
+    "WEBSITE": "Website",
+    "MODAL_TITLE": "Detailed information"
+  },
+  "FOOTER": {
+    "TAGLINE": "Promoting Moroccan artisanal heritage",
+    "QUICK_LINKS": "Quick links",
+    "CONTACT": "Contact",
+    "FOLLOW_US": "Follow us",
+    "RIGHTS": "All rights reserved",
+    "LEGAL": "Legal notice"
+  },
+  "AUTH": {
+    "LOGIN": "Sign in",
+    "LOGOUT": "Sign out",
+    "EMAIL": "Email",
+    "PASSWORD": "Password",
+    "SUBMIT": "Sign in"
+  },
+  "ERRORS": {
+    "NOT_FOUND": "Page not found",
+    "SERVER_ERROR": "Server error",
+    "LOADING": "Loading..."
+  }
+}

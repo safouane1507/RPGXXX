@@ -1,0 +1,88 @@
+{
+  "NAV": {
+    "SUBTITLE": "سوق الصناعة التقليدية المغربية",
+    "HOME": "الرئيسية",
+    "ABOUT": "من نحن",
+    "SERVICES": "خدماتنا",
+    "BLOG": "المدونة",
+    "MARKETPLACE": "المتجر",
+    "TOURISM": "السياحة",
+    "FAQ": "الأسئلة الشائعة",
+    "TOGGLE_THEME": "تبديل السمة",
+    "TOGGLE_MENU": "القائمة"
+  },
+  "HERO": {
+    "TITLE": "اكتشف كنوز تراثنا المغربي",
+    "SUBTITLE": "حرفيون وتعاونيات ومنتجون محليون أصيلون من المغرب",
+    "CTA_EXPLORE": "استكشف المتجر",
+    "CTA_ANNUAIRE": "عرض الدليل"
+  },
+  "HOME": {
+    "ARTICLES_TITLE": "المقالات والأخبار",
+    "ARTICLES_SUBTITLE": "اكتشف آخر منشوراتنا",
+    "MARKETPLACE_TITLE": "سوقنا الإلكتروني",
+    "MARKETPLACE_SUBTITLE": "منتجات حرفية أصيلة مباشرة من المنتجين",
+    "SEE_ALL": "عرض الكل",
+    "ANNUAIRE_TITLE": "دليل الفاعلين المهنيين",
+    "ANNUAIRE_SUBTITLE": "التعاونيات والشركات والحرفيين المغاربة",
+    "FILTER_ALL": "جميع المجالات",
+    "VIEW_DETAIL": "عرض البطاقة",
+    "NO_RESULTS": "لا توجد نتائج لهذا المجال"
+  },
+  "DOMAINS": {
+    "artisanat_service": "الصناعة التقليدية للخدمات",
+    "produits_mer": "منتجات البحر",
+    "habillement_mode": "الملبس والموضة",
+    "tourisme_rural": "السياحة القروية",
+    "artisanat_art": "الصناعة التقليدية الفنية",
+    "agriculture_bio": "الزراعة البيولوجية",
+    "soin_beaute": "العناية والجمال",
+    "produit_terroir": "منتجات الأرض",
+    "artisanat_culinaire": "الصناعة التقليدية الطهوية"
+  },
+  "TOURISM": {
+    "TITLE": "السياحة القروية والإيكولوجية",
+    "SUBTITLE": "استكشف الثروات الطبيعية والثقافية للمغرب",
+    "OTHER_PLACES": "أماكن أخرى تستحق الزيارة",
+    "PRACTICAL_INFO": "معلومات عملية",
+    "BEST_SEASON": "أفضل موسم",
+    "OPENING_HOURS": "ساعات العمل",
+    "ENTRY_FEE": "أسعار الدخول",
+    "HOW_TO_GET": "كيفية الوصول"
+  },
+  "CAROUSEL": {
+    "PREV": "السابق",
+    "NEXT": "التالي"
+  },
+  "ANNUAIRE": {
+    "VERIFIED": "موثق",
+    "COOPERATIVE": "تعاونية",
+    "SARL": "شركة ذات مسؤولية محدودة",
+    "ASSOCIATION": "جمعية",
+    "ARTISAN": "حرفي مستقل",
+    "PRODUCTS_COUNT": "منتجات",
+    "CONTACT": "تواصل",
+    "WEBSITE": "الموقع الإلكتروني",
+    "MODAL_TITLE": "معلومات تفصيلية"
+  },
+  "FOOTER": {
+    "TAGLINE": "تثمين وتعزيز التراث الحرفي المغربي",
+    "QUICK_LINKS": "روابط سريعة",
+    "CONTACT": "اتصل بنا",
+    "FOLLOW_US": "تابعونا",
+    "RIGHTS": "جميع الحقوق محفوظة",
+    "LEGAL": "إشعار قانوني"
+  },
+  "AUTH": {
+    "LOGIN": "تسجيل الدخول",
+    "LOGOUT": "تسجيل الخروج",
+    "EMAIL": "البريد الإلكتروني",
+    "PASSWORD": "كلمة المرور",
+    "SUBMIT": "دخول"
+  },
+  "ERRORS": {
+    "NOT_FOUND": "الصفحة غير موجودة",
+    "SERVER_ERROR": "خطأ في الخادم",
+    "LOADING": "جارٍ التحميل..."
+  }
+}

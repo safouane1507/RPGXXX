@@ -1,0 +1,233 @@
+<!-- ── HERO ──────────────────────────────────────────────── -->
+<section class="hero">
+  <div class="hero-overlay"></div>
+  <div class="container hero-content">
+    <div class="hero-badge">
+      <img src="assets/logo.png" alt="" class="hero-badge-logo" />
+      <span>كنز بلادي · KENZ BLADI</span>
+    </div>
+    <h1 class="hero-title">{{ 'HERO.TITLE' | translate }}</h1>
+    <p class="hero-subtitle">{{ 'HERO.SUBTITLE' | translate }}</p>
+    <div class="hero-ctas">
+      <button class="btn-primary" (click)="openInNewTab('/marketplace')">
+        {{ 'HERO.CTA_EXPLORE' | translate }}
+        <svg viewBox="0 0 24 24" fill="none" width="16" height="16">
+          <path d="M5 12h14M12 5l7 7-7 7" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+      </button>
+      <a routerLink="/annuaire" class="btn-secondary">
+        {{ 'HERO.CTA_ANNUAIRE' | translate }}
+      </a>
+    </div>
+  </div>
+  <!-- Decorative Zellige pattern -->
+  <div class="hero-pattern" aria-hidden="true"></div>
+</section>
+
+<!-- ── BLOG POSTS ────────────────────────────────────────── -->
+@if (blogPosts().length > 0) {
+  <section class="section-articles">
+    <div class="container">
+      <div class="section-heading">
+        <h2>{{ 'HOME.ARTICLES_TITLE' | translate }}</h2>
+        <a routerLink="/blog" class="see-all-link">{{ 'HOME.SEE_ALL' | translate }} →</a>
+      </div>
+      <div class="blog-grid">
+        @for (post of blogPosts(); track post._id) {
+          <a [routerLink]="['/blog', post.slug]" class="blog-card">
+            <div class="blog-thumb">
+              @if (post.coverImage) {
+                <img [src]="post.coverImage" [alt]="getLocalizedText(post.title)" loading="lazy" />
+              } @else {
+                <div class="blog-thumb-placeholder"></div>
+              }
+            </div>
+            <div class="blog-info">
+              <h3>{{ getLocalizedText(post.title) }}</h3>
+              <p>{{ getLocalizedText(post.excerpt) }}</p>
+              <span class="blog-date">{{ post.publishedAt | date:'dd MMM yyyy' }}</span>
+            </div>
+          </a>
+        }
+      </div>
+    </div>
+  </section>
+}
+
+<!-- ── MARKETPLACE CAROUSEL ──────────────────────────────── -->
+<section class="section-marketplace">
+  <div class="container">
+    <div class="section-heading">
+      <div>
+        <h2>{{ 'HOME.MARKETPLACE_TITLE' | translate }}</h2>
+        <p class="section-sub">{{ 'HOME.MARKETPLACE_SUBTITLE' | translate }}</p>
+      </div>
+      <button class="btn-outline" (click)="openInNewTab('/marketplace')">
+        {{ 'HOME.SEE_ALL' | translate }}
+        <svg viewBox="0 0 24 24" fill="none" width="14" height="14">
+          <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6" stroke="currentColor" stroke-width="2"/>
+          <polyline points="15,3 21,3 21,9" stroke="currentColor" stroke-width="2"/>
+          <line x1="10" y1="14" x2="21" y2="3" stroke="currentColor" stroke-width="2"/>
+        </svg>
+      </button>
+    </div>
+
+    <!-- Carousel Track -->
+    @if (isLoadingProducts()) {
+      <div class="carousel-skeleton">
+        @for (_ of [1,2,3,4]; track $index) {
+          <div class="skeleton-card"></div>
+        }
+      </div>
+    } @else if (featuredProducts().length > 0) {
+      <div class="carousel-wrapper">
+        <button class="carousel-btn carousel-prev" (click)="prevSlide()" [attr.aria-label]="'CAROUSEL.PREV' | translate">
+          <svg viewBox="0 0 24 24" fill="none" width="20" height="20">
+            <path d="M15 18l-6-6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </button>
+
+        <div class="carousel-track" [class.rtl-carousel]="isRTL()">
+          @for (product of featuredProducts(); track product._id; let i = $index) {
+            <a
+              [routerLink]="['/marketplace']"
+              class="product-card"
+              [class.active]="i === carouselIndex()"
+              [class.prev]="i === (carouselIndex() - 1 + featuredProducts().length) % featuredProducts().length"
+              [class.next]="i === (carouselIndex() + 1) % featuredProducts().length">
+              <div class="product-thumb">
+                @if (product.coverImage) {
+                  <img [src]="product.coverImage" [alt]="getLocalizedText(product.name)" loading="lazy" />
+                } @else {
+                  <div class="product-thumb-placeholder">
+                    <svg viewBox="0 0 24 24" fill="none" width="32" height="32" opacity="0.3">
+                      <path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z" stroke="currentColor" stroke-width="1.5"/>
+                    </svg>
+                  </div>
+                }
+              </div>
+              <div class="product-info">
+                <span class="product-name">{{ getLocalizedText(product.name) }}</span>
+                <div class="product-footer">
+                  <span class="product-price">{{ product.price | number:'1.0-0' }} MAD</span>
+                  <span class="product-seller">{{ product.proActor.proProfile.companyName }}</span>
+                </div>
+              </div>
+            </a>
+          }
+        </div>
+
+        <button class="carousel-btn carousel-next" (click)="nextSlide()" [attr.aria-label]="'CAROUSEL.NEXT' | translate">
+          <svg viewBox="0 0 24 24" fill="none" width="20" height="20">
+            <path d="M9 18l6-6-6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </button>
+      </div>
+
+      <!-- Dots -->
+      <div class="carousel-dots">
+        @for (product of featuredProducts(); track product._id; let i = $index) {
+          @if (i < 8) {
+            <button
+              class="dot"
+              [class.active]="i === carouselIndex()"
+              (click)="carouselIndex.set(i)">
+            </button>
+          }
+        }
+      </div>
+    }
+  </div>
+</section>
+
+<!-- ── ANNUAIRE ACTEURS PRO ───────────────────────────────── -->
+<section class="section-annuaire">
+  <div class="container">
+    <div class="section-heading">
+      <div>
+        <h2>{{ 'HOME.ANNUAIRE_TITLE' | translate }}</h2>
+        <p class="section-sub">{{ 'HOME.ANNUAIRE_SUBTITLE' | translate }}</p>
+      </div>
+      <a routerLink="/annuaire" class="btn-outline">{{ 'HOME.SEE_ALL' | translate }} →</a>
+    </div>
+
+    <!-- Domain Filter Tabs -->
+    <div class="domain-filters" [class.rtl]="isRTL()" role="tablist">
+      @for (domain of domains; track domain.id) {
+        <button
+          class="domain-chip"
+          [class.active]="activeDomain() === domain.id"
+          [style.--chip-color]="domain.color"
+          (click)="loadAnnuaire(domain.id)"
+          role="tab"
+          [attr.aria-selected]="activeDomain() === domain.id">
+          {{ domain.labelKey | translate }}
+        </button>
+      }
+    </div>
+
+    <!-- Annuaire Cards Grid -->
+    @if (isLoadingAnnuaire()) {
+      <div class="annuaire-grid">
+        @for (_ of [1,2,3,4,5,6]; track $index) {
+          <div class="annuaire-skeleton"></div>
+        }
+      </div>
+    } @else if (annuaireList().length === 0) {
+      <div class="empty-state">
+        <p>{{ 'HOME.NO_RESULTS' | translate }}</p>
+      </div>
+    } @else {
+      <div class="annuaire-grid">
+        @for (actor of annuaireList(); track actor._id) {
+          <a [routerLink]="['/annuaire', actor.slug]" class="annuaire-card">
+            <!-- Logo / Avatar -->
+            <div class="actor-logo">
+              @if (actor.logo) {
+                <img [src]="actor.logo" [alt]="actor.structureName" loading="lazy" />
+              } @else {
+                <span class="actor-initials">{{ actor.structureName.charAt(0).toUpperCase() }}</span>
+              }
+            </div>
+
+            <!-- Info -->
+            <div class="actor-info">
+              <div class="actor-header">
+                <h4 class="actor-name">{{ actor.structureName }}</h4>
+                @if (actor.isVerified) {
+                  <svg class="verified-icon" viewBox="0 0 24 24" fill="none" title="{{ 'ANNUAIRE.VERIFIED' | translate }}">
+                    <path d="M9 12l2 2 4-4M7.835 4.697a3.42 3.42 0 0 0 1.946-.806 3.42 3.42 0 0 1 4.438 0 3.42 3.42 0 0 0 1.946.806 3.42 3.42 0 0 1 3.138 3.138 3.42 3.42 0 0 0 .806 1.946 3.42 3.42 0 0 1 0 4.438 3.42 3.42 0 0 0-.806 1.946 3.42 3.42 0 0 1-3.138 3.138 3.42 3.42 0 0 0-1.946.806 3.42 3.42 0 0 1-4.438 0 3.42 3.42 0 0 0-1.946-.806 3.42 3.42 0 0 1-3.138-3.138 3.42 3.42 0 0 0-.806-1.946 3.42 3.42 0 0 1 0-4.438 3.42 3.42 0 0 0 .806-1.946 3.42 3.42 0 0 1 3.138-3.138z"
+                      stroke="#27ae60" stroke-width="2"/>
+                  </svg>
+                }
+              </div>
+
+              <p class="actor-description">{{ getLocalizedText(actor.description) }}</p>
+
+              <div class="actor-tags">
+                <span class="actor-type">{{ actor.structureType }}</span>
+              </div>
+            </div>
+
+            <!-- Contact Footer -->
+            <div class="actor-footer">
+              @if (actor.contact.city) {
+                <span class="actor-location">
+                  <svg viewBox="0 0 24 24" fill="none" width="12" height="12"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z" stroke="currentColor" stroke-width="2"/><circle cx="12" cy="10" r="3" stroke="currentColor" stroke-width="2"/></svg>
+                  {{ actor.contact.city }}
+                </span>
+              }
+              @if (actor.contact.phone) {
+                <span class="actor-phone">
+                  <svg viewBox="0 0 24 24" fill="none" width="12" height="12"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07A19.5 19.5 0 0 1 4.44 12.5 19.79 19.79 0 0 1 1.37 3.93a2 2 0 0 1 1.94-2.18h3a2 2 0 0 1 2 1.72c.127.96.361 1.903.7 2.81a2 2 0 0 1-.45 2.11L7.91 9.91a16 16 0 0 0 6.09 6.09l1.27-1.27a2 2 0 0 1 2.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0 1 22 16.92z" stroke="currentColor" stroke-width="2"/></svg>
+                  {{ actor.contact.phone }}
+                </span>
+              }
+              <span class="view-detail-arrow">{{ 'HOME.VIEW_DETAIL' | translate }} →</span>
+            </div>
+          </a>
+        }
+      </div>
+    }
+  </div>
+</section>

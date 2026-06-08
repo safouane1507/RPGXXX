@@ -1,0 +1,88 @@
+{
+  "NAV": {
+    "SUBTITLE": "Marché Artisanal Marocain",
+    "HOME": "Accueil",
+    "ABOUT": "À Propos",
+    "SERVICES": "Nos Services",
+    "BLOG": "Blogs",
+    "MARKETPLACE": "Boutique",
+    "TOURISM": "Tourisme",
+    "FAQ": "FAQ",
+    "TOGGLE_THEME": "Basculer le thème",
+    "TOGGLE_MENU": "Menu"
+  },
+  "HERO": {
+    "TITLE": "Découvrez le Trésor de Notre Patrimoine",
+    "SUBTITLE": "Artisans, coopératives et producteurs locaux authentiques du Maroc",
+    "CTA_EXPLORE": "Explorer la Boutique",
+    "CTA_ANNUAIRE": "Voir l'Annuaire"
+  },
+  "HOME": {
+    "ARTICLES_TITLE": "Articles & Actualités",
+    "ARTICLES_SUBTITLE": "Découvrez nos dernières publications",
+    "MARKETPLACE_TITLE": "Notre Marketplace",
+    "MARKETPLACE_SUBTITLE": "Produits artisanaux authentiques, directement des producteurs",
+    "SEE_ALL": "Voir tout",
+    "ANNUAIRE_TITLE": "Annuaire des Acteurs Professionnels",
+    "ANNUAIRE_SUBTITLE": "Coopératives, SARLs et artisans marocains",
+    "FILTER_ALL": "Tous les domaines",
+    "VIEW_DETAIL": "Voir la fiche",
+    "NO_RESULTS": "Aucun résultat pour ce domaine"
+  },
+  "DOMAINS": {
+    "artisanat_service": "Artisanat de Service",
+    "produits_mer": "Produits de la Mer",
+    "habillement_mode": "Habillement & Mode",
+    "tourisme_rural": "Tourisme Rural",
+    "artisanat_art": "Artisanat d'art",
+    "agriculture_bio": "Agriculture Bio",
+    "soin_beaute": "Soin & Beauté",
+    "produit_terroir": "Produit de Terroir",
+    "artisanat_culinaire": "Artisanat Culinaire"
+  },
+  "TOURISM": {
+    "TITLE": "Tourisme Rural & Éco-tourisme",
+    "SUBTITLE": "Explorez les richesses naturelles et culturelles du Maroc",
+    "OTHER_PLACES": "Autres endroits à visiter",
+    "PRACTICAL_INFO": "Informations pratiques",
+    "BEST_SEASON": "Meilleure saison",
+    "OPENING_HOURS": "Horaires",
+    "ENTRY_FEE": "Tarifs",
+    "HOW_TO_GET": "Comment y accéder"
+  },
+  "CAROUSEL": {
+    "PREV": "Précédent",
+    "NEXT": "Suivant"
+  },
+  "ANNUAIRE": {
+    "VERIFIED": "Vérifié",
+    "COOPERATIVE": "Coopérative",
+    "SARL": "SARL",
+    "ASSOCIATION": "Association",
+    "ARTISAN": "Artisan Indépendant",
+    "PRODUCTS_COUNT": "produits",
+    "CONTACT": "Contacter",
+    "WEBSITE": "Site web",
+    "MODAL_TITLE": "Informations détaillées"
+  },
+  "FOOTER": {
+    "TAGLINE": "Valoriser et promouvoir le patrimoine artisanal marocain",
+    "QUICK_LINKS": "Liens rapides",
+    "CONTACT": "Contact",
+    "FOLLOW_US": "Suivez-nous",
+    "RIGHTS": "Tous droits réservés",
+    "LEGAL": "Mentions légales"
+  },
+  "AUTH": {
+    "LOGIN": "Connexion",
+    "LOGOUT": "Déconnexion",
+    "EMAIL": "Email",
+    "PASSWORD": "Mot de passe",
+    "SUBMIT": "Se connecter"
+  },
+  "ERRORS": {
+    "NOT_FOUND": "Page non trouvée",
+    "SERVER_ERROR": "Erreur serveur",
+    "LOADING": "Chargement..."
+  }
+}

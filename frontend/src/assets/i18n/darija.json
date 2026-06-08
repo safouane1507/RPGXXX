@@ -1,0 +1,85 @@
+{
+  "NAV": {
+    "SUBTITLE": "سوق الصناعة التقليدية ديال المغرب",
+    "HOME": "الصفحة الرئيسية",
+    "ABOUT": "علاش حنا",
+    "SERVICES": "الخدمات ديالنا",
+    "BLOG": "البلوڭ",
+    "MARKETPLACE": "الحانوت",
+    "TOURISM": "السياحة",
+    "FAQ": "الأسئلة المتكررة",
+    "TOGGLE_THEME": "بدّل الثيم",
+    "TOGGLE_MENU": "القائمة"
+  },
+  "HERO": {
+    "TITLE": "اكتشف كنوز التراث ديال بلادنا",
+    "SUBTITLE": "صناع وتعاونيات ومنتجين محليين أصيلين من المغرب",
+    "CTA_EXPLORE": "شوف الحانوت",
+    "CTA_ANNUAIRE": "شوف الدليل"
+  },
+  "HOME": {
+    "ARTICLES_TITLE": "المقالات والأخبار",
+    "ARTICLES_SUBTITLE": "شوف آخر ما كتبنا",
+    "MARKETPLACE_TITLE": "السوق ديالنا",
+    "MARKETPLACE_SUBTITLE": "منتوجات حرفية أصيلة مباشرة من الصناع",
+    "SEE_ALL": "شوف كلشي",
+    "ANNUAIRE_TITLE": "دليل الفاعلين المهنيين",
+    "ANNUAIRE_SUBTITLE": "التعاونيات والشركات والحرفيين المغاربة",
+    "FILTER_ALL": "كل المجالات",
+    "VIEW_DETAIL": "شوف البطاقة",
+    "NO_RESULTS": "ما كاينش نتائج لهذا المجال"
+  },
+  "DOMAINS": {
+    "artisanat_service": "الصنعة ديال الخدمات",
+    "produits_mer": "منتوجات البحر",
+    "habillement_mode": "الكسوة والموضة",
+    "tourisme_rural": "السياحة القروية",
+    "artisanat_art": "الصنعة الفنية",
+    "agriculture_bio": "الزراعة البيولوجية",
+    "soin_beaute": "العناية والجمال",
+    "produit_terroir": "منتوجات الأرض",
+    "artisanat_culinaire": "الصنعة الطهوية"
+  },
+  "TOURISM": {
+    "TITLE": "السياحة القروية والإيكولوجية",
+    "SUBTITLE": "اكتشف جمالية وثروات بلادنا",
+    "OTHER_PLACES": "أماكن خرى كاتستاهل الزيارة",
+    "PRACTICAL_INFO": "معلومات مفيدة",
+    "BEST_SEASON": "أحسن وقت",
+    "OPENING_HOURS": "أوقات الفتح",
+    "ENTRY_FEE": "أثمان الدخول",
+    "HOW_TO_GET": "كيفاش تجي"
+  },
+  "CAROUSEL": { "PREV": "السابق", "NEXT": "التالي" },
+  "ANNUAIRE": {
+    "VERIFIED": "موثوق",
+    "COOPERATIVE": "تعاونية",
+    "SARL": "شركة",
+    "ASSOCIATION": "جمعية",
+    "ARTISAN": "حرفي مستقل",
+    "PRODUCTS_COUNT": "منتوجات",
+    "CONTACT": "تواصل",
+    "WEBSITE": "الموقع",
+    "MODAL_TITLE": "التفاصيل الكاملة"
+  },
+  "FOOTER": {
+    "TAGLINE": "نثمّنو ونعرّفو بالتراث الحرفي المغربي",
+    "QUICK_LINKS": "روابط سريعة",
+    "CONTACT": "اتصل بينا",
+    "FOLLOW_US": "تابعونا",
+    "RIGHTS": "جميع الحقوق محفوظة",
+    "LEGAL": "المعطيات القانونية"
+  },
+  "AUTH": {
+    "LOGIN": "دخل",
+    "LOGOUT": "خرج",
+    "EMAIL": "الإيميل",
+    "PASSWORD": "كلمة السر",
+    "SUBMIT": "دخل"
+  },
+  "ERRORS": {
+    "NOT_FOUND": "الصفحة ما كاينتش",
+    "SERVER_ERROR": "خطأ في السيرفر",
+    "LOADING": "كيحمّل..."
+  }
+}

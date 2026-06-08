@@ -1,0 +1,147 @@
+<nav class="navbar"
+     [class.scrolled]="isScrolled()"
+     [class.mobile-open]="isMobileOpen()"
+     [class.rtl]="isRTL()">
+
+  <div class="navbar-container">
+
+    <!-- ── Brand ──────────────────────────────────────────── -->
+    <a routerLink="/" class="brand" (click)="isMobileOpen.set(false)">
+      <img src="assets/logo.png" alt="KENZ BLADI كنز بلادي" class="brand-logo" />
+      <div class="brand-text">
+        <span class="brand-ar">كنز بلادي</span>
+        <span class="brand-fr">KENZ BLADI</span>
+        <span class="brand-subtitle">{{ 'NAV.SUBTITLE' | translate }}</span>
+      </div>
+    </a>
+
+    <!-- ── Desktop Nav Links ──────────────────────────────── -->
+    <ul class="nav-links" role="menubar">
+      @for (link of navLinks; track link.key) {
+        <li role="none">
+          <a
+            [href]="link.route"
+            [class.active]="isActive(link)"
+            [class.external]="link.openNewTab"
+            (click)="handleNavClick(link, $event)"
+            role="menuitem">
+            {{ link.i18nKey | translate }}
+            @if (link.openNewTab) {
+              <svg class="ext-icon" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+                <path d="M2 10L10 2M10 2H5M10 2V7" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+              </svg>
+            }
+          </a>
+        </li>
+      }
+    </ul>
+
+    <!-- ── Controls ──────────────────────────────────────── -->
+    <div class="controls">
+
+      <!-- Language Selector -->
+      <div class="lang-selector" [class.open]="isLangOpen()" role="combobox" [attr.aria-expanded]="isLangOpen()">
+        <button class="lang-btn" (click)="toggleLang($event)" [attr.aria-label]="'NAV.TOGGLE_MENU' | translate">
+          <span class="lang-flag">{{ langInfo().flag }}</span>
+          <span class="lang-code">{{ langInfo().nativeLabel }}</span>
+          <svg class="chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" [class.flipped]="isLangOpen()">
+            <path d="M6 9L12 15L18 9" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </button>
+
+        @if (isLangOpen()) {
+          <ul class="lang-dropdown" role="listbox">
+            @for (lang of languages; track lang.code) {
+              <li
+                role="option"
+                [class.selected]="lang.code === currentLang()"
+                [attr.aria-selected]="lang.code === currentLang()"
+                (click)="selectLang(lang.code)">
+                <span>{{ lang.flag }}</span>
+                <span class="lang-label">{{ lang.label }}</span>
+                @if (lang.code === currentLang()) {
+                  <svg class="check" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M5 13L9 17L19 7" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                  </svg>
+                }
+              </li>
+            }
+          </ul>
+        }
+      </div>
+
+      <!-- Theme Toggle -->
+      <button
+        class="theme-toggle"
+        (click)="toggleTheme()"
+        [attr.aria-label]="'NAV.TOGGLE_THEME' | translate"
+        [attr.aria-pressed]="isDarkMode()">
+
+        @if (isDarkMode()) {
+          <!-- Sun icon (switch to light) -->
+          <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <circle cx="12" cy="12" r="5" stroke="currentColor" stroke-width="2"/>
+            <path d="M12 2V4M12 20V22M4.22 4.22L5.64 5.64M18.36 18.36L19.78 19.78M2 12H4M20 12H22M4.22 19.78L5.64 18.36M18.36 5.64L19.78 4.22"
+              stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+          </svg>
+        } @else {
+          <!-- Moon icon (switch to dark) -->
+          <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M21 12.79A9 9 0 1111.21 3 7 7 0 0021 12.79z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        }
+      </button>
+
+      <!-- Hamburger (mobile) -->
+      <button
+        class="hamburger"
+        [class.active]="isMobileOpen()"
+        (click)="toggleMobile()"
+        [attr.aria-label]="'NAV.TOGGLE_MENU' | translate"
+        [attr.aria-expanded]="isMobileOpen()">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+
+    </div>
+  </div>
+
+  <!-- ── Mobile Menu ────────────────────────────────────── -->
+  <div class="mobile-menu" [class.open]="isMobileOpen()" role="dialog" [attr.aria-hidden]="!isMobileOpen()">
+    <ul role="menu">
+      @for (link of navLinks; track link.key) {
+        <li role="none">
+          <a
+            [href]="link.route"
+            [class.active]="isActive(link)"
+            [class.external]="link.openNewTab"
+            (click)="handleNavClick(link, $event)"
+            role="menuitem">
+            {{ link.i18nKey | translate }}
+            @if (link.openNewTab) {
+              <span class="badge-new-tab">↗</span>
+            }
+          </a>
+        </li>
+      }
+    </ul>
+
+    <!-- Language + Theme in mobile -->
+    <div class="mobile-controls">
+      <div class="mobile-langs">
+        @for (lang of languages; track lang.code) {
+          <button
+            [class.active]="lang.code === currentLang()"
+            (click)="selectLang(lang.code)">
+            {{ lang.flag }} {{ lang.nativeLabel }}
+          </button>
+        }
+      </div>
+      <button class="mobile-theme-btn" (click)="toggleTheme()">
+        @if (isDarkMode()) { ☀️ Mode Clair } @else { 🌙 Mode Sombre }
+      </button>
+    </div>
+  </div>
+
+</nav>

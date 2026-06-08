@@ -1,0 +1,83 @@
+<aside class="sidebar">
+
+  <!-- Brand -->
+  <div class="sidebar-brand">
+    <img src="assets/logo.png" alt="KENZ BLADI" class="sidebar-logo" />
+    <div class="sidebar-brand-text">
+      <span class="brand-ar">كنز بلادي</span>
+      <span class="brand-sub">Administration</span>
+    </div>
+  </div>
+
+  <!-- Menu -->
+  <nav class="sidebar-nav" role="navigation">
+    <ul role="menu">
+
+      @for (item of menuItems; track item.id) {
+
+        <!-- Item avec sous-menu -->
+        @if (item.children) {
+          <li class="menu-group" [class.open]="isGroupOpen(item.id)" role="none">
+            <button
+              class="menu-item group-toggle"
+              (click)="toggleGroup(item.id)"
+              [attr.aria-expanded]="isGroupOpen(item.id)"
+              role="menuitem">
+              <span class="menu-icon" [innerHTML]="item.icon"></span>
+              <span class="menu-label">{{ item.label }}</span>
+              <svg class="chevron" viewBox="0 0 24 24" fill="none" [class.rotated]="isGroupOpen(item.id)">
+                <path d="M9 18l6-6-6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+              </svg>
+            </button>
+
+            <ul class="submenu" [class.open]="isGroupOpen(item.id)" role="menu">
+              @for (child of item.children; track child.route) {
+                <li role="none">
+                  <a
+                    [routerLink]="child.route"
+                    class="submenu-item"
+                    [class.active]="isActive(child.route)"
+                    role="menuitem">
+                    <span class="submenu-dot"></span>
+                    {{ child.label }}
+                  </a>
+                </li>
+              }
+            </ul>
+          </li>
+
+        } @else {
+          <!-- Item simple -->
+          <li role="none">
+            <a
+              [routerLink]="item.route"
+              class="menu-item"
+              [class.active]="isActive(item.route!)"
+              role="menuitem">
+              <span class="menu-icon" [innerHTML]="item.icon"></span>
+              <span class="menu-label">{{ item.label }}</span>
+              @if (item.badge) {
+                <span class="badge">{{ item.badge }}</span>
+              }
+            </a>
+          </li>
+        }
+
+      }
+
+    </ul>
+  </nav>
+
+  <!-- Footer -->
+  <div class="sidebar-footer">
+    <a routerLink="/" target="_blank" class="view-site-btn">
+      <svg viewBox="0 0 24 24" fill="none" width="16" height="16">
+        <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6" stroke="currentColor" stroke-width="2"/>
+        <polyline points="15,3 21,3 21,9" stroke="currentColor" stroke-width="2"/>
+        <line x1="10" y1="14" x2="21" y2="3" stroke="currentColor" stroke-width="2"/>
+      </svg>
+      Voir le site client
+    </a>
+  </div>
+
+</aside>

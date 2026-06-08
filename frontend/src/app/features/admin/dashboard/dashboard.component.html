@@ -1,0 +1,201 @@
+<div class="dashboard">
+
+  <!-- ── Loading ─────────────────────────────────────────── -->
+  @if (isLoading()) {
+    <div class="loading-state">
+      <div class="spinner"></div>
+      <p>Chargement des statistiques…</p>
+    </div>
+  }
+
+  @if (!isLoading() && stats()) {
+
+    <!-- ── Welcome Banner ──────────────────────────────── -->
+    <div class="welcome-banner">
+      <div class="welcome-text">
+        <h2>Bonjour, Administrateur 👋</h2>
+        <p>Voici un aperçu de votre plateforme <strong>KENZ BLADI كنز بلادي</strong></p>
+      </div>
+      <img src="assets/logo.png" alt="KENZ BLADI" class="welcome-logo" />
+    </div>
+
+    <!-- ── Stat Cards ───────────────────────────────────── -->
+    <div class="stat-grid">
+      @for (card of statCards(); track card.label) {
+        <a [routerLink]="card.route" class="stat-card" [style.--card-color]="card.color">
+          <div class="stat-icon">
+            @switch (card.icon) {
+              @case ('annuaire') {
+                <svg viewBox="0 0 24 24" fill="none"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z" stroke="currentColor" stroke-width="2"/></svg>
+              }
+              @case ('products') {
+                <svg viewBox="0 0 24 24" fill="none"><path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z" stroke="currentColor" stroke-width="2"/><polyline points="3.27,6.96 12,12.01 20.73,6.96" stroke="currentColor" stroke-width="2"/></svg>
+              }
+              @case ('users') {
+                <svg viewBox="0 0 24 24" fill="none"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2" stroke="currentColor" stroke-width="2"/><circle cx="9" cy="7" r="4" stroke="currentColor" stroke-width="2"/><path d="M23 21v-2a4 4 0 0 0-3-3.87M16 3.13a4 4 0 0 1 0 7.75" stroke="currentColor" stroke-width="2"/></svg>
+              }
+              @case ('events') {
+                <svg viewBox="0 0 24 24" fill="none"><rect x="3" y="4" width="18" height="18" rx="2" ry="2" stroke="currentColor" stroke-width="2"/><line x1="16" y1="2" x2="16" y2="6" stroke="currentColor" stroke-width="2"/><line x1="8" y1="2" x2="8" y2="6" stroke="currentColor" stroke-width="2"/><line x1="3" y1="10" x2="21" y2="10" stroke="currentColor" stroke-width="2"/></svg>
+              }
+            }
+          </div>
+          <div class="stat-body">
+            <div class="stat-value">{{ card.value }}</div>
+            <div class="stat-label">{{ card.label }}</div>
+            <div class="stat-sub">{{ card.sub }}</div>
+          </div>
+          @if (card.trend) {
+            <div class="stat-trend">
+              <svg viewBox="0 0 24 24" fill="none" width="12" height="12"><polyline points="23,6 13.5,15.5 8.5,10.5 1,18" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+              +{{ card.trend }}%
+            </div>
+          }
+        </a>
+      }
+    </div>
+
+    <!-- ── Annuaire Focus (emphase majeure) ─────────────── -->
+    <section class="annuaire-section">
+      <div class="section-header">
+        <div>
+          <h3 class="section-title">
+            <svg viewBox="0 0 24 24" fill="none" width="20" height="20" style="vertical-align:middle;margin-inline-end:8px">
+              <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20" stroke="#8B4513" stroke-width="2" stroke-linecap="round"/>
+              <path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z" stroke="#8B4513" stroke-width="2"/>
+            </svg>
+            Annuaire des Acteurs Professionnels
+          </h3>
+          <p class="section-sub">Répartition par domaine de la Taxonomie</p>
+        </div>
+        <div class="annuaire-kpis">
+          <div class="kpi">
+            <span class="kpi-value">{{ stats()!.annuaire.total }}</span>
+            <span class="kpi-label">Total fiches</span>
+          </div>
+          <div class="kpi kpi-active">
+            <span class="kpi-value">{{ stats()!.annuaire.active }}</span>
+            <span class="kpi-label">Actives</span>
+          </div>
+          <div class="kpi kpi-pending">
+            <span class="kpi-value">{{ stats()!.annuaire.pending }}</span>
+            <span class="kpi-label">En attente</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Tab selector -->
+      <div class="chart-tabs">
+        <button [class.active]="activeTab() === 'annuaire'" (click)="activeTab.set('annuaire')">
+          Annuaire ({{ stats()!.annuaire.total }})
+        </button>
+        <button [class.active]="activeTab() === 'products'" (click)="activeTab.set('products')">
+          Produits ({{ stats()!.products.total }})
+        </button>
+      </div>
+
+      <!-- Horizontal bar chart -->
+      <div class="domain-chart">
+        @for (row of (activeTab() === 'annuaire' ? stats()!.byDomain.annuaire : stats()!.byDomain.products); track row._id; let i = $index) {
+          <div class="domain-row">
+            <div class="domain-name">
+              <span class="domain-dot" [style.background]="getDomainColor(row._id)"></span>
+              {{ getDomainLabel(row._id) }}
+            </div>
+            <div class="bar-track">
+              <div
+                class="bar-fill"
+                [style.width]="getBarWidth(row.count, activeTab() === 'annuaire' ? stats()!.byDomain.annuaire : stats()!.byDomain.products)"
+                [style.background]="getDomainColor(row._id)"
+                [style.animation-delay]="(i * 80) + 'ms'">
+              </div>
+            </div>
+            <div class="domain-count">
+              <strong>{{ row.count }}</strong>
+              @if (activeTab() === 'annuaire') {
+                <span class="active-count">({{ row.active }} actives)</span>
+              }
+            </div>
+          </div>
+        }
+      </div>
+    </section>
+
+    <!-- ── Bottom Row ────────────────────────────────────── -->
+    <div class="bottom-grid">
+
+      <!-- Nouveaux Acteurs Pro -->
+      <section class="card recent-card">
+        <div class="card-header">
+          <h4>Nouveaux Acteurs Pro</h4>
+          <a routerLink="/admin/users" class="see-all">Voir tous →</a>
+        </div>
+        <ul class="recent-list">
+          @for (pro of stats()!.recentPros; track pro._id) {
+            <li class="recent-item">
+              <div class="recent-avatar" [style.background]="getDomainColor(pro.proProfile.domain)">
+                {{ (pro.proProfile.companyName || pro.email).charAt(0).toUpperCase() }}
+              </div>
+              <div class="recent-info">
+                <span class="recent-name">{{ pro.proProfile.companyName || pro.email }}</span>
+                <span class="recent-domain">{{ getDomainLabel(pro.proProfile.domain) }}</span>
+              </div>
+              <span class="status-badge" [class.active]="pro.isActive" [class.inactive]="!pro.isActive">
+                {{ pro.isActive ? 'Actif' : 'Inactif' }}
+              </span>
+            </li>
+          }
+        </ul>
+      </section>
+
+      <!-- Actions rapides -->
+      <section class="card quick-actions-card">
+        <div class="card-header">
+          <h4>Actions rapides</h4>
+        </div>
+        <div class="quick-actions">
+          <a routerLink="/admin/annuaire" class="action-btn action-primary">
+            <svg viewBox="0 0 24 24" fill="none" width="18" height="18"><line x1="12" y1="5" x2="12" y2="19" stroke="currentColor" stroke-width="2" stroke-linecap="round"/><line x1="5" y1="12" x2="19" y2="12" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+            Valider une fiche Annuaire
+          </a>
+          <a routerLink="/admin/users" class="action-btn">
+            <svg viewBox="0 0 24 24" fill="none" width="18" height="18"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2" stroke="currentColor" stroke-width="2"/><circle cx="9" cy="7" r="4" stroke="currentColor" stroke-width="2"/><line x1="19" y1="8" x2="19" y2="14" stroke="currentColor" stroke-width="2" stroke-linecap="round"/><line x1="22" y1="11" x2="16" y2="11" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+            Créer un compte Pro
+          </a>
+          <a routerLink="/admin/products" class="action-btn">
+            <svg viewBox="0 0 24 24" fill="none" width="18" height="18"><polyline points="22,12 18,12 15,21 9,3 6,12 2,12" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+            Publier un produit
+          </a>
+          <a routerLink="/admin/events" class="action-btn">
+            <svg viewBox="0 0 24 24" fill="none" width="18" height="18"><rect x="3" y="4" width="18" height="18" rx="2" ry="2" stroke="currentColor" stroke-width="2"/><line x1="16" y1="2" x2="16" y2="6" stroke="currentColor" stroke-width="2"/><line x1="8" y1="2" x2="8" y2="6" stroke="currentColor" stroke-width="2"/><line x1="3" y1="10" x2="21" y2="10" stroke="currentColor" stroke-width="2"/></svg>
+            Créer un événement
+          </a>
+          <a routerLink="/admin/cms" class="action-btn">
+            <svg viewBox="0 0 24 24" fill="none" width="18" height="18"><path d="M12 20h9" stroke="currentColor" stroke-width="2" stroke-linecap="round"/><path d="M16.5 3.5a2.121 2.121 0 0 1 3 3L7 19l-4 1 1-4L16.5 3.5z" stroke="currentColor" stroke-width="2"/></svg>
+            Rédiger un article
+          </a>
+          <a routerLink="/admin/complaints" class="action-btn">
+            <svg viewBox="0 0 24 24" fill="none" width="18" height="18"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z" stroke="currentColor" stroke-width="2"/></svg>
+            Voir les réclamations
+          </a>
+        </div>
+
+        <!-- Pending highlight -->
+        @if (stats()!.annuaire.pending > 0) {
+          <div class="pending-alert">
+            <svg viewBox="0 0 24 24" fill="none" width="16" height="16">
+              <circle cx="12" cy="12" r="10" stroke="currentColor" stroke-width="2"/>
+              <line x1="12" y1="8" x2="12" y2="12" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+              <line x1="12" y1="16" x2="12.01" y2="16" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+            </svg>
+            <span>
+              <strong>{{ stats()!.annuaire.pending }}</strong> fiches en attente de validation
+            </span>
+            <a routerLink="/admin/annuaire">Traiter →</a>
+          </div>
+        }
+      </section>
+
+    </div>
+
+  }
+</div>
