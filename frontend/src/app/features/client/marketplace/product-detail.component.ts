@@ -2,6 +2,7 @@ import { Component, OnInit, inject, signal } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { RouterModule, ActivatedRoute } from '@angular/router';
 import { TranslateModule } from '@ngx-translate/core';
+import { Title, Meta } from '@angular/platform-browser';
 import { ApiService } from '../../../core/services/api.service';
 import { LanguageService } from '../../../core/services/language.service';
 
@@ -295,6 +296,8 @@ export class ProductDetailComponent implements OnInit {
   private api   = inject(ApiService);
   private route = inject(ActivatedRoute);
   private lang  = inject(LanguageService);
+  private title = inject(Title);
+  private meta  = inject(Meta);
 
   product  = signal<any>(null);
   similar  = signal<any[]>([]);
@@ -309,6 +312,17 @@ export class ProductDetailComponent implements OnInit {
         next: r => {
           const p = r.data;
           this.product.set(p);
+
+          // SEO — dynamic title & meta tags
+          const nameFr  = this.t(p.name);
+          const descFr  = this.t(p.shortDescription) || this.t(p.description) || '';
+          this.title.setTitle(`${nameFr} - KENZ BLADI`);
+          this.meta.updateTag({ name: 'description', content: descFr.replace(/<[^>]*>/g, '').slice(0, 160) });
+          this.meta.updateTag({ property: 'og:title',       content: `${nameFr} - KENZ BLADI` });
+          this.meta.updateTag({ property: 'og:description', content: descFr.replace(/<[^>]*>/g, '').slice(0, 200) });
+          this.meta.updateTag({ property: 'og:image',       content: p.coverImage || '' });
+          this.meta.updateTag({ property: 'og:type',        content: 'product' });
+          this.meta.updateTag({ name: 'twitter:card',       content: 'summary_large_image' });
 
           // Build image list: coverImage first, then additional images
           const imgs: string[] = [];

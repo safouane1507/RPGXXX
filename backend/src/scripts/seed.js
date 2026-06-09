@@ -4,9 +4,15 @@
  */
 require('dotenv').config({ path: require('path').resolve(__dirname, '../../.env') });
 
+if (!process.env.JWT_SECRET)   { console.error('❌ JWT_SECRET manquant dans .env'); process.exit(1); }
+if (!process.env.MONGODB_URI)  { console.error('❌ MONGODB_URI manquant dans .env'); process.exit(1); }
+
 const mongoose = require('mongoose');
 const User     = require('../models/User.model');
 const { DOMAIN_IDS, STRUCTURE_TYPES, USER_ROLES } = require('../config/constants');
+
+// npm run seed -- --force  →  supprime et recrée tous les comptes de démo
+const FORCE = process.argv.includes('--force');
 
 // ─────────────────────────────────────────────────────────────
 // Connexion MongoDB
@@ -25,8 +31,9 @@ async function seedAdmin() {
 
   const existing = await User.findOne({ email });
   if (existing) {
-    console.log(`ℹ️  Admin déjà présent : ${email}`);
-    return existing;
+    if (!FORCE) { console.log(`ℹ️  Admin déjà présent : ${email}`); return existing; }
+    await User.deleteOne({ email });
+    console.log(`🔄 Admin supprimé pour re-seeder (--force)…`);
   }
 
   const admin = await new User({
@@ -81,6 +88,7 @@ async function seedProUsers(adminId) {
     }
   ];
 
+  if (FORCE) await User.deleteMany({ role: USER_ROLES.PRO });
   let created = 0;
   for (const actor of demoActors) {
     if (await User.findOne({ email: actor.email })) continue;
@@ -116,9 +124,10 @@ async function seedProUsers(adminId) {
 // ─────────────────────────────────────────────────────────────
 async function seedClientUser() {
   const email = 'client@kenzbladi.ma';
-  if (await User.findOne({ email })) {
-    console.log('ℹ️  Client de démo déjà présent');
-    return;
+  const existing = await User.findOne({ email });
+  if (existing) {
+    if (!FORCE) { console.log('ℹ️  Client de démo déjà présent'); return; }
+    await User.deleteOne({ email });
   }
 
   await new User({

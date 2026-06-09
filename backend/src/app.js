@@ -1,4 +1,15 @@
 require('dotenv').config();
+
+// ── Validation variables d'environnement critiques ────────
+if (!process.env.JWT_SECRET) {
+  console.error('❌ FATAL: JWT_SECRET n\'est pas défini dans .env — arrêt du serveur');
+  process.exit(1);
+}
+if (!process.env.MONGODB_URI) {
+  console.error('❌ FATAL: MONGODB_URI n\'est pas défini dans .env — arrêt du serveur');
+  process.exit(1);
+}
+
 const express = require('express');
 const cors = require('cors');
 const helmet = require('helmet');
@@ -52,6 +63,8 @@ app.use('/api/tourism',   require('./routes/tourism.routes'));
 app.use('/api/events',    require('./routes/event.routes'));
 app.use('/api/blog',      require('./routes/blog.routes'));
 app.use('/api/admin',     require('./routes/admin.routes'));
+app.use('/api/reviews',   require('./routes/review.routes'));
+app.use('/api/search',    require('./routes/search.routes'));
 
 // ── Health Check ──────────────────────────────────────────
 app.get('/api/health', (req, res) => {

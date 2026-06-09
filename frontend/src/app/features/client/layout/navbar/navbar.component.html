@@ -36,8 +36,144 @@
       }
     </ul>
 
+    <!-- ── Global Search ────────────────────────────────── -->
+    <div class="search-wrapper" [class.open]="isSearchOpen()">
+      @if (!isSearchOpen()) {
+        <button class="search-icon-btn" (click)="openSearch()" title="Rechercher" aria-label="Ouvrir la recherche">
+          <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <circle cx="11" cy="11" r="8" stroke="currentColor" stroke-width="2"/>
+            <path d="M21 21L16.65 16.65" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+          </svg>
+        </button>
+      } @else {
+        <div class="search-box">
+          <svg class="search-ico" viewBox="0 0 24 24" fill="none">
+            <circle cx="11" cy="11" r="8" stroke="currentColor" stroke-width="2"/>
+            <path d="M21 21L16.65 16.65" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+          </svg>
+          <input
+            [(ngModel)]="searchQuery"
+            (ngModelChange)="onSearchInput()"
+            (keyup.enter)="goSearch()"
+            placeholder="Rechercher produits, artisans, lieux…"
+            class="search-input"
+            autofocus
+          />
+          @if (searchLoading()) {
+            <span class="search-spinner"></span>
+          }
+          <button class="search-close" (click)="closeSearch()" aria-label="Fermer">✕</button>
+        </div>
+
+        <!-- Autocomplete dropdown -->
+        @if (searchResults() && searchQuery.length >= 2) {
+          <div class="search-dropdown">
+
+            @if (searchResults().products?.length > 0) {
+              <div class="sd-section">
+                <span class="sd-label">🛍️ Produits</span>
+                @for (p of searchResults().products; track p._id) {
+                  <a [routerLink]="['/marketplace', p.slug]" class="sd-item" (click)="closeSearch()">
+                    @if (p.coverImage) { <img [src]="p.coverImage" [alt]="t(p.name)" /> }
+                    @else { <div class="sd-img-ph">🛍️</div> }
+                    <div class="sd-info">
+                      <span class="sd-name">{{ t(p.name) }}</span>
+                      <span class="sd-meta">{{ p.price | number:'1.0-0' }} MAD</span>
+                    </div>
+                  </a>
+                }
+              </div>
+            }
+
+            @if (searchResults().annuaire?.length > 0) {
+              <div class="sd-section">
+                <span class="sd-label">🏺 Annuaire</span>
+                @for (a of searchResults().annuaire; track a._id) {
+                  <a [routerLink]="['/annuaire', a.slug]" class="sd-item" (click)="closeSearch()">
+                    @if (a.logo) { <img [src]="a.logo" [alt]="a.structureName" /> }
+                    @else { <div class="sd-img-ph">🏺</div> }
+                    <div class="sd-info">
+                      <span class="sd-name">{{ a.structureName }}</span>
+                      <span class="sd-meta">{{ a.contact?.city || '' }}</span>
+                    </div>
+                  </a>
+                }
+              </div>
+            }
+
+            @if (searchResults().tourism?.length > 0) {
+              <div class="sd-section">
+                <span class="sd-label">🌍 Tourisme</span>
+                @for (p of searchResults().tourism; track p._id) {
+                  <a [routerLink]="['/tourism', p.slug]" class="sd-item" (click)="closeSearch()">
+                    @if (p.coverImage) { <img [src]="p.coverImage" [alt]="t(p.name)" /> }
+                    @else { <div class="sd-img-ph">🌍</div> }
+                    <div class="sd-info">
+                      <span class="sd-name">{{ t(p.name) }}</span>
+                      <span class="sd-meta">{{ p.locationType }}</span>
+                    </div>
+                  </a>
+                }
+              </div>
+            }
+
+            @if (searchResults().blogs?.length > 0) {
+              <div class="sd-section">
+                <span class="sd-label">📰 Articles</span>
+                @for (b of searchResults().blogs; track b._id) {
+                  <a [routerLink]="['/blog', b.slug]" class="sd-item" (click)="closeSearch()">
+                    @if (b.coverImage) { <img [src]="b.coverImage" [alt]="t(b.title)" /> }
+                    @else { <div class="sd-img-ph">📰</div> }
+                    <div class="sd-info">
+                      <span class="sd-name">{{ t(b.title) }}</span>
+                      <span class="sd-meta">{{ b.category }}</span>
+                    </div>
+                  </a>
+                }
+              </div>
+            }
+
+            @if (searchResults().products?.length === 0 && searchResults().annuaire?.length === 0
+              && searchResults().tourism?.length === 0 && searchResults().blogs?.length === 0) {
+              <div class="sd-empty">Aucun résultat pour « {{ searchQuery }} »</div>
+            }
+
+            <a [routerLink]="['/search']" [queryParams]="{ q: searchQuery }"
+              class="sd-all" (click)="closeSearch()">
+              Voir tous les résultats →
+            </a>
+          </div>
+        }
+      }
+    </div>
+
     <!-- ── Controls ──────────────────────────────────────── -->
     <div class="controls">
+
+      <!-- Auth links -->
+      @if (auth.isLoggedIn()) {
+        <div class="auth-user" [class.open]="isUserMenuOpen()" (click)="toggleUserMenu($event)">
+          <div class="auth-avatar">{{ userInitials() }}</div>
+          <span class="auth-name">{{ (auth.currentUser()?.fullName || 'Profil').split(' ')[0] }}</span>
+          <svg class="chevron" viewBox="0 0 24 24" fill="none" [class.flipped]="isUserMenuOpen()">
+            <path d="M6 9L12 15L18 9" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+          @if (isUserMenuOpen()) {
+            <ul class="user-dropdown">
+              <li><a routerLink="/profile" (click)="isUserMenuOpen.set(false)">👤 Mon profil</a></li>
+              @if (auth.isAdmin()) { <li><a routerLink="/admin" (click)="isUserMenuOpen.set(false)">🔧 Administration</a></li> }
+              @if (auth.isPro())   { <li><a routerLink="/pro"   (click)="isUserMenuOpen.set(false)">📊 Espace Pro</a></li>   }
+              <li class="divider"></li>
+              <li><button (click)="auth.logout()" class="logout-btn">🚪 Déconnexion</button></li>
+            </ul>
+          }
+        </div>
+      } @else {
+        <div class="auth-links">
+          <a routerLink="/auth/login"    class="btn-login">Connexion</a>
+          <a routerLink="/auth/register" class="btn-register">S'inscrire</a>
+        </div>
+      }
 
       <!-- Language Selector -->
       <div class="lang-selector" [class.open]="isLangOpen()" role="combobox" [attr.aria-expanded]="isLangOpen()">

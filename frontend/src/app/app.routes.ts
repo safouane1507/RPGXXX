@@ -65,6 +65,17 @@ export const routes: Routes = [
         path: 'faq',
         loadComponent: () => import('./features/client/faq/faq.component').then(m => m.FaqComponent),
         title: 'FAQ - KENZ BLADI'
+      },
+      {
+        path: 'search',
+        loadComponent: () => import('./features/client/search/search-results.component').then(m => m.SearchResultsComponent),
+        title: 'Recherche - KENZ BLADI'
+      },
+      {
+        path: 'profile',
+        canActivate: [authGuard],
+        loadComponent: () => import('./features/client/profile/client-profile.component').then(m => m.ClientProfileComponent),
+        title: 'Mon Profil - KENZ BLADI'
       }
     ]
   },
@@ -169,6 +180,11 @@ export const routes: Routes = [
         path: 'login',
         loadComponent: () => import('./features/auth/login/login.component').then(m => m.LoginComponent),
         title: 'Connexion - KENZ BLADI'
+      },
+      {
+        path: 'register',
+        loadComponent: () => import('./features/auth/register/register.component').then(m => m.RegisterComponent),
+        title: 'Créer un compte - KENZ BLADI'
       }
     ]
   },
