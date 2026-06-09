@@ -1,4 +1,7 @@
 import { Routes } from '@angular/router';
+import { authGuard }  from './core/guards/auth.guard';
+import { adminGuard } from './core/guards/admin.guard';
+import { proGuard }   from './core/guards/pro.guard';
 
 export const routes: Routes = [
   // ── Espace Client (Front-Office Public) ──────────────────
@@ -65,6 +68,7 @@ export const routes: Routes = [
   // ── Espace Admin (Port 4200 /admin) ───────────────────────
   {
     path: 'admin',
+    canActivate: [authGuard, adminGuard],
     loadComponent: () => import('./features/admin/layout/admin-layout.component')
       .then(m => m.AdminLayoutComponent),
     children: [
@@ -125,6 +129,7 @@ export const routes: Routes = [
   // ── Espace Acteur Pro ─────────────────────────────────────
   {
     path: 'pro',
+    canActivate: [authGuard, proGuard],
     loadComponent: () => import('./features/pro/layout/pro-layout.component').then(m => m.ProLayoutComponent),
     children: [
       { path: '', redirectTo: 'dashboard', pathMatch: 'full' },

@@ -4,13 +4,7 @@
   <div class="page-header">
     <h2>Liste Des Produits</h2>
     <div class="header-actions">
-      <a routerLink="/admin/products/new" class="btn-add">
-        <svg viewBox="0 0 24 24" fill="none" width="16" height="16">
-          <line x1="12" y1="5" x2="12" y2="19" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
-          <line x1="5" y1="12" x2="19" y2="12" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
-        </svg>
-        Ajouter
-      </a>
+      @if (successMsg()) { <span class="success-toast">✓ {{ successMsg() }}</span> }
     </div>
   </div>
 
@@ -20,11 +14,10 @@
     <div class="bulk-actions" [class.visible]="selectedCount > 0">
       @if (selectedCount > 0) {
         <span class="selected-count">{{ selectedCount }} sélectionné(s)</span>
-        <button class="btn-sm btn-danger">Supprimer</button>
-        <button class="btn-sm">Archiver</button>
-        <button class="btn-sm btn-success">Publier</button>
+        <button class="btn-sm btn-danger"  (click)="bulkDelete()">Supprimer</button>
+        <button class="btn-sm"             (click)="bulkAction('archive')">Archiver</button>
+        <button class="btn-sm btn-success" (click)="bulkAction('publish')">Publier</button>
       } @else {
-        <!-- Delete / Archive placeholders -->
         <button class="btn-sm btn-ghost" disabled>
           <svg viewBox="0 0 24 24" fill="none" width="14" height="14"><polyline points="3,6 5,6 21,6" stroke="currentColor" stroke-width="2"/><path d="M19,6l-1,14H6L5,6M10,11v6M14,11v6M9,6V4h6v2" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
         </button>
@@ -40,32 +33,20 @@
         <svg viewBox="0 0 24 24" fill="none" width="12" height="12"><line x1="18" y1="6" x2="6" y2="18" stroke="currentColor" stroke-width="2"/><line x1="6" y1="6" x2="18" y2="18" stroke="currentColor" stroke-width="2"/></svg>
         Effacer
       </button>
-
-      <input
-        class="search-input"
-        type="text"
-        placeholder="🔍 Rechercher..."
-        [value]="searchTerm()"
-        (input)="searchTerm.set($any($event.target).value)"
-        (keyup.enter)="applyFilters()" />
-
+      <input class="search-input" type="text" placeholder="🔍 Rechercher..."
+             [(ngModel)]="searchTerm" (keyup.enter)="applyFilters()" />
       <select class="filter-select" [(ngModel)]="filterDomain" (change)="applyFilters()">
         <option value="">Catégorie</option>
         @for (entry of domainLabels | keyvalue; track entry.key) {
           <option [value]="entry.key">{{ entry.value }}</option>
         }
       </select>
-
       <select class="filter-select" [(ngModel)]="filterStatus" (change)="applyFilters()">
         <option value="">Statut</option>
         @for (entry of statusLabels | keyvalue; track entry.key) {
           <option [value]="entry.key">{{ entry.value }}</option>
         }
       </select>
-
-      @if (selectedCount > 0) {
-        <span class="selection-badge">{{ selectedCount }} Colonnes Sélectionnées</span>
-      }
     </div>
 
     <!-- View Toggle -->
@@ -88,25 +69,14 @@
         <table class="products-table">
           <thead>
             <tr>
-              <th class="col-check">
-                <input type="checkbox" [checked]="allSelected" (change)="toggleAll()" />
-              </th>
-              <th>
-                Catégorie
-                <svg viewBox="0 0 24 24" fill="none" width="12" height="12"><path d="M7 16V4m0 0L3 8m4-4l4 4M17 8v12m0 0l4-4m-4 4l-4-4" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
-              </th>
-              <th>
-                Produits
-                <svg viewBox="0 0 24 24" fill="none" width="12" height="12"><path d="M7 16V4m0 0L3 8m4-4l4 4M17 8v12m0 0l4-4m-4 4l-4-4" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
-              </th>
-              <th>Tarif UNI Par Defaut</th>
+              <th class="col-check"><input type="checkbox" [checked]="allSelected" (change)="toggleAll()" /></th>
+              <th>Catégorie</th>
+              <th>Produit</th>
+              <th>Prix (MAD)</th>
               <th>Fournisseur</th>
-              <th>Quantité Restante</th>
-              <th>
-                État De Publication
-                <svg viewBox="0 0 24 24" fill="none" width="12" height="12"><path d="M7 16V4m0 0L3 8m4-4l4 4M17 8v12m0 0l4-4m-4 4l-4-4" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
-              </th>
-              <th>Active</th>
+              <th>Stock</th>
+              <th>Statut</th>
+              <th>Actions</th>
             </tr>
           </thead>
           <tbody>
@@ -115,19 +85,23 @@
                 <td class="col-check">
                   <input type="checkbox" [checked]="isSelected(product._id)" (change)="toggleSelect(product._id)" />
                 </td>
-                <td>
-                  <span class="domain-tag">{{ domainLabels[product.domain] || product.domain }}</span>
-                </td>
+                <td><span class="domain-tag">{{ domainLabels[product.domain] || product.domain }}</span></td>
                 <td class="col-name">
                   @if (product.coverImage) {
                     <img [src]="product.coverImage" alt="" class="product-thumb" />
                   } @else {
                     <div class="product-thumb-empty"></div>
                   }
-                  <span>{{ getName(product) }}</span>
+                  <div>
+                    <div>{{ getName(product) }}</div>
+                    @if (product.isFeatured) { <span class="feat-tag">⭐ Mis en avant</span> }
+                    @if (product.rejectionReason) {
+                      <div class="rejection-note">✗ {{ product.rejectionReason }}</div>
+                    }
+                  </div>
                 </td>
-                <td>{{ product.price || 0 }}</td>
-                <td>{{ product.proActor.proProfile.companyName || '—' }}</td>
+                <td>{{ product.price | number:'1.0-0' }}</td>
+                <td>{{ product.proActor?.proProfile?.companyName || '—' }}</td>
                 <td>{{ product.stock }}</td>
                 <td>
                   <span class="status-pill" [class]="'status-' + product.status">
@@ -136,18 +110,33 @@
                 </td>
                 <td>
                   <div class="actions-cell">
-                    <label class="toggle-switch">
-                      <input type="checkbox" [checked]="product.isActive" (change)="product.isActive = !product.isActive" />
-                      <span class="toggle-track"></span>
-                    </label>
-                    <button class="icon-action edit" title="Modifier">
-                      <svg viewBox="0 0 24 24" fill="none" width="14" height="14"><path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7" stroke="currentColor" stroke-width="2"/><path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z" stroke="currentColor" stroke-width="2"/></svg>
+                    <!-- Publish -->
+                    @if (product.status === 'en_cours_publication' || product.status === 'draft') {
+                      <button class="icon-action publish" title="Valider & Publier" (click)="publish(product._id)">
+                        <svg viewBox="0 0 24 24" fill="none" width="13" height="13"><polyline points="20 6 9 17 4 12" stroke="currentColor" stroke-width="2.5"/></svg>
+                      </button>
+                    }
+                    <!-- Reject -->
+                    @if (product.status !== 'rejected' && product.status !== 'archived') {
+                      <button class="icon-action reject" title="Rejeter" (click)="openReject(product._id)">
+                        <svg viewBox="0 0 24 24" fill="none" width="13" height="13"><line x1="18" y1="6" x2="6" y2="18" stroke="currentColor" stroke-width="2"/><line x1="6" y1="6" x2="18" y2="18" stroke="currentColor" stroke-width="2"/></svg>
+                      </button>
+                    }
+                    <!-- Feature toggle -->
+                    <button class="icon-action feature" [class.featured]="product.isFeatured"
+                            title="{{ product.isFeatured ? 'Retirer mise en avant' : 'Mettre en avant' }}"
+                            (click)="toggleFeature(product)">
+                      <svg viewBox="0 0 24 24" fill="none" width="13" height="13"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2" stroke="currentColor" stroke-width="2" [attr.fill]="product.isFeatured ? 'currentColor' : 'none'"/></svg>
                     </button>
-                    <button class="icon-action view" title="Voir">
-                      <svg viewBox="0 0 24 24" fill="none" width="14" height="14"><path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z" stroke="currentColor" stroke-width="2"/><circle cx="12" cy="12" r="3" stroke="currentColor" stroke-width="2"/></svg>
-                    </button>
-                    <button class="icon-action delete" title="Supprimer">
-                      <svg viewBox="0 0 24 24" fill="none" width="14" height="14"><polyline points="3,6 5,6 21,6" stroke="currentColor" stroke-width="2"/><path d="M19 6l-1 14H6L5 6M10 11v6M14 11v6M9 6V4h6v2" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+                    <!-- Archive -->
+                    @if (product.status !== 'archived') {
+                      <button class="icon-action archive" title="Archiver" (click)="archive(product._id)">
+                        <svg viewBox="0 0 24 24" fill="none" width="13" height="13"><path d="M5 8h14M5 8a2 2 0 1 1-4 0 2 2 0 0 1 4 0zM19 8a2 2 0 1 1-4 0 2 2 0 0 1 4 0z" stroke="currentColor" stroke-width="1.8"/><path d="M4 8l1 12a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2l1-12" stroke="currentColor" stroke-width="1.8"/></svg>
+                      </button>
+                    }
+                    <!-- Delete -->
+                    <button class="icon-action delete" title="Supprimer" (click)="deleteProduct(product._id)">
+                      <svg viewBox="0 0 24 24" fill="none" width="13" height="13"><polyline points="3,6 5,6 21,6" stroke="currentColor" stroke-width="2"/><path d="M19 6l-1 14H6L5 6M10 11v6M14 11v6M9 6V4h6v2" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
                     </button>
                   </div>
                 </td>
@@ -173,19 +162,23 @@
               </div>
             }
             <input type="checkbox" class="grid-check" [checked]="isSelected(product._id)" (change)="toggleSelect(product._id)" />
+            @if (product.isFeatured) { <span class="grid-feat">⭐</span> }
           </div>
           <div class="grid-body">
             <span class="domain-tag sm">{{ domainLabels[product.domain] || product.domain }}</span>
             <h4>{{ getName(product) }}</h4>
             <div class="grid-footer">
-              <span class="status-pill sm" [class]="'status-' + product.status">
-                {{ statusLabels[product.status] || product.status }}
-              </span>
+              <span class="status-pill sm" [class]="'status-' + product.status">{{ statusLabels[product.status] || product.status }}</span>
               <div class="grid-actions">
-                <button class="icon-action edit">
-                  <svg viewBox="0 0 24 24" fill="none" width="13" height="13"><path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7" stroke="currentColor" stroke-width="2"/><path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z" stroke="currentColor" stroke-width="2"/></svg>
-                </button>
-                <button class="icon-action delete">
+                @if (product.status === 'en_cours_publication') {
+                  <button class="icon-action publish" (click)="publish(product._id)" title="Publier">
+                    <svg viewBox="0 0 24 24" fill="none" width="13" height="13"><polyline points="20 6 9 17 4 12" stroke="currentColor" stroke-width="2.5"/></svg>
+                  </button>
+                  <button class="icon-action reject" (click)="openReject(product._id)" title="Rejeter">
+                    <svg viewBox="0 0 24 24" fill="none" width="13" height="13"><line x1="18" y1="6" x2="6" y2="18" stroke="currentColor" stroke-width="2"/><line x1="6" y1="6" x2="18" y2="18" stroke="currentColor" stroke-width="2"/></svg>
+                  </button>
+                }
+                <button class="icon-action delete" (click)="deleteProduct(product._id)" title="Supprimer">
                   <svg viewBox="0 0 24 24" fill="none" width="13" height="13"><polyline points="3,6 5,6 21,6" stroke="currentColor" stroke-width="2"/><path d="M19 6l-1 14H6L5 6" stroke="currentColor" stroke-width="2"/></svg>
                 </button>
               </div>
@@ -201,14 +194,24 @@
     <div class="pagination">
       <button [disabled]="page() === 1"     (click)="goToPage(page() - 1)">‹ Précédent</button>
       @for (_ of [].constructor(pages); track $index) {
-        <button
-          [class.current]="$index + 1 === page()"
-          (click)="goToPage($index + 1)">
-          {{ $index + 1 }}
-        </button>
+        <button [class.current]="$index + 1 === page()" (click)="goToPage($index + 1)">{{ $index + 1 }}</button>
       }
       <button [disabled]="page() === pages" (click)="goToPage(page() + 1)">Suivant ›</button>
     </div>
   }
 
 </div>
+
+<!-- ── Reject Modal ──────────────────────────────────────── -->
+@if (rejectModalId()) {
+  <div class="overlay" (click)="closeReject()"></div>
+  <div class="reject-modal">
+    <h4>Raison du rejet</h4>
+    <p>Cette raison sera visible par l'acteur Pro.</p>
+    <textarea [(ngModel)]="rejectReason" placeholder="Ex: Photos manquantes, description insuffisante…" rows="4"></textarea>
+    <div class="reject-footer">
+      <button class="btn-ghost" (click)="closeReject()">Annuler</button>
+      <button class="btn-reject" (click)="confirmReject()">Confirmer le rejet</button>
+    </div>
+  </div>
+}

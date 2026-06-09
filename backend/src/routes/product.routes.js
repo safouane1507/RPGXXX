@@ -63,6 +63,26 @@ router.get('/:slug', async (req, res) => {
   }
 });
 
+// Protégé: le Pro voit tous ses propres produits
+router.get('/my', authenticate, isPro, async (req, res) => {
+  try {
+    const { page = 1, limit = 20, status } = req.query;
+    const filter = { proActor: req.user._id };
+    if (status) filter.status = status;
+
+    const [total, data] = await Promise.all([
+      Product.countDocuments(filter),
+      Product.find(filter)
+        .select('name domain price stock status isFeatured isActive coverImage createdAt rejectionReason')
+        .sort('-createdAt')
+        .limit(Number(limit))
+        .skip((Number(page) - 1) * Number(limit))
+    ]);
+
+    res.json({ data, pagination: { total, page: Number(page), pages: Math.ceil(total / Number(limit)) } });
+  } catch (e) { res.status(500).json({ error: 'Erreur' }); }
+});
+
 // Protégé: le Pro crée un produit
 router.post('/', authenticate, isPro, async (req, res) => {
   try {

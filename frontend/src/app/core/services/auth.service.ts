@@ -39,6 +39,17 @@ export class AuthService {
       );
   }
 
+  register(data: { email: string; password: string; firstName: string; lastName: string; phone?: string }) {
+    return this.api.post<{ token: string; user: AuthUser; message: string }>('/auth/register', data)
+      .pipe(
+        tap(res => {
+          localStorage.setItem(this.TOKEN_KEY, res.token);
+          this.currentUser.set(res.user);
+          this.isLoggedIn.set(true);
+        })
+      );
+  }
+
   logout(): void {
     localStorage.removeItem(this.TOKEN_KEY);
     this.currentUser.set(null);

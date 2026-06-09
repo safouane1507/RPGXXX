@@ -130,4 +130,115 @@ router.patch('/users/:id/toggle', async (req, res) => {
   }
 });
 
+// ── Gestion Annuaire (Admin vue complète) ─────────────────
+router.get('/annuaire', async (req, res) => {
+  try {
+    const { page = 1, limit = 20, domain, isActive, search } = req.query;
+    const filter = {};
+    if (domain)                        filter.domain = domain;
+    if (isActive !== undefined && isActive !== '') filter.isActive = isActive === 'true';
+    if (search)                        filter.$text = { $search: search };
+
+    const [total, data] = await Promise.all([
+      Annuaire.countDocuments(filter),
+      Annuaire.find(filter)
+        .select('structureName domain structureType isActive isVerified isFeatured contact createdAt')
+        .sort('-createdAt')
+        .limit(Number(limit))
+        .skip((Number(page) - 1) * Number(limit))
+    ]);
+
+    res.json({ data, pagination: { total, page: Number(page), pages: Math.ceil(total / Number(limit)) } });
+  } catch (e) { res.status(500).json({ error: 'Erreur' }); }
+});
+
+router.get('/annuaire/:id', async (req, res) => {
+  try {
+    const annuaire = await Annuaire.findById(req.params.id)
+      .populate('proActor', 'email firstName lastName proProfile.companyName proProfile.domain');
+    if (!annuaire) return res.status(404).json({ error: 'Fiche non trouvée' });
+    res.json({ data: annuaire });
+  } catch (e) { res.status(500).json({ error: 'Erreur' }); }
+});
+
+router.patch('/annuaire/:id/feature', async (req, res) => {
+  try {
+    const a = await Annuaire.findByIdAndUpdate(
+      req.params.id,
+      [{ $set: { isFeatured: { $not: '$isFeatured' } } }],
+      { new: true }
+    );
+    if (!a) return res.status(404).json({ error: 'Non trouvé' });
+    res.json({ isFeatured: a.isFeatured });
+  } catch (e) { res.status(500).json({ error: 'Erreur' }); }
+});
+
+// ── Gestion Produits (Admin vue complète) ─────────────────
+router.get('/products', async (req, res) => {
+  try {
+    const { page = 1, limit = 20, domain, status, search } = req.query;
+    const filter = {};
+    if (domain) filter.domain = domain;
+    if (status) filter.status = status;
+    if (search) filter.$text = { $search: search };
+
+    const [total, data] = await Promise.all([
+      Product.countDocuments(filter),
+      Product.find(filter)
+        .populate('proActor', 'proProfile.companyName email')
+        .select('name domain price stock status isFeatured isActive coverImage proActor createdAt rejectionReason')
+        .sort('-createdAt')
+        .limit(Number(limit))
+        .skip((Number(page) - 1) * Number(limit))
+    ]);
+
+    res.json({ data, pagination: { total, page: Number(page), pages: Math.ceil(total / Number(limit)) } });
+  } catch (e) { res.status(500).json({ error: 'Erreur' }); }
+});
+
+router.patch('/products/:id/status', async (req, res) => {
+  try {
+    const { status, rejectionReason } = req.body;
+    const update = { status };
+    if (rejectionReason) update.rejectionReason = rejectionReason;
+    if (status === 'published') update.publishedAt = new Date();
+
+    const product = await Product.findByIdAndUpdate(req.params.id, update, { new: true });
+    if (!product) return res.status(404).json({ error: 'Produit non trouvé' });
+    res.json({ message: 'Statut mis à jour', status: product.status });
+  } catch (e) { res.status(500).json({ error: 'Erreur' }); }
+});
+
+router.patch('/products/:id/feature', async (req, res) => {
+  try {
+    const product = await Product.findByIdAndUpdate(
+      req.params.id,
+      [{ $set: { isFeatured: { $not: '$isFeatured' } } }],
+      { new: true }
+    );
+    if (!product) return res.status(404).json({ error: 'Non trouvé' });
+    res.json({ isFeatured: product.isFeatured });
+  } catch (e) { res.status(500).json({ error: 'Erreur' }); }
+});
+
+router.post('/products/bulk', async (req, res) => {
+  try {
+    const { ids, action } = req.body;
+    if (!ids?.length) return res.status(400).json({ error: 'Aucun produit sélectionné' });
+    const update = action === 'publish' ? { status: 'published', publishedAt: new Date() }
+                 : action === 'archive' ? { status: 'archived' }
+                 : null;
+    if (!update) return res.status(400).json({ error: 'Action inconnue' });
+    await Product.updateMany({ _id: { $in: ids } }, update);
+    res.json({ message: `${ids.length} produit(s) mis à jour` });
+  } catch (e) { res.status(500).json({ error: 'Erreur' }); }
+});
+
+router.delete('/products/:id', async (req, res) => {
+  try {
+    await Product.findByIdAndDelete(req.params.id);
+    res.json({ message: 'Produit supprimé' });
+  } catch (e) { res.status(500).json({ error: 'Erreur' }); }
+});
+
 module.exports = router;
