@@ -30,6 +30,7 @@ export class AdminLayoutComponent {
     '/admin/payments':           'Gestion des paiements',
     '/admin/cms':                'Gestion de contenu',
     '/admin/events':             'Gestion des événements',
+    '/admin/tourism':            'Gestion du Tourisme',
     '/admin/complaints':         'Réclamations'
   };
 

@@ -81,4 +81,15 @@ router.put('/:id', authenticate, isAdmin, async (req, res) => {
   }
 });
 
+router.patch('/:id/status', authenticate, isAdmin, async (req, res) => {
+  try {
+    const { status } = req.body;
+    const event = await Event.findByIdAndUpdate(req.params.id, { status }, { new: true });
+    if (!event) return res.status(404).json({ error: 'Événement non trouvé' });
+    res.json({ data: event });
+  } catch (error) {
+    res.status(500).json({ error: 'Erreur mise à jour statut' });
+  }
+});
+
 module.exports = router;

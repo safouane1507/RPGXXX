@@ -68,4 +68,17 @@ router.put('/:id', authenticate, isAdmin, async (req, res) => {
   }
 });
 
+router.patch('/:id/status', authenticate, isAdmin, async (req, res) => {
+  try {
+    const { status } = req.body;
+    const update = { status };
+    if (status === 'published') update.publishedAt = new Date();
+    const post = await Blog.findByIdAndUpdate(req.params.id, update, { new: true });
+    if (!post) return res.status(404).json({ error: 'Article non trouvé' });
+    res.json({ data: post });
+  } catch (error) {
+    res.status(500).json({ error: 'Erreur mise à jour statut' });
+  }
+});
+
 module.exports = router;

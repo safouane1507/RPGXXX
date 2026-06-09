@@ -101,7 +101,7 @@
                   </div>
                 </td>
                 <td>{{ product.price | number:'1.0-0' }}</td>
-                <td>{{ product.proActor?.proProfile?.companyName || '—' }}</td>
+                <td>{{ product.proActor.proProfile.companyName || '—' }}</td>
                 <td>{{ product.stock }}</td>
                 <td>
                   <span class="status-pill" [class]="'status-' + product.status">

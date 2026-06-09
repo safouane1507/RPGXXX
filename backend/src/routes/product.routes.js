@@ -8,11 +8,14 @@ const router = express.Router();
 // Public: liste des produits publiés
 router.get('/', async (req, res) => {
   try {
-    const { page = 1, limit = 12, domain, search, minPrice, maxPrice, sort = '-createdAt' } = req.query;
+    const { page = 1, limit = 12, domain, search, minPrice, maxPrice, region, organic, handmade, sort = '-isFeatured -createdAt' } = req.query;
     const filter = { status: 'published', isActive: true };
 
     if (domain)   filter.domain = domain;
     if (search)   filter.$text = { $search: search };
+    if (region)   filter['origin.region'] = region;
+    if (organic === 'true')  filter.isOrganic  = true;
+    if (handmade === 'true') filter.isHandmade = true;
     if (minPrice || maxPrice) {
       filter.price = {};
       if (minPrice) filter.price.$gte = Number(minPrice);

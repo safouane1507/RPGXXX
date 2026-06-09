@@ -40,6 +40,10 @@ export const routes: Routes = [
         title: 'Boutique - KENZ BLADI'
       },
       {
+        path: 'marketplace/:slug',
+        loadComponent: () => import('./features/client/marketplace/product-detail.component').then(m => m.ProductDetailComponent)
+      },
+      {
         path: 'tourism',
         loadComponent: () => import('./features/client/tourism/tourism-list.component').then(m => m.TourismListComponent),
         title: 'Tourisme - KENZ BLADI'
@@ -117,6 +121,11 @@ export const routes: Routes = [
         path: 'events',
         loadComponent: () => import('./features/admin/events/events-list.component').then(m => m.EventsListComponent),
         title: 'Gestion Événements'
+      },
+      {
+        path: 'tourism',
+        loadComponent: () => import('./features/admin/tourism/tourism-admin.component').then(m => m.TourismAdminComponent),
+        title: 'Gestion Tourisme'
       },
       {
         path: 'complaints',
