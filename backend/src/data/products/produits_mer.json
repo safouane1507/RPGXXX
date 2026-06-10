@@ -1,0 +1,650 @@
+[
+  {
+    "name": {
+      "fr": "Sardines marinées artisanales à l'huile d'olive",
+      "ar": "سردين متبل تقليدي بزيت الزيتون",
+      "en": "Artisanal Marinated Sardines in Olive Oil",
+      "darija": "سردين متبل تقليدي بزيت الزيتون"
+    },
+    "description": {
+      "fr": "Sardines fraîchement pêchées au large d'Essaouira, nettoyées et marinées à la main dans un mélange d'huile d'olive, d'ail, de persil et d'épices traditionnelles. Conditionnées en bocal de verre, elles se dégustent froides en salade ou réchauffées avec du pain frais. Une recette transmise par les familles de pêcheurs de la côte atlantique.",
+      "ar": "سردين طازج تم صيده قبالة سواحل الصويرة، يُنظف ويُتبل يدويًا بمزيج من زيت الزيتون والثوم والمعدنوس والتوابل التقليدية. يُعبأ في برطمان زجاجي، ويُقدَّم باردًا في السلطة أو ساخنًا مع الخبز الطازج. وصفة متوارثة من عائلات الصيادين على الساحل الأطلسي.",
+      "en": "Sardines freshly caught off the coast of Essaouira, cleaned and hand-marinated in a blend of olive oil, garlic, parsley and traditional spices. Packed in a glass jar, they can be enjoyed cold in salads or warmed with fresh bread. A recipe passed down by fishing families along the Atlantic coast.",
+      "darija": "سردين طازة مصطاد من بحر الصويرة، كينقى ويتبل بيدو بخليط ديال زيت الزيتون والتوم والمعدنوس والتوابل التقليدية. معبأ فبوكال ديال الزجاج، يتاكل بارد فالسلاطة ولا سخون مع الخبز الطازة. وصفة وارثينها عائلات الصيادة ديال الساحل الأطلسي."
+    },
+    "shortDescription": {
+      "fr": "Sardines fraîches marinées à l'huile d'olive et épices, recette d'Essaouira.",
+      "ar": "سردين طازج متبل بزيت الزيتون والتوابل، وصفة الصويرة.",
+      "en": "Fresh sardines marinated in olive oil and spices, an Essaouira recipe.",
+      "darija": "سردين طازة متبلة بزيت الزيتون والتوابل، وصفة الصويرة."
+    },
+    "unit": { "fr": "bocal de 250g", "ar": "برطمان 250 غرام", "en": "250g jar", "darija": "بوكال 250 غرام" },
+    "price": 65,
+    "priceDiscount": null,
+    "currency": "MAD",
+    "domain": "produits_mer",
+    "subcategory": {
+      "fr": "Conserves de poisson",
+      "ar": "معلبات السمك",
+      "en": "Fish Preserves",
+      "darija": "معلبات الحوت"
+    },
+    "tags": ["sardines", "huile d'olive", "Essaouira", "conserve artisanale"],
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Essaouira_-_fishing_port_1989_02.jpg/960px-Essaouira_-_fishing_port_1989_02.jpg",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Essaouira_-_fishing_port_1989_02.jpg/960px-Essaouira_-_fishing_port_1989_02.jpg",
+        "alt": {
+          "fr": "Port de pêche d'Essaouira",
+          "ar": "ميناء الصيد بالصويرة",
+          "en": "Essaouira fishing port",
+          "darija": "مرسى الصيد ديال الصويرة"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Moroccan_Fisherman.jpg/960px-Moroccan_Fisherman.jpg",
+        "alt": {
+          "fr": "Pêcheur marocain avec ses prises",
+          "ar": "صياد مغربي مع صيده",
+          "en": "Moroccan fisherman with his catch",
+          "darija": "صياد مغربي مع الصيد ديالو"
+        }
+      }
+    ],
+    "proActorDomain": "produits_mer",
+    "stock": 80,
+    "isInfiniteStock": false,
+    "sku": "KB-MER-001",
+    "status": "published",
+    "isActive": true,
+    "isFeatured": true,
+    "isOrganic": false,
+    "isHandmade": true,
+    "origin": { "region": "Marrakech-Safi", "city": "Essaouira", "country": "Maroc" },
+    "certifications": ["Fait main"],
+    "slug": "sardines-marinees-huile-olive-essaouira",
+    "metaTitle": {
+      "fr": "Sardines marinées artisanales – Essaouira | KENZ BLADI",
+      "ar": "سردين متبل تقليدي – الصويرة | كنز بلادي",
+      "en": "Artisanal Marinated Sardines – Essaouira | KENZ BLADI",
+      "darija": "سردين متبل تقليدي – الصويرة | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Sardines fraîches d'Essaouira marinées à la main avec huile d'olive, ail et épices traditionnelles.",
+      "ar": "سردين طازج من الصويرة متبل يدويًا بزيت الزيتون والثوم والتوابل التقليدية.",
+      "en": "Fresh Essaouira sardines hand-marinated with olive oil, garlic and traditional spices.",
+      "darija": "سردين طازة من الصويرة متبل بيدو بزيت الزيتون والتوم والتوابل التقليدية."
+    },
+    "viewCount": 980,
+    "salesCount": 210,
+    "rating": 4.7,
+    "reviewCount": 76
+  },
+  {
+    "name": {
+      "fr": "Poisson séché traditionnel salé",
+      "ar": "سمك مجفف ومملح تقليديًا",
+      "en": "Traditional Salted Dried Fish",
+      "darija": "حوت مجفف ومملح بالطريقة التقليدية"
+    },
+    "description": {
+      "fr": "Filets de poisson blanc séchés au soleil et salés selon une méthode ancestrale pratiquée par les pêcheurs de la côte atlantique marocaine. Ce procédé naturel de conservation, sans additifs, permet de préserver le poisson plusieurs mois tout en concentrant ses arômes. À réhydrater avant cuisson pour accompagner tagines et plats mijotés.",
+      "ar": "شرائح من السمك الأبيض مجففة تحت الشمس ومملحة وفق طريقة تقليدية يتبعها الصيادون على الساحل الأطلسي المغربي. تتيح هذه الطريقة الطبيعية في الحفظ، دون أي إضافات، الاحتفاظ بالسمك لعدة أشهر مع تركيز نكهته. يُنقع في الماء قبل الطهي لتحضير الطاجين والأطباق المطبوخة على نار هادئة.",
+      "en": "Fillets of white fish sun-dried and salted according to an ancestral method practiced by fishermen along Morocco's Atlantic coast. This natural preservation process, free of additives, keeps the fish for several months while concentrating its flavor. Rehydrate before cooking to accompany tagines and slow-simmered dishes.",
+      "darija": "شرحات ديال الحوت البيض مجففين فالشمس ومملحين بالطريقة القديمة اللي كيخدمو بيها الصيادة ديال الساحل الأطلسي. هاد الطريقة الطبيعية فالحفظ، بلا حتى إضافة، كتخلي الحوت يبقى صالح لعدة أشهر ومركز فالنكهة. خاصو ينقع فالما قبل ما يطيب باش يدوز مع الطاجين والأطباق المطبوخة بشوية."
+    },
+    "shortDescription": {
+      "fr": "Filets de poisson blanc séchés et salés, méthode ancestrale de la côte atlantique.",
+      "ar": "شرائح سمك أبيض مجففة ومملحة بطريقة تقليدية ساحلية.",
+      "en": "White fish fillets sun-dried and salted using an ancestral coastal method.",
+      "darija": "شرحات حوت بيض مجففين ومملحين بالطريقة التقليدية ديال الساحل."
+    },
+    "unit": { "fr": "paquet de 300g", "ar": "كيس 300 غرام", "en": "300g pack", "darija": "كيس 300 غرام" },
+    "price": 85,
+    "priceDiscount": null,
+    "currency": "MAD",
+    "domain": "produits_mer",
+    "subcategory": {
+      "fr": "Poisson séché",
+      "ar": "السمك المجفف",
+      "en": "Dried Fish",
+      "darija": "الحوت المجفف"
+    },
+    "tags": ["poisson séché", "salaison", "conservation traditionnelle", "Essaouira"],
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Fish_vendor_in_the_city_of_Essaouira%2C_Morocco.jpg/960px-Fish_vendor_in_the_city_of_Essaouira%2C_Morocco.jpg",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Fish_vendor_in_the_city_of_Essaouira%2C_Morocco.jpg/960px-Fish_vendor_in_the_city_of_Essaouira%2C_Morocco.jpg",
+        "alt": {
+          "fr": "Vendeur de poisson à Essaouira",
+          "ar": "بائع سمك في الصويرة",
+          "en": "Fish vendor in Essaouira",
+          "darija": "بياع الحوت فالصويرة"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Moroccan_Fisherman.jpg/960px-Moroccan_Fisherman.jpg",
+        "alt": {
+          "fr": "Pêcheur marocain sur le port",
+          "ar": "صياد مغربي في الميناء",
+          "en": "Moroccan fisherman at the port",
+          "darija": "صياد مغربي فالمرسى"
+        }
+      }
+    ],
+    "proActorDomain": "produits_mer",
+    "stock": 45,
+    "isInfiniteStock": false,
+    "sku": "KB-MER-002",
+    "status": "published",
+    "isActive": true,
+    "isFeatured": false,
+    "isOrganic": false,
+    "isHandmade": true,
+    "origin": { "region": "Marrakech-Safi", "city": "Essaouira", "country": "Maroc" },
+    "certifications": ["Sans additifs"],
+    "slug": "poisson-seche-traditionnel-essaouira",
+    "metaTitle": {
+      "fr": "Poisson séché traditionnel – Essaouira | KENZ BLADI",
+      "ar": "سمك مجفف تقليدي – الصويرة | كنز بلادي",
+      "en": "Traditional Dried Fish – Essaouira | KENZ BLADI",
+      "darija": "حوت مجفف تقليدي – الصويرة | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Filets de poisson blanc séchés au soleil et salés sans additifs, méthode ancestrale de la côte atlantique.",
+      "ar": "شرائح سمك أبيض مجففة بالشمس ومملحة دون إضافات، بطريقة الساحل الأطلسي التقليدية.",
+      "en": "White fish fillets sun-dried and salted without additives, using the traditional Atlantic coast method.",
+      "darija": "شرحات حوت بيض مجففين فالشمس ومملحين بلا إضافات، بالطريقة التقليدية ديال الساحل الأطلسي."
+    },
+    "viewCount": 410,
+    "salesCount": 58,
+    "rating": 4.5,
+    "reviewCount": 21
+  },
+  {
+    "name": {
+      "fr": "Sel de mer artisanal de Laâyoune",
+      "ar": "ملح بحري تقليدي من العيون",
+      "en": "Artisanal Sea Salt from Laâyoune",
+      "darija": "الملح ديال البحر التقليدي ديال العيون"
+    },
+    "description": {
+      "fr": "Sel marin récolté de manière traditionnelle dans les marais salants situés près de Laâyoune, sur la côte atlantique saharienne. Séché naturellement au soleil, il conserve ses minéraux essentiels et son goût subtil. Idéal pour assaisonner viandes, poissons et légumes, ce sel brut n'est ni raffiné ni traité chimiquement.",
+      "ar": "ملح بحري يُجمع بطريقة تقليدية من السبخات الملحية القريبة من مدينة العيون، على الساحل الأطلسي الصحراوي. يُجفف طبيعيًا تحت أشعة الشمس، فيحتفظ بمعادنه الأساسية ونكهته المميزة. مثالي لتتبيل اللحوم والأسماك والخضروات، هذا الملح الخام غير مكرر وغير معالج كيميائيًا.",
+      "en": "Sea salt traditionally harvested from the salt marshes near Laâyoune, on the Saharan Atlantic coast. Naturally sun-dried, it retains its essential minerals and subtle flavor. Ideal for seasoning meat, fish and vegetables, this raw salt is neither refined nor chemically treated.",
+      "darija": "ملح بحري كيتجمع بالطريقة التقليدية من السبخات الملحية لي قريبة من مدينة العيون، فالساحل الأطلسي الصحراوي. كيتجفف طبيعي فالشمس، فكيحتفظ بالمعادن ديالو والطعم الخاص بيه. مزيان باش تتبل بيه اللحم والحوت والخضرة، هاد الملح الخام ماشي مكرر وما فيه حتى معالجة كيميائية."
+    },
+    "shortDescription": {
+      "fr": "Sel marin brut récolté et séché au soleil près de Laâyoune.",
+      "ar": "ملح بحري خام يُجمع ويُجفف بالشمس قرب العيون.",
+      "en": "Raw sea salt harvested and sun-dried near Laâyoune.",
+      "darija": "ملح بحري خام كيتجمع ويتجفف فالشمس قريب من العيون."
+    },
+    "unit": { "fr": "sachet de 500g", "ar": "كيس 500 غرام", "en": "500g bag", "darija": "كيس 500 غرام" },
+    "price": 35,
+    "priceDiscount": null,
+    "currency": "MAD",
+    "domain": "produits_mer",
+    "subcategory": {
+      "fr": "Sel & condiments marins",
+      "ar": "الملح والتوابل البحرية",
+      "en": "Salt & Sea Condiments",
+      "darija": "الملح والتوابل ديال البحر"
+    },
+    "tags": ["sel de mer", "Laâyoune", "naturel", "artisanal"],
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Sea_salt_evaporation_farm_near_the_town_of_Laayoun_in_the_south_of_Morocco_%28Image_1_of_3%29.jpg/960px-Sea_salt_evaporation_farm_near_the_town_of_Laayoun_in_the_south_of_Morocco_%28Image_1_of_3%29.jpg",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Sea_salt_evaporation_farm_near_the_town_of_Laayoun_in_the_south_of_Morocco_%28Image_1_of_3%29.jpg/960px-Sea_salt_evaporation_farm_near_the_town_of_Laayoun_in_the_south_of_Morocco_%28Image_1_of_3%29.jpg",
+        "alt": {
+          "fr": "Marais salants près de Laâyoune",
+          "ar": "سبخات ملحية قرب العيون",
+          "en": "Salt marshes near Laâyoune",
+          "darija": "السبخات الملحية قريب من العيون"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Salty_remnants_of_a_prehistoric_inland_sea_near_the_city_of_Laayoun_in_the_south_of_Morocco_%28Image_1_of_2%29.jpg",
+        "alt": {
+          "fr": "Cristaux de sel naturel au sud du Maroc",
+          "ar": "بلورات ملح طبيعي جنوب المغرب",
+          "en": "Natural salt crystals in southern Morocco",
+          "darija": "بلورات الملح الطبيعي فجنوب المغرب"
+        }
+      }
+    ],
+    "proActorDomain": "produits_mer",
+    "stock": 150,
+    "isInfiniteStock": false,
+    "sku": "KB-MER-003",
+    "status": "published",
+    "isActive": true,
+    "isFeatured": false,
+    "isOrganic": true,
+    "isHandmade": true,
+    "origin": { "region": "Laâyoune-Sakia El Hamra", "city": "Laâyoune", "country": "Maroc" },
+    "certifications": ["100% naturel"],
+    "slug": "sel-mer-artisanal-laayoune",
+    "metaTitle": {
+      "fr": "Sel de mer artisanal de Laâyoune | KENZ BLADI",
+      "ar": "ملح بحري تقليدي من العيون | كنز بلادي",
+      "en": "Artisanal Sea Salt from Laâyoune | KENZ BLADI",
+      "darija": "الملح ديال البحر التقليدي ديال العيون | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Sel marin brut récolté et séché au soleil dans les marais salants de Laâyoune, riche en minéraux.",
+      "ar": "ملح بحري خام يُجمع ويُجفف بالشمس في سبخات العيون، غني بالمعادن.",
+      "en": "Raw sea salt harvested and sun-dried in the salt marshes of Laâyoune, rich in minerals.",
+      "darija": "ملح بحري خام كيتجمع ويتجفف فالشمس فسبخات العيون، غني بالمعادن."
+    },
+    "viewCount": 320,
+    "salesCount": 95,
+    "rating": 4.6,
+    "reviewCount": 33
+  },
+  {
+    "name": {
+      "fr": "Fleur de sel atlantique premium",
+      "ar": "زهرة الملح الأطلسي الفاخرة",
+      "en": "Premium Atlantic Fleur de Sel",
+      "darija": "زهرة الملح الأطلسي الفاخرة"
+    },
+    "description": {
+      "fr": "Fine fleur de sel récoltée à la main à la surface des bassins salants, réputée pour sa texture croustillante et sa pureté exceptionnelle. Récoltée uniquement par temps sec et venteux, cette fleur de sel haut de gamme sublime les plats les plus raffinés en fin de cuisson. Conditionnée dans un coffret en bois pour préserver sa fraîcheur.",
+      "ar": "زهرة ملح ناعمة تُجمع يدويًا من سطح أحواض الملح، تشتهر بقوامها المقرمش ونقائها الاستثنائي. تُحصد فقط في الأيام الجافة ذات الرياح، وتضفي هذه الزهرة الراقية لمسة مميزة على أرقى الأطباق عند نهاية الطهي. تُعبأ في علبة خشبية للحفاظ على نضارتها.",
+      "en": "A delicate fleur de sel hand-harvested from the surface of salt basins, prized for its crisp texture and exceptional purity. Harvested only on dry, windy days, this premium fleur de sel elevates the finest dishes when added at the end of cooking. Packaged in a wooden box to preserve its freshness.",
+      "darija": "زهرة الملح رقيقة كتنجمع بليد من فوق أحواض الملح، معروفة بقوامها المقرمش ونقاوتها الكبيرة. كتنجمع غير فالنهارات اليابسة واللي فيها الريح، وهاد الزهرة الراقية كتزيد لمسة خاصة فالأطباق الفاخرة فآخر الطبخ. معبأة فعلبة ديال الخشب باش تبقى طرية."
+    },
+    "shortDescription": {
+      "fr": "Fleur de sel pure récoltée à la main, conditionnée en coffret bois.",
+      "ar": "زهرة ملح نقية تُجمع يدويًا، معبأة في علبة خشبية.",
+      "en": "Pure hand-harvested fleur de sel, packaged in a wooden box.",
+      "darija": "زهرة الملح نقية كتنجمع بليد، معبأة فعلبة ديال الخشب."
+    },
+    "unit": { "fr": "coffret de 150g", "ar": "علبة 150 غرام", "en": "150g box", "darija": "علبة 150 غرام" },
+    "price": 75,
+    "priceDiscount": null,
+    "currency": "MAD",
+    "domain": "produits_mer",
+    "subcategory": {
+      "fr": "Sel & condiments marins",
+      "ar": "الملح والتوابل البحرية",
+      "en": "Salt & Sea Condiments",
+      "darija": "الملح والتوابل ديال البحر"
+    },
+    "tags": ["fleur de sel", "premium", "gastronomie", "artisanal"],
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Crystalline_sea_salt._Salines_at_San_Fernando_near_Cadiz_%2837047729074%29.jpg/960px-Crystalline_sea_salt._Salines_at_San_Fernando_near_Cadiz_%2837047729074%29.jpg",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Crystalline_sea_salt._Salines_at_San_Fernando_near_Cadiz_%2837047729074%29.jpg/960px-Crystalline_sea_salt._Salines_at_San_Fernando_near_Cadiz_%2837047729074%29.jpg",
+        "alt": {
+          "fr": "Cristaux de fleur de sel",
+          "ar": "بلورات زهرة الملح",
+          "en": "Fleur de sel crystals",
+          "darija": "بلورات زهرة الملح"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Salty_remnants_of_a_prehistoric_inland_sea_near_the_city_of_Laayoun_in_the_south_of_Morocco_%28Image_2_of_2%29.jpg",
+        "alt": {
+          "fr": "Bassins salants sur la côte atlantique",
+          "ar": "أحواض الملح على الساحل الأطلسي",
+          "en": "Salt basins on the Atlantic coast",
+          "darija": "أحواض الملح فالساحل الأطلسي"
+        }
+      }
+    ],
+    "proActorDomain": "produits_mer",
+    "stock": 60,
+    "isInfiniteStock": false,
+    "sku": "KB-MER-004",
+    "status": "published",
+    "isActive": true,
+    "isFeatured": true,
+    "isOrganic": true,
+    "isHandmade": true,
+    "origin": { "region": "Dakhla-Oued Ed-Dahab", "city": "Dakhla", "country": "Maroc" },
+    "certifications": ["100% naturel", "Récolte manuelle"],
+    "slug": "fleur-de-sel-atlantique-premium",
+    "metaTitle": {
+      "fr": "Fleur de sel atlantique premium – Dakhla | KENZ BLADI",
+      "ar": "زهرة الملح الأطلسي الفاخرة – الداخلة | كنز بلادي",
+      "en": "Premium Atlantic Fleur de Sel – Dakhla | KENZ BLADI",
+      "darija": "زهرة الملح الأطلسي الفاخرة – الداخلة | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Fleur de sel pure récoltée à la main sur la côte atlantique, conditionnée en coffret pour la gastronomie.",
+      "ar": "زهرة ملح نقية تُجمع يدويًا على الساحل الأطلسي، معبأة في علبة فاخرة للمطبخ الراقي.",
+      "en": "Pure fleur de sel hand-harvested on the Atlantic coast, packaged in a box for fine dining.",
+      "darija": "زهرة الملح نقية كتنجمع بليد فالساحل الأطلسي، معبأة فعلبة فاخرة للماكلة الراقية."
+    },
+    "viewCount": 540,
+    "salesCount": 88,
+    "rating": 4.8,
+    "reviewCount": 29
+  },
+  {
+    "name": {
+      "fr": "Conserve de maquereau grillé à l'huile d'olive",
+      "ar": "علبة إسقمري مشوي بزيت الزيتون",
+      "en": "Canned Grilled Mackerel in Olive Oil",
+      "darija": "علبة الماكرو المشوي بزيت الزيتون"
+    },
+    "description": {
+      "fr": "Maquereaux pêchés au large de Safi, grillés puis mis en conserve avec de l'huile d'olive vierge et un soupçon de citron confit. Cette spécialité perpétue le savoir-faire des conserveries artisanales de la côte atlantique, reconnues pour la qualité de leurs produits de la mer en boîte. Parfait à l'apéritif ou en sandwich.",
+      "ar": "إسقمري تم صيده قبالة سواحل آسفي، يُشوى ثم يُعلَّب مع زيت الزيتون البكر ولمسة من الليمون المخلل. تُجسد هذه التخصصية خبرة المعلبات التقليدية على الساحل الأطلسي، المعروفة بجودة منتجاتها البحرية المعلبة. مثالية كمقبلات أو في السندويش.",
+      "en": "Mackerel caught off the coast of Safi, grilled and then canned with virgin olive oil and a touch of preserved lemon. This specialty carries on the craft of artisanal canneries along the Atlantic coast, renowned for the quality of their canned seafood. Perfect as an appetizer or in a sandwich.",
+      "darija": "الماكرو لي كيتصاد فبحر آسفي، كيتشوا وبعدين كيتعلب مع زيت الزيتون البكر وشوية ديال الليمون المخلل. هاد التخصصية كتكمل خبرة المعلبات التقليدية ديال الساحل الأطلسي، المعروفة بجودة المنتجات البحرية المعلبة ديالها. مزيانة كمقبلات ولا فالساندويش."
+    },
+    "shortDescription": {
+      "fr": "Maquereau grillé en conserve à l'huile d'olive et citron confit, spécialité de Safi.",
+      "ar": "إسقمري مشوي معلب بزيت الزيتون والليمون المخلل، من آسفي.",
+      "en": "Grilled mackerel canned in olive oil with preserved lemon, a Safi specialty.",
+      "darija": "ماكرو مشوي معلب بزيت الزيتون والليمون المخلل، تخصصية آسفي."
+    },
+    "unit": { "fr": "boîte de 200g", "ar": "علبة 200 غرام", "en": "200g can", "darija": "علبة 200 غرام" },
+    "price": 38,
+    "priceDiscount": null,
+    "currency": "MAD",
+    "domain": "produits_mer",
+    "subcategory": {
+      "fr": "Conserves de poisson",
+      "ar": "معلبات السمك",
+      "en": "Fish Preserves",
+      "darija": "معلبات الحوت"
+    },
+    "tags": ["maquereau", "conserve", "Safi", "huile d'olive"],
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Fish_market_-_panoramio_%286%29.jpg/960px-Fish_market_-_panoramio_%286%29.jpg",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Fish_market_-_panoramio_%286%29.jpg/960px-Fish_market_-_panoramio_%286%29.jpg",
+        "alt": {
+          "fr": "Marché aux poissons sur la côte marocaine",
+          "ar": "سوق السمك على الساحل المغربي",
+          "en": "Fish market on the Moroccan coast",
+          "darija": "سوق الحوت فالساحل المغربي"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Essaouira%2C_Fish_Market.JPG/960px-Essaouira%2C_Fish_Market.JPG",
+        "alt": {
+          "fr": "Étal de poisson frais à Essaouira",
+          "ar": "بسطة سمك طازج في الصويرة",
+          "en": "Fresh fish stall in Essaouira",
+          "darija": "حانوت الحوت الطازة فالصويرة"
+        }
+      }
+    ],
+    "proActorDomain": "produits_mer",
+    "stock": 200,
+    "isInfiniteStock": false,
+    "sku": "KB-MER-005",
+    "status": "published",
+    "isActive": true,
+    "isFeatured": false,
+    "isOrganic": false,
+    "isHandmade": true,
+    "origin": { "region": "Marrakech-Safi", "city": "Safi", "country": "Maroc" },
+    "certifications": [],
+    "slug": "conserve-maquereau-grille-huile-olive",
+    "metaTitle": {
+      "fr": "Conserve de maquereau grillé – Safi | KENZ BLADI",
+      "ar": "علبة إسقمري مشوي – آسفي | كنز بلادي",
+      "en": "Canned Grilled Mackerel – Safi | KENZ BLADI",
+      "darija": "علبة الماكرو المشوي – آسفي | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Maquereau grillé et mis en conserve à l'huile d'olive avec citron confit, spécialité artisanale de Safi.",
+      "ar": "إسقمري مشوي ومعلب بزيت الزيتون والليمون المخلل، تخصصية تقليدية من آسفي.",
+      "en": "Grilled mackerel canned in olive oil with preserved lemon, an artisanal specialty from Safi.",
+      "darija": "ماكرو مشوي ومعلب بزيت الزيتون والليمون المخلل، تخصصية تقليدية ديال آسفي."
+    },
+    "viewCount": 290,
+    "salesCount": 134,
+    "rating": 4.4,
+    "reviewCount": 47
+  },
+  {
+    "name": {
+      "fr": "Poulpe séché et salé façon Dakhla",
+      "ar": "أخطبوط مجفف ومملح على طريقة الداخلة",
+      "en": "Dakhla-Style Dried and Salted Octopus",
+      "darija": "الأخطبوط مجفف ومملح بطريقة الداخلة"
+    },
+    "description": {
+      "fr": "Poulpe pêché dans les eaux riches de la baie de Dakhla, nettoyé puis séché et salé selon les techniques traditionnelles des pêcheurs sahraouis. Sa chair concentrée en saveurs se prépare grillée, mijotée ou en tagine après une courte réhydratation. Un produit emblématique de la pêche artisanale du sud marocain.",
+      "ar": "أخطبوط يُصطاد في المياه الغنية لخليج الداخلة، يُنظف ثم يُجفف ويُملح وفق التقنيات التقليدية للصيادين الصحراويين. يتميز لحمه المركز النكهة بإمكانية تحضيره مشويًا أو مطهوًا على نار هادئة أو في الطاجين بعد نقعه لفترة قصيرة. منتج رمزي للصيد التقليدي في جنوب المغرب.",
+      "en": "Octopus caught in the rich waters of Dakhla Bay, cleaned, then dried and salted using traditional techniques of Sahrawi fishermen. Its richly concentrated flesh can be grilled, slow-cooked or prepared in a tagine after a brief soaking. An emblematic product of artisanal fishing in southern Morocco.",
+      "darija": "الأخطبوط لي كيتصاد فالمياه الغنية ديال خليج الداخلة، كينقى وبعدين كيتجفف ويتملح بالتقنيات التقليدية ديال الصيادة الصحراويين. اللحم ديالو مركز فالنكهة وممكن تطيبو مشوي ولا بشوية ولا فالطاجين من بعد ما تنقعو شوية. منتوج رمزي ديال الصيد التقليدي فجنوب المغرب."
+    },
+    "shortDescription": {
+      "fr": "Poulpe séché et salé selon la tradition des pêcheurs de Dakhla.",
+      "ar": "أخطبوط مجفف ومملح على طريقة صيادي الداخلة التقليدية.",
+      "en": "Octopus dried and salted following the tradition of Dakhla fishermen.",
+      "darija": "أخطبوط مجفف ومملح بالطريقة التقليدية ديال الصيادة ديال الداخلة."
+    },
+    "unit": { "fr": "paquet de 250g", "ar": "كيس 250 غرام", "en": "250g pack", "darija": "كيس 250 غرام" },
+    "price": 120,
+    "priceDiscount": 99,
+    "currency": "MAD",
+    "domain": "produits_mer",
+    "subcategory": {
+      "fr": "Poisson séché",
+      "ar": "السمك المجفف",
+      "en": "Dried Fish",
+      "darija": "الحوت المجفف"
+    },
+    "tags": ["poulpe", "Dakhla", "séché", "fruits de mer"],
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Essaouira_-_fishing_port_1989_05.jpg/960px-Essaouira_-_fishing_port_1989_05.jpg",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Essaouira_-_fishing_port_1989_05.jpg/960px-Essaouira_-_fishing_port_1989_05.jpg",
+        "alt": {
+          "fr": "Bateaux de pêche sur la côte atlantique",
+          "ar": "قوارب الصيد على الساحل الأطلسي",
+          "en": "Fishing boats on the Atlantic coast",
+          "darija": "قوارب الصيد فالساحل الأطلسي"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Essaouira_-_fishing_port_1989_06.jpg/960px-Essaouira_-_fishing_port_1989_06.jpg",
+        "alt": {
+          "fr": "Port de pêche traditionnel marocain",
+          "ar": "ميناء صيد تقليدي مغربي",
+          "en": "Traditional Moroccan fishing port",
+          "darija": "مرسى الصيد التقليدي المغربي"
+        }
+      }
+    ],
+    "proActorDomain": "produits_mer",
+    "stock": 35,
+    "isInfiniteStock": false,
+    "sku": "KB-MER-006",
+    "status": "published",
+    "isActive": true,
+    "isFeatured": false,
+    "isOrganic": false,
+    "isHandmade": true,
+    "origin": { "region": "Dakhla-Oued Ed-Dahab", "city": "Dakhla", "country": "Maroc" },
+    "certifications": ["Sans additifs"],
+    "slug": "poulpe-seche-sale-dakhla",
+    "metaTitle": {
+      "fr": "Poulpe séché et salé – Dakhla | KENZ BLADI",
+      "ar": "أخطبوط مجفف ومملح – الداخلة | كنز بلادي",
+      "en": "Dried Salted Octopus – Dakhla | KENZ BLADI",
+      "darija": "أخطبوط مجفف ومملح – الداخلة | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Poulpe de la baie de Dakhla séché et salé selon les techniques traditionnelles des pêcheurs sahraouis.",
+      "ar": "أخطبوط من خليج الداخلة مجفف ومملح وفق التقنيات التقليدية للصيادين الصحراويين.",
+      "en": "Octopus from Dakhla Bay, dried and salted using traditional Sahrawi fishing techniques.",
+      "darija": "أخطبوط من خليج الداخلة مجفف ومملح بالتقنيات التقليدية ديال الصيادة الصحراويين."
+    },
+    "viewCount": 245,
+    "salesCount": 41,
+    "rating": 4.5,
+    "reviewCount": 14
+  },
+  {
+    "name": {
+      "fr": "Algues comestibles séchées de l'Atlantique",
+      "ar": "أعشاب بحرية مجففة صالحة للأكل من الأطلسي",
+      "en": "Dried Edible Atlantic Seaweed",
+      "darija": "العشب البحري المجفف الصالح للماكلة ديال الأطلسي"
+    },
+    "description": {
+      "fr": "Algues rouges récoltées le long du littoral atlantique saharien puis séchées naturellement au soleil pour préserver leurs nutriments. Riches en minéraux et en iode, elles s'utilisent réhydratées dans les salades, soupes ou bouillons, apportant une touche iodée typique de la cuisine côtière marocaine.",
+      "ar": "أعشاب بحرية حمراء تُجمع على طول الساحل الأطلسي الصحراوي ثم تُجفف طبيعيًا تحت الشمس للحفاظ على عناصرها الغذائية. غنية بالمعادن واليود، تُستعمل بعد نقعها في السلطات أو الحساء أو المرق، فتضيف نكهة بحرية مميزة للمطبخ الساحلي المغربي.",
+      "en": "Red algae harvested along the Saharan Atlantic coastline and naturally sun-dried to preserve their nutrients. Rich in minerals and iodine, they are used rehydrated in salads, soups or broths, adding the distinctive briny note of Moroccan coastal cuisine.",
+      "darija": "عشب بحري حمر كيتجمع طول الساحل الأطلسي الصحراوي وبعدين كيتجفف طبيعي فالشمس باش يحتفظ بالعناصر الغذائية ديالو. غني بالمعادن واليود، كيتستعمل من بعد ما ينقع فالسلاطة ولا الحساء ولا المرق، كيزيد طعم بحري مميز فالماكلة الساحلية المغربية."
+    },
+    "shortDescription": {
+      "fr": "Algues rouges récoltées et séchées au soleil sur la côte atlantique saharienne.",
+      "ar": "أعشاب بحرية حمراء تُجمع وتُجفف بالشمس على الساحل الأطلسي الصحراوي.",
+      "en": "Red algae harvested and sun-dried on the Saharan Atlantic coast.",
+      "darija": "عشب بحري حمر كيتجمع ويتجفف فالشمس فالساحل الأطلسي الصحراوي."
+    },
+    "unit": { "fr": "sachet de 100g", "ar": "كيس 100 غرام", "en": "100g bag", "darija": "كيس 100 غرام" },
+    "price": 55,
+    "priceDiscount": null,
+    "currency": "MAD",
+    "domain": "produits_mer",
+    "subcategory": {
+      "fr": "Algues & produits naturels marins",
+      "ar": "الأعشاب البحرية والمنتجات البحرية الطبيعية",
+      "en": "Seaweed & Natural Sea Products",
+      "darija": "العشب البحري والمنتجات الطبيعية ديال البحر"
+    },
+    "tags": ["algues", "naturel", "iode", "Laâyoune"],
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Red_algea_growing_in_a_saturated_salt_pond_in_the_basin_of_a_prehistoric_inland_sea_near_the_city_of_Laayoun_in_the_south_of_Morocco_%28Image_2_of_2%29.jpg",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Red_algea_growing_in_a_saturated_salt_pond_in_the_basin_of_a_prehistoric_inland_sea_near_the_city_of_Laayoun_in_the_south_of_Morocco_%28Image_2_of_2%29.jpg",
+        "alt": {
+          "fr": "Algues rouges dans un bassin salin",
+          "ar": "أعشاب بحرية حمراء في حوض ملحي",
+          "en": "Red algae in a salt pond",
+          "darija": "عشب بحري حمر فحوض الملح"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Red_algea_growing_in_a_saturated_salt_pond_in_the_basin_of_a_prehistoric_inland_sea_near_the_city_of_Laayoun_in_the_south_of_Morocco_%28Image_1_of_2%29.jpg",
+        "alt": {
+          "fr": "Algues rouges récoltées sur la côte atlantique",
+          "ar": "أعشاب بحرية حمراء تم جمعها من الساحل الأطلسي",
+          "en": "Red algae harvested from the Atlantic coast",
+          "darija": "عشب بحري حمر مجموع من الساحل الأطلسي"
+        }
+      }
+    ],
+    "proActorDomain": "produits_mer",
+    "stock": 70,
+    "isInfiniteStock": false,
+    "sku": "KB-MER-007",
+    "status": "published",
+    "isActive": true,
+    "isFeatured": false,
+    "isOrganic": true,
+    "isHandmade": true,
+    "origin": { "region": "Laâyoune-Sakia El Hamra", "city": "Laâyoune", "country": "Maroc" },
+    "certifications": ["100% naturel"],
+    "slug": "algues-comestibles-sechees-atlantique",
+    "metaTitle": {
+      "fr": "Algues comestibles séchées de l'Atlantique | KENZ BLADI",
+      "ar": "أعشاب بحرية مجففة من الأطلسي | كنز بلادي",
+      "en": "Dried Edible Atlantic Seaweed | KENZ BLADI",
+      "darija": "عشب بحري مجفف ديال الأطلسي | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Algues rouges naturelles récoltées sur la côte atlantique saharienne et séchées au soleil, riches en minéraux.",
+      "ar": "أعشاب بحرية حمراء طبيعية تُجمع من الساحل الأطلسي الصحراوي وتُجفف بالشمس، غنية بالمعادن.",
+      "en": "Natural red algae harvested from the Saharan Atlantic coast and sun-dried, rich in minerals.",
+      "darija": "عشب بحري حمر طبيعي مجموع من الساحل الأطلسي الصحراوي ومجفف فالشمس، غني بالمعادن."
+    },
+    "viewCount": 180,
+    "salesCount": 27,
+    "rating": 4.3,
+    "reviewCount": 9
+  },
+  {
+    "name": {
+      "fr": "Anchois marinés à l'huile d'olive et ail",
+      "ar": "أنشوجة متبلة بزيت الزيتون والثوم",
+      "en": "Anchovies Marinated in Olive Oil and Garlic",
+      "darija": "الأنشوة متبلة بزيت الزيتون والتوم"
+    },
+    "description": {
+      "fr": "Petits anchois pêchés dans la baie d'Essaouira, filetés à la main puis marinés dans une huile d'olive vierge parfumée à l'ail et au persil frais. Conservés en bocal de verre, ils apportent une touche méditerranéenne et iodée aux salades, pâtes et toasts apéritifs.",
+      "ar": "أنشوجة صغيرة تُصطاد في خليج الصويرة، تُفلَّى يدويًا ثم تُتبَّل في زيت زيتون بكر منكَّه بالثوم والمعدنوس الطازج. تُحفظ في برطمان زجاجي، وتضفي لمسة متوسطية وبحرية على السلطات والمعكرونة والمقبلات.",
+      "en": "Small anchovies caught in the bay of Essaouira, hand-filleted and then marinated in virgin olive oil flavored with garlic and fresh parsley. Preserved in a glass jar, they add a Mediterranean, briny touch to salads, pasta and appetizer toasts.",
+      "darija": "أنشوة صغيرة كتنصاد فخليج الصويرة، كتفلى بليد وبعدين كتتبل فزيت الزيتون البكر بطعم التوم والمعدنوس الطازة. محفوظة فبوكال ديال الزجاج، كتزيد طعم بحري زوين فالسلاطة والمعكرونة والمقبلات."
+    },
+    "shortDescription": {
+      "fr": "Anchois marinés à l'huile d'olive, ail et persil, pêche d'Essaouira.",
+      "ar": "أنشوجة متبلة بزيت الزيتون والثوم والمعدنوس، من صيد الصويرة.",
+      "en": "Anchovies marinated in olive oil, garlic and parsley, caught off Essaouira.",
+      "darija": "أنشوة متبلة بزيت الزيتون والتوم والمعدنوس، صيد الصويرة."
+    },
+    "unit": { "fr": "bocal de 150g", "ar": "برطمان 150 غرام", "en": "150g jar", "darija": "بوكال 150 غرام" },
+    "price": 58,
+    "priceDiscount": 49,
+    "currency": "MAD",
+    "domain": "produits_mer",
+    "subcategory": {
+      "fr": "Conserves de poisson",
+      "ar": "معلبات السمك",
+      "en": "Fish Preserves",
+      "darija": "معلبات الحوت"
+    },
+    "tags": ["anchois", "huile d'olive", "Essaouira", "marinade"],
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Fish_market_in_Essaouira_Morocco.jpg/960px-Fish_market_in_Essaouira_Morocco.jpg",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Fish_market_in_Essaouira_Morocco.jpg/960px-Fish_market_in_Essaouira_Morocco.jpg",
+        "alt": {
+          "fr": "Marché aux poissons d'Essaouira",
+          "ar": "سوق السمك بالصويرة",
+          "en": "Fish market in Essaouira",
+          "darija": "سوق الحوت ديال الصويرة"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Fish_market_in_Essaouira.JPG/960px-Fish_market_in_Essaouira.JPG",
+        "alt": {
+          "fr": "Étal de poissons frais sur le port",
+          "ar": "بسطة سمك طازج في الميناء",
+          "en": "Fresh fish stall at the port",
+          "darija": "حانوت الحوت الطازة فالمرسى"
+        }
+      }
+    ],
+    "proActorDomain": "produits_mer",
+    "stock": 90,
+    "isInfiniteStock": false,
+    "sku": "KB-MER-008",
+    "status": "published",
+    "isActive": true,
+    "isFeatured": false,
+    "isOrganic": false,
+    "isHandmade": true,
+    "origin": { "region": "Marrakech-Safi", "city": "Essaouira", "country": "Maroc" },
+    "certifications": ["Fait main"],
+    "slug": "anchois-marines-huile-olive-ail",
+    "metaTitle": {
+      "fr": "Anchois marinés à l'huile d'olive – Essaouira | KENZ BLADI",
+      "ar": "أنشوجة متبلة بزيت الزيتون – الصويرة | كنز بلادي",
+      "en": "Anchovies Marinated in Olive Oil – Essaouira | KENZ BLADI",
+      "darija": "أنشوة متبلة بزيت الزيتون – الصويرة | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Anchois d'Essaouira filetés à la main et marinés à l'huile d'olive, ail et persil frais.",
+      "ar": "أنشوجة من الصويرة تُفلَّى يدويًا وتُتبَّل بزيت الزيتون والثوم والمعدنوس الطازج.",
+      "en": "Essaouira anchovies hand-filleted and marinated in olive oil, garlic and fresh parsley.",
+      "darija": "أنشوة ديال الصويرة كتفلى بليد وكتتبل بزيت الزيتون والتوم والمعدنوس الطازة."
+    },
+    "viewCount": 365,
+    "salesCount": 102,
+    "rating": 4.6,
+    "reviewCount": 38
+  }
+]

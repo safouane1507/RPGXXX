@@ -1,0 +1,650 @@
+[
+  {
+    "name": {
+      "fr": "Huile d'olive extra vierge biologique de l'Atlas",
+      "ar": "زيت الزيتون البكر الممتاز البيولوجي من الأطلس",
+      "en": "Organic Extra Virgin Olive Oil from the Atlas",
+      "darija": "زيت الزيتون البكر الممتاز البيو ديال الأطلس"
+    },
+    "description": {
+      "fr": "Huile d'olive extra vierge issue de la première pression à froid d'olives cultivées sans pesticides dans les vergers en terrasses du Haut Atlas. Pressée dans un moulin traditionnel à la meule de pierre dans les 24 heures suivant la récolte, elle conserve toute sa richesse aromatique : notes herbacées, légèrement piquantes et fruitées. Idéale pour assaisonner salades, tagines et pains traditionnels.",
+      "ar": "زيت زيتون بكر ممتاز ناتج عن العصر البارد الأول لزيتون مزروع بدون مبيدات في البساتين المدرجة بالأطلس الكبير. يُعصر في معصرة تقليدية بالحجر خلال 24 ساعة من القطف، فيحتفظ بكامل غناه العطري: نكهات عشبية، لاذعة قليلًا ومثمرة. مثالي لتتبيل السلطات والطواجن والخبز التقليدي.",
+      "en": "Extra virgin olive oil from the first cold pressing of olives grown without pesticides in the terraced orchards of the High Atlas. Pressed in a traditional stone mill within 24 hours of harvest, it retains its full aromatic richness: herbaceous, slightly peppery and fruity notes. Ideal for seasoning salads, tagines and traditional breads.",
+      "darija": "زيت زيتون بكر ممتاز من العصرة الأولى الباردة ديال الزيتون اللي كيتزرع بلا مبيدات فالبساتين المدرجة ديال الأطلس الكبير. كيتعصر فمعصرة تقليدية بالحجر فظرف 24 ساعة من القطاف، كيحتفظ بكامل النكهة ديالو: نكهات عشبية، حريفة شوية ومثمرة. مزيان باش تتبل بيه السلطة والطاجين والخبز التقليدي."
+    },
+    "shortDescription": {
+      "fr": "Huile d'olive bio extra vierge, première pression à froid, moulin traditionnel.",
+      "ar": "زيت زيتون بكر ممتاز بيولوجي، عصرة باردة أولى، معصرة تقليدية.",
+      "en": "Organic extra virgin olive oil, first cold pressing, traditional mill.",
+      "darija": "زيت زيتون بكر ممتاز بيو، عصرة باردة أولى، معصرة تقليدية."
+    },
+    "unit": { "fr": "litre", "ar": "لتر", "en": "liter", "darija": "لتر" },
+    "price": 130,
+    "priceDiscount": null,
+    "currency": "MAD",
+    "domain": "agriculture_bio",
+    "subcategory": {
+      "fr": "Huiles & Olives",
+      "ar": "الزيوت والزيتون",
+      "en": "Oils & Olives",
+      "darija": "الزيوت والزيتون"
+    },
+    "tags": ["huile d'olive", "bio", "Atlas", "extra vierge"],
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/OliveOilFactoryMorocco.jpg/960px-OliveOilFactoryMorocco.jpg",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/OliveOilFactoryMorocco.jpg/960px-OliveOilFactoryMorocco.jpg",
+        "alt": {
+          "fr": "Production d'huile d'olive artisanale au Maroc",
+          "ar": "إنتاج زيت الزيتون الحرفي بالمغرب",
+          "en": "Artisanal olive oil production in Morocco",
+          "darija": "إنتاج زيت الزيتون الحرفي بالمغرب"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/High_Atlas-The_olive_grinding_mill_%28js%29.jpg/960px-High_Atlas-The_olive_grinding_mill_%28js%29.jpg",
+        "alt": {
+          "fr": "Moulin traditionnel à meule de pierre dans le Haut Atlas",
+          "ar": "معصرة تقليدية بالحجر في الأطلس الكبير",
+          "en": "Traditional stone mill in the High Atlas",
+          "darija": "معصرة تقليدية بالحجر فالأطلس الكبير"
+        }
+      }
+    ],
+    "proActorDomain": "agriculture_bio",
+    "stock": 60,
+    "isInfiniteStock": false,
+    "sku": "KB-BIO-001",
+    "status": "published",
+    "isActive": true,
+    "isFeatured": true,
+    "isOrganic": true,
+    "isHandmade": true,
+    "origin": { "region": "Béni Mellal-Khénifra", "city": "Béni Mellal", "country": "Maroc" },
+    "certifications": ["Bio", "Première pression à froid"],
+    "slug": "huile-olive-extra-vierge-bio-atlas",
+    "metaTitle": {
+      "fr": "Huile d'olive extra vierge bio de l'Atlas | KENZ BLADI",
+      "ar": "زيت الزيتون البكر الممتاز البيو من الأطلس | كنز بلادي",
+      "en": "Organic Extra Virgin Olive Oil from the Atlas | KENZ BLADI",
+      "darija": "زيت الزيتون البكر الممتاز البيو ديال الأطلس | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Huile d'olive extra vierge bio, première pression à froid, pressée dans un moulin traditionnel du Haut Atlas.",
+      "ar": "زيت زيتون بكر ممتاز بيو، عصرة باردة أولى، معصور في معصرة تقليدية بالأطلس الكبير.",
+      "en": "Organic extra virgin olive oil, first cold pressing, pressed in a traditional High Atlas mill.",
+      "darija": "زيت زيتون بكر ممتاز بيو، عصرة باردة أولى، معصور فمعصرة تقليدية بالأطلس الكبير."
+    },
+    "viewCount": 1240,
+    "salesCount": 198,
+    "rating": 4.8,
+    "reviewCount": 86
+  },
+  {
+    "name": {
+      "fr": "Olives marinées artisanales aux herbes du terroir",
+      "ar": "زيتون متبل حرفيًا بأعشاب محلية",
+      "en": "Artisanal Marinated Olives with Local Herbs",
+      "darija": "زيتون متبل بطريقة حرفية بالأعشاب المحلية"
+    },
+    "description": {
+      "fr": "Olives vertes et noires cueillies à la main, conservées en saumure puis marinées avec de l'huile d'olive, du citron confit, de l'ail, du thym et du romarin du terroir marocain. Sans conservateurs ni colorants artificiels, elles offrent une saveur authentique, parfaite à l'apéritif ou pour agrémenter salades et tagines.",
+      "ar": "زيتون أخضر وأسود مقطوف يدويًا، محفوظ في محلول ملحي ثم متبل بزيت الزيتون والليمون المخلل والثوم والزعتر وإكليل الجبل المحلي. بدون مواد حافظة أو ملونات صناعية، يقدم نكهة أصيلة، مثالي كمقبلات أو لإغناء السلطات والطواجن.",
+      "en": "Green and black olives hand-picked, brine-cured then marinated with olive oil, preserved lemon, garlic, thyme and rosemary from the Moroccan terroir. Free of preservatives and artificial colorings, they offer an authentic flavor, perfect as an appetizer or to enrich salads and tagines.",
+      "darija": "زيتون أخضر وكحل مقطوف بليد، محفوظ فالملحة من بعد متبل بزيت الزيتون والحامض المصير والثوم والزعتر وإكليل الجبل المحلي. بلا مواد حافظة ولا ألوان صناعية، كيعطي نكهة أصيلة، مزيان كمقبلات ولا باش يزيد طعم للسلطة والطاجين."
+    },
+    "shortDescription": {
+      "fr": "Olives marinées maison à l'huile d'olive, citron confit et herbes locales.",
+      "ar": "زيتون متبل منزليًا بزيت الزيتون والليمون المخلل والأعشاب المحلية.",
+      "en": "Home-marinated olives with olive oil, preserved lemon and local herbs.",
+      "darija": "زيتون متبل ديال الدار بزيت الزيتون والحامض المصير والأعشاب المحلية."
+    },
+    "unit": { "fr": "pot 500g", "ar": "علبة 500غ", "en": "jar 500g", "darija": "طوكة 500غ" },
+    "price": 55,
+    "priceDiscount": 45,
+    "currency": "MAD",
+    "domain": "agriculture_bio",
+    "subcategory": {
+      "fr": "Huiles & Olives",
+      "ar": "الزيوت والزيتون",
+      "en": "Oils & Olives",
+      "darija": "الزيوت والزيتون"
+    },
+    "tags": ["olives", "marinées", "bio", "terroir"],
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Olive.oil.2017.jpg",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Olive.oil.2017.jpg",
+        "alt": {
+          "fr": "Olives et huile d'olive marocaine",
+          "ar": "زيتون وزيت زيتون مغربي",
+          "en": "Moroccan olives and olive oil",
+          "darija": "الزيتون وزيت الزيتون المغربي"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Fad%C3%AAye_%C3%B4les_argane_olive_c%C3%B4rins_figues_seur%C3%A8s_orandjes.jpg/960px-Fad%C3%AAye_%C3%B4les_argane_olive_c%C3%B4rins_figues_seur%C3%A8s_orandjes.jpg",
+        "alt": {
+          "fr": "Étal de produits du terroir marocain en pots",
+          "ar": "بسطة منتجات محلية مغربية معلبة",
+          "en": "Stall of Moroccan terroir products in jars",
+          "darija": "بسطة ديال المنتجات المحلية المغربية فالطوك"
+        }
+      }
+    ],
+    "proActorDomain": "agriculture_bio",
+    "stock": 80,
+    "isInfiniteStock": false,
+    "sku": "KB-BIO-002",
+    "status": "published",
+    "isActive": true,
+    "isFeatured": false,
+    "isOrganic": true,
+    "isHandmade": true,
+    "origin": { "region": "Béni Mellal-Khénifra", "city": "Béni Mellal", "country": "Maroc" },
+    "certifications": ["Bio", "Sans conservateurs"],
+    "slug": "olives-marinees-artisanales-herbes-terroir",
+    "metaTitle": {
+      "fr": "Olives marinées artisanales aux herbes du terroir | KENZ BLADI",
+      "ar": "زيتون متبل حرفيًا بأعشاب محلية | كنز بلادي",
+      "en": "Artisanal Marinated Olives with Local Herbs | KENZ BLADI",
+      "darija": "زيتون متبل حرفي بالأعشاب المحلية | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Olives marinées à la main avec huile d'olive, citron confit et herbes du terroir, sans conservateurs.",
+      "ar": "زيتون متبل يدويًا بزيت الزيتون والليمون المخلل والأعشاب المحلية، بدون مواد حافظة.",
+      "en": "Hand-marinated olives with olive oil, preserved lemon and local herbs, no preservatives.",
+      "darija": "زيتون متبل بليد بزيت الزيتون والحامض المصير والأعشاب المحلية، بلا مواد حافظة."
+    },
+    "viewCount": 540,
+    "salesCount": 142,
+    "rating": 4.6,
+    "reviewCount": 49
+  },
+  {
+    "name": {
+      "fr": "Dattes Majhoul premium de la vallée du Drâa",
+      "ar": "تمور المجهول الفاخرة من وادي درعة",
+      "en": "Premium Majhoul Dates from the Drâa Valley",
+      "darija": "التمر مجهول الفاخر ديال وادي درعة"
+    },
+    "description": {
+      "fr": "Dattes Majhoul de calibre extra-large, récoltées dans les palmeraies de la vallée du Drâa et séchées naturellement au soleil. Charnues, fondantes et au goût de caramel naturel, elles sont une source d'énergie idéale pour le sport, le ramadan ou en cadeau gourmand. Conditionnées en barquette pour préserver leur fraîcheur.",
+      "ar": "تمور مجهول من الصنف الكبير جدًا، مقطوفة من واحات نخيل وادي درعة ومجففة طبيعيًا بأشعة الشمس. لحمية وطرية وبنكهة الكراميل الطبيعي، تعتبر مصدر طاقة مثالي للرياضة أو رمضان أو كهدية فاخرة. معلبة في علب لحفظ نضارتها.",
+      "en": "Extra-large Majhoul dates, harvested from the palm groves of the Drâa Valley and naturally sun-dried. Plump, soft and with a natural caramel taste, they are an ideal energy source for sports, Ramadan, or as a gourmet gift. Packaged in trays to preserve their freshness.",
+      "darija": "تمر مجهول من النوع الكبير بزاف، مقطوف من غابات النخيل ديال وادي درعة ومجفف طبيعيًا بالشمس. لحمي وطري وبطعم الكراميل الطبيعي، كيعتبر مصدر طاقة مزيان للرياضة ولا رمضان ولا كهدية فاخرة. معلب فعلب باش يحافظ على الطراوة ديالو."
+    },
+    "shortDescription": {
+      "fr": "Dattes Majhoul extra-larges, séchées au soleil, vallée du Drâa.",
+      "ar": "تمور مجهول كبيرة جدًا، مجففة بالشمس، وادي درعة.",
+      "en": "Extra-large Majhoul dates, sun-dried, from the Drâa Valley.",
+      "darija": "تمر مجهول كبير بزاف، مجفف بالشمس، وادي درعة."
+    },
+    "unit": { "fr": "kg", "ar": "كلغ", "en": "kg", "darija": "كيلو" },
+    "price": 180,
+    "priceDiscount": 159,
+    "currency": "MAD",
+    "domain": "agriculture_bio",
+    "subcategory": {
+      "fr": "Dattes & Fruits secs",
+      "ar": "التمور والفواكه الجافة",
+      "en": "Dates & Dried Fruits",
+      "darija": "التمور والفواكه الجافة"
+    },
+    "tags": ["dattes", "Majhoul", "Drâa", "bio"],
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Draa_Valley_dates_%284489769077%29.jpg/960px-Draa_Valley_dates_%284489769077%29.jpg",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Draa_Valley_dates_%284489769077%29.jpg/960px-Draa_Valley_dates_%284489769077%29.jpg",
+        "alt": {
+          "fr": "Dattes fraîches de la vallée du Drâa",
+          "ar": "تمور طازجة من وادي درعة",
+          "en": "Fresh dates from the Drâa Valley",
+          "darija": "تمر طازة من وادي درعة"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Dates_Morocco.jpg/960px-Dates_Morocco.jpg",
+        "alt": {
+          "fr": "Dattes marocaines de qualité premium",
+          "ar": "تمور مغربية فاخرة",
+          "en": "Premium quality Moroccan dates",
+          "darija": "تمر مغربي فاخر"
+        }
+      }
+    ],
+    "proActorDomain": "agriculture_bio",
+    "stock": 45,
+    "isInfiniteStock": false,
+    "sku": "KB-BIO-003",
+    "status": "published",
+    "isActive": true,
+    "isFeatured": true,
+    "isOrganic": true,
+    "isHandmade": false,
+    "origin": { "region": "Drâa-Tafilalet", "city": "Zagora", "country": "Maroc" },
+    "certifications": ["Bio", "Séchage naturel"],
+    "slug": "dattes-majhoul-premium-vallee-draa",
+    "metaTitle": {
+      "fr": "Dattes Majhoul premium de la vallée du Drâa | KENZ BLADI",
+      "ar": "تمور المجهول الفاخرة من وادي درعة | كنز بلادي",
+      "en": "Premium Majhoul Dates from the Drâa Valley | KENZ BLADI",
+      "darija": "التمر مجهول الفاخر ديال وادي درعة | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Dattes Majhoul extra-larges et fondantes de la vallée du Drâa, séchées naturellement au soleil.",
+      "ar": "تمور مجهول كبيرة وطرية من وادي درعة، مجففة طبيعيًا بالشمس.",
+      "en": "Extra-large, soft Majhoul dates from the Drâa Valley, naturally sun-dried.",
+      "darija": "تمر مجهول كبير وطري من وادي درعة، مجفف طبيعيًا بالشمس."
+    },
+    "viewCount": 1680,
+    "salesCount": 234,
+    "rating": 4.9,
+    "reviewCount": 97
+  },
+  {
+    "name": {
+      "fr": "Dattes Boufeggous séchées du Tafilalet",
+      "ar": "تمور بوفقوس المجففة من تافيلالت",
+      "en": "Dried Boufeggous Dates from Tafilalet",
+      "darija": "تمر بوفكوس مجفف ديال تافيلالت"
+    },
+    "description": {
+      "fr": "Variété rare et prisée originaire des oasis du Tafilalet, la datte Boufeggous se distingue par sa texture sèche et fibreuse et son goût sucré intense rappelant le miel et la noix. Séchées naturellement sur les palmiers avant récolte, elles se conservent longtemps sans réfrigération et constituent un en-cas traditionnel apprécié des nomades.",
+      "ar": "صنف نادر ومرغوب فيه من واحات تافيلالت، تتميز تمرة بوفقوس بقوامها الجاف والليفي ونكهتها السكرية القوية التي تذكر بالعسل والجوز. تُجفف طبيعيًا على النخيل قبل القطف، وتدوم طويلًا دون تبريد، وتُعد وجبة خفيفة تقليدية يفضلها الرحل.",
+      "en": "A rare and prized variety from the oases of Tafilalet, the Boufeggous date stands out for its dry, fibrous texture and intense sweet taste reminiscent of honey and walnut. Naturally dried on the palm trees before harvest, they keep for a long time without refrigeration and are a traditional snack favored by nomads.",
+      "darija": "صنف نادر ومرغوب فيه من واحات تافيلالت، تمرة بوفكوس كتميز بقوامها الجاف والليفي ونكهتها الحلوة القوية اللي كتفكر بالعسل والجوز. كتجف طبيعيًا فوق النخل قبل القطاف، وكتقدر تدوم وقت طويل بلا تبريد، وكتعتبر وجبة خفيفة تقليدية محبوبة عند الرحل."
+    },
+    "shortDescription": {
+      "fr": "Dattes Boufeggous séchées sur l'arbre, texture fibreuse, goût intense.",
+      "ar": "تمور بوفقوس مجففة على الشجرة، قوام ليفي ونكهة قوية.",
+      "en": "Boufeggous dates dried on the tree, fibrous texture, intense flavor.",
+      "darija": "تمر بوفكوس مجفف فوق الشجرة، قوام ليفي ونكهة قوية."
+    },
+    "unit": { "fr": "kg", "ar": "كلغ", "en": "kg", "darija": "كيلو" },
+    "price": 95,
+    "priceDiscount": null,
+    "currency": "MAD",
+    "domain": "agriculture_bio",
+    "subcategory": {
+      "fr": "Dattes & Fruits secs",
+      "ar": "التمور والفواكه الجافة",
+      "en": "Dates & Dried Fruits",
+      "darija": "التمور والفواكه الجافة"
+    },
+    "tags": ["dattes", "Boufeggous", "Tafilalet", "séché"],
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Boufqqous_Dates.jpg/960px-Boufqqous_Dates.jpg",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Boufqqous_Dates.jpg/960px-Boufqqous_Dates.jpg",
+        "alt": {
+          "fr": "Dattes Boufeggous séchées du Tafilalet",
+          "ar": "تمور بوفقوس مجففة من تافيلالت",
+          "en": "Dried Boufeggous dates from Tafilalet",
+          "darija": "تمر بوفكوس مجفف ديال تافيلالت"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Alfeggous_Dates.jpg/960px-Alfeggous_Dates.jpg",
+        "alt": {
+          "fr": "Variété de dattes traditionnelles marocaines",
+          "ar": "صنف من التمور المغربية التقليدية",
+          "en": "Variety of traditional Moroccan dates",
+          "darija": "صنف من التمر المغربي التقليدي"
+        }
+      }
+    ],
+    "proActorDomain": "agriculture_bio",
+    "stock": 35,
+    "isInfiniteStock": false,
+    "sku": "KB-BIO-004",
+    "status": "published",
+    "isActive": true,
+    "isFeatured": false,
+    "isOrganic": true,
+    "isHandmade": false,
+    "origin": { "region": "Drâa-Tafilalet", "city": "Erfoud", "country": "Maroc" },
+    "certifications": ["Bio", "Séchage naturel"],
+    "slug": "dattes-boufeggous-sechees-tafilalet",
+    "metaTitle": {
+      "fr": "Dattes Boufeggous séchées du Tafilalet | KENZ BLADI",
+      "ar": "تمور بوفقوس المجففة من تافيلالت | كنز بلادي",
+      "en": "Dried Boufeggous Dates from Tafilalet | KENZ BLADI",
+      "darija": "تمر بوفكوس مجفف ديال تافيلالت | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Dattes Boufeggous rares du Tafilalet, séchées naturellement sur l'arbre, texture fibreuse et goût de miel.",
+      "ar": "تمور بوفقوس النادرة من تافيلالت، مجففة طبيعيًا على الشجرة، قوام ليفي ونكهة العسل.",
+      "en": "Rare Boufeggous dates from Tafilalet, naturally tree-dried, fibrous texture and honey flavor.",
+      "darija": "تمر بوفكوس النادر ديال تافيلالت، مجفف طبيعيًا فوق الشجرة، قوام ليفي ونكهة العسل."
+    },
+    "viewCount": 410,
+    "salesCount": 58,
+    "rating": 4.5,
+    "reviewCount": 19
+  },
+  {
+    "name": {
+      "fr": "Miel d'eucalyptus pur et naturel du Maroc",
+      "ar": "عسل الكاليبتوس النقي والطبيعي من المغرب",
+      "en": "Pure Natural Moroccan Eucalyptus Honey",
+      "darija": "عسل الكاليبتوس النقي والطبيعي ديال المغرب"
+    },
+    "description": {
+      "fr": "Miel monofloral récolté dans les ruchers d'eucalyptus du Maroc, non pasteurisé et non filtré pour préserver tous ses bienfaits naturels. Sa couleur ambrée foncée et son goût légèrement mentholé en font un allié idéal pour apaiser la gorge et renforcer les défenses immunitaires. Récolté et conditionné par des apiculteurs locaux selon des méthodes traditionnelles.",
+      "ar": "عسل أحادي الزهرة مُستخرج من مناحل الكاليبتوس بالمغرب، غير مبستر وغير مصفى للحفاظ على جميع فوائده الطبيعية. لونه الكهرماني الداكن ونكهته المنعشة قليلًا تجعله حليفًا مثاليًا لتهدئة الحلق وتقوية المناعة. يُجمع ويُعبأ من طرف نحالين محليين وفق طرق تقليدية.",
+      "en": "A monofloral honey harvested from eucalyptus apiaries in Morocco, unpasteurized and unfiltered to preserve all its natural benefits. Its dark amber color and slightly minty taste make it an ideal ally for soothing the throat and boosting immune defenses. Harvested and packaged by local beekeepers using traditional methods.",
+      "darija": "عسل من زهرة وحدة مجموع من مناحل الكاليبتوس بالمغرب، ماشي مبستر وماشي مصفى باش يحافظ على الفوائد الطبيعية ديالو. اللون الكهرماني الغامق والنكهة المنعشة شوية كيخليوه حليف مزيان باش يهدي الحلق ويقوي المناعة. مجموع ومعلب من طرف نحالة محليين بطرق تقليدية."
+    },
+    "shortDescription": {
+      "fr": "Miel d'eucalyptus brut, non filtré, récolté par des apiculteurs locaux.",
+      "ar": "عسل كاليبتوس خام غير مصفى، يجمعه نحالون محليون.",
+      "en": "Raw unfiltered eucalyptus honey, harvested by local beekeepers.",
+      "darija": "عسل كاليبتوس خام ماشي مصفى، مجموع من طرف نحالة محليين."
+    },
+    "unit": { "fr": "pot 500g", "ar": "علبة 500غ", "en": "jar 500g", "darija": "طوكة 500غ" },
+    "price": 110,
+    "priceDiscount": null,
+    "currency": "MAD",
+    "domain": "agriculture_bio",
+    "subcategory": {
+      "fr": "Miel & Produits de la ruche",
+      "ar": "العسل ومنتجات النحل",
+      "en": "Honey & Hive Products",
+      "darija": "العسل ومنتجات النحل"
+    },
+    "tags": ["miel", "eucalyptus", "bio", "apiculture"],
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Sweet_moroccan_honey_biscuits_in_the_Souks_of_Marrakech.JPG/960px-Sweet_moroccan_honey_biscuits_in_the_Souks_of_Marrakech.JPG",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Sweet_moroccan_honey_biscuits_in_the_Souks_of_Marrakech.JPG/960px-Sweet_moroccan_honey_biscuits_in_the_Souks_of_Marrakech.JPG",
+        "alt": {
+          "fr": "Pâtisseries au miel dans les souks de Marrakech",
+          "ar": "حلويات بالعسل في أسواق مراكش",
+          "en": "Honey pastries in the souks of Marrakech",
+          "darija": "حلويات بالعسل فسواق مراكش"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Moroccan_Shebbakiyya.jpg/960px-Moroccan_Shebbakiyya.jpg",
+        "alt": {
+          "fr": "Shebbakiya marocaine au miel",
+          "ar": "شباكية مغربية بالعسل",
+          "en": "Moroccan shebbakiya with honey",
+          "darija": "شباكية مغربية بالعسل"
+        }
+      }
+    ],
+    "proActorDomain": "agriculture_bio",
+    "stock": 70,
+    "isInfiniteStock": false,
+    "sku": "KB-BIO-005",
+    "status": "published",
+    "isActive": true,
+    "isFeatured": true,
+    "isOrganic": true,
+    "isHandmade": true,
+    "origin": { "region": "Tanger-Tétouan-Al Hoceïma", "city": "Chefchaouen", "country": "Maroc" },
+    "certifications": ["Bio", "Non pasteurisé"],
+    "slug": "miel-eucalyptus-pur-naturel-maroc",
+    "metaTitle": {
+      "fr": "Miel d'eucalyptus pur du Maroc | KENZ BLADI",
+      "ar": "عسل الكاليبتوس النقي من المغرب | كنز بلادي",
+      "en": "Pure Moroccan Eucalyptus Honey | KENZ BLADI",
+      "darija": "عسل الكاليبتوس النقي ديال المغرب | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Miel d'eucalyptus brut et non filtré, récolté par des apiculteurs locaux du nord du Maroc.",
+      "ar": "عسل كاليبتوس خام وغير مصفى، يجمعه نحالون محليون من شمال المغرب.",
+      "en": "Raw, unfiltered eucalyptus honey, harvested by local beekeepers in northern Morocco.",
+      "darija": "عسل كاليبتوس خام وماشي مصفى، مجموع من طرف نحالة محليين فشمال المغرب."
+    },
+    "viewCount": 980,
+    "salesCount": 167,
+    "rating": 4.8,
+    "reviewCount": 63
+  },
+  {
+    "name": {
+      "fr": "Sellou traditionnel aux amandes, sésame et miel",
+      "ar": "سلو تقليدي باللوز والسمسم والعسل",
+      "en": "Traditional Sellou with Almonds, Sesame and Honey",
+      "darija": "سلو تقليدي باللوز والجلجلان والعسل"
+    },
+    "description": {
+      "fr": "Préparation énergétique traditionnelle à base de farine grillée, d'amandes torréfiées, de graines de sésame et de miel pur, parfumée à la cannelle et au beurre. Le sellou (ou sfouf) est traditionnellement consommé pendant le Ramadan ou offert lors de naissances, mais se déguste toute l'année avec un thé à la menthe. Préparé selon une recette transmise de mère en fille.",
+      "ar": "تحضير تقليدي مقوٍّ يعتمد على الدقيق المحمص واللوز المحمص وحبوب السمسم والعسل النقي، معطر بالقرفة والزبدة. يُستهلك السلو (أو الصفوف) تقليديًا خلال شهر رمضان أو يُقدَّم في المناسبات كالولادات، لكنه يُتذوق طوال السنة مع كأس من أتاي بالنعناع. مُحضَّر وفق وصفة متوارثة من الأم إلى الابنة.",
+      "en": "A traditional energy-boosting preparation made from roasted flour, toasted almonds, sesame seeds and pure honey, flavored with cinnamon and butter. Sellou (or sfouf) is traditionally eaten during Ramadan or offered at births, but is enjoyed year-round with a glass of mint tea. Prepared according to a recipe passed down from mother to daughter.",
+      "darija": "تحضير تقليدي مقوي معتمد على الدقيق المحمص واللوز المحمص والجلجلان والعسل النقي، معطر بالقرفة والزبدة. السلو (ولا الصفوف) كيتاكل تقليديًا فرمضان ولا كيتقدم فالمناسبات بحال الولادة، ولكن كيتذوق طول السنة مع كاس ديال أتاي بالنعناع. محضر بوصفة موروثة من الأم للبنت."
+    },
+    "shortDescription": {
+      "fr": "Sellou maison aux amandes, sésame, miel et cannelle.",
+      "ar": "سلو منزلي باللوز والسمسم والعسل والقرفة.",
+      "en": "Homemade sellou with almonds, sesame, honey and cinnamon.",
+      "darija": "سلو ديال الدار باللوز والجلجلان والعسل والقرفة."
+    },
+    "unit": { "fr": "pot 400g", "ar": "علبة 400غ", "en": "jar 400g", "darija": "طوكة 400غ" },
+    "price": 75,
+    "priceDiscount": 65,
+    "currency": "MAD",
+    "domain": "agriculture_bio",
+    "subcategory": {
+      "fr": "Miel & Produits de la ruche",
+      "ar": "العسل ومنتجات النحل",
+      "en": "Honey & Hive Products",
+      "darija": "العسل ومنتجات النحل"
+    },
+    "tags": ["sellou", "miel", "amandes", "tradition"],
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Sllou_with_Moroccan_tea.jpg/960px-Sllou_with_Moroccan_tea.jpg",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Sllou_with_Moroccan_tea.jpg/960px-Sllou_with_Moroccan_tea.jpg",
+        "alt": {
+          "fr": "Sellou marocain servi avec du thé à la menthe",
+          "ar": "سلو مغربي يقدم مع أتاي بالنعناع",
+          "en": "Moroccan sellou served with mint tea",
+          "darija": "سلو مغربي مقدم مع أتاي بالنعناع"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Sllou_with_Moroccan_tea_2.jpg/960px-Sllou_with_Moroccan_tea_2.jpg",
+        "alt": {
+          "fr": "Sellou aux amandes et au miel présenté en bol",
+          "ar": "سلو باللوز والعسل مقدم في وعاء",
+          "en": "Almond and honey sellou presented in a bowl",
+          "darija": "سلو باللوز والعسل مقدم فطبسيل"
+        }
+      }
+    ],
+    "proActorDomain": "agriculture_bio",
+    "stock": 40,
+    "isInfiniteStock": false,
+    "sku": "KB-BIO-006",
+    "status": "published",
+    "isActive": true,
+    "isFeatured": false,
+    "isOrganic": true,
+    "isHandmade": true,
+    "origin": { "region": "Marrakech-Safi", "city": "Marrakech", "country": "Maroc" },
+    "certifications": ["Fait main", "Bio"],
+    "slug": "sellou-traditionnel-amandes-sesame-miel",
+    "metaTitle": {
+      "fr": "Sellou traditionnel aux amandes et miel | KENZ BLADI",
+      "ar": "سلو تقليدي باللوز والعسل | كنز بلادي",
+      "en": "Traditional Sellou with Almonds and Honey | KENZ BLADI",
+      "darija": "سلو تقليدي باللوز والعسل | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Sellou traditionnel marocain à base de farine grillée, amandes, sésame et miel, recette transmise de mère en fille.",
+      "ar": "سلو مغربي تقليدي من الدقيق المحمص واللوز والسمسم والعسل، وصفة متوارثة من الأم إلى الابنة.",
+      "en": "Traditional Moroccan sellou made from roasted flour, almonds, sesame and honey, a recipe passed down from mother to daughter.",
+      "darija": "سلو مغربي تقليدي من الدقيق المحمص واللوز والجلجلان والعسل، وصفة موروثة من الأم للبنت."
+    },
+    "viewCount": 380,
+    "salesCount": 95,
+    "rating": 4.7,
+    "reviewCount": 38
+  },
+  {
+    "name": {
+      "fr": "Figues de barbarie séchées bio",
+      "ar": "تين الصبار المجفف البيولوجي",
+      "en": "Organic Dried Prickly Pear Figs",
+      "darija": "كرموص الهندي مجفف بيو"
+    },
+    "description": {
+      "fr": "Figues de barbarie cueillies à maturité dans les plantations de cactus du Souss-Massa, pelées et séchées naturellement au soleil pour concentrer leurs sucres et leur richesse en fibres et en antioxydants. Leur texture moelleuse et leurs petits pépins croquants en font un en-cas sain, sans sucre ajouté, à savourer nature ou dans un mélange de fruits secs.",
+      "ar": "تين الصبار مقطوف في طور النضج من مزارع الصبار بسوس ماسة، مقشر ومجفف طبيعيًا بأشعة الشمس لتركيز سكرياته وغناه بالألياف ومضادات الأكسدة. قوامه الطري وبذوره الصغيرة المقرمشة تجعله وجبة خفيفة صحية، بدون سكر مضاف، تُؤكل وحدها أو ضمن خليط من الفواكه الجافة.",
+      "en": "Prickly pear figs picked at full ripeness from cactus plantations in Souss-Massa, peeled and naturally sun-dried to concentrate their natural sugars and their richness in fiber and antioxidants. Their soft texture and tiny crunchy seeds make them a healthy snack, with no added sugar, enjoyed plain or in a dried fruit mix.",
+      "darija": "كرموص الهندي مقطوف فوقت النضج من مزارع الصبار بسوس ماسة، مقشر ومجفف طبيعيًا بالشمس باش يركز السكر الطبيعي ديالو والغنى بالألياف ومضادات الأكسدة. القوام الطري ديالو والزرائر الصغار المقرمشين كيخليوه وجبة خفيفة صحية، بلا سكر زايد، تتاكل وحدها ولا فخليط ديال الفواكه الجافة."
+    },
+    "shortDescription": {
+      "fr": "Figues de barbarie séchées au soleil, sans sucre ajouté, riches en fibres.",
+      "ar": "تين الصبار مجفف بالشمس، بدون سكر مضاف، غني بالألياف.",
+      "en": "Sun-dried prickly pear figs, no added sugar, rich in fiber.",
+      "darija": "كرموص الهندي مجفف بالشمس، بلا سكر زايد، غني بالألياف."
+    },
+    "unit": { "fr": "sachet 250g", "ar": "كيس 250غ", "en": "bag 250g", "darija": "ساشي 250غ" },
+    "price": 70,
+    "priceDiscount": null,
+    "currency": "MAD",
+    "domain": "agriculture_bio",
+    "subcategory": {
+      "fr": "Dattes & Fruits secs",
+      "ar": "التمور والفواكه الجافة",
+      "en": "Dates & Dried Fruits",
+      "darija": "التمور والفواكه الجافة"
+    },
+    "tags": ["figue de barbarie", "bio", "fruit sec", "Souss-Massa"],
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Figues_De_Barbarie_%2816974137%29.jpeg/960px-Figues_De_Barbarie_%2816974137%29.jpeg",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Figues_De_Barbarie_%2816974137%29.jpeg/960px-Figues_De_Barbarie_%2816974137%29.jpeg",
+        "alt": {
+          "fr": "Figues de barbarie fraîches du Souss-Massa",
+          "ar": "تين الصبار الطازج من سوس ماسة",
+          "en": "Fresh prickly pear figs from Souss-Massa",
+          "darija": "كرموص الهندي الطازة ديال سوس ماسة"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Tunas_%285226345295%29.jpg/960px-Tunas_%285226345295%29.jpg",
+        "alt": {
+          "fr": "Figues de barbarie sur le cactus",
+          "ar": "تين الصبار على شجرة الصبار",
+          "en": "Prickly pear figs on the cactus",
+          "darija": "كرموص الهندي فوق شجرة الصبار"
+        }
+      }
+    ],
+    "proActorDomain": "agriculture_bio",
+    "stock": 50,
+    "isInfiniteStock": false,
+    "sku": "KB-BIO-007",
+    "status": "published",
+    "isActive": true,
+    "isFeatured": false,
+    "isOrganic": true,
+    "isHandmade": false,
+    "origin": { "region": "Souss-Massa", "city": "Aït Baha", "country": "Maroc" },
+    "certifications": ["Bio", "Sans sucre ajouté"],
+    "slug": "figues-barbarie-sechees-bio",
+    "metaTitle": {
+      "fr": "Figues de barbarie séchées bio – Souss-Massa | KENZ BLADI",
+      "ar": "تين الصبار المجفف البيو – سوس ماسة | كنز بلادي",
+      "en": "Organic Dried Prickly Pear Figs – Souss-Massa | KENZ BLADI",
+      "darija": "كرموص الهندي مجفف بيو – سوس ماسة | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Figues de barbarie bio séchées au soleil, sans sucre ajouté, riches en fibres et antioxydants.",
+      "ar": "تين صبار بيو مجفف بالشمس، بدون سكر مضاف، غني بالألياف ومضادات الأكسدة.",
+      "en": "Organic sun-dried prickly pear figs, no added sugar, rich in fiber and antioxidants.",
+      "darija": "كرموص الهندي بيو مجفف بالشمس، بلا سكر زايد، غني بالألياف ومضادات الأكسدة."
+    },
+    "viewCount": 290,
+    "salesCount": 47,
+    "rating": 4.4,
+    "reviewCount": 16
+  },
+  {
+    "name": {
+      "fr": "Confiture de figues de barbarie artisanale",
+      "ar": "مربى تين الصبار الحرفي",
+      "en": "Artisanal Prickly Pear Jam",
+      "darija": "كونفيتير ديال الكرموص الهندي حرفي"
+    },
+    "description": {
+      "fr": "Confiture onctueuse préparée en petites quantités à partir de pulpe de figues de barbarie fraîchement récoltée, cuite lentement avec un minimum de sucre de canne pour préserver son goût naturellement parfumé et sa belle couleur rosée. Délicieuse sur du pain frais, des crêpes marocaines (msemen) ou en accompagnement de fromages.",
+      "ar": "مربى ناعم محضر بكميات صغيرة من لب تين الصبار المقطوف حديثًا، يُطهى ببطء مع كمية قليلة من سكر القصب للحفاظ على نكهته الطبيعية ولونه الوردي الجميل. لذيذ مع الخبز الطازج أو المسمن المغربي أو كمرافق للجبن.",
+      "en": "A smooth jam prepared in small batches from freshly harvested prickly pear pulp, slowly cooked with a minimal amount of cane sugar to preserve its naturally fragrant taste and lovely pink color. Delicious on fresh bread, Moroccan msemen pancakes, or paired with cheese.",
+      "darija": "كونفيتير ناعم محضر بكميات صغار من لب الكرموص الهندي المقطوف حديثًا، كيطيب بشوية مع كمية قليلة من السكر ديال القصب باش يحافظ على النكهة الطبيعية ديالو واللون الوردي الزوين. بنين مع الخبز الطازة ولا المسمن المغربي ولا مرفقة مع الجبن."
+    },
+    "shortDescription": {
+      "fr": "Confiture artisanale de figues de barbarie, peu sucrée, couleur rosée.",
+      "ar": "مربى حرفي من تين الصبار، قليل السكر، لون وردي.",
+      "en": "Artisanal prickly pear jam, low sugar, pink color.",
+      "darija": "كونفيتير حرفي من الكرموص الهندي، قليل السكر، لون وردي."
+    },
+    "unit": { "fr": "pot 250g", "ar": "علبة 250غ", "en": "jar 250g", "darija": "طوكة 250غ" },
+    "price": 48,
+    "priceDiscount": 40,
+    "currency": "MAD",
+    "domain": "agriculture_bio",
+    "subcategory": {
+      "fr": "Confitures & Conserves",
+      "ar": "المربى والمواد المعلبة",
+      "en": "Jams & Preserves",
+      "darija": "المربى والمواد المعلبة"
+    },
+    "tags": ["confiture", "figue de barbarie", "artisanal", "bio"],
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Tunas_%285226345295%29.jpg/960px-Tunas_%285226345295%29.jpg",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Tunas_%285226345295%29.jpg/960px-Tunas_%285226345295%29.jpg",
+        "alt": {
+          "fr": "Figues de barbarie utilisées pour la confiture",
+          "ar": "تين الصبار المستعمل في المربى",
+          "en": "Prickly pear figs used for jam",
+          "darija": "كرموص الهندي مستعمل فالكونفيتير"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Figues_De_Barbarie_%2816974137%29.jpeg/960px-Figues_De_Barbarie_%2816974137%29.jpeg",
+        "alt": {
+          "fr": "Pulpe de figues de barbarie fraîche",
+          "ar": "لب تين الصبار الطازج",
+          "en": "Fresh prickly pear pulp",
+          "darija": "لب الكرموص الهندي الطازة"
+        }
+      }
+    ],
+    "proActorDomain": "agriculture_bio",
+    "stock": 38,
+    "isInfiniteStock": false,
+    "sku": "KB-BIO-008",
+    "status": "published",
+    "isActive": true,
+    "isFeatured": true,
+    "isOrganic": true,
+    "isHandmade": true,
+    "origin": { "region": "Souss-Massa", "city": "Aït Baha", "country": "Maroc" },
+    "certifications": ["Bio", "Fait main"],
+    "slug": "confiture-figues-barbarie-artisanale",
+    "metaTitle": {
+      "fr": "Confiture de figues de barbarie artisanale | KENZ BLADI",
+      "ar": "مربى تين الصبار الحرفي | كنز بلادي",
+      "en": "Artisanal Prickly Pear Jam | KENZ BLADI",
+      "darija": "كونفيتير ديال الكرموص الهندي حرفي | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Confiture artisanale de figues de barbarie, cuite lentement avec peu de sucre, goût naturel et couleur rosée.",
+      "ar": "مربى حرفي من تين الصبار، مطهو ببطء بكمية قليلة من السكر، نكهة طبيعية ولون وردي.",
+      "en": "Artisanal prickly pear jam, slow-cooked with little sugar, natural taste and pink color.",
+      "darija": "كونفيتير حرفي من الكرموص الهندي، مطيب بشوية بسكر قليل، نكهة طبيعية ولون وردي."
+    },
+    "viewCount": 260,
+    "salesCount": 71,
+    "rating": 4.6,
+    "reviewCount": 24
+  }
+]

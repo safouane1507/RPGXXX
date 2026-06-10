@@ -1,0 +1,788 @@
+{
+  "heroSlides": [
+    {
+      "id": "hero-1",
+      "title": {
+        "fr": "Le trésor de l'artisanat marocain, à portée de main",
+        "ar": "كنز الصناعة التقليدية المغربية، بين يديك",
+        "en": "The Treasure of Moroccan Craftsmanship, Within Reach",
+        "darija": "كنز الصنعة المغربية، بين يديك"
+      },
+      "subtitle": {
+        "fr": "Découvrez et achetez directement auprès des artisans, coopératives et producteurs locaux du Maroc",
+        "ar": "اكتشف واشتر مباشرة من الحرفيين والتعاونيات والمنتجين المحليين بالمغرب",
+        "en": "Discover and buy directly from Morocco's artisans, cooperatives and local producers",
+        "darija": "اكتشف وشري بشكل مباشر من الحرفيين والتعاونيات والمنتجين المحليين بالمغرب"
+      },
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Jemaa_el-Fnaa_at_night.jpg/960px-Jemaa_el-Fnaa_at_night.jpg",
+      "buttonLabel": {
+        "fr": "Explorer la marketplace",
+        "ar": "استكشف المتجر",
+        "en": "Explore the Marketplace",
+        "darija": "اكتشف السوق"
+      },
+      "buttonUrl": "/marketplace"
+    },
+    {
+      "id": "hero-2",
+      "title": {
+        "fr": "Des trésors tissés à la main, des montagnes au désert",
+        "ar": "كنوز منسوجة باليد، من الجبال إلى الصحراء",
+        "en": "Treasures Woven by Hand, from the Mountains to the Desert",
+        "darija": "كنوز منسوجة باليد، من الجبال للصحرا"
+      },
+      "subtitle": {
+        "fr": "Tapis berbères, caftans brodés, poteries et bijoux : un patrimoine vivant à soutenir",
+        "ar": "زرابي أمازيغية، قفاطين مطرزة، فخار ومجوهرات: تراث حي يستحق الدعم",
+        "en": "Berber rugs, embroidered caftans, pottery and jewellery: a living heritage worth supporting",
+        "darija": "زرابي أمازيغية، قفاطين مطرزة، فخار ومجوهرات: تراث حي يستاهل الدعم"
+      },
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Swatches_of_berber_carpet.jpg/960px-Swatches_of_berber_carpet.jpg",
+      "buttonLabel": {
+        "fr": "Voir l'artisanat d'art",
+        "ar": "اكتشف الصناعة التقليدية الفنية",
+        "en": "View Art Craftsmanship",
+        "darija": "شوف الصنعة الفنية"
+      },
+      "buttonUrl": "/marketplace?domain=artisanat_art"
+    },
+    {
+      "id": "hero-3",
+      "title": {
+        "fr": "Vivez le Maroc autrement : tourisme rural & authentique",
+        "ar": "عش المغرب بشكل مختلف: سياحة قروية وأصيلة",
+        "en": "Experience Morocco Differently: Authentic Rural Tourism",
+        "darija": "عيش المغرب بطريقة أخرى: سياحة قروية وأصيلة"
+      },
+      "subtitle": {
+        "fr": "Bivouacs dans le désert, randonnées dans l'Atlas, séjours en riad : préparez votre prochaine aventure",
+        "ar": "مخيمات في الصحراء، رحلات في الأطلس، إقامات في الرياض: حضّر مغامرتك القادمة",
+        "en": "Desert camps, Atlas hikes, riad stays: plan your next adventure",
+        "darija": "مخيمات فالصحرا، مشي فالأطلس، إقامات فرياض: حضر المغامرة الجاية ديالك"
+      },
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Dunes-Merzouga-Erg_Chebi.JPG/960px-Dunes-Merzouga-Erg_Chebi.JPG",
+      "buttonLabel": {
+        "fr": "Découvrir le tourisme rural",
+        "ar": "اكتشف السياحة القروية",
+        "en": "Discover Rural Tourism",
+        "darija": "اكتشف السياحة القروية"
+      },
+      "buttonUrl": "/tourism"
+    }
+  ],
+
+  "valueProps": [
+    {
+      "id": "authentique",
+      "icon": "shield-check",
+      "title": {
+        "fr": "100% authentique",
+        "ar": "أصيل 100%",
+        "en": "100% Authentic",
+        "darija": "أصيل 100%"
+      },
+      "description": {
+        "fr": "Produits vérifiés, issus directement des artisans et coopératives marocaines.",
+        "ar": "منتجات موثقة، مصدرها مباشرة الحرفيون والتعاونيات المغربية.",
+        "en": "Verified products, sourced directly from Moroccan artisans and cooperatives.",
+        "darija": "منتوجات موثقة، جايين بشكل مباشر من الحرفيين والتعاونيات المغربية."
+      }
+    },
+    {
+      "id": "livraison",
+      "icon": "truck",
+      "title": {
+        "fr": "Livraison partout au Maroc",
+        "ar": "التوصيل لجميع أنحاء المغرب",
+        "en": "Delivery Across Morocco",
+        "darija": "التوصيل لجميع المدن المغربية"
+      },
+      "description": {
+        "fr": "Vos commandes livrées en toute sécurité, où que vous soyez dans le Royaume.",
+        "ar": "توصيل طلباتك بأمان أينما كنت في المملكة.",
+        "en": "Your orders delivered safely wherever you are in the Kingdom.",
+        "darija": "الطلبيات ديالك توصل بأمان فأي بلاصة فالمملكة."
+      }
+    },
+    {
+      "id": "commerce-equitable",
+      "icon": "handshake",
+      "title": {
+        "fr": "Commerce équitable",
+        "ar": "تجارة منصفة",
+        "en": "Fair Trade",
+        "darija": "تجارة عادلة"
+      },
+      "description": {
+        "fr": "Une rémunération juste pour les artisans, sans intermédiaires excessifs.",
+        "ar": "أجر عادل للحرفيين، دون وسطاء مبالغ فيهم.",
+        "en": "Fair compensation for artisans, without excessive intermediaries.",
+        "darija": "أجر عادل للحرفيين، بلا وسطاء بزاف."
+      }
+    },
+    {
+      "id": "multilingue",
+      "icon": "globe",
+      "title": {
+        "fr": "Plateforme multilingue",
+        "ar": "منصة متعددة اللغات",
+        "en": "Multilingual Platform",
+        "darija": "منصة بعدة لغات"
+      },
+      "description": {
+        "fr": "Disponible en arabe, français, anglais et darija pour tous les utilisateurs.",
+        "ar": "متوفرة بالعربية والفرنسية والإنجليزية والدارجة لجميع المستخدمين.",
+        "en": "Available in Arabic, French, English and Darija for all users.",
+        "darija": "متوفرة بالعربية والفرنسية والإنجليزية والدارجة لجميع المستخدمين."
+      }
+    }
+  ],
+
+  "categoriesMenu": {
+    "title": {
+      "fr": "Explorez nos catégories",
+      "ar": "استكشف فئاتنا",
+      "en": "Explore Our Categories",
+      "darija": "اكتشف الفئات ديالنا"
+    },
+    "items": [
+      {
+        "id": "artisanat_service",
+        "label": { "fr": "Artisanat de Service", "ar": "الصناعة التقليدية للخدمات", "en": "Service Crafts", "darija": "الصنعة ديال الخدمات" },
+        "icon": "tools",
+        "color": "#8B4513",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/A_Babouches_manufacturing_workshop_in_Fez%2C_Morocco.jpg/960px-A_Babouches_manufacturing_workshop_in_Fez%2C_Morocco.jpg",
+        "url": "/marketplace?domain=artisanat_service"
+      },
+      {
+        "id": "produits_mer",
+        "label": { "fr": "Produits de la mer & Pêche artisanale", "ar": "منتجات البحر والصيد التقليدي", "en": "Sea Products & Artisanal Fishing", "darija": "منتوجات البحر والصيد" },
+        "icon": "anchor",
+        "color": "#006994",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Essaouira_-_fishing_port_1989_02.jpg/960px-Essaouira_-_fishing_port_1989_02.jpg",
+        "url": "/marketplace?domain=produits_mer"
+      },
+      {
+        "id": "habillement_mode",
+        "label": { "fr": "Habillement & Mode Marocaine", "ar": "الملبس والموضة المغربية", "en": "Moroccan Fashion & Clothing", "darija": "الكسوة والموضة المغربية" },
+        "icon": "shirt",
+        "color": "#C0392B",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Moroccan_Caftan%2C_Bahia_Palace%2C_Marrakech%2C_Morocco.jpg/960px-Moroccan_Caftan%2C_Bahia_Palace%2C_Marrakech%2C_Morocco.jpg",
+        "url": "/marketplace?domain=habillement_mode"
+      },
+      {
+        "id": "tourisme_rural",
+        "label": { "fr": "Tourisme Rural & Éco-tourisme", "ar": "السياحة القروية والسياحة البيئية", "en": "Rural Tourism & Eco-tourism", "darija": "السياحة القروية والإيكولوجية" },
+        "icon": "tree",
+        "color": "#27AE60",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Erg_Chebbi%2C_Sahara_Desert%2C_Morocco.jpg/960px-Erg_Chebbi%2C_Sahara_Desert%2C_Morocco.jpg",
+        "url": "/marketplace?domain=tourisme_rural"
+      },
+      {
+        "id": "artisanat_art",
+        "label": { "fr": "Artisanat d'art", "ar": "الصناعة التقليدية الفنية", "en": "Art Craftsmanship", "darija": "الصنعة الفنية" },
+        "icon": "palette",
+        "color": "#8E44AD",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Swatches_of_berber_carpet.jpg/960px-Swatches_of_berber_carpet.jpg",
+        "url": "/marketplace?domain=artisanat_art"
+      },
+      {
+        "id": "agriculture_bio",
+        "label": { "fr": "Agriculture Bio & Local", "ar": "الزراعة العضوية والمحلية", "en": "Organic & Local Agriculture", "darija": "الزراعة البيولوجية والمحلية" },
+        "icon": "leaf",
+        "color": "#2ECC71",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/OliveOilFactoryMorocco.jpg/960px-OliveOilFactoryMorocco.jpg",
+        "url": "/marketplace?domain=agriculture_bio"
+      },
+      {
+        "id": "soin_beaute",
+        "label": { "fr": "Soin & Beauté Naturelle", "ar": "العناية والجمال الطبيعي", "en": "Natural Beauty & Wellness", "darija": "العناية والجمال الطبيعي" },
+        "icon": "flower",
+        "color": "#E91E8C",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Huile_d%27argan_010.JPG/960px-Huile_d%27argan_010.JPG",
+        "url": "/marketplace?domain=soin_beaute"
+      },
+      {
+        "id": "produit_terroir",
+        "label": { "fr": "Produit de Terroir", "ar": "منتجات الأراضي", "en": "Local Terroir Products", "darija": "منتوجات الأرض" },
+        "icon": "wheat",
+        "color": "#F39C12",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Saffron_and_the_Atlas_Mountains.jpg/960px-Saffron_and_the_Atlas_Mountains.jpg",
+        "url": "/marketplace?domain=produit_terroir"
+      },
+      {
+        "id": "artisanat_culinaire",
+        "label": { "fr": "Artisanat Culinaire", "ar": "الصناعة التقليدية الطهوية", "en": "Culinary Crafts", "darija": "الصنعة الطهوية" },
+        "icon": "chef-hat",
+        "color": "#E74C3C",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Tajine_012.JPG/960px-Tajine_012.JPG",
+        "url": "/marketplace?domain=artisanat_culinaire"
+      }
+    ]
+  },
+
+  "featuredProductsCarousel": {
+    "title": {
+      "fr": "Produits à la une",
+      "ar": "منتجات مميزة",
+      "en": "Featured Products",
+      "darija": "منتوجات مميزة"
+    },
+    "subtitle": {
+      "fr": "Une sélection de pièces authentiques venues de tout le Maroc",
+      "ar": "تشكيلة من القطع الأصيلة من جميع أنحاء المغرب",
+      "en": "A selection of authentic pieces from all over Morocco",
+      "darija": "تشكيلة من القطع الأصيلة من جميع أنحاء المغرب"
+    },
+    "viewAllUrl": "/marketplace",
+    "items": [
+      {
+        "type": "product",
+        "slug": "tapis-berbere-beni-ourain-laine-naturelle",
+        "domain": "artisanat_art",
+        "name": {
+          "fr": "Tapis berbère Beni Ourain en laine naturelle",
+          "ar": "زربية أمازيغية بني وراين من الصوف الطبيعي",
+          "en": "Authentic Beni Ourain Berber Wool Rug",
+          "darija": "زربية أمازيغية بني وراين من الصوف الطبيعي"
+        },
+        "shortDescription": {
+          "fr": "Tapis Beni Ourain tissé main en laine naturelle, motifs géométriques uniques.",
+          "ar": "زربية بني وراين منسوجة يدويًا من الصوف الطبيعي، أشكال هندسية فريدة.",
+          "en": "Hand-woven Beni Ourain rug in natural wool, unique geometric patterns.",
+          "darija": "زربية بني وراين منسوجة بليد من الصوف الطبيعي، أشكال هندسية فريدة."
+        },
+        "price": 2400,
+        "currency": "MAD",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Swatches_of_berber_carpet.jpg/960px-Swatches_of_berber_carpet.jpg"
+      },
+      {
+        "type": "product",
+        "slug": "caftan-marocain-brode-luxe",
+        "domain": "habillement_mode",
+        "name": {
+          "fr": "Caftan marocain brodé de luxe",
+          "ar": "قفطان مغربي فاخر مطرز",
+          "en": "Luxury Embroidered Moroccan Caftan",
+          "darija": "قفطان مغربي فاخر مطرز"
+        },
+        "shortDescription": {
+          "fr": "Caftan de cérémonie en velours brodé main, technique sqalli de Fès.",
+          "ar": "قفطان للمناسبات من المخمل المطرز يدويًا بتقنية السقطي الفاسية.",
+          "en": "Ceremonial velvet caftan with hand embroidery, Fès sqalli technique.",
+          "darija": "قفطان ديال المناسبات من المخمل مطرز بليد بتقنية السقطي الفاسية."
+        },
+        "price": 1450,
+        "currency": "MAD",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Moroccan_Caftan%2C_Bahia_Palace%2C_Marrakech%2C_Morocco.jpg/960px-Moroccan_Caftan%2C_Bahia_Palace%2C_Marrakech%2C_Morocco.jpg"
+      },
+      {
+        "type": "product",
+        "slug": "huile-argan-cosmetique-pure-bio",
+        "domain": "soin_beaute",
+        "name": {
+          "fr": "Huile d'argan cosmétique pure 100% bio",
+          "ar": "زيت الأركان التجميلي النقي 100% بيو",
+          "en": "100% Pure Organic Cosmetic Argan Oil",
+          "darija": "زيت الأركان ديال التجميل النقي 100% بيو"
+        },
+        "shortDescription": {
+          "fr": "Huile d'argan cosmétique vierge, pressée à froid par des coopératives féminines.",
+          "ar": "زيت أركان تجميلي بكر، معصور على البارد من طرف تعاونيات نسائية.",
+          "en": "Virgin cosmetic argan oil, cold-pressed by women's cooperatives.",
+          "darija": "زيت أركان ديال التجميل بكر، معصور على البارد من طرف تعاونيات نسائية."
+        },
+        "price": 145,
+        "currency": "MAD",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Huile_d%27argan_010.JPG/960px-Huile_d%27argan_010.JPG"
+      },
+      {
+        "type": "product",
+        "slug": "safran-aop-taliouine-filaments",
+        "domain": "produit_terroir",
+        "name": {
+          "fr": "Safran AOP de Taliouine en filaments",
+          "ar": "زعفران طاليوين الأصيل خيوط",
+          "en": "AOP Taliouine Saffron Threads",
+          "darija": "الزعفران ديال طاليوين خيوط أصلي"
+        },
+        "shortDescription": {
+          "fr": "Safran AOP en filaments, récolté à la main à Taliouine.",
+          "ar": "زعفران أصيل خيوط، يُقطف يدويًا بطاليوين.",
+          "en": "AOP saffron threads, hand-picked in Taliouine.",
+          "darija": "زعفران أصيل خيوط، مقطوف بليد بطاليوين."
+        },
+        "price": 95,
+        "currency": "MAD",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Saffron_and_the_Atlas_Mountains.jpg/960px-Saffron_and_the_Atlas_Mountains.jpg"
+      },
+      {
+        "type": "product",
+        "slug": "tagine-decoratif-emaille-fes",
+        "domain": "artisanat_culinaire",
+        "name": {
+          "fr": "Tagine décoratif émaillé de Fès",
+          "ar": "طاجين مزخرف مطلي بالميناء من فاس",
+          "en": "Decorative Glazed Tagine from Fès",
+          "darija": "طاجين مزخرف مطلي بالميناء ديال فاس"
+        },
+        "shortDescription": {
+          "fr": "Tagine émaillé décoratif de Fès, motifs géométriques bleus et verts.",
+          "ar": "طاجين مزخرف مطلي بالميناء من فاس، زخارف هندسية زرقاء وخضراء.",
+          "en": "Decorative glazed tagine from Fès, blue and green geometric patterns.",
+          "darija": "طاجين مزخرف مطلي بالميناء ديال فاس، زخارف هندسية زرقة وخضرة."
+        },
+        "price": 320,
+        "currency": "MAD",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Tajine_012.JPG/960px-Tajine_012.JPG"
+      },
+      {
+        "type": "product",
+        "slug": "sac-cuir-fait-main-fes",
+        "domain": "artisanat_service",
+        "name": {
+          "fr": "Sac à main en cuir véritable fait main",
+          "ar": "حقيبة يد من الجلد الطبيعي صناعة يدوية",
+          "en": "Handmade Genuine Leather Handbag",
+          "darija": "ساك ديال اليد بالجلد الطبيعي خدمة اليد"
+        },
+        "shortDescription": {
+          "fr": "Sac en cuir de chèvre tanné traditionnellement, cousu main à Fès.",
+          "ar": "حقيبة من جلد الماعز المدبوغ تقليديًا، مخيطة يدويًا في فاس.",
+          "en": "Goat leather handbag, traditionally tanned and hand-stitched in Fès.",
+          "darija": "ساك ديال جلد الماعز مدبوغ بالطريقة التقليدية، مخيط باليد فالفاس."
+        },
+        "price": 380,
+        "currency": "MAD",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/A_Babouches_manufacturing_workshop_in_Fez%2C_Morocco.jpg/960px-A_Babouches_manufacturing_workshop_in_Fez%2C_Morocco.jpg"
+      },
+      {
+        "type": "product",
+        "slug": "huile-olive-extra-vierge-bio-atlas",
+        "domain": "agriculture_bio",
+        "name": {
+          "fr": "Huile d'olive extra vierge biologique de l'Atlas",
+          "ar": "زيت الزيتون البكر الممتاز البيولوجي من الأطلس",
+          "en": "Organic Extra Virgin Olive Oil from the Atlas",
+          "darija": "زيت الزيتون البكر الممتاز البيو ديال الأطلس"
+        },
+        "shortDescription": {
+          "fr": "Huile d'olive bio extra vierge, première pression à froid, moulin traditionnel.",
+          "ar": "زيت زيتون بكر ممتاز بيولوجي، عصرة باردة أولى، معصرة تقليدية.",
+          "en": "Organic extra virgin olive oil, first cold pressing, traditional mill.",
+          "darija": "زيت زيتون بكر ممتاز بيو، عصرة باردة أولى، معصرة تقليدية."
+        },
+        "price": 130,
+        "currency": "MAD",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/OliveOilFactoryMorocco.jpg/960px-OliveOilFactoryMorocco.jpg"
+      },
+      {
+        "type": "product",
+        "slug": "sardines-marinees-huile-olive-essaouira",
+        "domain": "produits_mer",
+        "name": {
+          "fr": "Sardines marinées artisanales à l'huile d'olive",
+          "ar": "سردين متبل تقليدي بزيت الزيتون",
+          "en": "Artisanal Marinated Sardines in Olive Oil",
+          "darija": "سردين متبل تقليدي بزيت الزيتون"
+        },
+        "shortDescription": {
+          "fr": "Sardines fraîches marinées à l'huile d'olive et épices, recette d'Essaouira.",
+          "ar": "سردين طازج متبل بزيت الزيتون والتوابل، وصفة الصويرة.",
+          "en": "Fresh sardines marinated in olive oil and spices, an Essaouira recipe.",
+          "darija": "سردين طازة متبلة بزيت الزيتون والتوابل، وصفة الصويرة."
+        },
+        "price": 65,
+        "currency": "MAD",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Essaouira_-_fishing_port_1989_02.jpg/960px-Essaouira_-_fishing_port_1989_02.jpg"
+      },
+      {
+        "type": "product",
+        "slug": "bivouac-luxe-tente-berbere-erg-chebbi",
+        "domain": "tourisme_rural",
+        "name": {
+          "fr": "Bivouac de luxe sous tente berbère à Erg Chebbi",
+          "ar": "تخييم فاخر في خيمة أمازيغية بإرك الشبي",
+          "en": "Luxury Berber Tent Camp at Erg Chebbi",
+          "darija": "بيفواك فاخر فخيمة أمازيغية فإرك الشبي"
+        },
+        "shortDescription": {
+          "fr": "Nuit en tente berbère à Erg Chebbi avec dîner, musique gnaoua et petit-déjeuner.",
+          "ar": "ليلة في خيمة أمازيغية بإرك الشبي مع عشاء وموسيقى ﯕناوة وفطور.",
+          "en": "Night in a Berber tent at Erg Chebbi with dinner, gnaoua music and breakfast.",
+          "darija": "ليلة فخيمة أمازيغية فإرك الشبي مع عشاء وموسيقى ﯕناوة وفطور."
+        },
+        "price": 850,
+        "currency": "MAD",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Erg_Chebbi%2C_Sahara_Desert%2C_Morocco.jpg/960px-Erg_Chebbi%2C_Sahara_Desert%2C_Morocco.jpg"
+      }
+    ]
+  },
+
+  "featuredPlacesCarousel": {
+    "title": {
+      "fr": "Destinations à découvrir",
+      "ar": "وجهات للاكتشاف",
+      "en": "Destinations to Discover",
+      "darija": "وجهات للاكتشاف"
+    },
+    "subtitle": {
+      "fr": "Des médinas bleues aux dunes dorées, partez à la rencontre du Maroc rural",
+      "ar": "من المدن الزرقاء إلى الكثبان الذهبية، انطلق لاكتشاف المغرب القروي",
+      "en": "From blue medinas to golden dunes, set off to discover rural Morocco",
+      "darija": "من المدن الزرقة للكثبان الذهبية، سافر لاكتشاف المغرب القروي"
+    },
+    "viewAllUrl": "/tourism",
+    "items": [
+      {
+        "type": "tourism",
+        "slug": "place-jemaa-el-fnaa-marrakech",
+        "name": {
+          "fr": "Place Jemaa el-Fnaa",
+          "ar": "ساحة جامع الفنا",
+          "en": "Jemaa el-Fnaa Square",
+          "darija": "ساحة جامع الفنا"
+        },
+        "shortDescription": {
+          "fr": "Le cœur battant de Marrakech, classée patrimoine oral de l'humanité par l'UNESCO.",
+          "ar": "القلب النابض لمراكش، المصنفة ضمن التراث الشفهي للإنسانية من طرف اليونسكو.",
+          "en": "The beating heart of Marrakech, listed as Intangible Cultural Heritage by UNESCO.",
+          "darija": "القلب ديال مراكش، مصنفة فالتراث العالمي ديال اليونيسكو."
+        },
+        "locationType": "souk",
+        "region": "Marrakech-Safi",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Jemaa_el-Fnaa_at_night.jpg/960px-Jemaa_el-Fnaa_at_night.jpg"
+      },
+      {
+        "type": "tourism",
+        "slug": "chefchaouen-perle-bleue",
+        "name": {
+          "fr": "Chefchaouen, la perle bleue",
+          "ar": "شفشاون، اللؤلؤة الزرقاء",
+          "en": "Chefchaouen, the Blue Pearl",
+          "darija": "شفشاون، اللؤلؤة الزرقاء"
+        },
+        "shortDescription": {
+          "fr": "Une médina nichée dans le Rif, célèbre pour ses ruelles et façades peintes en bleu.",
+          "ar": "مدينة عتيقة محتضنة في جبال الريف، تشتهر بأزقتها وواجهاتها المطلية بالأزرق.",
+          "en": "A medina nestled in the Rif Mountains, famous for its blue-painted alleys and façades.",
+          "darija": "مدينة قديمة فحضن جبال الريف، مشهورة بالأزقة والواجهات مصبوغة بالأزرق."
+        },
+        "locationType": "medina",
+        "region": "Tanger-Tétouan-Al Hoceïma",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/2018_01_%28Blue%29_-_Chaouen.jpg/960px-2018_01_%28Blue%29_-_Chaouen.jpg"
+      },
+      {
+        "type": "tourism",
+        "slug": "erg-chebbi-merzouga",
+        "name": {
+          "fr": "Erg Chebbi - Merzouga",
+          "ar": "عرق الشبي - مرزوكة",
+          "en": "Erg Chebbi - Merzouga",
+          "darija": "عرق الشبي - مرزوكة"
+        },
+        "shortDescription": {
+          "fr": "Le plus spectaculaire champ de dunes du Maroc, célèbre pour ses bivouacs et couchers de soleil dorés.",
+          "ar": "أروع حقل كثبان رملية بالمغرب، يشتهر بالمخيمات الليلية وغروب الشمس الذهبي.",
+          "en": "Morocco's most spectacular dune field, famous for desert camps and golden sunsets.",
+          "darija": "أروع كثبان رملية بالمغرب، مشهورة بالمخيمات الليلية وغروب الشمس الذهبي."
+        },
+        "locationType": "oasis",
+        "region": "Drâa-Tafilalet",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Dunes-Merzouga-Erg_Chebi.JPG/960px-Dunes-Merzouga-Erg_Chebi.JPG"
+      },
+      {
+        "type": "tourism",
+        "slug": "cascades-douzoud",
+        "name": {
+          "fr": "Cascades d'Ouzoud",
+          "ar": "شلالات أوزود",
+          "en": "Ouzoud Falls",
+          "darija": "شلالات أوزود"
+        },
+        "shortDescription": {
+          "fr": "Les plus hautes cascades du Maroc, entourées de moulins à huile traditionnels.",
+          "ar": "أعلى شلالات بالمغرب، محاطة بمعاصر الزيت التقليدية.",
+          "en": "Morocco's highest waterfalls, surrounded by traditional olive mills.",
+          "darija": "أعلى شلالات بالمغرب، محاطة بالمعاصر التقليدية ديال الزيت."
+        },
+        "locationType": "nature",
+        "region": "Béni Mellal-Khénifra",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Ouzoud_Falls%2C_Morocco%2C_20250126_1357_7467.jpg/960px-Ouzoud_Falls%2C_Morocco%2C_20250126_1357_7467.jpg"
+      },
+      {
+        "type": "tourism",
+        "slug": "ksar-ait-benhaddou",
+        "name": {
+          "fr": "Ksar d'Aït Benhaddou",
+          "ar": "قصر آيت بن حدو",
+          "en": "Aït Benhaddou Ksar",
+          "darija": "قصر آيت بن حدو"
+        },
+        "shortDescription": {
+          "fr": "Un village fortifié en pisé classé à l'UNESCO, célèbre décor de cinéma.",
+          "ar": "قرية محصنة مبنية بالطين مصنفة في التراث العالمي لليونيسكو، وموقع تصوير سينمائي شهير.",
+          "en": "A fortified earthen village listed by UNESCO, a famous film location.",
+          "darija": "قرية محصنة مبنية بالطين مصنفة فالتراث العالمي، وموقع تصوير سينمائي مشهور."
+        },
+        "locationType": "monument",
+        "region": "Drâa-Tafilalet",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/A%C3%AFtBenhaddou_Morocco_2.jpg/960px-A%C3%AFtBenhaddou_Morocco_2.jpg"
+      },
+      {
+        "type": "tourism",
+        "slug": "vallee-de-lourika",
+        "name": {
+          "fr": "Vallée de l'Ourika",
+          "ar": "وادي أوريكا",
+          "en": "Ourika Valley",
+          "darija": "وادي أوريكا"
+        },
+        "shortDescription": {
+          "fr": "Une vallée verdoyante au pied de l'Atlas, célèbre pour ses cascades et villages berbères.",
+          "ar": "وادٍ أخضر عند سفح جبال الأطلس، يشتهر بشلالاته وقراه الأمازيغية.",
+          "en": "A lush green valley at the foot of the Atlas Mountains, famous for its waterfalls and Berber villages.",
+          "darija": "وادي أخضر فسفح جبال الأطلس، مشهور بالشلالات والدواوير الأمازيغية."
+        },
+        "locationType": "rural_region",
+        "region": "Marrakech-Safi",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/OurikaValley.jpg/960px-OurikaValley.jpg"
+      },
+      {
+        "type": "tourism",
+        "slug": "mosquee-hassan-ii-casablanca",
+        "name": {
+          "fr": "Mosquée Hassan II",
+          "ar": "مسجد الحسن الثاني",
+          "en": "Hassan II Mosque",
+          "darija": "جامع الحسن الثاني"
+        },
+        "shortDescription": {
+          "fr": "L'une des plus grandes mosquées au monde, chef-d'œuvre d'artisanat marocain.",
+          "ar": "أحد أكبر المساجد في العالم، وهو تحفة فنية للصناعة التقليدية المغربية.",
+          "en": "One of the largest mosques in the world, a masterpiece of Moroccan craftsmanship.",
+          "darija": "من أكبر المساجد فالعالم، تحفة فنية للصنعة التقليدية المغربية."
+        },
+        "locationType": "monument",
+        "region": "Casablanca-Settat",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Mosque_Hassan_Ii_2_%28133662553%29.jpeg/960px-Mosque_Hassan_Ii_2_%28133662553%29.jpeg"
+      }
+    ]
+  },
+
+  "featuredPostsCarousel": {
+    "title": {
+      "fr": "Derniers articles du blog",
+      "ar": "أحدث مقالات المدونة",
+      "en": "Latest Blog Posts",
+      "darija": "آخر مقالات المدونة"
+    },
+    "subtitle": {
+      "fr": "Histoires, conseils et reportages sur l'artisanat et le Maroc rural",
+      "ar": "قصص ونصائح وتقارير حول الصناعة التقليدية والمغرب القروي",
+      "en": "Stories, tips and reports on craftsmanship and rural Morocco",
+      "darija": "قصص ونصائح وريبورتاجات على الصنعة التقليدية والمغرب القروي"
+    },
+    "viewAllUrl": "/blog",
+    "items": [
+      {
+        "type": "blog",
+        "slug": "cooperatives-feminines-argan-savoir-faire-ancestral",
+        "title": {
+          "fr": "Coopératives féminines d'argan : un savoir-faire ancestral au service de l'autonomisation",
+          "ar": "تعاونيات نسائية لزيت أركان: معرفة موروثة في خدمة تمكين المرأة",
+          "en": "Women's Argan Cooperatives: Ancestral Know-How for Empowerment",
+          "darija": "التعاونيات النسائية ديال الأركان: معرفة قديمة فخدمة تمكين المرأة"
+        },
+        "excerpt": {
+          "fr": "Dans le Souss, des centaines de femmes perpétuent le geste ancestral de l'extraction de l'huile d'argan au sein de coopératives qui changent leur quotidien.",
+          "ar": "في سوس، تحافظ مئات النساء على حركة استخراج زيت أركان الموروثة عبر تعاونيات تغير حياتهن اليومية.",
+          "en": "In the Souss region, hundreds of women keep alive the ancestral gesture of extracting argan oil through cooperatives that are changing their daily lives.",
+          "darija": "فسوس، مئات ديال النساء كيحافظو على الحركة القديمة ديال استخراج زيت الأركان عبر تعاونيات كتبدل الحياة ديالهم."
+        },
+        "category": "soin_beaute",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Argan_Oil_Cooperative_02.jpg/960px-Argan_Oil_Cooperative_02.jpg"
+      },
+      {
+        "type": "blog",
+        "slug": "guide-souks-marrakech-marchander",
+        "title": {
+          "fr": "Guide complet des souks de Marrakech : où aller et comment marchander",
+          "ar": "دليل شامل لأسواق مراكش: أين تذهب وكيف تساوم",
+          "en": "Complete Guide to the Marrakech Souks: Where to Go and How to Bargain",
+          "darija": "الدليل الكامل لسواق مراكش: فين تمشي وكيفاش تفاوض"
+        },
+        "excerpt": {
+          "fr": "Entre épices colorées, lanternes en métal et tapis berbères, les souks de Marrakech sont un labyrinthe fascinant. Voici comment s'y retrouver et négocier comme un local.",
+          "ar": "بين التوابل الملونة والفوانيس المعدنية والزرابي الأمازيغية، تعد أسواق مراكش متاهة ساحرة. إليك كيف تتجول فيها وتساوم كالمحليين.",
+          "en": "Between colourful spices, metal lanterns and Berber rugs, the Marrakech souks are a fascinating maze. Here's how to find your way and bargain like a local.",
+          "darija": "بين التوابل الملونة والفوانيس والزرابي الأمازيغية، سواق مراكش متاهة ساحرة. هاكم كيفاش تتمشاو فيها وتفاوضو بحال أهل البلاد."
+        },
+        "category": "conseils",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Souk%2C_Marrakech_%282242326899%29.jpg/960px-Souk%2C_Marrakech_%282242326899%29.jpg"
+      },
+      {
+        "type": "blog",
+        "slug": "safran-taliouine-or-rouge-marocain",
+        "title": {
+          "fr": "Safran de Taliouine : voyage au cœur de l'or rouge marocain",
+          "ar": "زعفران تالوين: رحلة إلى قلب الذهب الأحمر المغربي",
+          "en": "Taliouine Saffron: A Journey into Morocco's Red Gold",
+          "darija": "زعفران تالوين: رحلة لقلب الذهب الحمر المغربي"
+        },
+        "excerpt": {
+          "fr": "Chaque automne, la région de Taliouine s'embrase de mauve lors de la floraison du crocus à safran, point de départ d'une récolte minutieuse et précieuse.",
+          "ar": "كل خريف، تتلون منطقة تالوين بالأرجواني عند تفتح زهرة الزعفران، بداية حصاد دقيق وثمين.",
+          "en": "Every autumn, the Taliouine region turns mauve as the saffron crocus blooms, marking the start of a meticulous and precious harvest.",
+          "darija": "كل خريف، منطقة تالوين كتولي مزهرة بالأرجواني وقت ما كيزهر الزعفران، بداية ديال حصاد دقيق وغالي."
+        },
+        "category": "produit_terroir",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Near_Taliouine%2C_saffron_crocus_growing_area_-_Flickr_-_gailhampshire.jpg/960px-Near_Taliouine%2C_saffron_crocus_growing_area_-_Flickr_-_gailhampshire.jpg"
+      },
+      {
+        "type": "blog",
+        "slug": "nuit-desert-bivouac-etoiles-merzouga",
+        "title": {
+          "fr": "Une nuit dans le désert : récit d'un bivouac sous les étoiles à Merzouga",
+          "ar": "ليلة في الصحراء: حكاية مبيت تحت النجوم بمرزوكة",
+          "en": "A Night in the Desert: A Bivouac Under the Stars in Merzouga",
+          "darija": "ليلة فالصحراء: حكاية مبيت تحت النجوم بمرزوكة"
+        },
+        "excerpt": {
+          "fr": "Du trek à dos de dromadaire au silence absolu des dunes, récit immersif d'une nuit inoubliable au camp dans l'Erg Chebbi.",
+          "ar": "من رحلة الجمل إلى الصمت المطلق للكثبان، حكاية غامرة لليلة لا تُنسى في مخيم بعرق الشبي.",
+          "en": "From the camel trek to the absolute silence of the dunes, an immersive account of an unforgettable night at the Erg Chebbi camp.",
+          "darija": "من رحلة الجمل للهدوء المطلق ديال الكثبان، حكاية لليلة ما تتنساش فمخيم عرق الشبي."
+        },
+        "category": "tourisme_rural",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Sunset_in_Erg_Chebbi_%2854244351519%29.jpg/960px-Sunset_in_Erg_Chebbi_%2854244351519%29.jpg"
+      }
+    ]
+  },
+
+  "servicesSection": {
+    "title": {
+      "fr": "Ce que nous proposons",
+      "ar": "ما الذي نقدمه",
+      "en": "What We Offer",
+      "darija": "أش كنقدمو"
+    },
+    "subtitle": {
+      "fr": "Des outils pensés pour les artisans, coopératives et voyageurs",
+      "ar": "أدوات مصممة للحرفيين والتعاونيات والمسافرين",
+      "en": "Tools designed for artisans, cooperatives and travellers",
+      "darija": "أدوات مصممة للحرفيين والتعاونيات والمسافرين"
+    },
+    "viewAllUrl": "/services",
+    "items": [
+      {
+        "id": "marketplace",
+        "icon": "shopping-bag",
+        "title": { "fr": "Boutique en ligne", "ar": "المتجر الإلكتروني", "en": "Online Marketplace", "darija": "الحانوت الإلكتروني" },
+        "description": { "fr": "Vendez vos produits directement aux clients, sans intermédiaires.", "ar": "بع منتجاتك مباشرة للزبناء، دون وسطاء.", "en": "Sell your products directly to customers, without intermediaries.", "darija": "بيع المنتوجات ديالك مباشرة للزبناء، بلا وسطاء." },
+        "url": "/services#marketplace"
+      },
+      {
+        "id": "annuaire-pro",
+        "icon": "id-card",
+        "title": { "fr": "Profil professionnel", "ar": "الملف المهني", "en": "Professional Profile", "darija": "البروفيل المهني" },
+        "description": { "fr": "Présentez votre coopérative et votre savoir-faire au monde.", "ar": "اعرض تعاونيتك ومعرفتك للعالم.", "en": "Showcase your cooperative and know-how to the world.", "darija": "عرض التعاونية ديالك والمعرفة ديالك للعالم." },
+        "url": "/services#annuaire-pro"
+      },
+      {
+        "id": "promotion-tourisme",
+        "icon": "map",
+        "title": { "fr": "Promotion du tourisme rural", "ar": "ترويج السياحة القروية", "en": "Rural Tourism Promotion", "darija": "ترويج السياحة القروية" },
+        "description": { "fr": "Référencez vos gîtes, circuits et expériences locales.", "ar": "أدرج بيوت الضيافة والمسارات والتجارب المحلية.", "en": "List your guesthouses, tours and local experiences.", "darija": "سجل الدوريات والمسارات والتجارب المحلية ديالك." },
+        "url": "/services#promotion-tourisme"
+      },
+      {
+        "id": "accompagnement-digital",
+        "icon": "laptop",
+        "title": { "fr": "Accompagnement digital", "ar": "المواكبة الرقمية", "en": "Digital Support", "darija": "المواكبة الديجيتال" },
+        "description": { "fr": "Formations et support pour réussir votre transition digitale.", "ar": "تكوينات ودعم لإنجاح تحولك الرقمي.", "en": "Training and support to succeed in your digital transition.", "darija": "تكوينات ودعم باش تنجح فالتحول الديجيتال ديالك." },
+        "url": "/services#accompagnement-digital"
+      }
+    ]
+  },
+
+  "testimonials": [
+    {
+      "id": "temoignage-1",
+      "name": "Fatima Ezzahra Benali",
+      "role": {
+        "fr": "Présidente de coopérative, Tiznit",
+        "ar": "رئيسة تعاونية، تزنيت",
+        "en": "Cooperative President, Tiznit",
+        "darija": "رئيسة التعاونية، تزنيت"
+      },
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Argan_Oil_Cooperative_02.jpg/960px-Argan_Oil_Cooperative_02.jpg",
+      "quote": {
+        "fr": "Grâce à KENZ BLADI, notre coopérative d'argan vend désormais directement à des clients à Casablanca, Paris et même au Canada. Nos revenus ont doublé en un an.",
+        "ar": "بفضل كنز بلادي، أصبحت تعاونيتنا لزيت الأركان تبيع مباشرة لزبناء في الدار البيضاء وباريس وحتى كندا. تضاعف دخلنا في سنة واحدة.",
+        "en": "Thanks to KENZ BLADI, our argan cooperative now sells directly to customers in Casablanca, Paris and even Canada. Our income has doubled in one year.",
+        "darija": "بفضل كنز بلادي، التعاونية ديالنا ديال الأركان دابا كتبيع مباشرة لزبناء فالدار البيضاء وباريس وحتى كندا. الدخل ديالنا تضاعف فعام واحد."
+      },
+      "rating": 5
+    },
+    {
+      "id": "temoignage-2",
+      "name": "Hassan Ait Mbarek",
+      "role": {
+        "fr": "Artisan tapissier, Aït Benhaddou",
+        "ar": "حرفي زرابي، آيت بن حدو",
+        "en": "Carpet Artisan, Aït Benhaddou",
+        "darija": "حرفي زرابي، آيت بن حدو"
+      },
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Rugs_in_Ouarzazate.jpg/960px-Rugs_in_Ouarzazate.jpg",
+      "quote": {
+        "fr": "La plateforme m'a permis de présenter mes tapis berbères avec de belles photos et des descriptions dans plusieurs langues. Je reçois maintenant des commandes de touristes que je n'aurais jamais rencontrés.",
+        "ar": "المنصة مكنتني من عرض زرابيي الأمازيغية بصور جميلة وأوصاف بعدة لغات. أتلقى الآن طلبات من سياح ما كنت لألتقي بهم أبداً.",
+        "en": "The platform allowed me to showcase my Berber carpets with beautiful photos and descriptions in several languages. I now receive orders from tourists I would never have met.",
+        "darija": "المنصة خلاتني نعرض الزرابي الأمازيغية ديالي بتصاور زوينة وأوصاف بعدة لغات. دابا كنوصلني طلبيات من سياح ما كنت غادي نلتقي بيهم والو."
+      },
+      "rating": 5
+    },
+    {
+      "id": "temoignage-3",
+      "name": "Sophie Lambert",
+      "role": {
+        "fr": "Cliente, France",
+        "ar": "زبونة، فرنسا",
+        "en": "Customer, France",
+        "darija": "زبونة، فرنسا"
+      },
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Rosa_damascena_kelaa_mgouna_Morocco.jpg/960px-Rosa_damascena_kelaa_mgouna_Morocco.jpg",
+      "quote": {
+        "fr": "J'ai commandé de l'huile d'argan et de l'eau de rose directement d'une coopérative marocaine. La qualité est incomparable et savoir que mon achat soutient directement les productrices rend l'expérience encore plus belle.",
+        "ar": "طلبت زيت أركان وماء الورد مباشرة من تعاونية مغربية. الجودة لا تضاهى، ومعرفة أن شرائي يدعم المنتجات مباشرة يجعل التجربة أجمل.",
+        "en": "I ordered argan oil and rose water directly from a Moroccan cooperative. The quality is incomparable, and knowing my purchase directly supports the producers makes the experience even better.",
+        "darija": "طلبت زيت أركان وماء الورد مباشرة من تعاونية مغربية. الجودة ما عندها حتى مزية، ومعرفة بلي الشرا ديالي كيدعم المنتجات بشكل مباشر كيخلي التجربة أزين."
+      },
+      "rating": 5
+    }
+  ],
+
+  "ctaBanner": {
+    "title": {
+      "fr": "Vous êtes artisan, coopérative ou producteur ?",
+      "ar": "هل أنت حرفي أو تعاونية أو منتج؟",
+      "en": "Are You an Artisan, Cooperative or Producer?",
+      "darija": "واش نتا حرفي ولا تعاونية ولا منتج؟"
+    },
+    "description": {
+      "fr": "Rejoignez gratuitement KENZ BLADI et donnez à votre savoir-faire la visibilité qu'il mérite.",
+      "ar": "انضم مجاناً إلى كنز بلادي وامنح معرفتك الظهور الذي تستحقه.",
+      "en": "Join KENZ BLADI for free and give your know-how the visibility it deserves.",
+      "darija": "انضم مجانا لكنز بلادي وعطي للمعرفة ديالك الظهور اللي تستاهل."
+    },
+    "buttonLabel": {
+      "fr": "Devenir partenaire",
+      "ar": "كن شريكاً",
+      "en": "Become a Partner",
+      "darija": "كون شريك"
+    },
+    "buttonUrl": "/devenir-partenaire",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Chouara_Tannery_-_153_-_Marokko_Handybilder_2018_-_Fes_%2842218570701%29.jpg/960px-Chouara_Tannery_-_153_-_Marokko_Handybilder_2018_-_Fes_%2842218570701%29.jpg"
+  }
+}

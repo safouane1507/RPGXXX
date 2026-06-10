@@ -1,0 +1,274 @@
+[
+  {
+    "id": "faq-001",
+    "category": "general",
+    "order": 1,
+    "question": {
+      "fr": "Qu'est-ce que KENZ BLADI كنز بلادي ?",
+      "ar": "ما هي منصة كنز بلادي KENZ BLADI؟",
+      "en": "What is KENZ BLADI كنز بلادي?",
+      "darija": "شنو هي منصة كنز بلادي KENZ BLADI؟"
+    },
+    "answer": {
+      "fr": "KENZ BLADI est une plateforme digitale qui valorise le patrimoine artisanal marocain. Elle connecte directement les artisans, coopératives et producteurs locaux avec les clients, à travers une marketplace, un annuaire des acteurs professionnels et un espace dédié au tourisme rural.",
+      "ar": "كنز بلادي هي منصة رقمية تهدف إلى تثمين التراث الحرفي المغربي. تربط مباشرة بين الحرفيين والتعاونيات والمنتجين المحليين والزبناء، من خلال متجر إلكتروني ودليل للفاعلين المهنيين وفضاء مخصص للسياحة القروية.",
+      "en": "KENZ BLADI is a digital platform that promotes Moroccan artisanal heritage. It directly connects artisans, cooperatives and local producers with customers through a marketplace, a directory of professional actors, and a dedicated rural tourism space.",
+      "darija": "كنز بلادي هي منصة ديجيتال لي كاتعاون فالتعريف بالصنعة التقليدية المغربية. كاتربط بشكل مباشر الحرفيين والتعاونيات والمنتجين المحليين مع الزبناء، عبر بوتيك إلكترونية، دليل للمهنيين، وفضاء خاص بالسياحة القروية."
+    }
+  },
+  {
+    "id": "faq-002",
+    "category": "pro",
+    "order": 2,
+    "question": {
+      "fr": "Comment s'inscrire comme artisan ou coopérative sur KENZ BLADI ?",
+      "ar": "كيف يمكنني التسجيل كحرفي أو تعاونية في كنز بلادي؟",
+      "en": "How do I register as an artisan or cooperative on KENZ BLADI?",
+      "darija": "كيفاش نقدر نتسجل كحرفي أو تعاونية فـ كنز بلادي؟"
+    },
+    "answer": {
+      "fr": "Contactez l'équipe KENZ BLADI via le formulaire de contact ou par email avec les informations de votre structure. Après vérification, l'administrateur crée votre compte Pro et vous transmet vos identifiants de connexion.",
+      "ar": "تواصلوا مع فريق كنز بلادي عبر استمارة الاتصال أو البريد الإلكتروني مع معلومات هيكلتكم. بعد التحقق، يقوم المسؤول بإنشاء حسابكم المهني (Pro) ويرسل لكم بيانات الدخول.",
+      "en": "Contact the KENZ BLADI team via the contact form or by email with your organization's details. After verification, the administrator creates your Pro account and sends you your login credentials.",
+      "darija": "تواصلو مع فريق كنز بلادي عبر فورم ديال الاتصال أو الإيميل وعطيو معلومات على التعاونية أو الورشة ديالكم. من بعد التحقق، الأدمين كايصاوب ليكم الكونط Pro وكايصيفط ليكم المعلومات ديال الدخول."
+    }
+  },
+  {
+    "id": "faq-003",
+    "category": "marketplace",
+    "order": 3,
+    "question": {
+      "fr": "Comment ajouter mes produits dans la Marketplace ?",
+      "ar": "كيف يمكنني إضافة منتجاتي في المتجر الإلكتروني (Marketplace)؟",
+      "en": "How do I add my products to the Marketplace?",
+      "darija": "كيفاش نزيد المنتوجات ديالي فالـ Marketplace؟"
+    },
+    "answer": {
+      "fr": "Une fois votre compte Pro activé, connectez-vous à votre Espace Pro, puis allez dans « Gestion des produits » → « Ajouter un produit ». Renseignez le nom, la description, le prix, les photos et la catégorie. Votre produit sera publié après une rapide vérification.",
+      "ar": "بمجرد تفعيل حسابكم المهني، قوموا بتسجيل الدخول إلى الفضاء الخاص بكم (Espace Pro)، ثم اذهبوا إلى «تدبير المنتجات» ← «إضافة منتج». أدخلوا الاسم والوصف والثمن والصور والفئة. سيتم نشر المنتج بعد التحقق السريع.",
+      "en": "Once your Pro account is activated, log in to your Pro Space, then go to \"Product Management\" → \"Add a Product\". Fill in the name, description, price, photos and category. Your product will be published after a quick review.",
+      "darija": "ملي يتفعل الكونط Pro ديالك، دخل للـ Espace Pro ديالك، ومن بعد سير لـ«تدبير المنتوجات» ← «زيد منتوج». عمر الاسم، الوصف، الثمن، التصاور والكاتيغوري. المنتوج غايتنشر من بعد ما يتأكد بسرعة."
+    }
+  },
+  {
+    "id": "faq-004",
+    "category": "general",
+    "order": 4,
+    "question": {
+      "fr": "Dans quelles langues la plateforme est-elle disponible ?",
+      "ar": "بأي لغات تتوفر المنصة؟",
+      "en": "Which languages is the platform available in?",
+      "darija": "بأشمن لغات كاينة المنصة؟"
+    },
+    "answer": {
+      "fr": "KENZ BLADI est entièrement disponible en quatre langues : Français, Arabe, Anglais et Darija marocaine. Vous pouvez changer de langue à tout moment via le sélecteur de langue dans la barre de navigation.",
+      "ar": "كنز بلادي متوفرة بالكامل بأربع لغات: الفرنسية، العربية، الإنجليزية والدارجة المغربية. يمكنكم تغيير اللغة في أي وقت عبر قائمة اختيار اللغة الموجودة في شريط التصفح.",
+      "en": "KENZ BLADI is fully available in four languages: French, Arabic, English and Moroccan Darija. You can change the language at any time using the language selector in the navigation bar.",
+      "darija": "كنز بلادي كاينة بأربع لغات: الفرنسية، العربية، الإنجليزية والدارجة المغربية. تقدر تبدل اللغة فأي وقت من القائمة ديال اللغة لي كاينة فوق فالنافبار."
+    }
+  },
+  {
+    "id": "faq-005",
+    "category": "pro",
+    "order": 5,
+    "question": {
+      "fr": "Comment apparaître dans l'Annuaire des Acteurs Professionnels ?",
+      "ar": "كيف يمكن الظهور في دليل الفاعلين المهنيين؟",
+      "en": "How can I appear in the Directory of Professional Actors?",
+      "darija": "كيفاش نقدر نبان فدليل المهنيين (Annuaire)؟"
+    },
+    "answer": {
+      "fr": "Depuis votre Espace Pro, complétez votre fiche : présentation, historique, photos, coordonnées et certifications. Elle sera ensuite soumise à la validation de l'administrateur avant d'être publiée publiquement dans l'Annuaire.",
+      "ar": "من فضائكم المهني (Espace Pro)، قوموا بملء بطاقتكم: التقديم، التاريخ، الصور، معلومات الاتصال والشهادات. ستُعرض بعد ذلك على المسؤول للمصادقة قبل نشرها بشكل علني في الدليل.",
+      "en": "From your Pro Space, fill in your profile: presentation, history, photos, contact details and certifications. It will then be submitted for admin approval before being published publicly in the Directory.",
+      "darija": "من الـ Espace Pro ديالك، عمر البطاقة ديالك: التقديم، التاريخ، التصاور، معلومات الاتصال والشهادات. من بعد غادي تتبعت للأدمين باش يصادق عليها قبل ما تبان فالدليل."
+    }
+  },
+  {
+    "id": "faq-006",
+    "category": "marketplace",
+    "order": 6,
+    "question": {
+      "fr": "Comment passer une commande sur la Marketplace ?",
+      "ar": "كيف أقوم بإجراء طلبية في المتجر الإلكتروني؟",
+      "en": "How do I place an order on the Marketplace?",
+      "darija": "كيفاش ندير طلبية فالـ Marketplace؟"
+    },
+    "answer": {
+      "fr": "Parcourez la Marketplace, sélectionnez vos produits puis cliquez sur « Ajouter au panier ». Une fois votre panier validé, renseignez vos informations de livraison et choisissez votre mode de paiement pour confirmer la commande.",
+      "ar": "تصفحوا المتجر الإلكتروني، اختاروا منتجاتكم ثم اضغطوا على «إضافة إلى السلة». بعد التحقق من السلة، أدخلوا معلومات التوصيل واختاروا طريقة الأداء لتأكيد الطلبية.",
+      "en": "Browse the Marketplace, select your products and click \"Add to Cart\". Once your cart is confirmed, enter your delivery information and choose your payment method to complete the order.",
+      "darija": "تصفح فالـ Marketplace، ختار المنتوجات لي عجباك وضغط على «زيد للكارط». من بعد ما تأكد الكارط، عمر المعلومات ديال التوصيل وختار طريقة الخلاص باش تأكد الطلبية."
+    }
+  },
+  {
+    "id": "faq-007",
+    "category": "payment",
+    "order": 7,
+    "question": {
+      "fr": "Quels sont les moyens de paiement acceptés ?",
+      "ar": "ما هي وسائل الدفع المقبولة؟",
+      "en": "What payment methods are accepted?",
+      "darija": "شنو هي طرق الخلاص لي مقبولة؟"
+    },
+    "answer": {
+      "fr": "Nous acceptons le paiement à la livraison (cash), les cartes bancaires (Visa, Mastercard) ainsi que les virements bancaires pour les commandes professionnelles. Toutes les transactions en ligne sont sécurisées.",
+      "ar": "نقبل الأداء عند التسليم (نقدا)، البطاقات البنكية (Visa, Mastercard) بالإضافة إلى التحويلات البنكية بالنسبة للطلبيات المهنية. جميع المعاملات عبر الإنترنت مؤمَّنة.",
+      "en": "We accept cash on delivery, bank cards (Visa, Mastercard) as well as bank transfers for professional orders. All online transactions are secure.",
+      "darija": "كنقبلو الخلاص عند التوصيل (كاش)، الكارط البنكية (Visa, Mastercard) وكذلك التحويل البنكي بالنسبة للطلبيات الكبيرة. جميع المعاملات أونلاين محمية ومؤمنة."
+    }
+  },
+  {
+    "id": "faq-008",
+    "category": "shipping",
+    "order": 8,
+    "question": {
+      "fr": "Quels sont les délais et zones de livraison ?",
+      "ar": "ما هي آجال ومناطق التوصيل؟",
+      "en": "What are the delivery times and areas?",
+      "darija": "شحال كايخدم التوصيل وفين كايوصل؟"
+    },
+    "answer": {
+      "fr": "Nous livrons dans toutes les régions du Maroc sous 2 à 5 jours ouvrables selon la localisation. Une livraison internationale est également proposée pour certains produits, avec des délais de 7 à 15 jours.",
+      "ar": "نقوم بالتوصيل في جميع جهات المغرب في ظرف 2 إلى 5 أيام عمل حسب الموقع. كما يتوفر التوصيل الدولي لبعض المنتجات في ظرف 7 إلى 15 يوما.",
+      "en": "We deliver to all regions of Morocco within 2 to 5 business days depending on location. International delivery is also available for certain products, with delivery times of 7 to 15 days.",
+      "darija": "كانوصلو لجميع جهات المغرب من 2 حتى 5 ايام خدامين على حساب الموقع ديالك. كاين أيضا التوصيل للخارج لبعض المنتوجات، وكايخدم من 7 حتى 15 يوم."
+    }
+  },
+  {
+    "id": "faq-009",
+    "category": "marketplace",
+    "order": 9,
+    "question": {
+      "fr": "Puis-je retourner ou échanger un produit ?",
+      "ar": "هل يمكنني إرجاع أو استبدال منتج؟",
+      "en": "Can I return or exchange a product?",
+      "darija": "واش نقدر نرجع ولا نبدل منتوج؟"
+    },
+    "answer": {
+      "fr": "Oui, vous disposez de 7 jours après réception pour signaler un défaut et demander un retour ou un échange, à condition que le produit soit dans son état d'origine. Contactez le vendeur ou notre support pour lancer la procédure.",
+      "ar": "نعم، لديكم 7 أيام بعد الاستلام للإبلاغ عن أي عيب وطلب الإرجاع أو الاستبدال، شريطة أن يكون المنتج في حالته الأصلية. تواصلوا مع البائع أو مع الدعم لبدء المسطرة.",
+      "en": "Yes, you have 7 days after receipt to report a defect and request a return or exchange, provided the product is in its original condition. Contact the seller or our support team to start the process.",
+      "darija": "ايه، عندك 7 ايام من بعد ما توصلك السلعة باش تبلغ على أي عيب وتطلب الرجوع ولا التبديل، بشرط يكون المنتوج فحالتو الأصلية. تواصل مع البائع أو مع الدعم باش يبداو معاك المسطرة."
+    }
+  },
+  {
+    "id": "faq-010",
+    "category": "pro",
+    "order": 10,
+    "question": {
+      "fr": "Quelle est la différence entre les plans Gratuit, Basic, Premium et Enterprise ?",
+      "ar": "ما الفرق بين باقات Gratuit وBasic وPremium وEnterprise؟",
+      "en": "What is the difference between the Free, Basic, Premium and Enterprise plans?",
+      "darija": "شنو الفرق بين الباقات Gratuit وBasic وPremium وEnterprise؟"
+    },
+    "answer": {
+      "fr": "Le plan Gratuit permet de publier jusqu'à 10 produits avec une fiche annuaire basique. Basic et Premium offrent plus de produits, une mise en avant dans les recherches et des statistiques détaillées. Enterprise est destiné aux grandes coopératives avec accompagnement dédié, visibilité prioritaire et support illimité. Tous les détails sont disponibles sur la page Services.",
+      "ar": "تتيح الباقة المجانية (Gratuit) نشر ما يصل إلى 10 منتجات مع بطاقة أساسية في الدليل. الباقتان Basic وPremium تتيحان عددا أكبر من المنتجات وإبرازا في نتائج البحث وإحصائيات مفصلة. أما Enterprise فهي موجهة للتعاونيات الكبيرة مع مواكبة خاصة وأولوية في الظهور ودعم غير محدود. جميع التفاصيل متوفرة في صفحة الخدمات.",
+      "en": "The Free plan allows you to publish up to 10 products with a basic directory profile. Basic and Premium offer more products, priority placement in search results and detailed statistics. Enterprise is designed for large cooperatives with dedicated support, priority visibility and unlimited assistance. Full details are available on the Services page.",
+      "darija": "الباقة Gratuit كاتخليك تنشر حتى 10 منتوجات مع بطاقة بسيطة فالدليل. Basic وPremium كايعطيوك منتوجات كثر، الظهور الأول فالبحث، وإحصائيات مفصلة. أما Enterprise فهي للتعاونيات الكبار مع مواكبة خاصة، أولوية فالظهور ودعم بلا حدود. كولشي موجود فصفحة الخدمات."
+    }
+  },
+  {
+    "id": "faq-011",
+    "category": "marketplace",
+    "order": 11,
+    "question": {
+      "fr": "Les produits sont-ils garantis authentiques et faits main ?",
+      "ar": "هل المنتجات مضمونة الأصالة ومصنوعة يدويا؟",
+      "en": "Are the products guaranteed to be authentic and handmade?",
+      "darija": "واش المنتوجات مضمونة أصلية ومصنوعة بليد؟"
+    },
+    "answer": {
+      "fr": "Oui. Chaque acteur Pro est vérifié par notre équipe avant publication. Les produits portant le badge « Fait main » 🤲 sont confirmés artisanaux, et le badge « Bio » 🌿 garantit des produits naturels et biologiques certifiés.",
+      "ar": "نعم. يتم التحقق من كل فاعل مهني من طرف فريقنا قبل النشر. المنتجات التي تحمل شارة «مصنوع يدويا» 🤲 مؤكدة كحرفية، وشارة «بيو» 🌿 تضمن منتجات طبيعية وعضوية معتمدة.",
+      "en": "Yes. Every Pro actor is verified by our team before publishing. Products with the \"Handmade\" 🤲 badge are confirmed as artisanal, and the \"Organic\" 🌿 badge guarantees certified natural and organic products.",
+      "darija": "ايه. كل واحد Pro كايتأكد منو الفريق ديالنا قبل ما ينشر. المنتوجات لي فيها شارة «مصنوع بليد» 🤲 مؤكدة بأنها صناعة تقليدية، وشارة «بيو» 🌿 كاتضمن منتوجات طبيعية ومعتمدة."
+    }
+  },
+  {
+    "id": "faq-012",
+    "category": "support",
+    "order": 12,
+    "question": {
+      "fr": "Comment contacter le support KENZ BLADI ?",
+      "ar": "كيف يمكن التواصل مع دعم كنز بلادي؟",
+      "en": "How can I contact KENZ BLADI support?",
+      "darija": "كيفاش نتواصل مع الدعم ديال كنز بلادي؟"
+    },
+    "answer": {
+      "fr": "Notre équipe de support est joignable via le formulaire de contact du site, par email à support@kenzbladi.ma ou par téléphone du lundi au vendredi de 9h à 18h. Nous répondons dans un délai de 24h ouvrées.",
+      "ar": "يمكنكم التواصل مع فريق الدعم عبر استمارة الاتصال بالموقع، أو عبر البريد الإلكتروني support@kenzbladi.ma أو عبر الهاتف من الإثنين إلى الجمعة من 9 صباحا إلى 6 مساء. نرد عليكم في ظرف 24 ساعة عمل.",
+      "en": "Our support team can be reached via the website's contact form, by email at support@kenzbladi.ma, or by phone Monday to Friday from 9 AM to 6 PM. We respond within 24 business hours.",
+      "darija": "تقدر تتواصل مع فريق الدعم عبر فورم ديال الاتصال فالموقع، أو بالإيميل support@kenzbladi.ma، أو بالتيليفون من الإثنين حتى الجمعة من 9 الصباح حتى 6 العشية. كنجاوبو فظرف 24 ساعة خدامة."
+    }
+  },
+  {
+    "id": "faq-013",
+    "category": "tourism",
+    "order": 13,
+    "question": {
+      "fr": "Comment proposer un lieu ou une activité de tourisme rural ?",
+      "ar": "كيف يمكن اقتراح وجهة أو نشاط للسياحة القروية؟",
+      "en": "How can I suggest a rural tourism place or activity?",
+      "darija": "كيفاش نقترح بقعة ولا نشاط ديال السياحة القروية؟"
+    },
+    "answer": {
+      "fr": "Si vous gérez un gîte, un éco-lodge ou organisez des activités (randonnées, ateliers, dégustations), contactez notre équipe avec une description et des photos. Après validation par l'administrateur, votre lieu apparaîtra dans la section Tourisme.",
+      "ar": "إذا كنتم تديرون بيت ضيافة أو نُزلا بيئيا أو تنظمون أنشطة (رحلات، ورشات، تذوق المنتجات)، تواصلوا مع فريقنا مع وصف وصور. بعد مصادقة المسؤول، سيظهر مكانكم في قسم السياحة.",
+      "en": "If you run a guesthouse, eco-lodge, or organize activities (hikes, workshops, tastings), contact our team with a description and photos. After admin approval, your place will appear in the Tourism section.",
+      "darija": "إلا كتسير بيت الضيافة، إيكو-لودج، أو كتنظم أنشطة (مشي فالجبل، ورشات، تذوق)، تواصل مع الفريق ديالنا وصيفط وصف وتصاور. من بعد ما يصادق عليها الأدمين، البقعة ديالك غادي تبان فقسم السياحة."
+    }
+  },
+  {
+    "id": "faq-014",
+    "category": "marketplace",
+    "order": 14,
+    "question": {
+      "fr": "Comment laisser un avis sur un produit ou un acteur ?",
+      "ar": "كيف يمكنني ترك تقييم لمنتج أو فاعل مهني؟",
+      "en": "How do I leave a review for a product or actor?",
+      "darija": "كيفاش نخلي تقييم على منتوج ولا على فاعل مهني؟"
+    },
+    "answer": {
+      "fr": "Une fois connecté à votre compte client, rendez-vous sur la page du produit ou de la fiche annuaire concernée et cliquez sur « Laisser un avis ». Vous pouvez attribuer une note de 1 à 5 étoiles et ajouter un commentaire.",
+      "ar": "بمجرد تسجيل الدخول إلى حسابكم كزبون، توجهوا إلى صفحة المنتج أو البطاقة المعنية واضغطوا على «ترك تقييم». يمكنكم منح تقييم من 1 إلى 5 نجوم وإضافة تعليق.",
+      "en": "Once logged into your client account, go to the product page or the relevant directory profile and click \"Leave a Review\". You can give a rating from 1 to 5 stars and add a comment.",
+      "darija": "ملي تكون داخل للكونط ديالك كزبون، سير لصفحة المنتوج ولا للبطاقة لي بغيتي وضغط على «خلي تقييم». تقدر تعطي نقطة من 1 حتى 5 نجوم وتزيد كومنتير."
+    }
+  },
+  {
+    "id": "faq-015",
+    "category": "account",
+    "order": 15,
+    "question": {
+      "fr": "J'ai oublié mon mot de passe, que faire ?",
+      "ar": "نسيت كلمة المرور، ماذا أفعل؟",
+      "en": "I forgot my password, what should I do?",
+      "darija": "نسيت الباسوورد ديالي، أش ندير؟"
+    },
+    "answer": {
+      "fr": "Cliquez sur « Mot de passe oublié » sur la page de connexion, saisissez votre adresse email et suivez les instructions reçues pour réinitialiser votre mot de passe en toute sécurité.",
+      "ar": "اضغطوا على «نسيت كلمة المرور» في صفحة تسجيل الدخول، أدخلوا بريدكم الإلكتروني واتبعوا التعليمات المرسلة لإعادة تعيين كلمة المرور بأمان.",
+      "en": "Click on \"Forgot password\" on the login page, enter your email address and follow the instructions sent to securely reset your password.",
+      "darija": "ضغط على «نسيت الباسوورد» فصفحة الدخول، دخل الإيميل ديالك وتبع التعليمات لي غايتوصلك باش تبدل الباسوورد بأمان."
+    }
+  },
+  {
+    "id": "faq-016",
+    "category": "general",
+    "order": 16,
+    "question": {
+      "fr": "Existe-t-il une application mobile KENZ BLADI ?",
+      "ar": "هل يوجد تطبيق هاتفي لكنز بلادي؟",
+      "en": "Is there a KENZ BLADI mobile app?",
+      "darija": "واش كاين تطبيق ديال كنز بلادي للهاتف؟"
+    },
+    "answer": {
+      "fr": "L'application mobile KENZ BLADI est en cours de développement. En attendant, le site est entièrement responsive et fonctionne parfaitement sur smartphone et tablette via votre navigateur.",
+      "ar": "التطبيق الهاتفي لكنز بلادي قيد التطوير حاليا. في انتظار ذلك، الموقع متجاوب بالكامل ويعمل بشكل ممتاز على الهاتف الذكي واللوحي عبر المتصفح.",
+      "en": "The KENZ BLADI mobile app is currently under development. In the meantime, the website is fully responsive and works perfectly on smartphones and tablets via your browser.",
+      "darija": "التطبيق ديال كنز بلادي مازال كيتصاوب. فهاد الوقت، الموقع كايخدم مزيان بزاف فالتيليفون والتابلت عبر المتصفح ديالك."
+    }
+  }
+]

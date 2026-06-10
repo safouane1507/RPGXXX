@@ -1,0 +1,650 @@
+[
+  {
+    "name": {
+      "fr": "Bivouac de luxe sous tente berbère à Erg Chebbi",
+      "ar": "تخييم فاخر في خيمة أمازيغية بإرك الشبي",
+      "en": "Luxury Berber Tent Camp at Erg Chebbi",
+      "darija": "بيفواك فاخر فخيمة أمازيغية فإرك الشبي"
+    },
+    "description": {
+      "fr": "Une nuit inoubliable au cœur des dunes dorées d'Erg Chebbi, dans un campement de tentes berbères traditionnelles aménagées avec lits confortables, tapis tissés main et éclairage à la bougie. Le forfait inclut le dîner traditionnel sous les étoiles, un spectacle de musique gnaoua autour du feu de camp et le petit-déjeuner berbère au lever du soleil. Une expérience authentique loin de toute pollution lumineuse, idéale pour observer la voie lactée.",
+      "ar": "ليلة لا تُنسى في قلب كثبان إرك الشبي الذهبية، داخل مخيم من الخيام الأمازيغية التقليدية المجهزة بأسرّة مريحة وزرابي منسوجة يدويًا وإضاءة بالشموع. يشمل العرض عشاءً تقليديًا تحت النجوم، وعرضًا لموسيقى ﯕناوة حول نار المخيم، وفطورًا أمازيغيًا عند شروق الشمس. تجربة أصيلة بعيدًا عن أي تلوث ضوئي، مثالية لمشاهدة درب التبانة.",
+      "en": "An unforgettable night in the heart of the golden dunes of Erg Chebbi, in a camp of traditional Berber tents fitted with comfortable beds, hand-woven rugs and candlelight. The package includes a traditional dinner under the stars, a gnaoua music show around the campfire, and a Berber breakfast at sunrise. An authentic experience far from any light pollution, perfect for stargazing at the Milky Way.",
+      "darija": "ليلة ما كاتنساش فقلب الكثبان الذهبية ديال إرك الشبي، فمخيم ديال الخيام الأمازيغية التقليدية مجهزة بفرشات مريحة وزرابي منسوجة بليد وضو ديال الشموع. الباكاج فيه عشاء تقليدي تحت النجوم، وحفلة موسيقى ﯕناوة حول النار، والفطور الأمازيغي مع شروق الشمس. تجربة أصيلة بعيدة عن التلوث الضوئي، مزيانة باش تشوف درب التبانة."
+    },
+    "shortDescription": {
+      "fr": "Nuit en tente berbère à Erg Chebbi avec dîner, musique gnaoua et petit-déjeuner.",
+      "ar": "ليلة في خيمة أمازيغية بإرك الشبي مع عشاء وموسيقى ﯕناوة وفطور.",
+      "en": "Night in a Berber tent at Erg Chebbi with dinner, gnaoua music and breakfast.",
+      "darija": "ليلة فخيمة أمازيغية فإرك الشبي مع عشاء وموسيقى ﯕناوة وفطور."
+    },
+    "unit": { "fr": "nuit / personne", "ar": "ليلة / شخص", "en": "night / person", "darija": "ليلة / شخص" },
+    "price": 850,
+    "priceDiscount": null,
+    "currency": "MAD",
+    "domain": "tourisme_rural",
+    "subcategory": {
+      "fr": "Bivouacs & camps désertiques",
+      "ar": "التخييم الصحراوي",
+      "en": "Desert Camps & Bivouacs",
+      "darija": "التخييم الصحراوي"
+    },
+    "tags": ["désert", "bivouac", "Erg Chebbi", "étoiles", "gnaoua"],
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Erg_Chebbi%2C_Sahara_Desert%2C_Morocco.jpg/960px-Erg_Chebbi%2C_Sahara_Desert%2C_Morocco.jpg",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Erg_Chebbi%2C_Sahara_Desert%2C_Morocco.jpg/960px-Erg_Chebbi%2C_Sahara_Desert%2C_Morocco.jpg",
+        "alt": {
+          "fr": "Dunes dorées d'Erg Chebbi au coucher du soleil",
+          "ar": "كثبان إرك الشبي الذهبية عند الغروب",
+          "en": "Golden dunes of Erg Chebbi at sunset",
+          "darija": "الكثبان الذهبية ديال إرك الشبي مع الغروب"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Berber_camp%2C_Erg_Chebbi%2C_Sahara_Desert%2C_Morocco.jpg/960px-Berber_camp%2C_Erg_Chebbi%2C_Sahara_Desert%2C_Morocco.jpg",
+        "alt": {
+          "fr": "Campement de tentes berbères dans le désert",
+          "ar": "مخيم خيام أمازيغية في الصحراء",
+          "en": "Berber tent camp in the desert",
+          "darija": "مخيم ديال الخيام الأمازيغية فالصحرا"
+        }
+      }
+    ],
+    "proActorDomain": "tourisme_rural",
+    "stock": 15,
+    "isInfiniteStock": false,
+    "sku": "KB-RUR-001",
+    "status": "published",
+    "isActive": true,
+    "isFeatured": true,
+    "isOrganic": false,
+    "isHandmade": false,
+    "origin": { "region": "Drâa-Tafilalet", "city": "Merzouga", "country": "Maroc" },
+    "certifications": ["Guide local certifié"],
+    "slug": "bivouac-luxe-tente-berbere-erg-chebbi",
+    "metaTitle": {
+      "fr": "Bivouac de luxe à Erg Chebbi – Merzouga | KENZ BLADI",
+      "ar": "تخييم فاخر بإرك الشبي – مرزوكة | كنز بلادي",
+      "en": "Luxury Bivouac at Erg Chebbi – Merzouga | KENZ BLADI",
+      "darija": "بيفواك فاخر فإرك الشبي – مرزوكة | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Nuit en tente berbère de luxe dans les dunes d'Erg Chebbi, dîner traditionnel et musique gnaoua sous les étoiles.",
+      "ar": "ليلة في خيمة أمازيغية فاخرة بكثبان إرك الشبي، عشاء تقليدي وموسيقى ﯕناوة تحت النجوم.",
+      "en": "Night in a luxury Berber tent in the dunes of Erg Chebbi, traditional dinner and gnaoua music under the stars.",
+      "darija": "ليلة فخيمة أمازيغية فاخرة بكثبان إرك الشبي، عشاء تقليدي وموسيقى ﯕناوة تحت النجوم."
+    },
+    "viewCount": 2240,
+    "salesCount": 156,
+    "rating": 4.9,
+    "reviewCount": 88
+  },
+  {
+    "name": {
+      "fr": "Séjour de 2 nuits dans un riad traditionnel à Essaouira",
+      "ar": "إقامة ليلتين في رياض تقليدي بالصويرة",
+      "en": "2-Night Stay in a Traditional Riad in Essaouira",
+      "darija": "إقامة جوج ليالي فرياض تقليدي بالصويرة"
+    },
+    "description": {
+      "fr": "Profitez de deux nuits de détente dans un riad authentique au cœur de la médina d'Essaouira, classée patrimoine mondial de l'UNESCO. Patio fleuri, terrasse avec vue sur l'océan, chambre décorée de zellige et de mobilier artisanal, petit-déjeuner marocain servi chaque matin. Le forfait inclut un accueil avec thé à la menthe et pâtisseries, ainsi qu'une visite guidée de la médina et du port aux mouettes.",
+      "ar": "استمتعوا بليلتين من الاسترخاء في رياض أصيل بقلب مدينة الصويرة العتيقة المصنفة في التراث العالمي لليونسكو. فناء مزهر، سطح مطل على المحيط، غرفة مزينة بالزليج والأثاث الحرفي، وفطور مغربي يُقدَّم كل صباح. يشمل العرض استقبالًا بشاي بالنعناع وحلويات، بالإضافة إلى جولة مرشدة في المدينة العتيقة والميناء المشهور بالنوارس.",
+      "en": "Enjoy two relaxing nights in an authentic riad in the heart of Essaouira's medina, a UNESCO World Heritage site. A flower-filled patio, a terrace overlooking the ocean, a room decorated with zellige tilework and handcrafted furniture, and a Moroccan breakfast served every morning. The package includes a welcome with mint tea and pastries, plus a guided tour of the medina and the famous seagull-filled port.",
+      "darija": "استافدو من جوج ليالي ديال الراحة فرياض أصيل فقلب المدينة العتيقة ديال الصويرة المصنفة فالتراث العالمي ليونيسكو. باحة مزهرة، سطح مطل على البحر، بيت مزين بالزليج والمفروشات الحرفية، وفطور مغربي كيتقدم كل صباح. الباكاج فيه استقبال بأتاي بالنعناع وحلويات، زائد جولة مع مرشد فالمدينة العتيقة والميناء المشهور بالنوارس."
+    },
+    "shortDescription": {
+      "fr": "2 nuits dans un riad authentique à Essaouira avec petit-déjeuner et visite guidée.",
+      "ar": "ليلتان في رياض أصيل بالصويرة مع الفطور وجولة مرشدة.",
+      "en": "2 nights in an authentic riad in Essaouira with breakfast and a guided tour.",
+      "darija": "جوج ليالي فرياض أصيل بالصويرة مع الفطور وجولة مع مرشد."
+    },
+    "unit": { "fr": "séjour (2 nuits)", "ar": "إقامة (ليلتان)", "en": "stay (2 nights)", "darija": "إقامة (جوج ليالي)" },
+    "price": 1450,
+    "priceDiscount": 1290,
+    "currency": "MAD",
+    "domain": "tourisme_rural",
+    "subcategory": {
+      "fr": "Hébergements & Riads",
+      "ar": "الإقامة والرياضات",
+      "en": "Accommodations & Riads",
+      "darija": "الإقامة والرياضات"
+    },
+    "tags": ["riad", "Essaouira", "séjour", "médina"],
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Riad_du_Figuier_courtyard_-_Essaouira_188.jpg/960px-Riad_du_Figuier_courtyard_-_Essaouira_188.jpg",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Riad_du_Figuier_courtyard_-_Essaouira_188.jpg/960px-Riad_du_Figuier_courtyard_-_Essaouira_188.jpg",
+        "alt": {
+          "fr": "Patio fleuri d'un riad à Essaouira",
+          "ar": "فناء مزهر لرياض بالصويرة",
+          "en": "Flower-filled patio of a riad in Essaouira",
+          "darija": "باحة مزهرة ديال ريض بالصويرة"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Courtyard_in_the_roof_or_the_traditional_Moroccan_house_%27riad%27.jpg/960px-Courtyard_in_the_roof_or_the_traditional_Moroccan_house_%27riad%27.jpg",
+        "alt": {
+          "fr": "Terrasse traditionnelle d'une maison riad",
+          "ar": "سطح تقليدي لبيت رياض",
+          "en": "Traditional rooftop terrace of a riad house",
+          "darija": "سطح تقليدي ديال دار ريض"
+        }
+      }
+    ],
+    "proActorDomain": "tourisme_rural",
+    "stock": 10,
+    "isInfiniteStock": false,
+    "sku": "KB-RUR-002",
+    "status": "published",
+    "isActive": true,
+    "isFeatured": true,
+    "isOrganic": false,
+    "isHandmade": false,
+    "origin": { "region": "Marrakech-Safi", "city": "Essaouira", "country": "Maroc" },
+    "certifications": ["Hébergement local"],
+    "slug": "sejour-2-nuits-riad-traditionnel-essaouira",
+    "metaTitle": {
+      "fr": "Séjour 2 nuits en riad à Essaouira | KENZ BLADI",
+      "ar": "إقامة ليلتين في رياض بالصويرة | كنز بلادي",
+      "en": "2-Night Riad Stay in Essaouira | KENZ BLADI",
+      "darija": "إقامة جوج ليالي فريض بالصويرة | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Séjour de deux nuits dans un riad authentique au cœur de la médina d'Essaouira, petit-déjeuner et visite guidée inclus.",
+      "ar": "إقامة ليلتين في رياض أصيل بقلب مدينة الصويرة العتيقة، الفطور وجولة مرشدة مشمولان.",
+      "en": "Two-night stay in an authentic riad in the heart of Essaouira's medina, breakfast and guided tour included.",
+      "darija": "إقامة جوج ليالي فرياض أصيل فقلب المدينة العتيقة ديال الصويرة، الفطور وجولة مع مرشد داخلين."
+    },
+    "viewCount": 1580,
+    "salesCount": 92,
+    "rating": 4.8,
+    "reviewCount": 51
+  },
+  {
+    "name": {
+      "fr": "Trek guidé de 3 jours dans le Haut Atlas",
+      "ar": "رحلة مشي لمدة 3 أيام في الأطلس الكبير",
+      "en": "3-Day Guided Trek in the High Atlas",
+      "darija": "تريك مدة 3 ايام فالأطلس الكبير مع مرشد"
+    },
+    "description": {
+      "fr": "Partez à la découverte des sommets du Haut Atlas lors d'un trek de 3 jours encadré par un guide de montagne local. L'itinéraire traverse vallées verdoyantes, villages berbères perchés et cols offrant des panoramas sur le Djebel Toubkal, point culminant d'Afrique du Nord. Hébergement en gîtes d'étape tenus par des familles locales, repas traditionnels inclus, et mulet pour le transport des bagages.",
+      "ar": "انطلقوا لاكتشاف قمم الأطلس الكبير في رحلة مشي لمدة 3 أيام برفقة مرشد جبلي محلي. يمر المسار عبر أودية خضراء وقرى أمازيغية معلقة وممرات تطل على جبل توبقال، أعلى قمة في شمال إفريقيا. الإقامة في بيوت ضيافة تديرها عائلات محلية، مع وجبات تقليدية وبغل لنقل الأمتعة.",
+      "en": "Set off to discover the peaks of the High Atlas on a 3-day trek led by a local mountain guide. The route crosses green valleys, perched Berber villages and passes offering panoramic views of Mount Toubkal, the highest peak in North Africa. Accommodation in family-run guesthouses, traditional meals included, and a mule for luggage transport.",
+      "darija": "سافرو تكتشفو قمم الأطلس الكبير فتريك مدة 3 ايام مع مرشد جبلي محلي. الطريق كيعدي من الأودية الخضراء والقرى الأمازيغية المعلقة والممرات اللي مطلين على جبل توبقال، أعلى قمة فشمال إفريقيا. الإقامة فبيوت الضيافة ديال العائلات المحلية، مع وجبات تقليدية وبغل لنقل الشكارة."
+    },
+    "shortDescription": {
+      "fr": "Trek de 3 jours dans le Haut Atlas, gîtes locaux et vue sur le Toubkal.",
+      "ar": "رحلة مشي 3 أيام في الأطلس الكبير، بيوت ضيافة محلية وإطلالة على توبقال.",
+      "en": "3-day trek in the High Atlas, local guesthouses and views of Toubkal.",
+      "darija": "تريك 3 ايام فالأطلس الكبير، بيوت ضيافة محلية وإطلالة على توبقال."
+    },
+    "unit": { "fr": "forfait / personne", "ar": "باقة / شخص", "en": "package / person", "darija": "باكاج / شخص" },
+    "price": 2800,
+    "priceDiscount": null,
+    "currency": "MAD",
+    "domain": "tourisme_rural",
+    "subcategory": {
+      "fr": "Randonnées & Treks",
+      "ar": "المشي وتسلق الجبال",
+      "en": "Hikes & Treks",
+      "darija": "المشي وتسلق الجبال"
+    },
+    "tags": ["trek", "Haut Atlas", "Toubkal", "randonnée", "guide"],
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Atlas_mountains%2C_High_Atlas_range.jpg/960px-Atlas_mountains%2C_High_Atlas_range.jpg",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Atlas_mountains%2C_High_Atlas_range.jpg/960px-Atlas_mountains%2C_High_Atlas_range.jpg",
+        "alt": {
+          "fr": "Chaîne du Haut Atlas marocain",
+          "ar": "سلسلة جبال الأطلس الكبير المغربية",
+          "en": "Moroccan High Atlas mountain range",
+          "darija": "سلسلة جبال الأطلس الكبير المغربية"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Djebel_Ayachi%2C_Eastern_High_Atlas%2C_Morocco.jpg/960px-Djebel_Ayachi%2C_Eastern_High_Atlas%2C_Morocco.jpg",
+        "alt": {
+          "fr": "Sommet du Djebel Ayachi dans l'Atlas oriental",
+          "ar": "قمة جبل العياشي في الأطلس الشرقي",
+          "en": "Summit of Djebel Ayachi in the Eastern Atlas",
+          "darija": "قمة جبل العياشي فالأطلس الشرقي"
+        }
+      }
+    ],
+    "proActorDomain": "tourisme_rural",
+    "stock": 12,
+    "isInfiniteStock": false,
+    "sku": "KB-RUR-003",
+    "status": "published",
+    "isActive": true,
+    "isFeatured": true,
+    "isOrganic": false,
+    "isHandmade": false,
+    "origin": { "region": "Marrakech-Safi", "city": "Imlil", "country": "Maroc" },
+    "certifications": ["Guide local certifié"],
+    "slug": "trek-guide-3-jours-haut-atlas",
+    "metaTitle": {
+      "fr": "Trek guidé 3 jours dans le Haut Atlas – Imlil | KENZ BLADI",
+      "ar": "رحلة مشي 3 أيام في الأطلس الكبير – إمليل | كنز بلادي",
+      "en": "3-Day Guided Trek in the High Atlas – Imlil | KENZ BLADI",
+      "darija": "تريك 3 ايام فالأطلس الكبير – إمليل | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Trek de 3 jours dans le Haut Atlas avec guide local, gîtes familiaux et vue sur le Djebel Toubkal.",
+      "ar": "رحلة مشي 3 أيام في الأطلس الكبير مع مرشد محلي، بيوت ضيافة عائلية وإطلالة على جبل توبقال.",
+      "en": "3-day trek in the High Atlas with a local guide, family guesthouses and views of Mount Toubkal.",
+      "darija": "تريك 3 ايام فالأطلس الكبير مع مرشد محلي، بيوت ضيافة عائلية وإطلالة على جبل توبقال."
+    },
+    "viewCount": 1340,
+    "salesCount": 47,
+    "rating": 4.9,
+    "reviewCount": 33
+  },
+  {
+    "name": {
+      "fr": "Immersion d'une nuit chez l'habitant dans un village berbère",
+      "ar": "إقامة ليلة عند الساكنة في قرية أمازيغية",
+      "en": "One-Night Homestay in a Berber Village",
+      "darija": "بيتة ليلة عند الناس فقرية أمازيغية"
+    },
+    "description": {
+      "fr": "Vivez une expérience humaine authentique en partageant le quotidien d'une famille berbère dans un village traditionnel de l'Atlas. Au programme : préparation du pain et du tagine avec vos hôtes, balade dans les ruelles du village et les vergers en terrasses, et veillée autour du thé à la menthe avec récits et musique locale. Une immersion respectueuse qui soutient directement l'économie villageoise.",
+      "ar": "عيشوا تجربة إنسانية أصيلة من خلال مشاركة الحياة اليومية لعائلة أمازيغية في قرية تقليدية بالأطلس. البرنامج يشمل: تحضير الخبز والطاجين مع المضيفين، جولة في أزقة القرية والبساتين المدرجة، وسهرة حول أتاي بالنعناع مع حكايات وموسيقى محلية. تجربة احترام متبادل تدعم اقتصاد القرية مباشرة.",
+      "en": "Live an authentic human experience by sharing daily life with a Berber family in a traditional Atlas village. The program includes: preparing bread and tagine with your hosts, a walk through the village lanes and terraced orchards, and an evening around mint tea with stories and local music. A respectful immersion that directly supports the village economy.",
+      "darija": "عيشو تجربة إنسانية أصيلة بمشاركة الحياة اليومية ديال عائلة أمازيغية فقرية تقليدية فالأطلس. البرنامج فيه: تحضير الخبز والطاجين مع لوليدية، جولة فأزقة القرية والبساتين المدرجة، وسهرة حول أتاي بالنعناع مع حكايات وموسيقى محلية. تجربة كتدعم اقتصاد القرية مباشرة."
+    },
+    "shortDescription": {
+      "fr": "Nuit chez l'habitant dans un village berbère, cuisine partagée et veillée traditionnelle.",
+      "ar": "ليلة عند الساكنة في قرية أمازيغية، طبخ مشترك وسهرة تقليدية.",
+      "en": "Night with a host family in a Berber village, shared cooking and traditional evening.",
+      "darija": "ليلة عند الناس فقرية أمازيغية، طبخ مشترك وسهرة تقليدية."
+    },
+    "unit": { "fr": "nuit / personne", "ar": "ليلة / شخص", "en": "night / person", "darija": "ليلة / شخص" },
+    "price": 380,
+    "priceDiscount": null,
+    "currency": "MAD",
+    "domain": "tourisme_rural",
+    "subcategory": {
+      "fr": "Hébergements & Riads",
+      "ar": "الإقامة والرياضات",
+      "en": "Accommodations & Riads",
+      "darija": "الإقامة والرياضات"
+    },
+    "tags": ["village berbère", "immersion", "hébergement", "Atlas"],
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Berber_village_Atlas.jpg/960px-Berber_village_Atlas.jpg",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Berber_village_Atlas.jpg/960px-Berber_village_Atlas.jpg",
+        "alt": {
+          "fr": "Village berbère traditionnel dans l'Atlas",
+          "ar": "قرية أمازيغية تقليدية في الأطلس",
+          "en": "Traditional Berber village in the Atlas",
+          "darija": "قرية أمازيغية تقليدية فالأطلس"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Panoramic_view_of_typical_Berber_village_%28Morocco_-_High_Atlas_Mountains%29.jpg/960px-Panoramic_view_of_typical_Berber_village_%28Morocco_-_High_Atlas_Mountains%29.jpg",
+        "alt": {
+          "fr": "Vue panoramique d'un village berbère typique",
+          "ar": "منظر بانورامي لقرية أمازيغية نموذجية",
+          "en": "Panoramic view of a typical Berber village",
+          "darija": "منظر بانورامي ديال قرية أمازيغية نموذجية"
+        }
+      }
+    ],
+    "proActorDomain": "tourisme_rural",
+    "stock": 18,
+    "isInfiniteStock": false,
+    "sku": "KB-RUR-004",
+    "status": "published",
+    "isActive": true,
+    "isFeatured": false,
+    "isOrganic": false,
+    "isHandmade": false,
+    "origin": { "region": "Béni Mellal-Khénifra", "city": "Azilal", "country": "Maroc" },
+    "certifications": ["Hébergement local"],
+    "slug": "immersion-nuit-habitant-village-berbere",
+    "metaTitle": {
+      "fr": "Immersion chez l'habitant dans un village berbère – Azilal | KENZ BLADI",
+      "ar": "إقامة عند الساكنة في قرية أمازيغية – أزيلال | كنز بلادي",
+      "en": "Homestay in a Berber Village – Azilal | KENZ BLADI",
+      "darija": "بيتة عند الناس فقرية أمازيغية – أزيلال | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Une nuit immersive chez une famille berbère de l'Atlas, cuisine partagée et veillée traditionnelle au coin du feu.",
+      "ar": "ليلة غامرة عند عائلة أمازيغية بالأطلس، طبخ مشترك وسهرة تقليدية حول النار.",
+      "en": "An immersive night with a Berber family in the Atlas, shared cooking and a traditional evening by the fire.",
+      "darija": "ليلة غامرة عند عائلة أمازيغية بالأطلس، طبخ مشترك وسهرة تقليدية حول النار."
+    },
+    "viewCount": 690,
+    "salesCount": 41,
+    "rating": 4.7,
+    "reviewCount": 18
+  },
+  {
+    "name": {
+      "fr": "Excursion à dos de chameau et nuit dans le désert",
+      "ar": "رحلة على ظهر الجمل وليلة في الصحراء",
+      "en": "Camel Trek and Overnight Stay in the Desert",
+      "darija": "رحلة فوق الجمل وليلة فالصحرا"
+    },
+    "description": {
+      "fr": "Embarquez pour une balade à dos de dromadaire au coucher du soleil à travers les dunes de Merzouga, accompagnés de guides nomades en tenue traditionnelle. Arrivée au campement pour un dîner berbère préparé sur place, suivi d'une soirée musicale au rythme des tambours. Réveil au lever du soleil sur les dunes avant le retour à dos de chameau.",
+      "ar": "انطلقوا في جولة على ظهر الجمل عند غروب الشمس عبر كثبان مرزوكة، برفقة مرشدين رحل بلباس تقليدي. الوصول إلى المخيم لتناول عشاء أمازيغي محضر في عين المكان، يليه سهرة موسيقية على إيقاع الطبول. الاستيقاظ عند شروق الشمس فوق الكثبان قبل العودة على ظهر الجمل.",
+      "en": "Set off on a sunset camel ride across the dunes of Merzouga, accompanied by nomadic guides in traditional dress. Arrive at the camp for a Berber dinner prepared on site, followed by a musical evening to the rhythm of drums. Wake up to the sunrise over the dunes before returning by camel.",
+      "darija": "سافرو فجولة فوق الجمل مع غروب الشمس عبر كثبان مرزوكة، مع مرشدين رحل بلباس تقليدي. الوصول للمخيم باش تتفطرو على عشاء أمازيغي محضر فعين المكان، من بعد سهرة موسيقية بإيقاع الطبول. الفيق مع شروق الشمس فوق الكثبان قبل الرجوع فوق الجمل."
+    },
+    "shortDescription": {
+      "fr": "Balade à dos de chameau au coucher du soleil et nuit en campement berbère.",
+      "ar": "جولة على ظهر الجمل عند الغروب وليلة في مخيم أمازيغي.",
+      "en": "Sunset camel ride and overnight stay in a Berber camp.",
+      "darija": "جولة فوق الجمل مع الغروب وليلة فمخيم أمازيغي."
+    },
+    "unit": { "fr": "forfait / personne", "ar": "باقة / شخص", "en": "package / person", "darija": "باكاج / شخص" },
+    "price": 700,
+    "priceDiscount": 599,
+    "currency": "MAD",
+    "domain": "tourisme_rural",
+    "subcategory": {
+      "fr": "Bivouacs & camps désertiques",
+      "ar": "التخييم الصحراوي",
+      "en": "Desert Camps & Bivouacs",
+      "darija": "التخييم الصحراوي"
+    },
+    "tags": ["chameau", "désert", "Merzouga", "coucher de soleil"],
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Camping_in_the_desert_western_sahara.jpg/960px-Camping_in_the_desert_western_sahara.jpg",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Camping_in_the_desert_western_sahara.jpg/960px-Camping_in_the_desert_western_sahara.jpg",
+        "alt": {
+          "fr": "Campement dans le désert marocain",
+          "ar": "مخيم في الصحراء المغربية",
+          "en": "Camp in the Moroccan desert",
+          "darija": "مخيم فالصحرا المغربية"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Erg_Chebbi%2C_Sahara_Desert%2C_Morocco%2C_%E6%91%A9%E6%B4%9B%E5%93%A5_-_Explore_-_Flickr_-_cattan2011.jpg/960px-Erg_Chebbi%2C_Sahara_Desert%2C_Morocco%2C_%E6%91%A9%E6%B4%9B%E5%93%A5_-_Explore_-_Flickr_-_cattan2011.jpg",
+        "alt": {
+          "fr": "Caravane de chameaux dans les dunes",
+          "ar": "قافلة جمال في الكثبان الرملية",
+          "en": "Camel caravan in the dunes",
+          "darija": "قافلة ديال الجمال فالكثبان"
+        }
+      }
+    ],
+    "proActorDomain": "tourisme_rural",
+    "stock": 25,
+    "isInfiniteStock": false,
+    "sku": "KB-RUR-005",
+    "status": "published",
+    "isActive": true,
+    "isFeatured": true,
+    "isOrganic": false,
+    "isHandmade": false,
+    "origin": { "region": "Drâa-Tafilalet", "city": "Merzouga", "country": "Maroc" },
+    "certifications": ["Guide local certifié"],
+    "slug": "excursion-chameau-nuit-desert",
+    "metaTitle": {
+      "fr": "Excursion à dos de chameau et nuit au désert – Merzouga | KENZ BLADI",
+      "ar": "رحلة على ظهر الجمل وليلة بالصحراء – مرزوكة | كنز بلادي",
+      "en": "Camel Trek and Desert Overnight – Merzouga | KENZ BLADI",
+      "darija": "رحلة فوق الجمل وليلة فالصحرا – مرزوكة | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Balade à dos de chameau au coucher de soleil et nuit en campement berbère dans les dunes de Merzouga.",
+      "ar": "جولة على ظهر الجمل عند الغروب وليلة في مخيم أمازيغي بكثبان مرزوكة.",
+      "en": "Sunset camel ride and overnight stay in a Berber camp in the dunes of Merzouga.",
+      "darija": "جولة فوق الجمل مع الغروب وليلة فمخيم أمازيغي بكثبان مرزوكة."
+    },
+    "viewCount": 2870,
+    "salesCount": 214,
+    "rating": 4.8,
+    "reviewCount": 130
+  },
+  {
+    "name": {
+      "fr": "Randonnée d'une journée dans les gorges du Dadès",
+      "ar": "رحلة مشي ليوم واحد في وادي الدادس",
+      "en": "Day Hike in the Dadès Gorges",
+      "darija": "تريك ديال نهار وحد فوادي الدادس"
+    },
+    "description": {
+      "fr": "Une journée complète de randonnée à travers les spectaculaires gorges du Dadès, célèbres pour leurs falaises rouges sculptées et leurs formations rocheuses surnommées 'doigts de singe'. Le guide local vous emmène à travers des sentiers panoramiques, des villages troglodytiques et des oasis de palmiers, avec un déjeuner pique-nique préparé avec des produits locaux.",
+      "ar": "يوم كامل من المشي عبر وادي الدادس المذهل، المشهور بمنحدراته الحمراء المنحوتة وتشكيلاته الصخرية الملقبة بـ'أصابع القرد'. يأخذكم المرشد المحلي عبر مسارات بانورامية وقرى محفورة في الصخر وواحات نخيل، مع غداء بيكنيك معد من منتجات محلية.",
+      "en": "A full day of hiking through the spectacular Dadès Gorges, famous for their carved red cliffs and rock formations nicknamed 'monkey fingers'. The local guide takes you along panoramic trails, troglodyte villages and palm oases, with a picnic lunch prepared with local products.",
+      "darija": "نهار كامل ديال التريك فوادي الدادس المذهل، المشهور بالمنحدرات الحمراء المنحوتة والصخور اللي سميينها 'صوابع القرد'. المرشد المحلي كيوديك عبر مسارات بانورامية وقرى محفورة فالصخر وواحات النخيل، مع غدا بيكنيك محضر من منتجات محلية."
+    },
+    "shortDescription": {
+      "fr": "Randonnée d'une journée dans les gorges du Dadès avec déjeuner local inclus.",
+      "ar": "رحلة مشي ليوم في وادي الدادس مع غداء محلي.",
+      "en": "Day hike through the Dadès Gorges with local lunch included.",
+      "darija": "تريك ديال نهار فوادي الدادس مع الغدا المحلي."
+    },
+    "unit": { "fr": "jour / personne", "ar": "يوم / شخص", "en": "day / person", "darija": "نهار / شخص" },
+    "price": 450,
+    "priceDiscount": null,
+    "currency": "MAD",
+    "domain": "tourisme_rural",
+    "subcategory": {
+      "fr": "Randonnées & Treks",
+      "ar": "المشي وتسلق الجبال",
+      "en": "Hikes & Treks",
+      "darija": "المشي وتسلق الجبال"
+    },
+    "tags": ["Dadès", "randonnée", "gorges", "guide local"],
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Gorges_du_Dad%C3%A9s_Atlas_Mountains_Morocco_1.jpg/960px-Gorges_du_Dad%C3%A9s_Atlas_Mountains_Morocco_1.jpg",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Gorges_du_Dad%C3%A9s_Atlas_Mountains_Morocco_1.jpg/960px-Gorges_du_Dad%C3%A9s_Atlas_Mountains_Morocco_1.jpg",
+        "alt": {
+          "fr": "Falaises rouges des gorges du Dadès",
+          "ar": "المنحدرات الحمراء لوادي الدادس",
+          "en": "Red cliffs of the Dadès Gorges",
+          "darija": "المنحدرات الحمراء ديال وادي الدادس"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Caves_Atlas_Mountains_Morocco_1.jpg/960px-Caves_Atlas_Mountains_Morocco_1.jpg",
+        "alt": {
+          "fr": "Habitations troglodytiques dans l'Atlas",
+          "ar": "مساكن محفورة في الصخر بالأطلس",
+          "en": "Troglodyte dwellings in the Atlas",
+          "darija": "مساكن محفورة فالصخر بالأطلس"
+        }
+      }
+    ],
+    "proActorDomain": "tourisme_rural",
+    "stock": 20,
+    "isInfiniteStock": false,
+    "sku": "KB-RUR-006",
+    "status": "published",
+    "isActive": true,
+    "isFeatured": false,
+    "isOrganic": false,
+    "isHandmade": false,
+    "origin": { "region": "Drâa-Tafilalet", "city": "Boumalne Dadès", "country": "Maroc" },
+    "certifications": ["Guide local certifié"],
+    "slug": "randonnee-journee-gorges-dades",
+    "metaTitle": {
+      "fr": "Randonnée d'une journée dans les gorges du Dadès | KENZ BLADI",
+      "ar": "رحلة مشي ليوم في وادي الدادس | كنز بلادي",
+      "en": "Day Hike in the Dadès Gorges | KENZ BLADI",
+      "darija": "تريك ديال نهار فوادي الدادس | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Randonnée guidée d'une journée dans les gorges du Dadès, falaises rouges et déjeuner local inclus.",
+      "ar": "رحلة مشي بمرشد ليوم في وادي الدادس، منحدرات حمراء وغداء محلي مشمول.",
+      "en": "Guided day hike in the Dadès Gorges, red cliffs and local lunch included.",
+      "darija": "تريك بمرشد ديال نهار فوادي الدادس، منحدرات حمراء والغدا المحلي داخل."
+    },
+    "viewCount": 540,
+    "salesCount": 63,
+    "rating": 4.6,
+    "reviewCount": 27
+  },
+  {
+    "name": {
+      "fr": "Découverte du village berbère de Nkob et fête traditionnelle",
+      "ar": "اكتشاف قرية نكوب الأمازيغية وحفل تقليدي",
+      "en": "Discovery of Nkob Berber Village and Traditional Festival",
+      "darija": "اكتشاف قرية نكوب الأمازيغية وحفلة تقليدية"
+    },
+    "description": {
+      "fr": "Visitez le village pittoresque de Nkob, niché entre kasbahs en pisé et palmeraies, et assistez à une démonstration de danse et de musique folklorique exécutée par les habitants en costumes traditionnels. La visite inclut un passage chez un artisan local, une dégustation de thé et de pâtisseries, et la découverte de l'architecture en terre typique de la vallée du Drâa.",
+      "ar": "زوروا قرية نكوب الجميلة المتاخمة للقصبات الطينية وواحات النخيل، وشاهدوا عرضًا للرقص والموسيقى الفلكلورية يؤديه السكان بالأزياء التقليدية. تشمل الزيارة مرورًا عند حرفي محلي، وتذوق الشاي والحلويات، واكتشاف العمارة الطينية المميزة لوادي درعة.",
+      "en": "Visit the picturesque village of Nkob, nestled among earthen kasbahs and palm groves, and watch a folk dance and music performance by locals in traditional costumes. The visit includes a stop with a local artisan, a tasting of tea and pastries, and a discovery of the earthen architecture typical of the Drâa Valley.",
+      "darija": "زورو القرية الجميلة ديال نكوب، اللي كاينة بين القصبات الطينية وغابات النخيل، وشوفو عرض ديال الرقص والموسيقى الفلكلورية كيديروه الساكنة بلباس تقليدي. الزيارة فيها مرور عند صانع محلي، وتذوق الأتاي والحلويات، واكتشاف العمارة الطينية المميزة لوادي درعة."
+    },
+    "shortDescription": {
+      "fr": "Visite du village de Nkob avec spectacle folklorique et rencontre artisanale.",
+      "ar": "زيارة قرية نكوب مع عرض فلكلوري ولقاء مع حرفي.",
+      "en": "Visit to Nkob village with folk show and artisan encounter.",
+      "darija": "زيارة قرية نكوب مع عرض فلكلوري ولقاء مع صانع."
+    },
+    "unit": { "fr": "jour / groupe", "ar": "يوم / مجموعة", "en": "day / group", "darija": "نهار / مجموعة" },
+    "price": 950,
+    "priceDiscount": null,
+    "currency": "MAD",
+    "domain": "tourisme_rural",
+    "subcategory": {
+      "fr": "Visites culturelles",
+      "ar": "الزيارات الثقافية",
+      "en": "Cultural Visits",
+      "darija": "الزيارات الثقافية"
+    },
+    "tags": ["Nkob", "village berbère", "festival", "kasbah"],
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/The_sound_of_the_south_2_-_Nkoub_village_Morocco_by_Brahim_FARAJI.jpg/960px-The_sound_of_the_south_2_-_Nkoub_village_Morocco_by_Brahim_FARAJI.jpg",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/The_sound_of_the_south_2_-_Nkoub_village_Morocco_by_Brahim_FARAJI.jpg/960px-The_sound_of_the_south_2_-_Nkoub_village_Morocco_by_Brahim_FARAJI.jpg",
+        "alt": {
+          "fr": "Vue du village de Nkob entre kasbahs et palmeraies",
+          "ar": "منظر قرية نكوب بين القصبات وواحات النخيل",
+          "en": "View of Nkob village among kasbahs and palm groves",
+          "darija": "منظر قرية نكوب بين القصبات وغابات النخيل"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Children_performing_Parade_in_traditional_festival_at_Nkob_village%2C_Ouarzazate%2C_Morocco_by_Brahim_FARAJI.jpg/960px-Children_performing_Parade_in_traditional_festival_at_Nkob_village%2C_Ouarzazate%2C_Morocco_by_Brahim_FARAJI.jpg",
+        "alt": {
+          "fr": "Enfants en costumes traditionnels lors d'une fête à Nkob",
+          "ar": "أطفال بأزياء تقليدية في احتفال بنكوب",
+          "en": "Children in traditional costumes during a festival in Nkob",
+          "darija": "درارى بلباس تقليدي فحفلة بنكوب"
+        }
+      }
+    ],
+    "proActorDomain": "tourisme_rural",
+    "stock": 14,
+    "isInfiniteStock": false,
+    "sku": "KB-RUR-007",
+    "status": "published",
+    "isActive": true,
+    "isFeatured": false,
+    "isOrganic": false,
+    "isHandmade": false,
+    "origin": { "region": "Drâa-Tafilalet", "city": "Nkob", "country": "Maroc" },
+    "certifications": ["Guide local certifié"],
+    "slug": "decouverte-village-nkob-fete-traditionnelle",
+    "metaTitle": {
+      "fr": "Découverte du village de Nkob et fête traditionnelle | KENZ BLADI",
+      "ar": "اكتشاف قرية نكوب وحفل تقليدي | كنز بلادي",
+      "en": "Discovery of Nkob Village and Traditional Festival | KENZ BLADI",
+      "darija": "اكتشاف قرية نكوب وحفلة تقليدية | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Visite du village berbère de Nkob, kasbahs, palmeraies et spectacle folklorique avec les habitants.",
+      "ar": "زيارة قرية نكوب الأمازيغية، قصبات وواحات نخيل وعرض فلكلوري مع السكان.",
+      "en": "Visit the Berber village of Nkob, kasbahs, palm groves and a folk show with locals.",
+      "darija": "زيارة قرية نكوب الأمازيغية، قصبات وغابات نخيل وعرض فلكلوري مع الساكنة."
+    },
+    "viewCount": 410,
+    "salesCount": 29,
+    "rating": 4.7,
+    "reviewCount": 14
+  },
+  {
+    "name": {
+      "fr": "Location d'un riad entier avec patio à Marrakech",
+      "ar": "كراء رياض كامل مع فناء بمراكش",
+      "en": "Full Riad Rental with Patio in Marrakech",
+      "darija": "كرا ريض كامل مع الباحة بمراكش"
+    },
+    "description": {
+      "fr": "Privatisez un riad entier au cœur de la médina de Marrakech, avec patio central orné de zellige, fontaine, terrasse panoramique et jusqu'à 4 chambres climatisées. Idéal pour les familles ou groupes d'amis souhaitant profiter d'un cadre intime et authentique, à deux pas de la place Jemaa el-Fna. Service de ménage quotidien et petit-déjeuner marocain inclus.",
+      "ar": "احجزوا رياضًا كاملاً لكم وحدكم في قلب مدينة مراكش العتيقة، يضم فناءً مركزيًا مزينًا بالزليج ونافورة وسطحًا بانوراميًا وما يصل إلى 4 غرف مكيفة. مثالي للعائلات أو مجموعات الأصدقاء الراغبين في الاستمتاع بأجواء حميمية وأصيلة، على بعد خطوات من ساحة جامع الفنا. خدمة تنظيف يومية وفطور مغربي مشمولان.",
+      "en": "Have an entire riad to yourselves in the heart of Marrakech's medina, featuring a central patio decorated with zellige tilework, a fountain, a panoramic terrace and up to 4 air-conditioned bedrooms. Ideal for families or groups of friends wishing to enjoy an intimate, authentic setting just steps from Jemaa el-Fna square. Daily housekeeping and Moroccan breakfast included.",
+      "darija": "كراو ريض كامل غير ليكم وحدكم فقلب المدينة العتيقة ديال مراكش، فيه باحة مركزية مزينة بالزليج ونافورة وسطح بانورامي وحتى 4 ديال البيوت مكيفين. مزيان للعائلات ولا مجموعات الصحاب اللي بغاو يستافدو من جو حميمي وأصيل، على بعد خطوات من ساحة جامع الفنا. خدمة التنظيف اليومية والفطور المغربي داخلين فالثمن."
+    },
+    "shortDescription": {
+      "fr": "Riad privatif avec patio et terrasse à Marrakech, jusqu'à 4 chambres, petit-déjeuner inclus.",
+      "ar": "رياض خاص مع فناء وسطح بمراكش، يصل إلى 4 غرف، الفطور مشمول.",
+      "en": "Private riad with patio and terrace in Marrakech, up to 4 bedrooms, breakfast included.",
+      "darija": "ريض خاص مع باحة وسطح بمراكش، حتى 4 ديال البيوت، الفطور داخل فالثمن."
+    },
+    "unit": { "fr": "nuit / riad", "ar": "ليلة / رياض", "en": "night / riad", "darija": "ليلة / ريض" },
+    "price": 1800,
+    "priceDiscount": 1550,
+    "currency": "MAD",
+    "domain": "tourisme_rural",
+    "subcategory": {
+      "fr": "Hébergements & Riads",
+      "ar": "الإقامة والرياضات",
+      "en": "Accommodations & Riads",
+      "darija": "الإقامة والرياضات"
+    },
+    "tags": ["riad", "Marrakech", "location", "famille"],
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RIAD_LALLA_KHITI_MARRAKECH_MOROCCO_APRIL_2013_%288713893422%29.jpg/960px-RIAD_LALLA_KHITI_MARRAKECH_MOROCCO_APRIL_2013_%288713893422%29.jpg",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RIAD_LALLA_KHITI_MARRAKECH_MOROCCO_APRIL_2013_%288713893422%29.jpg/960px-RIAD_LALLA_KHITI_MARRAKECH_MOROCCO_APRIL_2013_%288713893422%29.jpg",
+        "alt": {
+          "fr": "Patio orné de zellige d'un riad à Marrakech",
+          "ar": "فناء مزين بالزليج لرياض بمراكش",
+          "en": "Zellige-decorated patio of a riad in Marrakech",
+          "darija": "باحة مزينة بالزليج ديال ريض بمراكش"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Riad_Maroc_031.JPG/960px-Riad_Maroc_031.JPG",
+        "alt": {
+          "fr": "Chambre décorée d'un riad marocain",
+          "ar": "غرفة مزينة في رياض مغربي",
+          "en": "Decorated bedroom in a Moroccan riad",
+          "darija": "بيت مزين فريض مغربي"
+        }
+      }
+    ],
+    "proActorDomain": "tourisme_rural",
+    "stock": 6,
+    "isInfiniteStock": false,
+    "sku": "KB-RUR-008",
+    "status": "published",
+    "isActive": true,
+    "isFeatured": true,
+    "isOrganic": false,
+    "isHandmade": false,
+    "origin": { "region": "Marrakech-Safi", "city": "Marrakech", "country": "Maroc" },
+    "certifications": ["Hébergement local"],
+    "slug": "location-riad-entier-patio-marrakech",
+    "metaTitle": {
+      "fr": "Location d'un riad entier à Marrakech | KENZ BLADI",
+      "ar": "كراء رياض كامل بمراكش | كنز بلادي",
+      "en": "Full Riad Rental in Marrakech | KENZ BLADI",
+      "darija": "كرا ريض كامل بمراكش | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Riad privatif avec patio en zellige, fontaine et terrasse au cœur de la médina de Marrakech, jusqu'à 4 chambres.",
+      "ar": "رياض خاص بفناء من الزليج ونافورة وسطح بقلب مدينة مراكش العتيقة، يصل إلى 4 غرف.",
+      "en": "Private riad with a zellige patio, fountain and terrace in the heart of Marrakech's medina, up to 4 bedrooms.",
+      "darija": "ريض خاص بباحة من الزليج ونافورة وسطح فقلب المدينة العتيقة ديال مراكش، حتى 4 ديال البيوت."
+    },
+    "viewCount": 3120,
+    "salesCount": 178,
+    "rating": 4.9,
+    "reviewCount": 102
+  }
+]

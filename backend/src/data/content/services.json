@@ -1,0 +1,351 @@
+{
+  "hero": {
+    "title": {
+      "fr": "Nos services",
+      "ar": "خدماتنا",
+      "en": "Our Services",
+      "darija": "الخدمات ديالنا"
+    },
+    "subtitle": {
+      "fr": "Des solutions complètes pour accompagner artisans, coopératives et acteurs du tourisme rural dans leur transition digitale",
+      "ar": "حلول متكاملة لمواكبة الحرفيين والتعاونيات والفاعلين في السياحة القروية في تحولهم الرقمي",
+      "en": "Comprehensive solutions to support artisans, cooperatives and rural tourism actors in their digital transition",
+      "darija": "حلول متكاملة لمواكبة الحرفيين والتعاونيات والفاعلين فالسياحة القروية فالتحول الديجيتال ديالهم"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Berber_carpet_from_Kairouan.jpg/960px-Berber_carpet_from_Kairouan.jpg"
+  },
+  "services": [
+    {
+      "id": "marketplace",
+      "icon": "shopping-bag",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Berber_carpets.JPG/960px-Berber_carpets.JPG",
+      "name": {
+        "fr": "Boutique en ligne (Marketplace)",
+        "ar": "المتجر الإلكتروني (السوق)",
+        "en": "Online Marketplace",
+        "darija": "الحانوت الإلكتروني (الماركت بلاص)"
+      },
+      "description": {
+        "fr": "Créez votre vitrine professionnelle et vendez vos produits artisanaux, agricoles ou cosmétiques directement à des clients au Maroc et à l'étranger, sans frais d'intermédiaire excessifs.",
+        "ar": "أنشئ واجهتك الاحترافية وبع منتجاتك الحرفية أو الفلاحية أو التجميلية مباشرة لزبناء في المغرب وخارجه، دون رسوم وساطة مبالغ فيها.",
+        "en": "Create your professional storefront and sell your artisanal, agricultural or cosmetic products directly to customers in Morocco and abroad, without excessive intermediary fees.",
+        "darija": "خلق الواجهة الاحترافية ديالك وبيع المنتوجات الحرفية أو الفلاحية أو التجميلية ديالك بشكل مباشر للزبناء فالمغرب وبرا، بلا رسوم وساطة بزاف."
+      },
+      "features": [
+        {
+          "fr": "Fiche produit multilingue (ar, fr, en, darija)",
+          "ar": "بطاقة منتج متعددة اللغات (عربية، فرنسية، إنجليزية، دارجة)",
+          "en": "Multilingual product sheet (ar, fr, en, darija)",
+          "darija": "بطاقة المنتوج بعدة لغات (عربية، فرنسية، إنجليزية، دارجة)"
+        },
+        {
+          "fr": "Galerie photo et gestion des stocks",
+          "ar": "معرض صور وتدبير المخزون",
+          "en": "Photo gallery and stock management",
+          "darija": "معرض تصاور وتدبير المخزون"
+        },
+        {
+          "fr": "Tableau de bord des commandes et statistiques de vente",
+          "ar": "لوحة تحكم للطلبات وإحصائيات البيع",
+          "en": "Order dashboard and sales statistics",
+          "darija": "لوحة تحكم للطلبيات وإحصائيات البيع"
+        },
+        {
+          "fr": "Mise en avant dans les catégories et recherches",
+          "ar": "إبراز في الفئات ونتائج البحث",
+          "en": "Featured placement in categories and search results",
+          "darija": "إبراز فالفئات ونتائج البحث"
+        }
+      ],
+      "pricing": {
+        "label": {
+          "fr": "Commission sur vente",
+          "ar": "عمولة على البيع",
+          "en": "Sales commission",
+          "darija": "عمولة على البيع"
+        },
+        "value": {
+          "fr": "À partir de 5% par transaction réussie, sans abonnement obligatoire",
+          "ar": "ابتداء من 5% لكل معاملة ناجحة، دون اشتراك إجباري",
+          "en": "Starting at 5% per successful transaction, no mandatory subscription",
+          "darija": "بدءا من 5% لكل عملية ناجحة، بلا اشتراك إجباري"
+        }
+      }
+    },
+    {
+      "id": "annuaire-pro",
+      "icon": "id-card",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Rugs_in_Ouarzazate.jpg/960px-Rugs_in_Ouarzazate.jpg",
+      "name": {
+        "fr": "Profil professionnel & annuaire",
+        "ar": "الملف المهني والدليل",
+        "en": "Professional Profile & Directory",
+        "darija": "البروفيل المهني والدليل"
+      },
+      "description": {
+        "fr": "Bénéficiez d'une page professionnelle complète présentant votre coopérative ou atelier, votre histoire, votre localisation et vos produits, référencée dans l'annuaire des acteurs KENZ BLADI.",
+        "ar": "استفد من صفحة مهنية كاملة تعرض تعاونيتك أو ورشتك، قصتك، موقعك ومنتجاتك، مدرجة في دليل الفاعلين بكنز بلادي.",
+        "en": "Benefit from a complete professional page presenting your cooperative or workshop, your story, location and products, listed in the KENZ BLADI directory of actors.",
+        "darija": "استافد من صفحة مهنية كاملة كتعرض التعاونية أو الورشة ديالك، القصة ديالك، الموقع والمنتوجات، مدرجة فدليل الفاعلين ديال كنز بلادي."
+      },
+      "features": [
+        {
+          "fr": "Page « À propos » personnalisée avec photos et vidéos",
+          "ar": "صفحة «حول» مخصصة مع صور وفيديوهات",
+          "en": "Customized 'About' page with photos and videos",
+          "darija": "صفحة «على» مخصصة بالتصاور والفيديوهات"
+        },
+        {
+          "fr": "Géolocalisation sur la carte des régions",
+          "ar": "التموقع الجغرافي على خريطة الجهات",
+          "en": "Geolocation on the regions map",
+          "darija": "التموقع الجغرافي على خريطة الجهات"
+        },
+        {
+          "fr": "Badge de vérification « Acteur certifié KENZ BLADI »",
+          "ar": "شارة توثيق «فاعل معتمد من كنز بلادي»",
+          "en": "Verification badge 'KENZ BLADI Certified Actor'",
+          "darija": "شارة توثيق «فاعل معتمد من كنز بلادي»"
+        }
+      ],
+      "pricing": {
+        "label": {
+          "fr": "Inclus avec le compte Pro",
+          "ar": "مشمول مع الحساب الاحترافي",
+          "en": "Included with Pro account",
+          "darija": "مشمول مع الحساب برو"
+        },
+        "value": {
+          "fr": "Gratuit pour tous les artisans et coopératives inscrits",
+          "ar": "مجاني لجميع الحرفيين والتعاونيات المسجلين",
+          "en": "Free for all registered artisans and cooperatives",
+          "darija": "مجاني لجميع الحرفيين والتعاونيات المسجلين"
+        }
+      }
+    },
+    {
+      "id": "promotion-tourisme",
+      "icon": "map",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Sunset_in_Erg_Chebbi_%2854244351519%29.jpg/960px-Sunset_in_Erg_Chebbi_%2854244351519%29.jpg",
+      "name": {
+        "fr": "Promotion du tourisme rural",
+        "ar": "ترويج السياحة القروية",
+        "en": "Rural Tourism Promotion",
+        "darija": "ترويج السياحة القروية"
+      },
+      "description": {
+        "fr": "Référencez vos gîtes, circuits, activités ou expériences locales (bivouacs, randonnées, visites de coopératives) dans notre espace dédié au tourisme rural, consulté par des voyageurs marocains et étrangers.",
+        "ar": "أدرج بيوت الضيافة والمسارات والأنشطة أو التجارب المحلية (مبيت في الصحراء، رحلات سير، زيارات التعاونيات) في فضائنا المخصص للسياحة القروية، الذي يزوره مسافرون مغاربة وأجانب.",
+        "en": "List your guesthouses, tours, activities or local experiences (desert bivouacs, hikes, cooperative visits) in our dedicated rural tourism space, visited by Moroccan and foreign travellers.",
+        "darija": "سجل دورياتك ومساراتك وأنشطتك أو التجارب المحلية (مبيت فالصحرا، مشي على الرجلين، زيارات التعاونيات) فالفضاء ديالنا المخصص للسياحة القروية، اللي كيزورو مسافرين مغاربة وأجانب."
+      },
+      "features": [
+        {
+          "fr": "Fiche destination avec informations pratiques (saison, accès, tarifs)",
+          "ar": "بطاقة وجهة بمعلومات عملية (الموسم، الوصول، الأسعار)",
+          "en": "Destination sheet with practical information (season, access, rates)",
+          "darija": "بطاقة وجهة بمعلومات عملية (الموسم، الوصول، التعريفة)"
+        },
+        {
+          "fr": "Galerie photo et vidéo immersive",
+          "ar": "معرض صور وفيديوهات غامرة",
+          "en": "Immersive photo and video gallery",
+          "darija": "معرض تصاور وفيديوهات غامرة"
+        },
+        {
+          "fr": "Mise en relation avec les coopératives locales à proximité",
+          "ar": "الربط مع التعاونيات المحلية القريبة",
+          "en": "Connection with nearby local cooperatives",
+          "darija": "الربط مع التعاونيات المحلية القريبة"
+        }
+      ],
+      "pricing": {
+        "label": {
+          "fr": "Référencement standard",
+          "ar": "إدراج عادي",
+          "en": "Standard listing",
+          "darija": "إدراج عادي"
+        },
+        "value": {
+          "fr": "Gratuit, options de mise en avant payantes disponibles",
+          "ar": "مجاني، مع توفر خيارات إبراز مدفوعة",
+          "en": "Free, with paid featured-placement options available",
+          "darija": "مجاني، وكاينين خيارات إبراز بزيادة"
+        }
+      }
+    },
+    {
+      "id": "accompagnement-digital",
+      "icon": "laptop",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Leather_tanning%2C_Fes.jpg/960px-Leather_tanning%2C_Fes.jpg",
+      "name": {
+        "fr": "Accompagnement digital & formation",
+        "ar": "المواكبة الرقمية والتكوين",
+        "en": "Digital Support & Training",
+        "darija": "المواكبة الديجيتال والتكوين"
+      },
+      "description": {
+        "fr": "Profitez d'ateliers et de tutoriels pour apprendre à photographier vos produits, rédiger des descriptions attractives, gérer vos commandes et communiquer sur les réseaux sociaux.",
+        "ar": "استفد من ورشات وشروحات لتعلم تصوير منتجاتك، كتابة أوصاف جذابة، تدبير طلباتك والتواصل عبر شبكات التواصل الاجتماعي.",
+        "en": "Take advantage of workshops and tutorials to learn how to photograph your products, write attractive descriptions, manage your orders and communicate on social media.",
+        "darija": "استافد من ورشات وشروحات باش تتعلم كيفاش تصور المنتوجات ديالك، تكتب أوصاف جذابة، تدبر الطلبيات ديالك وتتواصل عبر مواقع التواصل الاجتماعي."
+      },
+      "features": [
+        {
+          "fr": "Webinaires mensuels en arabe, français et darija",
+          "ar": "ندوات شهرية عبر الإنترنت بالعربية والفرنسية والدارجة",
+          "en": "Monthly webinars in Arabic, French and Darija",
+          "darija": "ندوات شهرية أونلاين بالعربية والفرنسية والدارجة"
+        },
+        {
+          "fr": "Guides pratiques téléchargeables (photo, prix, expédition)",
+          "ar": "أدلة عملية قابلة للتحميل (التصوير، التسعير، الشحن)",
+          "en": "Downloadable practical guides (photography, pricing, shipping)",
+          "darija": "أدلة عملية كيتحملو (التصوير، التسعير، الشحن)"
+        },
+        {
+          "fr": "Support technique dédié par chat et téléphone",
+          "ar": "دعم تقني مخصص عبر الدردشة والهاتف",
+          "en": "Dedicated technical support via chat and phone",
+          "darija": "دعم تقني مخصص عبر الشات والتيليفون"
+        }
+      ],
+      "pricing": {
+        "label": {
+          "fr": "Inclus avec le compte Pro",
+          "ar": "مشمول مع الحساب الاحترافي",
+          "en": "Included with Pro account",
+          "darija": "مشمول مع الحساب برو"
+        },
+        "value": {
+          "fr": "Gratuit, sessions de groupe ou individuelles sur demande",
+          "ar": "مجاني، جلسات جماعية أو فردية عند الطلب",
+          "en": "Free, group or individual sessions on request",
+          "darija": "مجاني، جلسات جماعية ولا فردية عند الطلب"
+        }
+      }
+    },
+    {
+      "id": "logistique-livraison",
+      "icon": "truck",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Saffron_and_the_Atlas_Mountains.jpg/960px-Saffron_and_the_Atlas_Mountains.jpg",
+      "name": {
+        "fr": "Logistique & livraison",
+        "ar": "اللوجستيك والتوصيل",
+        "en": "Logistics & Delivery",
+        "darija": "اللوجستيك والتوصيل"
+      },
+      "description": {
+        "fr": "Bénéficiez de partenariats avec des transporteurs nationaux et internationaux pour expédier vos produits en toute sécurité, avec suivi de colis intégré à votre tableau de bord.",
+        "ar": "استفد من شراكات مع شركات نقل وطنية ودولية لشحن منتجاتك بأمان، مع تتبع الطرود مدمج في لوحة التحكم الخاصة بك.",
+        "en": "Benefit from partnerships with national and international carriers to ship your products safely, with package tracking integrated into your dashboard.",
+        "darija": "استافد من شراكات مع شركات النقل الوطنية والدولية باش تشحن المنتوجات ديالك بأمان، مع تتبع الطرود مدمج فلوحة التحكم ديالك."
+      },
+      "features": [
+        {
+          "fr": "Tarifs préférentiels négociés pour les membres KENZ BLADI",
+          "ar": "أسعار تفضيلية متفاوض عليها لأعضاء كنز بلادي",
+          "en": "Preferential rates negotiated for KENZ BLADI members",
+          "darija": "أثمنة تفضيلية متفاوض عليها لأعضاء كنز بلادي"
+        },
+        {
+          "fr": "Emballage adapté pour produits fragiles (céramique, verre)",
+          "ar": "تغليف مناسب للمنتجات القابلة للكسر (خزف، زجاج)",
+          "en": "Suitable packaging for fragile products (ceramics, glass)",
+          "darija": "تغليف مناسب للمنتوجات القابلة للكسر (الفخار، الزجاج)"
+        },
+        {
+          "fr": "Suivi en temps réel et notifications automatiques",
+          "ar": "تتبع في الوقت الحقيقي وإشعارات تلقائية",
+          "en": "Real-time tracking and automatic notifications",
+          "darija": "تتبع فالوقت الحقيقي وإشعارات أوتوماتيكية"
+        }
+      ],
+      "pricing": {
+        "label": {
+          "fr": "Frais de livraison",
+          "ar": "رسوم التوصيل",
+          "en": "Delivery fees",
+          "darija": "مصاريف التوصيل"
+        },
+        "value": {
+          "fr": "Calculés automatiquement selon le poids, la destination et le transporteur choisi",
+          "ar": "تُحسب تلقائياً حسب الوزن والوجهة والناقل المختار",
+          "en": "Automatically calculated based on weight, destination and chosen carrier",
+          "darija": "كيتحسبو أوتوماتيكيا على حساب الوزن والوجهة والناقل المختار"
+        }
+      }
+    },
+    {
+      "id": "certification-qualite",
+      "icon": "badge-check",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Chouara_Tannery_-_153_-_Marokko_Handybilder_2018_-_Fes_%2842218570701%29.jpg/960px-Chouara_Tannery_-_153_-_Marokko_Handybilder_2018_-_Fes_%2842218570701%29.jpg",
+      "name": {
+        "fr": "Certification & contrôle qualité",
+        "ar": "الاعتماد ومراقبة الجودة",
+        "en": "Certification & Quality Control",
+        "darija": "الاعتماد ومراقبة الجودة"
+      },
+      "description": {
+        "fr": "Faites évaluer vos produits par notre équipe afin d'obtenir le label « Authentique KENZ BLADI », gage de confiance pour les acheteurs concernant l'origine, les matériaux et les techniques de fabrication.",
+        "ar": "اطلب تقييم منتجاتك من طرف فريقنا للحصول على وسم «أصيل كنز بلادي»، وهو ضمان ثقة للمشترين بخصوص المنشأ والمواد وتقنيات الصنع.",
+        "en": "Have your products evaluated by our team to obtain the 'Authentic KENZ BLADI' label, a trust guarantee for buyers regarding origin, materials and manufacturing techniques.",
+        "darija": "خلي المنتوجات ديالك يتقيمو من طرف الفريق ديالنا باش تحصل على وسم «أصيل كنز بلادي»، اللي هو ضمان للثقة للمشترين فيما يخص الأصل والمواد وتقنيات الصنع."
+      },
+      "features": [
+        {
+          "fr": "Visite et évaluation de l'atelier ou de la coopérative",
+          "ar": "زيارة وتقييم الورشة أو التعاونية",
+          "en": "Workshop or cooperative visit and assessment",
+          "darija": "زيارة وتقييم الورشة أو التعاونية"
+        },
+        {
+          "fr": "Attribution du badge « Authentique KENZ BLADI » sur les fiches produits",
+          "ar": "منح شارة «أصيل كنز بلادي» على بطاقات المنتجات",
+          "en": "Awarding of the 'Authentic KENZ BLADI' badge on product sheets",
+          "darija": "منح شارة «أصيل كنز بلادي» على بطاقات المنتوجات"
+        },
+        {
+          "fr": "Renouvellement annuel de la certification",
+          "ar": "تجديد سنوي للشهادة",
+          "en": "Annual certification renewal",
+          "darija": "تجديد سنوي للشهادة"
+        }
+      ],
+      "pricing": {
+        "label": {
+          "fr": "Frais de certification",
+          "ar": "رسوم الاعتماد",
+          "en": "Certification fee",
+          "darija": "مصاريف الاعتماد"
+        },
+        "value": {
+          "fr": "Sur devis, selon la taille de la coopérative et le nombre de produits",
+          "ar": "حسب عرض السعر، تبعاً لحجم التعاونية وعدد المنتجات",
+          "en": "On quote, depending on the size of the cooperative and the number of products",
+          "darija": "على حساب الأسعار، حسب حجم التعاونية وعدد المنتوجات"
+        }
+      }
+    }
+  ],
+  "cta": {
+    "title": {
+      "fr": "Prêt à rejoindre KENZ BLADI ?",
+      "ar": "مستعد للانضمام إلى كنز بلادي؟",
+      "en": "Ready to join KENZ BLADI?",
+      "darija": "واجد تنضم لكنز بلادي؟"
+    },
+    "description": {
+      "fr": "Créez votre compte professionnel gratuitement et commencez à présenter votre savoir-faire au monde entier dès aujourd'hui.",
+      "ar": "أنشئ حسابك المهني مجاناً وابدأ في عرض معرفتك على العالم بأسره ابتداءً من اليوم.",
+      "en": "Create your professional account for free and start showcasing your know-how to the world today.",
+      "darija": "خلق الحساب المهني ديالك مجانا وبدا عرض المعرفة ديالك للعالم كامل من اليوم."
+    },
+    "buttonLabel": {
+      "fr": "Devenir partenaire",
+      "ar": "كن شريكاً",
+      "en": "Become a Partner",
+      "darija": "كون شريك"
+    }
+  }
+}

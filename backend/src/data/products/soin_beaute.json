@@ -1,0 +1,650 @@
+[
+  {
+    "name": {
+      "fr": "Huile d'argan cosmétique pure 100% bio",
+      "ar": "زيت الأركان التجميلي النقي 100% بيو",
+      "en": "100% Pure Organic Cosmetic Argan Oil",
+      "darija": "زيت الأركان ديال التجميل النقي 100% بيو"
+    },
+    "description": {
+      "fr": "Huile d'argan vierge extraite à froid par des coopératives féminines du Souss, sans torréfaction, dédiée aux soins de la peau et des cheveux. Riche en vitamine E et en acides gras essentiels, elle nourrit en profondeur, répare les peaux sèches et redonne brillance et souplesse aux cheveux abîmés. 100% naturelle, sans additifs ni parfum ajouté.",
+      "ar": "زيت أركان بكر مستخلص بالعصر البارد من طرف تعاونيات نسائية بمنطقة سوس، بدون تحميص، مخصص للعناية بالبشرة والشعر. غني بفيتامين E والأحماض الدهنية الأساسية، يغذي البشرة بعمق، يعالج الجفاف ويعيد للشعر التالف لمعانه ونعومته. طبيعي 100% بدون إضافات أو عطور مضافة.",
+      "en": "Virgin argan oil cold-pressed by women's cooperatives in the Souss region, unroasted, dedicated to skin and hair care. Rich in vitamin E and essential fatty acids, it deeply nourishes, repairs dry skin and restores shine and softness to damaged hair. 100% natural, with no additives or added fragrance.",
+      "darija": "زيت أركان بكر مستخرج بالعصر البارد من طرف تعاونيات نسائية فمنطقة سوس، بلا تحميص، مخصص للعناية بالبشرة والشعر. غني بفيتامين E والأحماض الدهنية الأساسية، كيغذي البشرة بعمق، كيعالج الجفاف وكيرجع للشعر الهالك اللمعان والنعومة. طبيعي 100% بلا إضافات ولا عطور زايدة."
+    },
+    "shortDescription": {
+      "fr": "Huile d'argan cosmétique vierge, pressée à froid par des coopératives féminines.",
+      "ar": "زيت أركان تجميلي بكر، معصور على البارد من طرف تعاونيات نسائية.",
+      "en": "Virgin cosmetic argan oil, cold-pressed by women's cooperatives.",
+      "darija": "زيت أركان ديال التجميل بكر، معصور على البارد من طرف تعاونيات نسائية."
+    },
+    "unit": { "fr": "flacon 100ml", "ar": "قارورة 100مل", "en": "bottle 100ml", "darija": "قرعة 100مل" },
+    "price": 145,
+    "priceDiscount": 125,
+    "currency": "MAD",
+    "domain": "soin_beaute",
+    "subcategory": {
+      "fr": "Huiles cosmétiques",
+      "ar": "الزيوت التجميلية",
+      "en": "Cosmetic Oils",
+      "darija": "الزيوت ديال التجميل"
+    },
+    "tags": ["argan", "cosmétique", "bio", "Souss"],
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Huile_d%27argan_010.JPG/960px-Huile_d%27argan_010.JPG",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Huile_d%27argan_010.JPG/960px-Huile_d%27argan_010.JPG",
+        "alt": {
+          "fr": "Flacon d'huile d'argan cosmétique pure",
+          "ar": "قارورة زيت الأركان التجميلي النقي",
+          "en": "Bottle of pure cosmetic argan oil",
+          "darija": "قرعة زيت الأركان النقي ديال التجميل"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Argan_oil_02.jpg/960px-Argan_oil_02.jpg",
+        "alt": {
+          "fr": "Huile d'argan vierge dans un flacon en verre",
+          "ar": "زيت أركان بكر في قارورة زجاجية",
+          "en": "Virgin argan oil in a glass bottle",
+          "darija": "زيت أركان بكر فقرعة زجاجية"
+        }
+      }
+    ],
+    "proActorDomain": "soin_beaute",
+    "stock": 65,
+    "isInfiniteStock": false,
+    "sku": "KB-BEA-001",
+    "status": "published",
+    "isActive": true,
+    "isFeatured": true,
+    "isOrganic": true,
+    "isHandmade": true,
+    "origin": { "region": "Souss-Massa", "city": "Essaouira", "country": "Maroc" },
+    "certifications": ["Bio", "Coopérative féminine", "Pression à froid"],
+    "slug": "huile-argan-cosmetique-pure-bio",
+    "metaTitle": {
+      "fr": "Huile d'argan cosmétique pure 100% bio | KENZ BLADI",
+      "ar": "زيت الأركان التجميلي النقي 100% بيو | كنز بلادي",
+      "en": "100% Pure Organic Cosmetic Argan Oil | KENZ BLADI",
+      "darija": "زيت الأركان ديال التجميل النقي 100% بيو | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Huile d'argan cosmétique vierge bio, pressée à froid par des coopératives féminines du Souss, pour la peau et les cheveux.",
+      "ar": "زيت أركان تجميلي بكر بيو، معصور على البارد من طرف تعاونيات نسائية بسوس، للبشرة والشعر.",
+      "en": "Organic virgin cosmetic argan oil, cold-pressed by women's cooperatives in Souss, for skin and hair.",
+      "darija": "زيت أركان ديال التجميل بكر بيو، معصور على البارد من طرف تعاونيات نسائية بسوس، للبشرة والشعر."
+    },
+    "viewCount": 1520,
+    "salesCount": 287,
+    "rating": 4.9,
+    "reviewCount": 134
+  },
+  {
+    "name": {
+      "fr": "Sérum visage à l'huile d'argan et vitamine E",
+      "ar": "سيروم للوجه بزيت الأركان وفيتامين E",
+      "en": "Face Serum with Argan Oil and Vitamin E",
+      "darija": "سيروم ديال الوجه بزيت الأركان وفيتامين E"
+    },
+    "description": {
+      "fr": "Sérum anti-âge léger combinant l'huile d'argan pure, l'huile de pépins de figue de barbarie et la vitamine E pour lutter contre les signes du vieillissement, estomper les rides et raviver l'éclat du teint. Sa texture non grasse pénètre rapidement et convient à tous les types de peau, y compris les peaux sensibles.",
+      "ar": "سيروم خفيف مضاد للشيخوخة يجمع بين زيت الأركان النقي وزيت بذور تين الصبار وفيتامين E لمحاربة علامات التقدم في السن، وتخفيف التجاعيد، وإعادة الإشراق للبشرة. قوامه غير دهني يمتص بسرعة ويناسب جميع أنواع البشرة، بما فيها البشرة الحساسة.",
+      "en": "A light anti-aging serum combining pure argan oil, prickly pear seed oil and vitamin E to fight signs of aging, smooth wrinkles and revive skin radiance. Its non-greasy texture absorbs quickly and suits all skin types, including sensitive skin.",
+      "darija": "سيروم خفيف مضاد للشيخوخة كيجمع بين زيت الأركان النقي وزيت بزور الكرموص الهندي وفيتامين E باش يحارب علامات التقدم فالعمر، ويخفف التجاعيد، ويرجع الإشراق للبشرة. القوام ديالو ماشي دهني وكيتشرب بسرعة وكيناسب جميع أنواع البشرة، حتى الحساسة."
+    },
+    "shortDescription": {
+      "fr": "Sérum anti-âge à l'argan, figue de barbarie et vitamine E, texture non grasse.",
+      "ar": "سيروم مضاد للشيخوخة بالأركان وتين الصبار وفيتامين E، قوام غير دهني.",
+      "en": "Anti-aging serum with argan, prickly pear and vitamin E, non-greasy texture.",
+      "darija": "سيروم مضاد للشيخوخة بالأركان والكرموص الهندي وفيتامين E، قوام ماشي دهني."
+    },
+    "unit": { "fr": "flacon 30ml", "ar": "قارورة 30مل", "en": "bottle 30ml", "darija": "قرعة 30مل" },
+    "price": 220,
+    "priceDiscount": 189,
+    "currency": "MAD",
+    "domain": "soin_beaute",
+    "subcategory": {
+      "fr": "Huiles cosmétiques",
+      "ar": "الزيوت التجميلية",
+      "en": "Cosmetic Oils",
+      "darija": "الزيوت ديال التجميل"
+    },
+    "tags": ["sérum", "argan", "anti-âge", "bio"],
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Argan_Oil_Making_in_Marrakech.jpg/960px-Argan_Oil_Making_in_Marrakech.jpg",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Argan_Oil_Making_in_Marrakech.jpg/960px-Argan_Oil_Making_in_Marrakech.jpg",
+        "alt": {
+          "fr": "Préparation artisanale de l'huile d'argan à Marrakech",
+          "ar": "تحضير حرفي لزيت الأركان بمراكش",
+          "en": "Artisanal preparation of argan oil in Marrakech",
+          "darija": "تحضير حرفي لزيت الأركان بمراكش"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Argan_oil_01.jpg/960px-Argan_oil_01.jpg",
+        "alt": {
+          "fr": "Huile d'argan dorée dans un récipient en verre",
+          "ar": "زيت أركان ذهبي في إناء زجاجي",
+          "en": "Golden argan oil in a glass container",
+          "darija": "زيت أركان دهبي فإناء زجاجي"
+        }
+      }
+    ],
+    "proActorDomain": "soin_beaute",
+    "stock": 50,
+    "isInfiniteStock": false,
+    "sku": "KB-BEA-002",
+    "status": "published",
+    "isActive": true,
+    "isFeatured": true,
+    "isOrganic": true,
+    "isHandmade": true,
+    "origin": { "region": "Souss-Massa", "city": "Agadir", "country": "Maroc" },
+    "certifications": ["Bio", "Sans parfum ajouté"],
+    "slug": "serum-visage-argan-vitamine-e",
+    "metaTitle": {
+      "fr": "Sérum visage à l'huile d'argan et vitamine E | KENZ BLADI",
+      "ar": "سيروم للوجه بزيت الأركان وفيتامين E | كنز بلادي",
+      "en": "Face Serum with Argan Oil and Vitamin E | KENZ BLADI",
+      "darija": "سيروم ديال الوجه بزيت الأركان وفيتامين E | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Sérum anti-âge bio à l'huile d'argan, figue de barbarie et vitamine E pour une peau lumineuse.",
+      "ar": "سيروم بيو مضاد للشيخوخة بزيت الأركان وتين الصبار وفيتامين E لبشرة مشرقة.",
+      "en": "Organic anti-aging serum with argan oil, prickly pear and vitamin E for radiant skin.",
+      "darija": "سيروم بيو مضاد للشيخوخة بزيت الأركان والكرموص الهندي وفيتامين E لبشرة مشرقة."
+    },
+    "viewCount": 870,
+    "salesCount": 156,
+    "rating": 4.8,
+    "reviewCount": 72
+  },
+  {
+    "name": {
+      "fr": "Argile ghassoul naturelle de l'Atlas en poudre",
+      "ar": "غاسول طبيعي من الأطلس على شكل مسحوق",
+      "en": "Natural Atlas Ghassoul Clay Powder",
+      "darija": "غاسول طبيعي ديال الأطلس مسحوق"
+    },
+    "description": {
+      "fr": "Argile minérale extraite des gisements du Moyen Atlas, séchée au soleil et broyée finement en poudre. Utilisée depuis des siècles dans les rituels du hammam marocain, elle nettoie la peau et le cuir chevelu en profondeur, absorbe l'excès de sébum et laisse la peau douce et purifiée. À mélanger avec de l'eau ou de l'eau de rose pour obtenir un masque crémeux.",
+      "ar": "طين معدني مستخرج من رواسب الأطلس المتوسط، يُجفف بأشعة الشمس ويُطحن بدقة ليصبح مسحوقًا. يُستعمل منذ قرون في طقوس الحمام المغربي، ينظف البشرة وفروة الرأس بعمق، يمتص الزيوت الزائدة ويترك البشرة ناعمة ونقية. يُمزج بالماء أو ماء الورد للحصول على قناع كريمي.",
+      "en": "Mineral clay extracted from deposits in the Middle Atlas, sun-dried and finely ground into powder. Used for centuries in Moroccan hammam rituals, it deeply cleanses skin and scalp, absorbs excess oil and leaves skin soft and purified. Mix with water or rose water to make a creamy mask.",
+      "darija": "طين معدني مستخرج من رواسب الأطلس المتوسط، كيتجفف بالشمس وكيتطحن بدقة باش يولي مسحوق. كيتستعمل من قرون فطقوس الحمام المغربي، كينظف البشرة وفروة الراس بعمق، كيمتص الزيت الزايد وكيخلي البشرة طرية ونقية. خلطو بالما ولا ماء الورد باش تحصل على قناع كريمي."
+    },
+    "shortDescription": {
+      "fr": "Ghassoul naturel en poudre du Moyen Atlas, pour le hammam et les masques visage.",
+      "ar": "غاسول طبيعي مسحوق من الأطلس المتوسط، للحمام وأقنعة الوجه.",
+      "en": "Natural ghassoul powder from the Middle Atlas, for hammam and face masks.",
+      "darija": "غاسول طبيعي مسحوق من الأطلس المتوسط، للحمام وأقنعة الوجه."
+    },
+    "unit": { "fr": "sachet 300g", "ar": "كيس 300غ", "en": "bag 300g", "darija": "ساشي 300غ" },
+    "price": 60,
+    "priceDiscount": null,
+    "currency": "MAD",
+    "domain": "soin_beaute",
+    "subcategory": {
+      "fr": "Argile & Soins du visage",
+      "ar": "الطين والعناية بالوجه",
+      "en": "Clay & Face Care",
+      "darija": "الطين والعناية بالوجه"
+    },
+    "tags": ["ghassoul", "argile", "hammam", "bio"],
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/AnisseRhassoul.jpg/960px-AnisseRhassoul.jpg",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/AnisseRhassoul.jpg/960px-AnisseRhassoul.jpg",
+        "alt": {
+          "fr": "Argile ghassoul naturelle marocaine",
+          "ar": "غاسول طبيعي مغربي",
+          "en": "Natural Moroccan ghassoul clay",
+          "darija": "غاسول طبيعي مغربي"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Argan_oil_03.jpg/960px-Argan_oil_03.jpg",
+        "alt": {
+          "fr": "Produits cosmétiques naturels marocains pour le hammam",
+          "ar": "منتجات تجميل طبيعية مغربية للحمام",
+          "en": "Natural Moroccan cosmetic products for the hammam",
+          "darija": "منتجات تجميل طبيعية مغربية للحمام"
+        }
+      }
+    ],
+    "proActorDomain": "soin_beaute",
+    "stock": 90,
+    "isInfiniteStock": false,
+    "sku": "KB-BEA-003",
+    "status": "published",
+    "isActive": true,
+    "isFeatured": false,
+    "isOrganic": true,
+    "isHandmade": false,
+    "origin": { "region": "Fès-Meknès", "city": "Missour", "country": "Maroc" },
+    "certifications": ["Bio", "100% naturel"],
+    "slug": "argile-ghassoul-naturelle-atlas-poudre",
+    "metaTitle": {
+      "fr": "Argile ghassoul naturelle de l'Atlas | KENZ BLADI",
+      "ar": "غاسول طبيعي من الأطلس | كنز بلادي",
+      "en": "Natural Atlas Ghassoul Clay | KENZ BLADI",
+      "darija": "غاسول طبيعي ديال الأطلس | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Argile ghassoul 100% naturelle du Moyen Atlas, pour le hammam et les masques visage et cheveux.",
+      "ar": "غاسول طبيعي 100% من الأطلس المتوسط، للحمام وأقنعة الوجه والشعر.",
+      "en": "100% natural ghassoul clay from the Middle Atlas, for hammam and face/hair masks.",
+      "darija": "غاسول طبيعي 100% من الأطلس المتوسط، للحمام وأقنعة الوجه والشعر."
+    },
+    "viewCount": 430,
+    "salesCount": 88,
+    "rating": 4.6,
+    "reviewCount": 35
+  },
+  {
+    "name": {
+      "fr": "Masque visage au ghassoul et eau de rose",
+      "ar": "قناع للوجه بالغاسول وماء الورد",
+      "en": "Face Mask with Ghassoul and Rose Water",
+      "darija": "قناع ديال الوجه بالغاسول وماء الورد"
+    },
+    "description": {
+      "fr": "Masque prêt à l'emploi associant l'argile ghassoul du Moyen Atlas et l'eau de rose de Kelaât M'Gouna pour une peau nette, hydratée et apaisée. Idéal une à deux fois par semaine, il resserre les pores, élimine les impuretés et laisse un parfum délicat de rose sur la peau.",
+      "ar": "قناع جاهز للاستعمال يجمع بين طين الغاسول من الأطلس المتوسط وماء الورد من قلعة مكونة لبشرة نظيفة ومرطبة وهادئة. مثالي مرة أو مرتين في الأسبوع، يشد المسام، يزيل الشوائب، ويترك على البشرة عبيرًا رقيقًا من الورد.",
+      "en": "A ready-to-use mask combining Middle Atlas ghassoul clay and Kelaât M'Gouna rose water for clean, hydrated and soothed skin. Ideal once or twice a week, it tightens pores, removes impurities and leaves a delicate rose scent on the skin.",
+      "darija": "قناع جاهز للاستعمال كيجمع بين طين الغاسول من الأطلس المتوسط وماء الورد ديال قلعة مكونة لبشرة نظيفة ومرطبة ومهدية. مزيان مرة ولا مرتين فالسيمانة، كيشد المسام، كيزيل الشوائب، وكيخلي على البشرة ريحة رقيقة ديال الورد."
+    },
+    "shortDescription": {
+      "fr": "Masque purifiant au ghassoul et eau de rose, prêt à l'emploi.",
+      "ar": "قناع منقٍّ بالغاسول وماء الورد، جاهز للاستعمال.",
+      "en": "Purifying mask with ghassoul and rose water, ready to use.",
+      "darija": "قناع منقي بالغاسول وماء الورد، جاهز للاستعمال."
+    },
+    "unit": { "fr": "pot 200g", "ar": "علبة 200غ", "en": "jar 200g", "darija": "طوكة 200غ" },
+    "price": 80,
+    "priceDiscount": 68,
+    "currency": "MAD",
+    "domain": "soin_beaute",
+    "subcategory": {
+      "fr": "Argile & Soins du visage",
+      "ar": "الطين والعناية بالوجه",
+      "en": "Clay & Face Care",
+      "darija": "الطين والعناية بالوجه"
+    },
+    "tags": ["ghassoul", "eau de rose", "masque", "bio"],
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/AnisseRhassoul.jpg/960px-AnisseRhassoul.jpg",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/AnisseRhassoul.jpg/960px-AnisseRhassoul.jpg",
+        "alt": {
+          "fr": "Argile ghassoul utilisée pour le masque visage",
+          "ar": "غاسول مستعمل لقناع الوجه",
+          "en": "Ghassoul clay used for the face mask",
+          "darija": "غاسول مستعمل لقناع الوجه"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Rosa_damascena_kelaa_mgouna_Morocco.png",
+        "alt": {
+          "fr": "Roses de Kelaât M'Gouna pour l'eau de rose",
+          "ar": "ورود قلعة مكونة لماء الورد",
+          "en": "Roses from Kelaât M'Gouna for rose water",
+          "darija": "ورود قلعة مكونة ديال ماء الورد"
+        }
+      }
+    ],
+    "proActorDomain": "soin_beaute",
+    "stock": 55,
+    "isInfiniteStock": false,
+    "sku": "KB-BEA-004",
+    "status": "published",
+    "isActive": true,
+    "isFeatured": false,
+    "isOrganic": true,
+    "isHandmade": true,
+    "origin": { "region": "Fès-Meknès", "city": "Missour", "country": "Maroc" },
+    "certifications": ["Bio", "Fait main"],
+    "slug": "masque-visage-ghassoul-eau-rose",
+    "metaTitle": {
+      "fr": "Masque visage au ghassoul et eau de rose | KENZ BLADI",
+      "ar": "قناع للوجه بالغاسول وماء الورد | كنز بلادي",
+      "en": "Face Mask with Ghassoul and Rose Water | KENZ BLADI",
+      "darija": "قناع ديال الوجه بالغاسول وماء الورد | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Masque visage purifiant au ghassoul de l'Atlas et à l'eau de rose de Kelaât M'Gouna, prêt à l'emploi.",
+      "ar": "قناع وجه منقٍّ بالغاسول من الأطلس وماء الورد من قلعة مكونة، جاهز للاستعمال.",
+      "en": "Purifying face mask with Atlas ghassoul and Kelaât M'Gouna rose water, ready to use.",
+      "darija": "قناع وجه منقي بالغاسول من الأطلس وماء الورد ديال قلعة مكونة، جاهز للاستعمال."
+    },
+    "viewCount": 360,
+    "salesCount": 64,
+    "rating": 4.7,
+    "reviewCount": 27
+  },
+  {
+    "name": {
+      "fr": "Eau de rose pure de Kelaât M'Gouna",
+      "ar": "ماء الورد النقي من قلعة مكونة",
+      "en": "Pure Rose Water from Kelaât M'Gouna",
+      "darija": "ماء الورد النقي ديال قلعة مكونة"
+    },
+    "description": {
+      "fr": "Eau de rose 100% pure obtenue par distillation à la vapeur des pétales de roses de Damas cueillies dans la vallée des roses de Kelaât M'Gouna. Tonique naturel pour le visage, elle resserre les pores, apaise les irritations et rafraîchit la peau. Peut aussi être utilisée en cuisine pour parfumer pâtisseries et salades de fruits.",
+      "ar": "ماء ورد نقي 100% يُستخرج بالتقطير بالبخار من بتلات ورد الدمشقي المقطوف من وادي الورود بقلعة مكونة. منشط طبيعي للوجه، يشد المسام، يهدئ التهيجات وينعش البشرة. يمكن استعماله أيضًا في الطبخ لتعطير الحلويات وسلطات الفواكه.",
+      "en": "100% pure rose water obtained by steam distillation of Damask rose petals picked in the Valley of Roses of Kelaât M'Gouna. A natural facial toner, it tightens pores, soothes irritation and refreshes the skin. It can also be used in cooking to flavor pastries and fruit salads.",
+      "darija": "ماء ورد نقي 100% مستخرج بالتقطير بالبخار من ورق ورد الدمشقي المقطوف من وادي الورود ديال قلعة مكونة. منشط طبيعي للوجه، كيشد المسام، كيهدي التهيجات وكينعش البشرة. ممكن تستعملو ايضا فالطبخ باش تعطر الحلويات وسلطة الفواكه."
+    },
+    "shortDescription": {
+      "fr": "Eau de rose pure distillée à la vapeur, vallée de Kelaât M'Gouna.",
+      "ar": "ماء ورد نقي مقطر بالبخار، وادي قلعة مكونة.",
+      "en": "Pure steam-distilled rose water, Kelaât M'Gouna valley.",
+      "darija": "ماء ورد نقي مقطر بالبخار، وادي قلعة مكونة."
+    },
+    "unit": { "fr": "flacon 250ml", "ar": "قارورة 250مل", "en": "bottle 250ml", "darija": "قرعة 250مل" },
+    "price": 65,
+    "priceDiscount": null,
+    "currency": "MAD",
+    "domain": "soin_beaute",
+    "subcategory": {
+      "fr": "Eaux florales",
+      "ar": "المياه العطرية",
+      "en": "Floral Waters",
+      "darija": "مياه الورد والعطور"
+    },
+    "tags": ["eau de rose", "Kelaât M'Gouna", "bio", "tonique"],
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Rosa_damascena_kelaa_mgouna_Morocco.jpg/960px-Rosa_damascena_kelaa_mgouna_Morocco.jpg",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Rosa_damascena_kelaa_mgouna_Morocco.jpg/960px-Rosa_damascena_kelaa_mgouna_Morocco.jpg",
+        "alt": {
+          "fr": "Roses de Damas de la vallée de Kelaât M'Gouna",
+          "ar": "ورد الدمشقي من وادي قلعة مكونة",
+          "en": "Damask roses from the Kelaât M'Gouna valley",
+          "darija": "ورد الدمشقي من وادي قلعة مكونة"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Rosa_damascena_kelaa_Mgouna.jpg/960px-Rosa_damascena_kelaa_Mgouna.jpg",
+        "alt": {
+          "fr": "Champ de roses dans la vallée des roses au Maroc",
+          "ar": "حقل من الورود في وادي الورود بالمغرب",
+          "en": "Rose field in the Valley of Roses in Morocco",
+          "darija": "حقل ديال الورود فوادي الورود بالمغرب"
+        }
+      }
+    ],
+    "proActorDomain": "soin_beaute",
+    "stock": 100,
+    "isInfiniteStock": false,
+    "sku": "KB-BEA-005",
+    "status": "published",
+    "isActive": true,
+    "isFeatured": true,
+    "isOrganic": true,
+    "isHandmade": true,
+    "origin": { "region": "Drâa-Tafilalet", "city": "Kelaât M'Gouna", "country": "Maroc" },
+    "certifications": ["Bio", "Distillation artisanale"],
+    "slug": "eau-de-rose-pure-kelaat-mgouna",
+    "metaTitle": {
+      "fr": "Eau de rose pure de Kelaât M'Gouna | KENZ BLADI",
+      "ar": "ماء الورد النقي من قلعة مكونة | كنز بلادي",
+      "en": "Pure Rose Water from Kelaât M'Gouna | KENZ BLADI",
+      "darija": "ماء الورد النقي ديال قلعة مكونة | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Eau de rose 100% pure et bio, distillée artisanalement dans la vallée des roses de Kelaât M'Gouna.",
+      "ar": "ماء ورد نقي وبيو 100%، مقطر بطريقة حرفية في وادي الورود بقلعة مكونة.",
+      "en": "100% pure organic rose water, artisanally distilled in the Valley of Roses of Kelaât M'Gouna.",
+      "darija": "ماء ورد نقي وبيو 100%، مقطر بطريقة حرفية فوادي الورود ديال قلعة مكونة."
+    },
+    "viewCount": 1120,
+    "salesCount": 240,
+    "rating": 4.9,
+    "reviewCount": 110
+  },
+  {
+    "name": {
+      "fr": "Hydrolat de rose bio pour le visage",
+      "ar": "هيدرولات الورد البيو للوجه",
+      "en": "Organic Rose Hydrosol for the Face",
+      "darija": "هيدرولات الورد البيو ديال الوجه"
+    },
+    "description": {
+      "fr": "Hydrolat de rose biologique, fraction aqueuse récupérée lors de la distillation des roses de Kelaât M'Gouna. Sa concentration plus légère en fait un produit idéal pour vaporiser le visage tout au long de la journée, hydrater la peau et fixer le maquillage. Convient aux peaux sensibles et aux enfants.",
+      "ar": "هيدرولات ورد بيولوجي، وهو الجزء المائي الناتج عن تقطير ورود قلعة مكونة. تركيزه الأخف يجعله منتجًا مثاليًا لرش الوجه طوال اليوم، وترطيب البشرة وتثبيت المكياج. يناسب البشرة الحساسة والأطفال.",
+      "en": "Organic rose hydrosol, the aqueous fraction recovered during the distillation of Kelaât M'Gouna roses. Its lighter concentration makes it an ideal product for misting the face throughout the day, hydrating the skin and setting makeup. Suitable for sensitive skin and children.",
+      "darija": "هيدرولات ورد بيو، هو الجزء المائي اللي كيخرج فوقت تقطير ورود قلعة مكونة. التركيز الخفيف ديالو كيخليه منتوج مزيان باش ترش بيه الوجه طول النهار، يرطب البشرة ويثبت المكياج. كيناسب البشرة الحساسة والدراري."
+    },
+    "shortDescription": {
+      "fr": "Hydrolat de rose bio en spray, hydratation et fraîcheur au quotidien.",
+      "ar": "هيدرولات ورد بيو على شكل بخاخ، ترطيب وانتعاش يوميًا.",
+      "en": "Organic rose hydrosol spray, daily hydration and freshness.",
+      "darija": "هيدرولات ورد بيو على شكل سبراي، ترطيب وانتعاش يوميًا."
+    },
+    "unit": { "fr": "flacon spray 100ml", "ar": "قارورة بخاخ 100مل", "en": "spray bottle 100ml", "darija": "قرعة سبراي 100مل" },
+    "price": 75,
+    "priceDiscount": 62,
+    "currency": "MAD",
+    "domain": "soin_beaute",
+    "subcategory": {
+      "fr": "Eaux florales",
+      "ar": "المياه العطرية",
+      "en": "Floral Waters",
+      "darija": "مياه الورد والعطور"
+    },
+    "tags": ["hydrolat", "rose", "bio", "spray"],
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/RosaDamascena_kelaa_mgouna_Morocco.jpg/960px-RosaDamascena_kelaa_mgouna_Morocco.jpg",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/RosaDamascena_kelaa_mgouna_Morocco.jpg/960px-RosaDamascena_kelaa_mgouna_Morocco.jpg",
+        "alt": {
+          "fr": "Roses de Damas utilisées pour l'hydrolat",
+          "ar": "ورد دمشقي مستعمل للهيدرولات",
+          "en": "Damask roses used for the hydrosol",
+          "darija": "ورد دمشقي مستعمل للهيدرولات"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Rosa_damascena_kelaa_mgouna_%D9%82%D9%84%D8%B9%D8%A9_%D9%85%D9%83%D9%88%D9%86%D8%A9.jpg/960px-Rosa_damascena_kelaa_mgouna_%D9%82%D9%84%D8%B9%D8%A9_%D9%85%D9%83%D9%88%D9%86%D8%A9.jpg",
+        "alt": {
+          "fr": "Plantation de roses dans la région de Kelaât M'Gouna",
+          "ar": "مزرعة ورود في منطقة قلعة مكونة",
+          "en": "Rose plantation in the Kelaât M'Gouna region",
+          "darija": "مزرعة ورود فمنطقة قلعة مكونة"
+        }
+      }
+    ],
+    "proActorDomain": "soin_beaute",
+    "stock": 75,
+    "isInfiniteStock": false,
+    "sku": "KB-BEA-006",
+    "status": "published",
+    "isActive": true,
+    "isFeatured": false,
+    "isOrganic": true,
+    "isHandmade": true,
+    "origin": { "region": "Drâa-Tafilalet", "city": "Kelaât M'Gouna", "country": "Maroc" },
+    "certifications": ["Bio", "Convient peaux sensibles"],
+    "slug": "hydrolat-rose-bio-visage",
+    "metaTitle": {
+      "fr": "Hydrolat de rose bio pour le visage | KENZ BLADI",
+      "ar": "هيدرولات الورد البيو للوجه | كنز بلادي",
+      "en": "Organic Rose Hydrosol for the Face | KENZ BLADI",
+      "darija": "هيدرولات الورد البيو ديال الوجه | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Hydrolat de rose bio en spray, idéal pour hydrater et rafraîchir le visage au quotidien.",
+      "ar": "هيدرولات ورد بيو على شكل بخاخ، مثالي لترطيب وإنعاش الوجه يوميًا.",
+      "en": "Organic rose hydrosol spray, ideal for hydrating and refreshing the face daily.",
+      "darija": "هيدرولات ورد بيو على شكل سبراي، مثالي لترطيب وإنعاش الوجه يوميًا."
+    },
+    "viewCount": 510,
+    "salesCount": 99,
+    "rating": 4.7,
+    "reviewCount": 41
+  },
+  {
+    "name": {
+      "fr": "Huile de figue de barbarie pure pour le visage",
+      "ar": "زيت بذور تين الصبار النقي للوجه",
+      "en": "Pure Prickly Pear Seed Oil for the Face",
+      "darija": "زيت بزور الكرموص الهندي النقي ديال الوجه"
+    },
+    "description": {
+      "fr": "Huile précieuse extraite à froid des minuscules graines de figue de barbarie cueillies dans le Souss et l'Anti-Atlas. Très riche en vitamine E et en antioxydants, elle est reconnue pour ses propriétés anti-âge exceptionnelles : elle estompe les rides, unifie le teint et hydrate intensément sans laisser de film gras. Quelques gouttes suffisent pour le visage et le contour des yeux.",
+      "ar": "زيت ثمين يُستخرج بالعصر البارد من بذور تين الصبار الدقيقة المقطوفة من سوس والأطلس الصغير. غني جدًا بفيتامين E ومضادات الأكسدة، معروف بخصائصه الاستثنائية المضادة للشيخوخة: يخفف التجاعيد، يوحد لون البشرة ويرطب بعمق دون ترك طبقة دهنية. بضع قطرات كافية للوجه ومحيط العينين.",
+      "en": "A precious oil cold-pressed from the tiny prickly pear seeds harvested in the Souss and Anti-Atlas regions. Extremely rich in vitamin E and antioxidants, it is renowned for its exceptional anti-aging properties: it smooths wrinkles, evens skin tone and deeply hydrates without leaving a greasy film. A few drops are enough for the face and eye contour.",
+      "darija": "زيت ثمين مستخرج بالعصر البارد من بزور الكرموص الهندي الصغار المقطوفين من سوس والأطلس الصغير. غني بزاف بفيتامين E ومضادات الأكسدة، معروف بخصائصو الاستثنائية المضادة للشيخوخة: كيخفف التجاعيد، كيوحد لون البشرة وكيرطب بعمق بلا ما يخلي طبقة دهنية. شي قطرات كافيين للوجه ومحيط العينين."
+    },
+    "shortDescription": {
+      "fr": "Huile de figue de barbarie pure, anti-âge, pour visage et contour des yeux.",
+      "ar": "زيت تين الصبار النقي، مضاد للشيخوخة، للوجه ومحيط العينين.",
+      "en": "Pure prickly pear oil, anti-aging, for face and eye contour.",
+      "darija": "زيت الكرموص الهندي النقي، مضاد للشيخوخة، للوجه ومحيط العينين."
+    },
+    "unit": { "fr": "flacon 30ml", "ar": "قارورة 30مل", "en": "bottle 30ml", "darija": "قرعة 30مل" },
+    "price": 380,
+    "priceDiscount": 320,
+    "currency": "MAD",
+    "domain": "soin_beaute",
+    "subcategory": {
+      "fr": "Huiles cosmétiques",
+      "ar": "الزيوت التجميلية",
+      "en": "Cosmetic Oils",
+      "darija": "الزيوت ديال التجميل"
+    },
+    "tags": ["figue de barbarie", "anti-âge", "huile", "bio"],
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Figue_de_barbarie.JPG/960px-Figue_de_barbarie.JPG",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Figue_de_barbarie.JPG/960px-Figue_de_barbarie.JPG",
+        "alt": {
+          "fr": "Figues de barbarie utilisées pour l'extraction de l'huile",
+          "ar": "تين الصبار المستعمل لاستخراج الزيت",
+          "en": "Prickly pear figs used for oil extraction",
+          "darija": "كرموص الهندي مستعمل لاستخراج الزيت"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Tafraoute-Tiznit_col_du_Kerdous_113_1354.JPG/960px-Tafraoute-Tiznit_col_du_Kerdous_113_1354.JPG",
+        "alt": {
+          "fr": "Paysage de cactus de l'Anti-Atlas, région de Tafraoute",
+          "ar": "منظر طبيعي لأشجار الصبار بالأطلس الصغير، منطقة تافراوت",
+          "en": "Cactus landscape in the Anti-Atlas, Tafraoute region",
+          "darija": "منظر طبيعي ديال الصبار فالأطلس الصغير، منطقة تافراوت"
+        }
+      }
+    ],
+    "proActorDomain": "soin_beaute",
+    "stock": 30,
+    "isInfiniteStock": false,
+    "sku": "KB-BEA-007",
+    "status": "published",
+    "isActive": true,
+    "isFeatured": true,
+    "isOrganic": true,
+    "isHandmade": true,
+    "origin": { "region": "Souss-Massa", "city": "Tafraoute", "country": "Maroc" },
+    "certifications": ["Bio", "Pression à froid", "Coopérative féminine"],
+    "slug": "huile-figue-barbarie-pure-visage",
+    "metaTitle": {
+      "fr": "Huile de figue de barbarie pure pour le visage | KENZ BLADI",
+      "ar": "زيت تين الصبار النقي للوجه | كنز بلادي",
+      "en": "Pure Prickly Pear Seed Oil for the Face | KENZ BLADI",
+      "darija": "زيت الكرموص الهندي النقي ديال الوجه | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Huile de figue de barbarie 100% pure et bio, extraite à froid, aux puissantes propriétés anti-âge.",
+      "ar": "زيت تين الصبار 100% نقي وبيو، مستخرج بالعصر البارد، بخصائص قوية مضادة للشيخوخة.",
+      "en": "100% pure organic prickly pear oil, cold-pressed, with powerful anti-aging properties.",
+      "darija": "زيت الكرموص الهندي 100% نقي وبيو، مستخرج بالعصر البارد، بخصائص قوية مضادة للشيخوخة."
+    },
+    "viewCount": 1340,
+    "salesCount": 178,
+    "rating": 4.9,
+    "reviewCount": 90
+  },
+  {
+    "name": {
+      "fr": "Savon noir traditionnel au ghassoul pour hammam",
+      "ar": "صابون بلدي تقليدي بالغاسول للحمام",
+      "en": "Traditional Black Soap with Ghassoul for the Hammam",
+      "darija": "صابون بلدي تقليدي بالغاسول للحمام"
+    },
+    "description": {
+      "fr": "Savon noir traditionnel à base de pâte d'olives noires concassées et d'huile d'argan, enrichi en argile ghassoul pour une exfoliation douce et efficace. Indispensable au rituel du hammam marocain, il s'applique sur peau humide, se laisse poser quelques minutes puis se rince avec un gant de kessa pour révéler une peau douce et débarrassée des cellules mortes.",
+      "ar": "صابون بلدي تقليدي يعتمد على عجينة الزيتون الأسود المهروس وزيت الأركان، مدعّم بطين الغاسول لتقشير لطيف وفعال. لا غنى عنه في طقوس الحمام المغربي، يُوضع على البشرة الرطبة، يُترك بضع دقائق ثم يُشطف بقفاز الكيس لإظهار بشرة ناعمة وخالية من الخلايا الميتة.",
+      "en": "A traditional black soap made from crushed black olive paste and argan oil, enriched with ghassoul clay for gentle and effective exfoliation. Essential for the Moroccan hammam ritual, it is applied to damp skin, left on for a few minutes, then rinsed off with a kessa glove to reveal soft skin free of dead cells.",
+      "darija": "صابون بلدي تقليدي معتمد على عجينة الزيتون الكحل المهروس وزيت الأركان، مدعم بطين الغاسول لتقشير لطيف وفعال. ماشي غادي تستغنى عليه فطقوس الحمام المغربي، كيتحط على البشرة الرطبة، كيتخلى شي دقائق من بعد كيتشطف بقفاز الكيس باش تظهر بشرة طرية وخالية من الخلايا الميتة."
+    },
+    "shortDescription": {
+      "fr": "Savon noir au ghassoul et huile d'argan, pour le rituel du hammam.",
+      "ar": "صابون بلدي بالغاسول وزيت الأركان، لطقوس الحمام.",
+      "en": "Black soap with ghassoul and argan oil, for the hammam ritual.",
+      "darija": "صابون بلدي بالغاسول وزيت الأركان، لطقوس الحمام."
+    },
+    "unit": { "fr": "pot 200g", "ar": "علبة 200غ", "en": "jar 200g", "darija": "طوكة 200غ" },
+    "price": 50,
+    "priceDiscount": null,
+    "currency": "MAD",
+    "domain": "soin_beaute",
+    "subcategory": {
+      "fr": "Savons & Hammam",
+      "ar": "الصابون ومستلزمات الحمام",
+      "en": "Soaps & Hammam",
+      "darija": "الصابون ومستلزمات الحمام"
+    },
+    "tags": ["savon noir", "hammam", "ghassoul", "argan"],
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Argan_oil_04.jpg/960px-Argan_oil_04.jpg",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Argan_oil_04.jpg/960px-Argan_oil_04.jpg",
+        "alt": {
+          "fr": "Huile d'argan et ingrédients naturels pour le savon noir",
+          "ar": "زيت الأركان ومكونات طبيعية لصنع الصابون البلدي",
+          "en": "Argan oil and natural ingredients for black soap",
+          "darija": "زيت الأركان ومكونات طبيعية لصنع الصابون البلدي"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/AnisseRhassoul.jpg/960px-AnisseRhassoul.jpg",
+        "alt": {
+          "fr": "Argile ghassoul utilisée dans le savon noir",
+          "ar": "غاسول مستعمل في الصابون البلدي",
+          "en": "Ghassoul clay used in the black soap",
+          "darija": "غاسول مستعمل فالصابون البلدي"
+        }
+      }
+    ],
+    "proActorDomain": "soin_beaute",
+    "stock": 85,
+    "isInfiniteStock": false,
+    "sku": "KB-BEA-008",
+    "status": "published",
+    "isActive": true,
+    "isFeatured": false,
+    "isOrganic": true,
+    "isHandmade": true,
+    "origin": { "region": "Marrakech-Safi", "city": "Marrakech", "country": "Maroc" },
+    "certifications": ["Bio", "Fait main"],
+    "slug": "savon-noir-traditionnel-ghassoul-hammam",
+    "metaTitle": {
+      "fr": "Savon noir traditionnel au ghassoul pour hammam | KENZ BLADI",
+      "ar": "صابون بلدي تقليدي بالغاسول للحمام | كنز بلادي",
+      "en": "Traditional Black Soap with Ghassoul for the Hammam | KENZ BLADI",
+      "darija": "صابون بلدي تقليدي بالغاسول للحمام | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Savon noir artisanal aux olives noires, argan et ghassoul, indispensable au rituel du hammam marocain.",
+      "ar": "صابون بلدي حرفي بالزيتون الأسود والأركان والغاسول، لا غنى عنه في طقوس الحمام المغربي.",
+      "en": "Artisanal black soap with black olives, argan and ghassoul, essential for the Moroccan hammam ritual.",
+      "darija": "صابون بلدي حرفي بالزيتون الكحل والأركان والغاسول، ماشي غادي تستغنى عليه فطقوس الحمام المغربي."
+    },
+    "viewCount": 620,
+    "salesCount": 134,
+    "rating": 4.7,
+    "reviewCount": 52
+  }
+]

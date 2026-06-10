@@ -1,0 +1,171 @@
+{
+  "hero": {
+    "title": {
+      "fr": "À propos de KENZ BLADI كنز بلادي",
+      "ar": "حول كنز بلادي KENZ BLADI",
+      "en": "About KENZ BLADI كنز بلادي",
+      "darija": "على كنز بلادي KENZ BLADI"
+    },
+    "subtitle": {
+      "fr": "Valoriser le patrimoine artisanal marocain et connecter les artisans au monde",
+      "ar": "تثمين التراث الحرفي المغربي وربط الحرفيين بالعالم",
+      "en": "Showcasing Moroccan artisanal heritage and connecting artisans to the world",
+      "darija": "نثمنو التراث الحرفي المغربي ونربطو الحرفيين بالعالم"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Swatches_of_berber_carpet.jpg/960px-Swatches_of_berber_carpet.jpg"
+  },
+  "mission": {
+    "title": {
+      "fr": "Notre mission",
+      "ar": "مهمتنا",
+      "en": "Our Mission",
+      "darija": "المهمة ديالنا"
+    },
+    "description": {
+      "fr": "KENZ BLADI a pour mission de mettre en lumière la richesse du savoir-faire artisanal, agricole et touristique du Maroc, en offrant aux artisans, coopératives, producteurs et acteurs du tourisme rural une plateforme digitale moderne pour présenter, vendre et faire connaître leur travail à un public local et international. Nous croyons que chaque tapis tissé, chaque pot d'argan pressé et chaque ruelle de médina racontent une histoire qui mérite d'être partagée et préservée pour les générations futures.",
+      "ar": "تتمثل مهمة كنز بلادي في تسليط الضوء على ثراء المعرفة الحرفية والفلاحية والسياحية بالمغرب، من خلال توفير منصة رقمية عصرية للحرفيين والتعاونيات والمنتجين والفاعلين في السياحة القروية لعرض وبيع والتعريف بعملهم لجمهور محلي ودولي. نؤمن بأن كل زربية منسوجة وكل قارورة من زيت الأركان وكل زنقة في المدينة العتيقة تحكي قصة تستحق أن تُروى وتُحفظ للأجيال القادمة.",
+      "en": "KENZ BLADI's mission is to highlight the richness of Moroccan artisanal, agricultural and tourism know-how, by offering artisans, cooperatives, producers and rural tourism actors a modern digital platform to showcase, sell and promote their work to a local and international audience. We believe that every woven carpet, every jar of pressed argan oil and every medina alleyway tells a story worth sharing and preserving for future generations.",
+      "darija": "المهمة ديال كنز بلادي هي نسلطو الضو على الثروة ديال المعرفة الحرفية والفلاحية والسياحية فالمغرب، عن طريق منصة ديجيتال عصرية للحرفيين والتعاونيات والمنتجين والفاعلين فالسياحة القروية باش يعرضو ويبيعو ويعرفو بالخدمة ديالهم لجمهور محلي ودولي. كنامنو بلي كل زربية منسوجة وكل قرعة ديال زيت الأركان وكل زنقة فالمدينة القديمة كتحكي قصة تستاهل تتروى وتتحافظ للأجيال الجايين."
+    }
+  },
+  "vision": {
+    "title": {
+      "fr": "Notre vision",
+      "ar": "رؤيتنا",
+      "en": "Our Vision",
+      "darija": "الرؤية ديالنا"
+    },
+    "description": {
+      "fr": "Devenir la référence digitale incontournable pour la découverte et la promotion de l'artisanat, des produits du terroir et du tourisme rural marocain, en construisant un écosystème équitable où chaque acteur local accède directement aux marchés nationaux et internationaux, sans intermédiaires excessifs.",
+      "ar": "أن نصبح المرجع الرقمي الأساسي لاكتشاف وترويج الحرف اليدوية ومنتجات التراث المحلي والسياحة القروية المغربية، من خلال بناء منظومة عادلة يصل فيها كل فاعل محلي مباشرة إلى الأسواق الوطنية والدولية، دون وسطاء مفرطين.",
+      "en": "To become the essential digital reference for discovering and promoting Moroccan crafts, local terroir products and rural tourism, by building a fair ecosystem where every local actor accesses national and international markets directly, without excessive intermediaries.",
+      "darija": "نولّيو المرجع الديجيتال الأساسي لاكتشاف والترويج للحرف اليدوية ومنتوجات التراث المحلي والسياحة القروية المغربية، عن طريق بناء منظومة عادلة فين كل فاعل محلي يوصل بشكل مباشر للأسواق الوطنية والدولية، بلا وسطاء بزاف."
+    }
+  },
+  "values": [
+    {
+      "id": "authenticite",
+      "icon": "gem",
+      "title": {
+        "fr": "Authenticité",
+        "ar": "الأصالة",
+        "en": "Authenticity",
+        "darija": "الأصالة"
+      },
+      "description": {
+        "fr": "Chaque produit et chaque expérience proposés sur KENZ BLADI sont vérifiés pour garantir un savoir-faire 100% marocain et authentique.",
+        "ar": "كل منتج وكل تجربة معروضة على كنز بلادي يتم التحقق منها لضمان معرفة مغربية أصيلة 100%.",
+        "en": "Every product and experience offered on KENZ BLADI is verified to guarantee 100% authentic Moroccan know-how.",
+        "darija": "كل منتوج وكل تجربة معروضة فكنز بلادي كنتأكدو منها باش نضمنو معرفة مغربية أصيلة 100%."
+      }
+    },
+    {
+      "id": "equite",
+      "icon": "scale",
+      "title": {
+        "fr": "Équité",
+        "ar": "الإنصاف",
+        "en": "Fairness",
+        "darija": "الإنصاف"
+      },
+      "description": {
+        "fr": "Nous garantissons une rémunération juste aux artisans et producteurs en réduisant les intermédiaires entre eux et les clients.",
+        "ar": "نضمن أجراً عادلاً للحرفيين والمنتجين عبر تقليص الوسطاء بينهم وبين الزبناء.",
+        "en": "We ensure fair compensation for artisans and producers by reducing intermediaries between them and customers.",
+        "darija": "كنضمنو أجر عادل للحرفيين والمنتجين عن طريق تقليل الوسطاء بينهم وبين الزبناء."
+      }
+    },
+    {
+      "id": "durabilite",
+      "icon": "leaf",
+      "title": {
+        "fr": "Durabilité",
+        "ar": "الاستدامة",
+        "en": "Sustainability",
+        "darija": "الاستدامة"
+      },
+      "description": {
+        "fr": "Nous encourageons les pratiques artisanales et agricoles respectueuses de l'environnement et des ressources locales.",
+        "ar": "نشجع الممارسات الحرفية والفلاحية المراعية للبيئة والموارد المحلية.",
+        "en": "We encourage artisanal and agricultural practices that respect the environment and local resources.",
+        "darija": "كنشجعو الممارسات الحرفية والفلاحية اللي كتحترم البيئة والموارد المحلية."
+      }
+    },
+    {
+      "id": "transmission",
+      "icon": "book-open",
+      "title": {
+        "fr": "Transmission",
+        "ar": "نقل المعرفة",
+        "en": "Knowledge Transfer",
+        "darija": "نقل المعرفة"
+      },
+      "description": {
+        "fr": "Nous valorisons la transmission des savoir-faire ancestraux entre générations d'artisans marocains.",
+        "ar": "نثمن نقل المعارف الموروثة بين أجيال الحرفيين المغاربة.",
+        "en": "We value the transmission of ancestral know-how between generations of Moroccan artisans.",
+        "darija": "كنثمنو نقل المعارف الموروثة بين أجيال الحرفيين المغاربة."
+      }
+    }
+  ],
+  "stats": [
+    {
+      "id": "artisans",
+      "value": 320,
+      "suffix": "+",
+      "label": {
+        "fr": "Artisans et coopératives partenaires",
+        "ar": "حرفي وتعاونية شريكة",
+        "en": "Partner artisans and cooperatives",
+        "darija": "حرفي وتعاونية شريكة"
+      }
+    },
+    {
+      "id": "produits",
+      "value": 1200,
+      "suffix": "+",
+      "label": {
+        "fr": "Produits référencés",
+        "ar": "منتج مدرج",
+        "en": "Listed products",
+        "darija": "منتوج مدرج"
+      }
+    },
+    {
+      "id": "regions",
+      "value": 12,
+      "suffix": "",
+      "label": {
+        "fr": "Régions du Maroc représentées",
+        "ar": "جهة مغربية ممثلة",
+        "en": "Moroccan regions represented",
+        "darija": "جهة مغربية ممثلة"
+      }
+    },
+    {
+      "id": "destinations",
+      "value": 13,
+      "suffix": "",
+      "label": {
+        "fr": "Destinations touristiques rurales",
+        "ar": "وجهة سياحية قروية",
+        "en": "Rural tourism destinations",
+        "darija": "وجهة سياحية قروية"
+      }
+    }
+  ],
+  "history": {
+    "title": {
+      "fr": "Notre histoire",
+      "ar": "قصتنا",
+      "en": "Our Story",
+      "darija": "القصة ديالنا"
+    },
+    "description": {
+      "fr": "Né d'un constat simple : de nombreux artisans et coopératives marocains, malgré un savoir-faire exceptionnel, peinent à atteindre de nouveaux marchés faute d'outils digitaux adaptés. KENZ BLADI a été créé pour combler ce fossé, en offrant une plateforme accessible, multilingue et pensée pour refléter la diversité culturelle et régionale du Royaume, du Rif au Sahara, de l'Atlantique à l'Atlas.",
+      "ar": "وُلدت كنز بلادي من ملاحظة بسيطة: العديد من الحرفيين والتعاونيات المغربية، رغم معرفتهم الاستثنائية، يجدون صعوبة في الوصول إلى أسواق جديدة بسبب غياب أدوات رقمية مناسبة. أُنشئت كنز بلادي لسد هذه الفجوة، من خلال منصة سهلة الاستخدام ومتعددة اللغات ومصممة لتعكس التنوع الثقافي والجهوي للمملكة، من الريف إلى الصحراء، ومن الأطلسي إلى الأطلس.",
+      "en": "Born from a simple observation: many Moroccan artisans and cooperatives, despite exceptional know-how, struggle to reach new markets due to a lack of suitable digital tools. KENZ BLADI was created to bridge this gap, offering an accessible, multilingual platform designed to reflect the cultural and regional diversity of the Kingdom, from the Rif to the Sahara, from the Atlantic to the Atlas.",
+      "darija": "كنز بلادي تولدات من ملاحظة بسيطة: بزاف ديال الحرفيين والتعاونيات المغربية، رغم المعرفة الاستثنائية ديالهم، كيلقاو صعوبة باش يوصلو لأسواق جداد بسبب نقص الأدوات الديجيتال المناسبة. كنز بلادي تخلقات باش تسد هاد الفجوة، بمنصة سهلة الاستعمال ومتعددة اللغات ومصممة باش تعكس التنوع الثقافي والجهوي للمملكة، من الريف للصحرا، ومن الأطلسي للأطلس."
+    }
+  }
+}

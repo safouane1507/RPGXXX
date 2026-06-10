@@ -1,0 +1,650 @@
+[
+  {
+    "name": {
+      "fr": "Plateau décoratif en mosaïque de zellige fait main",
+      "ar": "صينية ديكور من فسيفساء الزليج المصنوعة يدويًا",
+      "en": "Handmade Zellige Mosaic Decorative Tray",
+      "darija": "صينية ديكور من الزليج المصنوعة بليد"
+    },
+    "description": {
+      "fr": "Plateau circulaire en bois cerclé de cuivre, recouvert d'une mosaïque de zellige composée à la main pièce par pièce par les maâlems de Fès. Chaque carreau émaillé est taillé au marteau selon des techniques séculaires, formant des motifs géométriques en étoile aux couleurs vives. Pièce décorative unique, utilisable comme dessous de plat ou objet de présentation.",
+      "ar": "صينية دائرية من الخشب محاطة بالنحاس، مغطاة بفسيفساء الزليج المركبة يدويًا قطعة بقطعة من طرف معلمي فاس. كل بلاطة مزججة تُقطع بالمطرقة وفق تقنيات عريقة، لتشكل أشكالًا هندسية نجمية بألوان زاهية. قطعة ديكور فريدة، تُستعمل كمسند للأطباق أو قطعة للعرض.",
+      "en": "A circular wooden tray rimmed with copper, covered with a zellige mosaic assembled by hand piece by piece by master craftsmen (maâlems) from Fès. Each glazed tile is hand-cut with a hammer using centuries-old techniques, forming bright-colored star-shaped geometric patterns. A unique decorative piece, usable as a trivet or display object.",
+      "darija": "صينية مدورة من الخشب محاطة بالنحاس، مغطاة بفسيفساء الزليج مركبة بليد قطعة بقطعة من طرف المعلمين ديال فاس. كل بلاطة مزججة كتقطع بالمطرقة بتقنيات قديمة، باش تكون أشكال هندسية نجمية بألوان زاهية. قطعة ديكور فريدة، تنستعمل كمسند للطبسيل ولا قطعة للعرض."
+    },
+    "shortDescription": {
+      "fr": "Plateau en mosaïque de zellige composé à la main, motifs géométriques colorés.",
+      "ar": "صينية فسيفساء زليج مركبة يدويًا، أشكال هندسية ملونة.",
+      "en": "Hand-assembled zellige mosaic tray with colorful geometric patterns.",
+      "darija": "صينية فسيفساء زليج مركبة بليد، أشكال هندسية ملونة."
+    },
+    "unit": { "fr": "pièce", "ar": "قطعة", "en": "piece", "darija": "وحدة" },
+    "price": 320,
+    "priceDiscount": null,
+    "currency": "MAD",
+    "domain": "artisanat_art",
+    "subcategory": {
+      "fr": "Mosaïque & Zellige",
+      "ar": "الفسيفساء والزليج",
+      "en": "Mosaic & Zellige",
+      "darija": "الفسيفساء والزليج"
+    },
+    "tags": ["zellige", "mosaïque", "Fès", "décoration"],
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Moroccan_zellige_marrakesh.jpg/960px-Moroccan_zellige_marrakesh.jpg",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Moroccan_zellige_marrakesh.jpg/960px-Moroccan_zellige_marrakesh.jpg",
+        "alt": {
+          "fr": "Mosaïque de zellige aux motifs géométriques colorés",
+          "ar": "فسيفساء زليج بأشكال هندسية ملونة",
+          "en": "Zellige mosaic with colorful geometric patterns",
+          "darija": "فسيفساء زليج بأشكال هندسية ملونة"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Zellige_factory-24116015119.jpg/960px-Zellige_factory-24116015119.jpg",
+        "alt": {
+          "fr": "Atelier de fabrication de zellige à Fès",
+          "ar": "ورشة صناعة الزليج بفاس",
+          "en": "Zellige-making workshop in Fès",
+          "darija": "ورشة صنع الزليج بفاس"
+        }
+      }
+    ],
+    "proActorDomain": "artisanat_art",
+    "stock": 24,
+    "isInfiniteStock": false,
+    "sku": "KB-ART-001",
+    "status": "published",
+    "isActive": true,
+    "isFeatured": true,
+    "isOrganic": false,
+    "isHandmade": true,
+    "origin": { "region": "Fès-Meknès", "city": "Fès", "country": "Maroc" },
+    "certifications": ["Fait main"],
+    "slug": "plateau-zellige-mosaique-fait-main",
+    "metaTitle": {
+      "fr": "Plateau en mosaïque de zellige fait main – Fès | KENZ BLADI",
+      "ar": "صينية فسيفساء الزليج المصنوعة يدويًا – فاس | كنز بلادي",
+      "en": "Handmade Zellige Mosaic Tray – Fès | KENZ BLADI",
+      "darija": "صينية فسيفساء الزليج المصنوعة بليد – فاس | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Plateau décoratif en zellige composé pièce par pièce par les maâlems de Fès, motifs géométriques colorés.",
+      "ar": "صينية ديكور من الزليج مركبة قطعة بقطعة من طرف معلمي فاس، أشكال هندسية ملونة.",
+      "en": "Decorative zellige tray assembled piece by piece by Fès master craftsmen, colorful geometric patterns.",
+      "darija": "صينية ديكور من الزليج مركبة قطعة بقطعة من طرف معلمين فاس، أشكال هندسية ملونة."
+    },
+    "viewCount": 980,
+    "salesCount": 74,
+    "rating": 4.8,
+    "reviewCount": 35
+  },
+  {
+    "name": {
+      "fr": "Tapis berbère Beni Ourain en laine naturelle",
+      "ar": "زربية أمازيغية بني وراين من الصوف الطبيعي",
+      "en": "Authentic Beni Ourain Berber Wool Rug",
+      "darija": "زربية أمازيغية بني وراين من الصوف الطبيعي"
+    },
+    "description": {
+      "fr": "Tapis tissé à la main par les femmes de la tribu Beni Ourain, dans le Moyen Atlas, à partir de laine de mouton non teintée. Son fond ivoire orné de motifs géométriques noirs ou bruns, sa texture épaisse et moelleuse en font un incontournable de la décoration intérieure moderne et traditionnelle. Chaque pièce est unique, le motif variant selon l'inspiration de la tisserande.",
+      "ar": "زربية منسوجة يدويًا من طرف نساء قبيلة بني وراين بالأطلس المتوسط، من صوف الأغنام غير المصبوغ. خلفيتها العاجية المزينة بأشكال هندسية سوداء أو بنية وملمسها السميك الناعم تجعلها قطعة أساسية في الديكور الداخلي العصري والتقليدي. كل قطعة فريدة، يختلف الرسم حسب إلهام الناسجة.",
+      "en": "A rug hand-woven by women of the Beni Ourain tribe in the Middle Atlas, from undyed sheep's wool. Its ivory background adorned with black or brown geometric patterns and its thick, plush texture make it a staple of modern and traditional interior design. Each piece is unique, the pattern varying according to the weaver's inspiration.",
+      "darija": "زربية منسوجة بليد من طرف نساء قبيلة بني وراين فالأطلس المتوسط، من صوف الغنم غير مصبوغ. الخلفية ديالها بيضاء مزينة بأشكال هندسية كحلة ولا قهوية، والملمس ديالها سميك وناعم، كتعتبر قطعة أساسية فالديكور الداخلي العصري والتقليدي. كل قطعة فريدة، الرسم كيختلف حسب إلهام الناسجة."
+    },
+    "shortDescription": {
+      "fr": "Tapis Beni Ourain tissé main en laine naturelle, motifs géométriques uniques.",
+      "ar": "زربية بني وراين منسوجة يدويًا من الصوف الطبيعي، أشكال هندسية فريدة.",
+      "en": "Hand-woven Beni Ourain rug in natural wool, unique geometric patterns.",
+      "darija": "زربية بني وراين منسوجة بليد من الصوف الطبيعي، أشكال هندسية فريدة."
+    },
+    "unit": { "fr": "pièce", "ar": "قطعة", "en": "piece", "darija": "وحدة" },
+    "price": 2400,
+    "priceDiscount": 1990,
+    "currency": "MAD",
+    "domain": "artisanat_art",
+    "subcategory": {
+      "fr": "Tapis & Tissage",
+      "ar": "الزرابي والنسيج",
+      "en": "Rugs & Weaving",
+      "darija": "الزرابي والنسيج"
+    },
+    "tags": ["tapis", "Beni Ourain", "laine", "tissage"],
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Swatches_of_berber_carpet.jpg/960px-Swatches_of_berber_carpet.jpg",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Swatches_of_berber_carpet.jpg/960px-Swatches_of_berber_carpet.jpg",
+        "alt": {
+          "fr": "Échantillons de tapis berbère en laine naturelle",
+          "ar": "نماذج من الزرابي الأمازيغية بالصوف الطبيعي",
+          "en": "Samples of natural wool Berber carpet",
+          "darija": "نماذج ديال الزرابي الأمازيغية بالصوف الطبيعي"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Berber_Carpet_%28macro%29.jpg/960px-Berber_Carpet_%28macro%29.jpg",
+        "alt": {
+          "fr": "Détail macro du tissage d'un tapis berbère",
+          "ar": "تفاصيل دقيقة لنسيج زربية أمازيغية",
+          "en": "Macro detail of Berber carpet weaving",
+          "darija": "تفاصيل دقيقة ديال نسيج زربية أمازيغية"
+        }
+      }
+    ],
+    "proActorDomain": "artisanat_art",
+    "stock": 9,
+    "isInfiniteStock": false,
+    "sku": "KB-ART-002",
+    "status": "published",
+    "isActive": true,
+    "isFeatured": true,
+    "isOrganic": true,
+    "isHandmade": true,
+    "origin": { "region": "Fès-Meknès", "city": "Taza", "country": "Maroc" },
+    "certifications": ["Fait main", "Laine naturelle"],
+    "slug": "tapis-berbere-beni-ourain-laine-naturelle",
+    "metaTitle": {
+      "fr": "Tapis berbère Beni Ourain en laine naturelle | KENZ BLADI",
+      "ar": "زربية أمازيغية بني وراين من الصوف الطبيعي | كنز بلادي",
+      "en": "Authentic Beni Ourain Berber Wool Rug | KENZ BLADI",
+      "darija": "زربية أمازيغية بني وراين من الصوف الطبيعي | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Tapis Beni Ourain authentique tissé main par les femmes du Moyen Atlas, laine non teintée et motifs géométriques.",
+      "ar": "زربية بني وراين أصيلة منسوجة يدويًا من طرف نساء الأطلس المتوسط، صوف غير مصبوغ وأشكال هندسية.",
+      "en": "Authentic Beni Ourain rug hand-woven by Middle Atlas women, undyed wool and geometric patterns.",
+      "darija": "زربية بني وراين أصيلة منسوجة بليد من طرف نساء الأطلس المتوسط، صوف غير مصبوغ وأشكال هندسية."
+    },
+    "viewCount": 2050,
+    "salesCount": 31,
+    "rating": 4.9,
+    "reviewCount": 22
+  },
+  {
+    "name": {
+      "fr": "Tapis berbère Azilal multicolore en laine",
+      "ar": "زربية أمازيغية أزيلال متعددة الألوان من الصوف",
+      "en": "Colorful Azilal Berber Wool Rug",
+      "darija": "زربية أمازيغية أزيلال ملونة من الصوف"
+    },
+    "description": {
+      "fr": "Tapis vibrant tissé par les femmes berbères de la région d'Azilal, dans le Haut Atlas, mêlant laine et parfois fils de coton sur un fond clair. Ses motifs abstraits aux couleurs vives (rose, orange, bleu, jaune) racontent des symboles de fertilité, de protection et de vie quotidienne transmis de génération en génération. Idéal pour apporter une touche bohème et chaleureuse à tout intérieur.",
+      "ar": "زربية نابضة بالحياة منسوجة من طرف النساء الأمازيغيات بمنطقة أزيلال في الأطلس الكبير، تمزج بين الصوف وأحيانًا خيوط القطن على خلفية فاتحة. أشكالها المجردة بألوان زاهية (وردي، برتقالي، أزرق، أصفر) تحكي رموزًا للخصوبة والحماية والحياة اليومية المتوارثة عبر الأجيال. مثالية لإضفاء لمسة بوهيمية ودافئة على أي ديكور.",
+      "en": "A vibrant rug woven by Berber women from the Azilal region in the High Atlas, blending wool and sometimes cotton thread on a light background. Its abstract patterns in bright colors (pink, orange, blue, yellow) tell symbols of fertility, protection and daily life passed down through generations. Ideal for adding a warm bohemian touch to any interior.",
+      "darija": "زربية نابضة بالحياة منسوجة من طرف النساء الأمازيغيات ديال منطقة أزيلال فالأطلس الكبير، كتمزج الصوف وأحيانًا خيوط القطن على خلفية فاتحة. الأشكال المجردة بألوان زاهية (وردي، برتقالي، أزرق، أصفر) كتحكي رموز ديال الخصوبة والحماية والحياة اليومية موروثة عبر الأجيال. مزيانة باش تعطي لمسة بوهيمية ودافية لأي ديكور."
+    },
+    "shortDescription": {
+      "fr": "Tapis Azilal coloré en laine, motifs abstraits tissés main.",
+      "ar": "زربية أزيلال ملونة من الصوف، أشكال مجردة منسوجة يدويًا.",
+      "en": "Colorful Azilal wool rug, abstract hand-woven patterns.",
+      "darija": "زربية أزيلال ملونة من الصوف، أشكال مجردة منسوجة بليد."
+    },
+    "unit": { "fr": "pièce", "ar": "قطعة", "en": "piece", "darija": "وحدة" },
+    "price": 1650,
+    "priceDiscount": null,
+    "currency": "MAD",
+    "domain": "artisanat_art",
+    "subcategory": {
+      "fr": "Tapis & Tissage",
+      "ar": "الزرابي والنسيج",
+      "en": "Rugs & Weaving",
+      "darija": "الزرابي والنسيج"
+    },
+    "tags": ["tapis", "Azilal", "laine", "couleurs"],
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Berber_carpet_from_Kairouan.jpg/960px-Berber_carpet_from_Kairouan.jpg",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Berber_carpet_from_Kairouan.jpg/960px-Berber_carpet_from_Kairouan.jpg",
+        "alt": {
+          "fr": "Tapis berbère aux motifs colorés",
+          "ar": "زربية أمازيغية بأشكال ملونة",
+          "en": "Berber carpet with colorful patterns",
+          "darija": "زربية أمازيغية بأشكال ملونة"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Berber_carpets.JPG/960px-Berber_carpets.JPG",
+        "alt": {
+          "fr": "Pile de tapis berbères traditionnels",
+          "ar": "كومة من الزرابي الأمازيغية التقليدية",
+          "en": "Stack of traditional Berber carpets",
+          "darija": "كومة ديال الزرابي الأمازيغية التقليدية"
+        }
+      }
+    ],
+    "proActorDomain": "artisanat_art",
+    "stock": 11,
+    "isInfiniteStock": false,
+    "sku": "KB-ART-003",
+    "status": "published",
+    "isActive": true,
+    "isFeatured": false,
+    "isOrganic": true,
+    "isHandmade": true,
+    "origin": { "region": "Béni Mellal-Khénifra", "city": "Azilal", "country": "Maroc" },
+    "certifications": ["Fait main", "Laine naturelle"],
+    "slug": "tapis-berbere-azilal-multicolore",
+    "metaTitle": {
+      "fr": "Tapis berbère Azilal multicolore | KENZ BLADI",
+      "ar": "زربية أمازيغية أزيلال ملونة | كنز بلادي",
+      "en": "Colorful Azilal Berber Rug | KENZ BLADI",
+      "darija": "زربية أمازيغية أزيلال ملونة | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Tapis Azilal coloré tissé main par les femmes berbères du Haut Atlas, motifs abstraits symboliques.",
+      "ar": "زربية أزيلال ملونة منسوجة يدويًا من طرف النساء الأمازيغيات بالأطلس الكبير، أشكال مجردة رمزية.",
+      "en": "Colorful Azilal rug hand-woven by Berber women of the High Atlas, symbolic abstract patterns.",
+      "darija": "زربية أزيلال ملونة منسوجة بليد من طرف النساء الأمازيغيات بالأطلس الكبير، أشكال مجردة رمزية."
+    },
+    "viewCount": 1120,
+    "salesCount": 48,
+    "rating": 4.7,
+    "reviewCount": 26
+  },
+  {
+    "name": {
+      "fr": "Vase en céramique de Fès peint à la main",
+      "ar": "مزهرية من خزف فاس مرسومة يدويًا",
+      "en": "Hand-Painted Fès Ceramic Vase",
+      "darija": "مزهرية من الفخار ديال فاس مرسومة بليد"
+    },
+    "description": {
+      "fr": "Vase en céramique tournée et cuite selon les méthodes ancestrales des potiers de Fès, puis peint à la main avec des motifs floraux et arabesques en bleu de Fès, vert et jaune ocre. Chaque pièce passe par plusieurs étapes : tournage, séchage, premier émaillage, peinture et cuisson finale, donnant un objet à la fois utilitaire et décoratif.",
+      "ar": "مزهرية من الخزف مشكّلة على الدولاب ومطهية وفق الطرق العريقة لخزّافي فاس، ثم مرسومة يدويًا بأشكال زهرية وأرابيسك باللون الأزرق الفاسي والأخضر والأصفر الترابي. تمر كل قطعة بعدة مراحل: التشكيل، التجفيف، التزجيج الأول، الرسم، والطهي النهائي، لتعطي قطعة وظيفية وزخرفية في آن واحد.",
+      "en": "A ceramic vase shaped on the wheel and fired using the ancestral methods of Fès potters, then hand-painted with floral and arabesque motifs in Fès blue, green and ochre yellow. Each piece goes through several stages: throwing, drying, first glazing, painting and final firing, resulting in an object that is both functional and decorative.",
+      "darija": "مزهرية من الفخار مشكلة على الدولاب ومطيبة بالطرق القديمة ديال الفخارة ديال فاس، من بعد مرسومة بليد بأشكال زهرية وأرابيسك بالأزرق الفاسي والأخضر والأصفر الترابي. كل قطعة كتعدي من بزاف مراحل: التشكيل، التجفيف، التزجيج الأول، الرسم، والطهي النهائي، باش تعطي قطعة وظيفية وزخرفية فنفس الوقت."
+    },
+    "shortDescription": {
+      "fr": "Vase en céramique tournée et peinte à la main, motifs bleus de Fès.",
+      "ar": "مزهرية من الخزف مشكلة ومرسومة يدويًا، أشكال زرقاء فاسية.",
+      "en": "Hand-thrown and hand-painted ceramic vase, Fès blue motifs.",
+      "darija": "مزهرية من الفخار مشكلة ومرسومة بليد، أشكال زرقة فاسية."
+    },
+    "unit": { "fr": "pièce", "ar": "قطعة", "en": "piece", "darija": "وحدة" },
+    "price": 380,
+    "priceDiscount": 320,
+    "currency": "MAD",
+    "domain": "artisanat_art",
+    "subcategory": {
+      "fr": "Poterie & Céramique",
+      "ar": "الفخار والخزف",
+      "en": "Pottery & Ceramics",
+      "darija": "الفخار والخزف"
+    },
+    "tags": ["céramique", "poterie", "Fès", "vase"],
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Pottery_Fes_01.jpg/960px-Pottery_Fes_01.jpg",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Pottery_Fes_01.jpg/960px-Pottery_Fes_01.jpg",
+        "alt": {
+          "fr": "Vase en céramique peinte de Fès",
+          "ar": "مزهرية من الخزف المرسوم بفاس",
+          "en": "Painted ceramic vase from Fès",
+          "darija": "مزهرية من الفخار المرسوم ديال فاس"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Pottery_Fes_02.jpg/960px-Pottery_Fes_02.jpg",
+        "alt": {
+          "fr": "Poterie traditionnelle exposée à Fès",
+          "ar": "فخار تقليدي معروض بفاس",
+          "en": "Traditional pottery displayed in Fès",
+          "darija": "فخار تقليدي معروض بفاس"
+        }
+      }
+    ],
+    "proActorDomain": "artisanat_art",
+    "stock": 20,
+    "isInfiniteStock": false,
+    "sku": "KB-ART-004",
+    "status": "published",
+    "isActive": true,
+    "isFeatured": true,
+    "isOrganic": false,
+    "isHandmade": true,
+    "origin": { "region": "Fès-Meknès", "city": "Fès", "country": "Maroc" },
+    "certifications": ["Fait main"],
+    "slug": "vase-ceramique-fes-peint-main",
+    "metaTitle": {
+      "fr": "Vase en céramique de Fès peint à la main | KENZ BLADI",
+      "ar": "مزهرية من خزف فاس مرسومة يدويًا | كنز بلادي",
+      "en": "Hand-Painted Fès Ceramic Vase | KENZ BLADI",
+      "darija": "مزهرية من فخار فاس مرسومة بليد | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Vase en céramique tournée et peinte à la main par les potiers de Fès, motifs floraux bleus et ocre.",
+      "ar": "مزهرية من الخزف مشكلة ومرسومة يدويًا من طرف خزّافي فاس، أشكال زهرية زرقاء وترابية.",
+      "en": "Ceramic vase hand-thrown and hand-painted by Fès potters, blue and ochre floral motifs.",
+      "darija": "مزهرية من الفخار مشكلة ومرسومة بليد من طرف فخارة فاس، أشكال زهرية زرقة وترابية."
+    },
+    "viewCount": 870,
+    "salesCount": 102,
+    "rating": 4.7,
+    "reviewCount": 44
+  },
+  {
+    "name": {
+      "fr": "Service à thé en céramique de Fès, 6 pièces",
+      "ar": "طقم شاي من خزف فاس، 6 قطع",
+      "en": "Fès Ceramic Tea Set, 6 Pieces",
+      "darija": "طقم أتاي من الفخار ديال فاس، 6 ديال القطع"
+    },
+    "description": {
+      "fr": "Service à thé composé d'une théière, d'un plateau et de quatre tasses, tous réalisés en céramique de Fès et décorés à la main de motifs traditionnels en bleu et blanc. Idéal pour servir le thé à la menthe selon la tradition marocaine, ce service allie fonctionnalité quotidienne et raffinement artisanal, parfait pour la maison ou comme cadeau.",
+      "ar": "طقم شاي يتكون من إبريق وصينية وأربعة أكواب، جميعها مصنوعة من خزف فاس ومزخرفة يدويًا بأشكال تقليدية باللونين الأزرق والأبيض. مثالي لتقديم الشاي بالنعناع وفق التقليد المغربي، يجمع هذا الطقم بين الاستعمال اليومي والرقي الحرفي، مناسب للمنزل أو كهدية.",
+      "en": "A tea set consisting of a teapot, a tray and four cups, all made of Fès ceramic and hand-decorated with traditional blue and white motifs. Ideal for serving mint tea in the Moroccan tradition, this set combines everyday functionality with artisanal refinement, perfect for the home or as a gift.",
+      "darija": "طقم أتاي فيه براد وصينية وأربعة كيسان، كاملين مصنوعين من الفخار ديال فاس ومزخرفين بليد بأشكال تقليدية بالأزرق والأبيض. مزيان باش تقدم بيه أتاي بالنعناع على الطريقة المغربية، هاد الطقم كيجمع بين الاستعمال اليومي والرقي الحرفي، مناسب للدار ولا كهدية."
+    },
+    "shortDescription": {
+      "fr": "Théière, plateau et 4 tasses en céramique de Fès, décor bleu et blanc.",
+      "ar": "إبريق وصينية و4 أكواب من خزف فاس، زخرفة زرقاء وبيضاء.",
+      "en": "Teapot, tray and 4 cups in Fès ceramic, blue and white decoration.",
+      "darija": "براد وصينية و4 كيسان من فخار فاس، زخرفة زرقة وبيضة."
+    },
+    "unit": { "fr": "set", "ar": "طقم", "en": "set", "darija": "طقم" },
+    "price": 290,
+    "priceDiscount": null,
+    "currency": "MAD",
+    "domain": "artisanat_art",
+    "subcategory": {
+      "fr": "Poterie & Céramique",
+      "ar": "الفخار والخزف",
+      "en": "Pottery & Ceramics",
+      "darija": "الفخار والخزف"
+    },
+    "tags": ["céramique", "thé", "Fès", "service"],
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Traditional_Moroccan_Pottery_and_Earthenware_in_Fes.jpg/960px-Traditional_Moroccan_Pottery_and_Earthenware_in_Fes.jpg",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Traditional_Moroccan_Pottery_and_Earthenware_in_Fes.jpg/960px-Traditional_Moroccan_Pottery_and_Earthenware_in_Fes.jpg",
+        "alt": {
+          "fr": "Poterie et céramique traditionnelle marocaine à Fès",
+          "ar": "فخار وخزف مغربي تقليدي بفاس",
+          "en": "Traditional Moroccan pottery and earthenware in Fès",
+          "darija": "فخار وخزف مغربي تقليدي بفاس"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Intricately_decorated_Moroccan_ceramics_and_Zellige_pottery_in_Fes_Medina.jpg/960px-Intricately_decorated_Moroccan_ceramics_and_Zellige_pottery_in_Fes_Medina.jpg",
+        "alt": {
+          "fr": "Céramiques marocaines aux motifs raffinés",
+          "ar": "خزف مغربي بزخارف دقيقة",
+          "en": "Moroccan ceramics with intricate decorations",
+          "darija": "فخار مغربي بزخارف دقيقة"
+        }
+      }
+    ],
+    "proActorDomain": "artisanat_art",
+    "stock": 30,
+    "isInfiniteStock": false,
+    "sku": "KB-ART-005",
+    "status": "published",
+    "isActive": true,
+    "isFeatured": false,
+    "isOrganic": false,
+    "isHandmade": true,
+    "origin": { "region": "Fès-Meknès", "city": "Fès", "country": "Maroc" },
+    "certifications": ["Fait main"],
+    "slug": "service-the-ceramique-fes-6-pieces",
+    "metaTitle": {
+      "fr": "Service à thé en céramique de Fès | KENZ BLADI",
+      "ar": "طقم شاي من خزف فاس | كنز بلادي",
+      "en": "Fès Ceramic Tea Set | KENZ BLADI",
+      "darija": "طقم أتاي من فخار فاس | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Service à thé en céramique de Fès, théière, plateau et 4 tasses décorés à la main en bleu et blanc.",
+      "ar": "طقم شاي من خزف فاس، إبريق وصينية و4 أكواب مزخرفة يدويًا بالأزرق والأبيض.",
+      "en": "Fès ceramic tea set, teapot, tray and 4 cups hand-decorated in blue and white.",
+      "darija": "طقم أتاي من فخار فاس، براد وصينية و4 كيسان مزخرفين بليد بالأزرق والأبيض."
+    },
+    "viewCount": 640,
+    "salesCount": 138,
+    "rating": 4.6,
+    "reviewCount": 52
+  },
+  {
+    "name": {
+      "fr": "Lanterne marocaine en cuivre ajouré",
+      "ar": "فانوس مغربي من النحاس المنقوش",
+      "en": "Moroccan Pierced Copper Lantern",
+      "darija": "فانوس مغربي من النحاس المنقوش"
+    },
+    "description": {
+      "fr": "Lanterne de table en cuivre martelé et ajouré à la main, projetant de subtils jeux de lumière et d'ombre lorsqu'elle est allumée. Façonnée par des dinandiers selon des techniques traditionnelles transmises de père en fils, elle se décline en motifs étoilés et floraux typiques de l'artisanat marocain. Compatible avec une bougie ou une petite ampoule LED.",
+      "ar": "فانوس مكتبي من النحاس المطروق والمنقوش يدويًا، يعكس عند إضاءته لعبة دقيقة من الضوء والظل. يُشكَّل من طرف صناع النحاس وفق تقنيات تقليدية متوارثة من الأب إلى الابن، ويتوفر بأشكال نجمية وزهرية مميزة للحرف اليدوية المغربية. متوافق مع شمعة أو لمبة LED صغيرة.",
+      "en": "A tabletop lantern in hammered, hand-pierced copper, casting subtle plays of light and shadow when lit. Shaped by coppersmiths using traditional techniques passed from father to son, it comes in star and floral motifs typical of Moroccan craftsmanship. Compatible with a candle or a small LED bulb.",
+      "darija": "فانوس ديال الطاولة من النحاس المطروق والمنقوش بليد، كيعكس عند الإضاءة لعبة ديال الضو والظل. مشكل من طرف صناع النحاس بتقنيات تقليدية موروثة من البابا للولد، وكاين بأشكال نجمية وزهرية مميزة للحرف اليدوية المغربية. متوافق مع شمعة ولا لمبة LED صغيرة."
+    },
+    "shortDescription": {
+      "fr": "Lanterne de table en cuivre ajouré à la main, motifs étoilés.",
+      "ar": "فانوس مكتبي من النحاس المنقوش يدويًا، أشكال نجمية.",
+      "en": "Hand-pierced copper table lantern, star motifs.",
+      "darija": "فانوس ديال الطاولة من النحاس المنقوش بليد، أشكال نجمية."
+    },
+    "unit": { "fr": "pièce", "ar": "قطعة", "en": "piece", "darija": "وحدة" },
+    "price": 260,
+    "priceDiscount": 220,
+    "currency": "MAD",
+    "domain": "artisanat_art",
+    "subcategory": {
+      "fr": "Luminaires & Lanternes",
+      "ar": "الإنارة والفوانيس",
+      "en": "Lighting & Lanterns",
+      "darija": "الإنارة والفوانيس"
+    },
+    "tags": ["lanterne", "cuivre", "luminaire", "artisanat"],
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/%D9%81%D8%A7%D9%86%D9%88%D8%B3_%D8%B7%D8%A7%D9%88%D9%84%D8%A9_%D9%86%D8%AD%D8%A7%D8%B3%D9%8A_%D9%85%D8%BA%D8%B1%D8%A8%D9%8A.jpg/960px-%D9%81%D8%A7%D9%86%D9%88%D8%B3_%D8%B7%D8%A7%D9%88%D9%84%D8%A9_%D9%86%D8%AD%D8%A7%D8%B3%D9%8A_%D9%85%D8%BA%D8%B1%D8%A8%D9%8A.jpg",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/%D9%81%D8%A7%D9%86%D9%88%D8%B3_%D8%B7%D8%A7%D9%88%D9%84%D8%A9_%D9%86%D8%AD%D8%A7%D8%B3%D9%8A_%D9%85%D8%BA%D8%B1%D8%A8%D9%8A.jpg/960px-%D9%81%D8%A7%D9%86%D9%88%D8%B3_%D8%B7%D8%A7%D9%88%D9%84%D8%A9_%D9%86%D8%AD%D8%A7%D8%B3%D9%8A_%D9%85%D8%BA%D8%B1%D8%A8%D9%8A.jpg",
+        "alt": {
+          "fr": "Lanterne de table en cuivre marocain ajouré",
+          "ar": "فانوس طاولة من النحاس المغربي المنقوش",
+          "en": "Pierced Moroccan copper table lantern",
+          "darija": "فانوس ديال الطاولة من النحاس المغربي المنقوش"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Hanging_Lamps_%284781575371%29.jpg/960px-Hanging_Lamps_%284781575371%29.jpg",
+        "alt": {
+          "fr": "Lampes suspendues artisanales marocaines",
+          "ar": "مصابيح معلقة حرفية مغربية",
+          "en": "Handcrafted Moroccan hanging lamps",
+          "darija": "لمبات معلقة حرفية مغربية"
+        }
+      }
+    ],
+    "proActorDomain": "artisanat_art",
+    "stock": 35,
+    "isInfiniteStock": false,
+    "sku": "KB-ART-006",
+    "status": "published",
+    "isActive": true,
+    "isFeatured": true,
+    "isOrganic": false,
+    "isHandmade": true,
+    "origin": { "region": "Fès-Meknès", "city": "Fès", "country": "Maroc" },
+    "certifications": ["Fait main"],
+    "slug": "lanterne-marocaine-cuivre-ajouree",
+    "metaTitle": {
+      "fr": "Lanterne marocaine en cuivre ajouré | KENZ BLADI",
+      "ar": "فانوس مغربي من النحاس المنقوش | كنز بلادي",
+      "en": "Moroccan Pierced Copper Lantern | KENZ BLADI",
+      "darija": "فانوس مغربي من النحاس المنقوش | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Lanterne de table en cuivre martelé et ajouré à la main par des dinandiers de Fès, motifs étoilés.",
+      "ar": "فانوس مكتبي من النحاس المطروق والمنقوش يدويًا من طرف صناع النحاس بفاس، أشكال نجمية.",
+      "en": "Tabletop lantern in hammered copper hand-pierced by Fès coppersmiths, star motifs.",
+      "darija": "فانوس ديال الطاولة من النحاس المطروق والمنقوش بليد من طرف صناع النحاس بفاس، أشكال نجمية."
+    },
+    "viewCount": 1450,
+    "salesCount": 167,
+    "rating": 4.8,
+    "reviewCount": 71
+  },
+  {
+    "name": {
+      "fr": "Suspension artisanale marocaine en verre coloré",
+      "ar": "ثريا مغربية حرفية من الزجاج الملون",
+      "en": "Handcrafted Moroccan Colored Glass Pendant Lamp",
+      "darija": "سبونصيون مغربية حرفية من الزجاج الملون"
+    },
+    "description": {
+      "fr": "Suspension en métal ouvragé et verre coloré, fabriquée à la main dans les ateliers de Fès. Lorsqu'elle est allumée, elle diffuse une lumière tamisée aux teintes rouges, bleues et ambrées caractéristiques des souks marocains. Une pièce maîtresse pour créer une ambiance chaleureuse dans un salon, un riad ou un restaurant.",
+      "ar": "ثريا من المعدن المشغول والزجاج الملون، مصنوعة يدويًا في ورشات فاس. عند إضاءتها، تنشر ضوءًا خافتًا بألوان حمراء وزرقاء وكهرمانية مميزة لأسواق المغرب. قطعة أساسية لخلق أجواء دافئة في صالون أو رياض أو مطعم.",
+      "en": "A pendant lamp made of wrought metal and colored glass, handcrafted in workshops in Fès. When lit, it casts a soft light in red, blue and amber tones characteristic of Moroccan souks. A centerpiece for creating a warm atmosphere in a living room, riad or restaurant.",
+      "darija": "سبونصيون من المعدن المشغول والزجاج الملون، مصنوعة بليد فورشات فاس. ملي كتولي مضاوة، كتعطي ضو خفيف بألوان حمراء وزرقة وكهرمانية مميزة لسواق المغرب. قطعة أساسية باش تخلق جو دافي فصالون ولا ريض ولا مطعم."
+    },
+    "shortDescription": {
+      "fr": "Suspension en métal et verre coloré, lumière tamisée façon souk.",
+      "ar": "ثريا من المعدن والزجاج الملون، إضاءة خافتة على طراز الأسواق.",
+      "en": "Metal and colored glass pendant lamp, soft souk-style lighting.",
+      "darija": "سبونصيون من المعدن والزجاج الملون، ضو خفيف على طراز السوق."
+    },
+    "unit": { "fr": "pièce", "ar": "قطعة", "en": "piece", "darija": "وحدة" },
+    "price": 450,
+    "priceDiscount": null,
+    "currency": "MAD",
+    "domain": "artisanat_art",
+    "subcategory": {
+      "fr": "Luminaires & Lanternes",
+      "ar": "الإنارة والفوانيس",
+      "en": "Lighting & Lanterns",
+      "darija": "الإنارة والفوانيس"
+    },
+    "tags": ["suspension", "verre coloré", "luminaire", "Fès"],
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Lamp_inside_carpet_shop_%284781414131%29.jpg/960px-Lamp_inside_carpet_shop_%284781414131%29.jpg",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Lamp_inside_carpet_shop_%284781414131%29.jpg/960px-Lamp_inside_carpet_shop_%284781414131%29.jpg",
+        "alt": {
+          "fr": "Suspension en verre coloré dans une échoppe marocaine",
+          "ar": "ثريا من الزجاج الملون في حانوت مغربي",
+          "en": "Colored glass pendant lamp in a Moroccan shop",
+          "darija": "سبونصيون من الزجاج الملون فحانوت مغربي"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Fez%2C_Marruecos_-_panoramio_%2836%29.jpg/960px-Fez%2C_Marruecos_-_panoramio_%2836%29.jpg",
+        "alt": {
+          "fr": "Luminaires artisanaux exposés à Fès",
+          "ar": "إنارة حرفية معروضة بفاس",
+          "en": "Handcrafted lighting on display in Fès",
+          "darija": "إنارة حرفية معروضة بفاس"
+        }
+      }
+    ],
+    "proActorDomain": "artisanat_art",
+    "stock": 18,
+    "isInfiniteStock": false,
+    "sku": "KB-ART-007",
+    "status": "published",
+    "isActive": true,
+    "isFeatured": false,
+    "isOrganic": false,
+    "isHandmade": true,
+    "origin": { "region": "Fès-Meknès", "city": "Fès", "country": "Maroc" },
+    "certifications": ["Fait main"],
+    "slug": "suspension-marocaine-verre-colore",
+    "metaTitle": {
+      "fr": "Suspension artisanale marocaine en verre coloré | KENZ BLADI",
+      "ar": "ثريا مغربية حرفية من الزجاج الملون | كنز بلادي",
+      "en": "Handcrafted Moroccan Colored Glass Pendant Lamp | KENZ BLADI",
+      "darija": "سبونصيون مغربية حرفية من الزجاج الملون | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Suspension en métal ouvragé et verre coloré fabriquée à Fès, lumière chaleureuse façon souk.",
+      "ar": "ثريا من المعدن المشغول والزجاج الملون مصنوعة بفاس، إضاءة دافئة على طراز الأسواق.",
+      "en": "Wrought metal and colored glass pendant lamp made in Fès, warm souk-style lighting.",
+      "darija": "سبونصيون من المعدن المشغول والزجاج الملون مصنوعة بفاس، ضو دافي على طراز السوق."
+    },
+    "viewCount": 760,
+    "salesCount": 54,
+    "rating": 4.6,
+    "reviewCount": 21
+  },
+  {
+    "name": {
+      "fr": "Panier berbère en osier tressé à la main",
+      "ar": "سلة أمازيغية من الخوص المضفور يدويًا",
+      "en": "Hand-Woven Berber Wicker Basket",
+      "darija": "سلة أمازيغية من الخوص مضفورة بليد"
+    },
+    "description": {
+      "fr": "Panier de rangement tressé à partir de fibres végétales locales (osier, palmier nain) selon des techniques de vannerie berbère transmises de génération en génération. Léger, résistant et au design naturel, il convient au rangement du linge, des fruits ou comme panier de marché. Chaque pièce présente de légères variations témoignant du travail entièrement manuel.",
+      "ar": "سلة تخزين مضفورة من ألياف نباتية محلية (الخوص، الدوم) وفق تقنيات الحياكة الأمازيغية المتوارثة عبر الأجيال. خفيفة ومتينة وذات تصميم طبيعي، تصلح لتخزين الملابس أو الفواكه أو كسلة للتسوق. تحمل كل قطعة اختلافات طفيفة تشهد على العمل اليدوي الكامل.",
+      "en": "A storage basket woven from local plant fibers (wicker, dwarf palm) using Berber basket-weaving techniques passed down through generations. Lightweight, durable and naturally styled, it is suitable for storing linens, fruit, or as a market basket. Each piece shows slight variations that attest to fully handmade work.",
+      "darija": "سلة للتخزين مضفورة من ألياف نباتية محلية (الخوص، الدوم) بتقنيات الحياكة الأمازيغية موروثة عبر الأجيال. خفيفة ومقاومة وبتصميم طبيعي، تصلح لتخزين الحوايج ولا الفاكية ولا كسلة للسوق. كل قطعة فيها اختلافات صغيرة كتبين أن الخدمة كاملة بليد."
+    },
+    "shortDescription": {
+      "fr": "Panier en osier tressé main, rangement naturel et résistant.",
+      "ar": "سلة من الخوص مضفورة يدويًا، تخزين طبيعي ومتين.",
+      "en": "Hand-woven wicker basket, natural and durable storage.",
+      "darija": "سلة من الخوص مضفورة بليد، تخزين طبيعي ومقاوم."
+    },
+    "unit": { "fr": "pièce", "ar": "قطعة", "en": "piece", "darija": "وحدة" },
+    "price": 95,
+    "priceDiscount": null,
+    "currency": "MAD",
+    "domain": "artisanat_art",
+    "subcategory": {
+      "fr": "Vannerie & Décoration",
+      "ar": "الحياكة والديكور",
+      "en": "Basketry & Decor",
+      "darija": "الحياكة والديكور"
+    },
+    "tags": ["panier", "vannerie", "osier", "rangement"],
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Wicker_Basket_for_Arbutus_unedo_23_11_23.jpg/960px-Wicker_Basket_for_Arbutus_unedo_23_11_23.jpg",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Wicker_Basket_for_Arbutus_unedo_23_11_23.jpg/960px-Wicker_Basket_for_Arbutus_unedo_23_11_23.jpg",
+        "alt": {
+          "fr": "Panier en osier tressé à la main",
+          "ar": "سلة من الخوص مضفورة يدويًا",
+          "en": "Hand-woven wicker basket",
+          "darija": "سلة من الخوص مضفورة بليد"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Ceramic_craftsman_in_Fez%2C_Morocco.jpg/960px-Ceramic_craftsman_in_Fez%2C_Morocco.jpg",
+        "alt": {
+          "fr": "Artisan marocain au travail dans son atelier",
+          "ar": "حرفي مغربي يعمل في ورشته",
+          "en": "Moroccan artisan at work in his workshop",
+          "darija": "صانعي مغربي خدام فورشتو"
+        }
+      }
+    ],
+    "proActorDomain": "artisanat_art",
+    "stock": 50,
+    "isInfiniteStock": false,
+    "sku": "KB-ART-008",
+    "status": "published",
+    "isActive": true,
+    "isFeatured": false,
+    "isOrganic": true,
+    "isHandmade": true,
+    "origin": { "region": "Souss-Massa", "city": "Taroudant", "country": "Maroc" },
+    "certifications": ["Fait main", "Fibre végétale"],
+    "slug": "panier-berbere-osier-tresse-main",
+    "metaTitle": {
+      "fr": "Panier berbère en osier tressé à la main | KENZ BLADI",
+      "ar": "سلة أمازيغية من الخوص المضفور يدويًا | كنز بلادي",
+      "en": "Hand-Woven Berber Wicker Basket | KENZ BLADI",
+      "darija": "سلة أمازيغية من الخوص مضفورة بليد | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Panier en osier tressé à la main selon les techniques de vannerie berbère, léger et résistant.",
+      "ar": "سلة من الخوص مضفورة يدويًا وفق تقنيات الحياكة الأمازيغية، خفيفة ومتينة.",
+      "en": "Wicker basket hand-woven using Berber basketry techniques, lightweight and durable.",
+      "darija": "سلة من الخوص مضفورة بليد بتقنيات الحياكة الأمازيغية، خفيفة ومقاومة."
+    },
+    "viewCount": 320,
+    "salesCount": 89,
+    "rating": 4.5,
+    "reviewCount": 31
+  }
+]

@@ -1,0 +1,650 @@
+[
+  {
+    "name": {
+      "fr": "Safran AOP de Taliouine en filaments",
+      "ar": "زعفران طاليوين الأصيل خيوط",
+      "en": "AOP Taliouine Saffron Threads",
+      "darija": "الزعفران ديال طاليوين خيوط أصلي"
+    },
+    "description": {
+      "fr": "Safran haut de gamme récolté à la main dans les champs de crocus de Taliouine, capitale du safran marocain, bénéficiant d'une appellation d'origine protégée. Chaque fleur est cueillie à l'aube puis émondée délicatement pour extraire les trois stigmates rouges. Son arôme intense et sa couleur dorée subliment tagines, paellas et pâtisseries.",
+      "ar": "زعفران فاخر يُقطف يدويًا من حقول الزعفران بطاليوين، عاصمة الزعفران المغربي، ويحظى بتسمية المنشأ المحمية. تُقطف كل زهرة عند الفجر ثم تُنظف بعناية لاستخراج الخيوط الحمراء الثلاثة. نكهته القوية ولونه الذهبي يضفيان لمسة فاخرة على الطواجن والبايلا والحلويات.",
+      "en": "Premium saffron hand-picked from the crocus fields of Taliouine, the Moroccan saffron capital, benefiting from a protected designation of origin. Each flower is picked at dawn and carefully trimmed to extract the three red stigmas. Its intense aroma and golden color elevate tagines, paellas and pastries.",
+      "darija": "زعفران فاخر كيتقطف بليد من حقول الزعفران ديال طاليوين، عاصمة الزعفران المغربي، وعندو تسمية المنشأ المحمية. كل وردة كتقطف فالصباح الباكر من بعد كتنقى بعناية باش يطلعو الخيوط الحمراء التلاتة. النكهة القوية واللون الدهبي ديالها كيعطيو لمسة فاخرة للطاجين والبايلا والحلويات."
+    },
+    "shortDescription": {
+      "fr": "Safran AOP en filaments, récolté à la main à Taliouine.",
+      "ar": "زعفران أصيل خيوط، يُقطف يدويًا بطاليوين.",
+      "en": "AOP saffron threads, hand-picked in Taliouine.",
+      "darija": "زعفران أصيل خيوط، مقطوف بليد بطاليوين."
+    },
+    "unit": { "fr": "boîte 1g", "ar": "علبة 1غ", "en": "box 1g", "darija": "علبة 1غ" },
+    "price": 95,
+    "priceDiscount": null,
+    "currency": "MAD",
+    "domain": "produit_terroir",
+    "subcategory": {
+      "fr": "Épices & Aromates",
+      "ar": "التوابل والأعشاب العطرية",
+      "en": "Spices & Herbs",
+      "darija": "التوابل والأعشاب العطرية"
+    },
+    "tags": ["safran", "Taliouine", "AOP", "épice"],
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Saffron_and_the_Atlas_Mountains.jpg/960px-Saffron_and_the_Atlas_Mountains.jpg",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Saffron_and_the_Atlas_Mountains.jpg/960px-Saffron_and_the_Atlas_Mountains.jpg",
+        "alt": {
+          "fr": "Filaments de safran avec les montagnes de l'Atlas en arrière-plan",
+          "ar": "خيوط الزعفران مع جبال الأطلس في الخلفية",
+          "en": "Saffron threads with the Atlas Mountains in the background",
+          "darija": "خيوط الزعفران وجبال الأطلس فالخلفية"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Near_Taliouine%2C_saffron_crocus_growing_area_-_Flickr_-_gailhampshire.jpg/960px-Near_Taliouine%2C_saffron_crocus_growing_area_-_Flickr_-_gailhampshire.jpg",
+        "alt": {
+          "fr": "Champ de crocus à safran près de Taliouine",
+          "ar": "حقل زهور الزعفران قرب طاليوين",
+          "en": "Saffron crocus field near Taliouine",
+          "darija": "حقل ديال زهور الزعفران قريب من طاليوين"
+        }
+      }
+    ],
+    "proActorDomain": "produit_terroir",
+    "stock": 60,
+    "isInfiniteStock": false,
+    "sku": "KB-TER-001",
+    "status": "published",
+    "isActive": true,
+    "isFeatured": true,
+    "isOrganic": true,
+    "isHandmade": true,
+    "origin": { "region": "Souss-Massa", "city": "Taliouine", "country": "Maroc" },
+    "certifications": ["AOP", "Récolte manuelle"],
+    "slug": "safran-aop-taliouine-filaments",
+    "metaTitle": {
+      "fr": "Safran AOP de Taliouine en filaments | KENZ BLADI",
+      "ar": "زعفران طاليوين الأصيل خيوط | كنز بلادي",
+      "en": "AOP Taliouine Saffron Threads | KENZ BLADI",
+      "darija": "الزعفران ديال طاليوين خيوط أصلي | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Safran AOP de Taliouine, filaments récoltés à la main, arôme intense et couleur dorée.",
+      "ar": "زعفران أصيل من طاليوين، خيوط مقطوفة يدويًا، نكهة قوية ولون ذهبي.",
+      "en": "AOP saffron from Taliouine, hand-picked threads, intense aroma and golden color.",
+      "darija": "زعفران أصيل من طاليوين، خيوط مقطوفة بليد، نكهة قوية ولون دهبي."
+    },
+    "viewCount": 1480,
+    "salesCount": 256,
+    "rating": 4.9,
+    "reviewCount": 121
+  },
+  {
+    "name": {
+      "fr": "Safran en poudre pure de Taliouine",
+      "ar": "زعفران مطحون نقي من طاليوين",
+      "en": "Pure Ground Saffron from Taliouine",
+      "darija": "الزعفران المطحون النقي ديال طاليوين"
+    },
+    "description": {
+      "fr": "Safran moulu finement à partir de filaments sélectionnés de Taliouine, idéal pour une diffusion rapide de la couleur et de l'arôme dans les plats. Pratique pour parfumer riz, sauces, soupes (harira) et infusions, sans avoir besoin de faire infuser les filaments au préalable. Conditionné dans de petits sachets hermétiques pour préserver sa fraîcheur.",
+      "ar": "زعفران مطحون بدقة من خيوط مختارة من طاليوين، مثالي لانتشار سريع للون والنكهة في الأطباق. عملي لتعطير الأرز والصلصات والشوربات (الحريرة) والمشروبات، دون الحاجة لنقع الخيوط مسبقًا. معبأ في أكياس محكمة الإغلاق للحفاظ على نضارته.",
+      "en": "Finely ground saffron from selected Taliouine threads, ideal for quickly releasing color and aroma in dishes. Practical for flavoring rice, sauces, soups (harira) and infusions, without the need to steep the threads beforehand. Packaged in small airtight sachets to preserve its freshness.",
+      "darija": "زعفران مطحون بدقة من خيوط مختارة من طاليوين، مزيان باش يفوح اللون والنكهة بسرعة فالماكلة. عملي باش تعطر بيه الروز والصلصات والحريرة والمشروبات، بلا ما تحتاج تنقع الخيوط من قبل. معبأ فأكياس مغلقة مزيان باش تحافظ على نضارتو."
+    },
+    "shortDescription": {
+      "fr": "Safran moulu de Taliouine, diffusion rapide d'arôme et de couleur.",
+      "ar": "زعفران مطحون من طاليوين، انتشار سريع للنكهة واللون.",
+      "en": "Ground saffron from Taliouine, quick release of aroma and color.",
+      "darija": "زعفران مطحون من طاليوين، فوحان سريع للنكهة واللون."
+    },
+    "unit": { "fr": "sachet 2g", "ar": "كيس 2غ", "en": "sachet 2g", "darija": "ساشي 2غ" },
+    "price": 70,
+    "priceDiscount": 60,
+    "currency": "MAD",
+    "domain": "produit_terroir",
+    "subcategory": {
+      "fr": "Épices & Aromates",
+      "ar": "التوابل والأعشاب العطرية",
+      "en": "Spices & Herbs",
+      "darija": "التوابل والأعشاب العطرية"
+    },
+    "tags": ["safran", "moulu", "Taliouine", "épice"],
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Monafrance-maroc.jpg/960px-Monafrance-maroc.jpg",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Monafrance-maroc.jpg/960px-Monafrance-maroc.jpg",
+        "alt": {
+          "fr": "Épices marocaines dont le safran en poudre",
+          "ar": "توابل مغربية من بينها الزعفران المطحون",
+          "en": "Moroccan spices including ground saffron",
+          "darija": "توابل مغربية فيها الزعفران المطحون"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Eggplant_Turnovers%2C_Tomato_Rice%2C_Lentils_and_Saffron_Rice_at_Moroccan_Soup_Bar.jpg/960px-Eggplant_Turnovers%2C_Tomato_Rice%2C_Lentils_and_Saffron_Rice_at_Moroccan_Soup_Bar.jpg",
+        "alt": {
+          "fr": "Riz au safran et plats marocains traditionnels",
+          "ar": "أرز بالزعفران وأطباق مغربية تقليدية",
+          "en": "Saffron rice and traditional Moroccan dishes",
+          "darija": "روز بالزعفران وأطباق مغربية تقليدية"
+        }
+      }
+    ],
+    "proActorDomain": "produit_terroir",
+    "stock": 70,
+    "isInfiniteStock": false,
+    "sku": "KB-TER-002",
+    "status": "published",
+    "isActive": true,
+    "isFeatured": false,
+    "isOrganic": true,
+    "isHandmade": true,
+    "origin": { "region": "Souss-Massa", "city": "Taliouine", "country": "Maroc" },
+    "certifications": ["AOP", "100% pur"],
+    "slug": "safran-poudre-pure-taliouine",
+    "metaTitle": {
+      "fr": "Safran en poudre pure de Taliouine | KENZ BLADI",
+      "ar": "زعفران مطحون نقي من طاليوين | كنز بلادي",
+      "en": "Pure Ground Saffron from Taliouine | KENZ BLADI",
+      "darija": "الزعفران المطحون النقي ديال طاليوين | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Safran en poudre 100% pur de Taliouine, conditionné en sachets hermétiques pour vos plats marocains.",
+      "ar": "زعفران مطحون 100% نقي من طاليوين، معبأ في أكياس محكمة لأطباقكم المغربية.",
+      "en": "100% pure ground saffron from Taliouine, packaged in airtight sachets for your Moroccan dishes.",
+      "darija": "زعفران مطحون 100% نقي من طاليوين، معبأ فأكياس مغلقة مزيان للأطباق المغربية ديالكم."
+    },
+    "viewCount": 690,
+    "salesCount": 142,
+    "rating": 4.7,
+    "reviewCount": 58
+  },
+  {
+    "name": {
+      "fr": "Mélange d'épices Ras el Hanout artisanal",
+      "ar": "خليط رأس الحانوت الحرفي",
+      "en": "Artisanal Ras el Hanout Spice Blend",
+      "darija": "خليط راس الحانوت حرفي"
+    },
+    "description": {
+      "fr": "Mélange complexe composé d'une vingtaine d'épices et d'aromates soigneusement sélectionnés et torréfiés, dont la cannelle, le gingembre, le curcuma, la cardamome et le poivre noir. Préparé selon une recette transmise par les épiciers du souk, ce ras el hanout sublime tagines, couscous et plats mijotés avec une profondeur aromatique unique.",
+      "ar": "خليط معقد يتكون من حوالي عشرين نوعًا من التوابل والأعشاب العطرية المختارة بعناية والمحمصة، من بينها القرفة والزنجبيل والكركم والهيل والفلفل الأسود. محضر وفق وصفة متوارثة من عطارة السوق، يضفي رأس الحانوت هذا عمقًا عطريًا فريدًا على الطواجن والكسكس والأطباق المطهوة على نار هادئة.",
+      "en": "A complex blend of around twenty carefully selected and roasted spices and aromatics, including cinnamon, ginger, turmeric, cardamom and black pepper. Prepared according to a recipe handed down by souk spice merchants, this ras el hanout brings a unique aromatic depth to tagines, couscous and slow-cooked dishes.",
+      "darija": "خليط معقد فيه حوالي عشرين نوع ديال التوابل والأعشاب العطرية المختارة بعناية والمحمصة، من بينهم القرفة والسكنجبير والكركم والقاق والإبزار الكحل. محضر بوصفة موروثة من عطارة السوق، راس الحانوت هاد كيعطي عمق عطري فريد للطاجين والكسكس والأطباق المطيبة بشوية."
+    },
+    "shortDescription": {
+      "fr": "Ras el hanout artisanal, environ 20 épices torréfiées et moulues.",
+      "ar": "رأس حانوت حرفي، حوالي 20 نوعًا من التوابل المحمصة والمطحونة.",
+      "en": "Artisanal ras el hanout, about 20 roasted and ground spices.",
+      "darija": "راس الحانوت حرفي، حوالي 20 نوع ديال التوابل المحمصة والمطحونة."
+    },
+    "unit": { "fr": "pot 150g", "ar": "علبة 150غ", "en": "jar 150g", "darija": "طوكة 150غ" },
+    "price": 65,
+    "priceDiscount": null,
+    "currency": "MAD",
+    "domain": "produit_terroir",
+    "subcategory": {
+      "fr": "Épices & Aromates",
+      "ar": "التوابل والأعشاب العطرية",
+      "en": "Spices & Herbs",
+      "darija": "التوابل والأعشاب العطرية"
+    },
+    "tags": ["ras el hanout", "épices", "souk", "artisanal"],
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Mrirt-Epices-nozav.jpg/960px-Mrirt-Epices-nozav.jpg",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Mrirt-Epices-nozav.jpg/960px-Mrirt-Epices-nozav.jpg",
+        "alt": {
+          "fr": "Étal d'épices marocaines colorées",
+          "ar": "بسطة توابل مغربية ملونة",
+          "en": "Colorful Moroccan spice stall",
+          "darija": "بسطة ديال التوابل المغربية الملونة"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Spice_shop_in_the_souks.jpeg/960px-Spice_shop_in_the_souks.jpeg",
+        "alt": {
+          "fr": "Boutique d'épices dans les souks marocains",
+          "ar": "محل توابل في الأسواق المغربية",
+          "en": "Spice shop in the Moroccan souks",
+          "darija": "حانوت ديال التوابل فالسواق المغربية"
+        }
+      }
+    ],
+    "proActorDomain": "produit_terroir",
+    "stock": 90,
+    "isInfiniteStock": false,
+    "sku": "KB-TER-003",
+    "status": "published",
+    "isActive": true,
+    "isFeatured": true,
+    "isOrganic": false,
+    "isHandmade": true,
+    "origin": { "region": "Marrakech-Safi", "city": "Marrakech", "country": "Maroc" },
+    "certifications": ["Recette artisanale", "Sans additifs"],
+    "slug": "melange-epices-ras-el-hanout-artisanal",
+    "metaTitle": {
+      "fr": "Mélange d'épices Ras el Hanout artisanal | KENZ BLADI",
+      "ar": "خليط رأس الحانوت الحرفي | كنز بلادي",
+      "en": "Artisanal Ras el Hanout Spice Blend | KENZ BLADI",
+      "darija": "خليط راس الحانوت حرفي | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Ras el hanout artisanal composé d'une vingtaine d'épices torréfiées, recette traditionnelle du souk de Marrakech.",
+      "ar": "رأس حانوت حرفي مكون من حوالي عشرين نوعًا من التوابل المحمصة، وصفة تقليدية من سوق مراكش.",
+      "en": "Artisanal ras el hanout made of around twenty roasted spices, traditional recipe from the Marrakech souk.",
+      "darija": "راس الحانوت حرفي فيه حوالي عشرين نوع ديال التوابل المحمصة، وصفة تقليدية من سوق مراكش."
+    },
+    "viewCount": 1050,
+    "salesCount": 213,
+    "rating": 4.8,
+    "reviewCount": 88
+  },
+  {
+    "name": {
+      "fr": "Cumin moulu pur du Maroc",
+      "ar": "كمون مطحون نقي من المغرب",
+      "en": "Pure Ground Moroccan Cumin",
+      "darija": "الكمون المطحون النقي ديال المغرب"
+    },
+    "description": {
+      "fr": "Cumin 100% pur, torréfié légèrement puis moulu pour révéler ses arômes chauds et terreux caractéristiques. Incontournable dans la cuisine marocaine, il accompagne brochettes, salades, légumes grillés et soupes. Vendu sans mélange ni additif, directement issu des marchés d'épices de Marrakech.",
+      "ar": "كمون نقي 100%، يُحمص قليلاً ثم يُطحن لإظهار نكهاته الدافئة والترابية المميزة. لا غنى عنه في المطبخ المغربي، يرافق البروشيط والسلطات والخضر المشوية والشوربات. يُباع بدون أي خلط أو إضافات، مباشرة من أسواق التوابل بمراكش.",
+      "en": "100% pure cumin, lightly roasted then ground to reveal its characteristic warm, earthy aromas. A staple of Moroccan cuisine, it accompanies skewers, salads, grilled vegetables and soups. Sold with no blending or additives, sourced directly from the spice markets of Marrakech.",
+      "darija": "كمون نقي 100%، كيتحمص شوية من بعد كيتطحن باش تبان النكهات الدافية والترابية المميزة ديالو. ماشي غادي تستغنى عليه فالمطبخ المغربي، كيرافق البروشط والسلطة والخضرة المشوية والشوربة. كيتباع بلا خلط ولا إضافات، مباشرة من سواق التوابل ديال مراكش."
+    },
+    "shortDescription": {
+      "fr": "Cumin 100% pur et torréfié, sans additifs, des souks de Marrakech.",
+      "ar": "كمون 100% نقي ومحمص، بدون إضافات، من أسواق مراكش.",
+      "en": "100% pure roasted cumin, no additives, from the souks of Marrakech.",
+      "darija": "كمون 100% نقي ومحمص، بلا إضافات، من سواق مراكش."
+    },
+    "unit": { "fr": "sachet 200g", "ar": "كيس 200غ", "en": "bag 200g", "darija": "ساشي 200غ" },
+    "price": 35,
+    "priceDiscount": null,
+    "currency": "MAD",
+    "domain": "produit_terroir",
+    "subcategory": {
+      "fr": "Épices & Aromates",
+      "ar": "التوابل والأعشاب العطرية",
+      "en": "Spices & Herbs",
+      "darija": "التوابل والأعشاب العطرية"
+    },
+    "tags": ["cumin", "épice", "souk", "Marrakech"],
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/ASC_Leiden_-_van_Achterberg_Collection_-_08_-_83_-_Un_homme_en_blanc_passe_devant_un_%C3%A9tal_dans_un_souk_-_Maroc_-_Premi%C3%A8re_moiti%C3%A9_des_ann%C3%A9es_1990.jpg/960px-ASC_Leiden_-_van_Achterberg_Collection_-_08_-_83_-_Un_homme_en_blanc_passe_devant_un_%C3%A9tal_dans_un_souk_-_Maroc_-_Premi%C3%A8re_moiti%C3%A9_des_ann%C3%A9es_1990.jpg",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/ASC_Leiden_-_van_Achterberg_Collection_-_08_-_83_-_Un_homme_en_blanc_passe_devant_un_%C3%A9tal_dans_un_souk_-_Maroc_-_Premi%C3%A8re_moiti%C3%A9_des_ann%C3%A9es_1990.jpg/960px-ASC_Leiden_-_van_Achterberg_Collection_-_08_-_83_-_Un_homme_en_blanc_passe_devant_un_%C3%A9tal_dans_un_souk_-_Maroc_-_Premi%C3%A8re_moiti%C3%A9_des_ann%C3%A9es_1990.jpg",
+        "alt": {
+          "fr": "Étal d'épices dans un souk marocain",
+          "ar": "بسطة توابل في سوق مغربي",
+          "en": "Spice stall in a Moroccan souk",
+          "darija": "بسطة ديال التوابل فسوق مغربي"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Essaouira_Medina_-_panoramio_%2811%29.jpg/960px-Essaouira_Medina_-_panoramio_%2811%29.jpg",
+        "alt": {
+          "fr": "Ruelle d'épicerie dans la médina d'Essaouira",
+          "ar": "زنقة عطارة في مدينة الصويرة العتيقة",
+          "en": "Spice alley in the medina of Essaouira",
+          "darija": "زنقة ديال العطارة فمدينة الصويرة القديمة"
+        }
+      }
+    ],
+    "proActorDomain": "produit_terroir",
+    "stock": 110,
+    "isInfiniteStock": false,
+    "sku": "KB-TER-004",
+    "status": "published",
+    "isActive": true,
+    "isFeatured": false,
+    "isOrganic": false,
+    "isHandmade": false,
+    "origin": { "region": "Marrakech-Safi", "city": "Marrakech", "country": "Maroc" },
+    "certifications": ["100% pur", "Sans additifs"],
+    "slug": "cumin-moulu-pur-maroc",
+    "metaTitle": {
+      "fr": "Cumin moulu pur du Maroc | KENZ BLADI",
+      "ar": "كمون مطحون نقي من المغرب | كنز بلادي",
+      "en": "Pure Ground Moroccan Cumin | KENZ BLADI",
+      "darija": "الكمون المطحون النقي ديال المغرب | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Cumin moulu 100% pur et torréfié, issu des souks de Marrakech, sans additifs.",
+      "ar": "كمون مطحون 100% نقي ومحمص، من أسواق مراكش، بدون إضافات.",
+      "en": "100% pure roasted ground cumin from the souks of Marrakech, no additives.",
+      "darija": "الكمون المطحون 100% نقي ومحمص، من سواق مراكش، بلا إضافات."
+    },
+    "viewCount": 420,
+    "salesCount": 96,
+    "rating": 4.6,
+    "reviewCount": 33
+  },
+  {
+    "name": {
+      "fr": "Mélange d'épices spécial tagine",
+      "ar": "خليط توابل خاص بالطاجين",
+      "en": "Special Tagine Spice Blend",
+      "darija": "خليط ديال التوابل خاص بالطاجين"
+    },
+    "description": {
+      "fr": "Mélange équilibré de paprika, gingembre, curcuma, cumin, cannelle et safran du pays, conçu spécialement pour parfumer les tagines de viande, poulet ou légumes. Il suffit d'une cuillère à café pour donner à vos plats la saveur authentique et chaleureuse de la cuisine marocaine traditionnelle. Conditionné dans des sacs en toile de jute réutilisables.",
+      "ar": "خليط متوازن من الفلفل الحلو والزنجبيل والكركم والكمون والقرفة وزعفران البلد، مصمم خصيصًا لتعطير طواجن اللحم أو الدجاج أو الخضر. ملعقة صغيرة واحدة كافية لإعطاء أطباقكم النكهة الأصيلة والدافئة للمطبخ المغربي التقليدي. معبأ في أكياس من الخيش قابلة لإعادة الاستعمال.",
+      "en": "A balanced blend of paprika, ginger, turmeric, cumin, cinnamon and local saffron, specially designed to flavor meat, chicken or vegetable tagines. Just one teaspoon gives your dishes the authentic, warm flavor of traditional Moroccan cuisine. Packaged in reusable jute sacks.",
+      "darija": "خليط متوازن من الفلفل الحلو والسكنجبير والكركم والكمون والقرفة وزعفران البلاد، مصمم خصيصًا باش يعطر الطاجين ديال اللحم ولا الدجاج ولا الخضرة. معلقة صغيرة وحدة كافية باش تعطي للماكلة ديالكم النكهة الأصيلة والدافية ديال المطبخ المغربي التقليدي. معبأ فأكياس ديال الخيش قابلين لإعادة الاستعمال."
+    },
+    "shortDescription": {
+      "fr": "Mélange équilibré d'épices pour tagines, conditionné en sac de jute.",
+      "ar": "خليط توابل متوازن للطواجن، معبأ في كيس من الخيش.",
+      "en": "Balanced spice blend for tagines, packaged in a jute sack.",
+      "darija": "خليط متوازن ديال التوابل للطاجين، معبأ فكيس ديال الخيش."
+    },
+    "unit": { "fr": "sac 250g", "ar": "كيس 250غ", "en": "sack 250g", "darija": "ساك 250غ" },
+    "price": 55,
+    "priceDiscount": 45,
+    "currency": "MAD",
+    "domain": "produit_terroir",
+    "subcategory": {
+      "fr": "Épices & Aromates",
+      "ar": "التوابل والأعشاب العطرية",
+      "en": "Spices & Herbs",
+      "darija": "التوابل والأعشاب العطرية"
+    },
+    "tags": ["épices", "tagine", "mélange", "souk"],
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/ASC_Leiden_-_van_Achterberg_Collection_-_08_-_85_-_Deux_rang%C3%A9es_de_grands_sacs_en_toile_de_jute_dans_un_souk_-_Maroc_-_Premi%C3%A8re_moiti%C3%A9_des_ann%C3%A9es_1990.jpg/960px-ASC_Leiden_-_van_Achterberg_Collection_-_08_-_85_-_Deux_rang%C3%A9es_de_grands_sacs_en_toile_de_jute_dans_un_souk_-_Maroc_-_Premi%C3%A8re_moiti%C3%A9_des_ann%C3%A9es_1990.jpg",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/ASC_Leiden_-_van_Achterberg_Collection_-_08_-_85_-_Deux_rang%C3%A9es_de_grands_sacs_en_toile_de_jute_dans_un_souk_-_Maroc_-_Premi%C3%A8re_moiti%C3%A9_des_ann%C3%A9es_1990.jpg/960px-ASC_Leiden_-_van_Achterberg_Collection_-_08_-_85_-_Deux_rang%C3%A9es_de_grands_sacs_en_toile_de_jute_dans_un_souk_-_Maroc_-_Premi%C3%A8re_moiti%C3%A9_des_ann%C3%A9es_1990.jpg",
+        "alt": {
+          "fr": "Sacs en toile de jute remplis d'épices au marché",
+          "ar": "أكياس من الخيش مليئة بالتوابل في السوق",
+          "en": "Jute sacks filled with spices at the market",
+          "darija": "أكياس ديال الخيش معمرين بالتوابل فالسوق"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/ASC_Leiden_-_van_Achterberg_Collection_-_08_-_86_-_Deux_rang%C3%A9es_empil%C3%A9es_de_grands_sacs_de_jute_dans_un_souk_-_Marrakech%2C_Maroc_-_Premi%C3%A8re_moiti%C3%A9_des_ann%C3%A9es_1990.jpg/960px-thumbnail.jpg",
+        "alt": {
+          "fr": "Sacs d'épices empilés dans un souk de Marrakech",
+          "ar": "أكياس التوابل مكدسة في سوق مراكش",
+          "en": "Stacked spice sacks in a Marrakech souk",
+          "darija": "أكياس التوابل مكدسين فسوق مراكش"
+        }
+      }
+    ],
+    "proActorDomain": "produit_terroir",
+    "stock": 75,
+    "isInfiniteStock": false,
+    "sku": "KB-TER-005",
+    "status": "published",
+    "isActive": true,
+    "isFeatured": false,
+    "isOrganic": false,
+    "isHandmade": true,
+    "origin": { "region": "Marrakech-Safi", "city": "Marrakech", "country": "Maroc" },
+    "certifications": ["Recette artisanale"],
+    "slug": "melange-epices-special-tagine",
+    "metaTitle": {
+      "fr": "Mélange d'épices spécial tagine | KENZ BLADI",
+      "ar": "خليط توابل خاص بالطاجين | كنز بلادي",
+      "en": "Special Tagine Spice Blend | KENZ BLADI",
+      "darija": "خليط التوابل خاص بالطاجين | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Mélange d'épices artisanal spécial tagine, paprika, gingembre, curcuma, cumin, cannelle et safran.",
+      "ar": "خليط توابل حرفي خاص بالطاجين، فلفل حلو وزنجبيل وكركم وكمون وقرفة وزعفران.",
+      "en": "Artisanal spice blend special for tagine, paprika, ginger, turmeric, cumin, cinnamon and saffron.",
+      "darija": "خليط توابل حرفي خاص بالطاجين، فلفل حلو وسكنجبير وكركم وكمون وقرفة وزعفران."
+    },
+    "viewCount": 530,
+    "salesCount": 118,
+    "rating": 4.7,
+    "reviewCount": 44
+  },
+  {
+    "name": {
+      "fr": "Citrons confits traditionnels au sel",
+      "ar": "ليمون مخلل تقليدي بالملح",
+      "en": "Traditional Salt-Preserved Lemons",
+      "darija": "الحامض المصير التقليدي بالملح"
+    },
+    "description": {
+      "fr": "Citrons beldi entiers, confits plusieurs semaines dans un mélange de gros sel et de leur propre jus selon la méthode traditionnelle marocaine. Leur écorce tendre et parfumée est un ingrédient incontournable des tagines de poulet aux olives, des marinades et de nombreuses sauces. Conservés dans un bocal en verre prêt à l'emploi.",
+      "ar": "ليمون بلدي كامل، مخلل لعدة أسابيع في خليط من الملح الخشن وعصيره الخاص وفق الطريقة المغربية التقليدية. قشرته الطرية والعطرة مكون أساسي في طواجن الدجاج بالزيتون والتتبيلات والعديد من الصلصات. محفوظ في برطمان زجاجي جاهز للاستعمال.",
+      "en": "Whole beldi lemons, preserved for several weeks in a mixture of coarse salt and their own juice according to the traditional Moroccan method. Their tender, fragrant peel is an essential ingredient in chicken and olive tagines, marinades and many sauces. Kept in a ready-to-use glass jar.",
+      "darija": "حامض بلدي كامل، مصير شي جمعات فخليط من الملحة الكبيرة والعصير ديالو حسب الطريقة المغربية التقليدية. القشرة الطرية والعطرة ديالو مكون أساسي فطاجين الدجاج بالزيتون والتتبيلات وبزاف ديال الصلصات. محفوظ فبرطمان زجاجي جاهز للاستعمال."
+    },
+    "shortDescription": {
+      "fr": "Citrons beldi confits au sel, méthode traditionnelle, en bocal.",
+      "ar": "ليمون بلدي مخلل بالملح، بالطريقة التقليدية، في برطمان.",
+      "en": "Beldi lemons preserved in salt, traditional method, in a jar.",
+      "darija": "حامض بلدي مصير بالملحة، بالطريقة التقليدية، فبرطمان."
+    },
+    "unit": { "fr": "pot 400g", "ar": "علبة 400غ", "en": "jar 400g", "darija": "طوكة 400غ" },
+    "price": 38,
+    "priceDiscount": null,
+    "currency": "MAD",
+    "domain": "produit_terroir",
+    "subcategory": {
+      "fr": "Conserves & Condiments",
+      "ar": "المعلبات والتوابل المساعدة",
+      "en": "Preserves & Condiments",
+      "darija": "المعلبات والتوابل المساعدة"
+    },
+    "tags": ["citron confit", "conserve", "tradition", "tagine"],
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Moroccan_food-Chicken_tagine_with_preserved_lemons_and_olives-01.jpg/960px-Moroccan_food-Chicken_tagine_with_preserved_lemons_and_olives-01.jpg",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Moroccan_food-Chicken_tagine_with_preserved_lemons_and_olives-01.jpg/960px-Moroccan_food-Chicken_tagine_with_preserved_lemons_and_olives-01.jpg",
+        "alt": {
+          "fr": "Tagine de poulet aux citrons confits et olives",
+          "ar": "طاجين الدجاج بالليمون المخلل والزيتون",
+          "en": "Chicken tagine with preserved lemons and olives",
+          "darija": "طاجين الدجاج بالحامض المصير والزيتون"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Moroccan_food-Chicken_tagine_with_preserved_lemons_and_olives-02.jpg/960px-Moroccan_food-Chicken_tagine_with_preserved_lemons_and_olives-02.jpg",
+        "alt": {
+          "fr": "Citrons confits servis avec un tagine marocain",
+          "ar": "ليمون مخلل يقدم مع طاجين مغربي",
+          "en": "Preserved lemons served with a Moroccan tagine",
+          "darija": "الحامض المصير مقدم مع طاجين مغربي"
+        }
+      }
+    ],
+    "proActorDomain": "produit_terroir",
+    "stock": 95,
+    "isInfiniteStock": false,
+    "sku": "KB-TER-006",
+    "status": "published",
+    "isActive": true,
+    "isFeatured": true,
+    "isOrganic": true,
+    "isHandmade": true,
+    "origin": { "region": "Casablanca-Settat", "city": "El Jadida", "country": "Maroc" },
+    "certifications": ["Bio", "Méthode traditionnelle"],
+    "slug": "citrons-confits-traditionnels-sel",
+    "metaTitle": {
+      "fr": "Citrons confits traditionnels au sel | KENZ BLADI",
+      "ar": "ليمون مخلل تقليدي بالملح | كنز بلادي",
+      "en": "Traditional Salt-Preserved Lemons | KENZ BLADI",
+      "darija": "الحامض المصير التقليدي بالملح | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Citrons beldi confits au sel selon la méthode traditionnelle marocaine, prêts à l'emploi en bocal.",
+      "ar": "ليمون بلدي مخلل بالملح حسب الطريقة المغربية التقليدية، جاهز للاستعمال في برطمان.",
+      "en": "Beldi lemons preserved in salt according to the traditional Moroccan method, ready to use in a jar.",
+      "darija": "حامض بلدي مصير بالملحة حسب الطريقة المغربية التقليدية، جاهز للاستعمال فبرطمان."
+    },
+    "viewCount": 480,
+    "salesCount": 102,
+    "rating": 4.7,
+    "reviewCount": 39
+  },
+  {
+    "name": {
+      "fr": "Paprika doux fumé moulu",
+      "ar": "فلفل حلو مدخن مطحون",
+      "en": "Smoked Sweet Paprika Powder",
+      "darija": "الفلفل الحلو المدخن المطحون"
+    },
+    "description": {
+      "fr": "Paprika doux préparé à partir de poivrons rouges séchés puis légèrement fumés pour développer une saveur riche et profonde. Sa couleur rouge vif relève couscous, marinades, grillades et plats de légumes sans apporter de piquant excessif. Moulu finement dans les ateliers traditionnels des souks marocains.",
+      "ar": "فلفل حلو محضر من فلفل أحمر مجفف ثم يُدخن قليلاً لتطوير نكهة غنية وعميقة. لونه الأحمر الزاهي يعزز الكسكس والتتبيلات والمشاوي وأطباق الخضر دون أن يضيف حدة زائدة. يُطحن بدقة في الورشات التقليدية بالأسواق المغربية.",
+      "en": "Sweet paprika made from dried red peppers, lightly smoked to develop a rich, deep flavor. Its bright red color enhances couscous, marinades, grilled meats and vegetable dishes without adding excessive heat. Finely ground in traditional workshops in the Moroccan souks.",
+      "darija": "فلفل حلو محضر من فلفل احمر مجفف من بعد كيتدخن شوية باش يطلع نكهة غنية وعميقة. اللون الاحمر الزاهي ديالو كيزيد طعم للكسكس والتتبيلات والمشوي وأطباق الخضرة بلا ما يزيد حرارة زايدة. كيتطحن بدقة فالورشات التقليدية ديال الأسواق المغربية."
+    },
+    "shortDescription": {
+      "fr": "Paprika doux fumé, moulu finement, couleur vive et saveur riche.",
+      "ar": "فلفل حلو مدخن، مطحون بدقة، لون زاهٍ ونكهة غنية.",
+      "en": "Smoked sweet paprika, finely ground, vivid color and rich flavor.",
+      "darija": "فلفل حلو مدخن، مطحون بدقة، لون زاهي ونكهة غنية."
+    },
+    "unit": { "fr": "sachet 150g", "ar": "كيس 150غ", "en": "bag 150g", "darija": "ساشي 150غ" },
+    "price": 32,
+    "priceDiscount": null,
+    "currency": "MAD",
+    "domain": "produit_terroir",
+    "subcategory": {
+      "fr": "Épices & Aromates",
+      "ar": "التوابل والأعشاب العطرية",
+      "en": "Spices & Herbs",
+      "darija": "التوابل والأعشاب العطرية"
+    },
+    "tags": ["paprika", "épice", "fumé", "souk"],
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/ASC_Leiden_-_van_Achterberg_Collection_-_08_-_84_-_Deux_gar%C3%A7ons_passent_devant_un_%C3%A9tal_dans_un_souk_-_Marrakech%2C_Maroc_-_Premi%C3%A8re_moiti%C3%A9_des_ann%C3%A9es_1990.jpg/960px-thumbnail.jpg",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/ASC_Leiden_-_van_Achterberg_Collection_-_08_-_84_-_Deux_gar%C3%A7ons_passent_devant_un_%C3%A9tal_dans_un_souk_-_Marrakech%2C_Maroc_-_Premi%C3%A8re_moiti%C3%A9_des_ann%C3%A9es_1990.jpg/960px-thumbnail.jpg",
+        "alt": {
+          "fr": "Étal d'épices colorées dans un souk de Marrakech",
+          "ar": "بسطة توابل ملونة في سوق مراكش",
+          "en": "Colorful spice stall in a Marrakech souk",
+          "darija": "بسطة ديال التوابل الملونة فسوق مراكش"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Mrirt-Epices-nozav.jpg/960px-Mrirt-Epices-nozav.jpg",
+        "alt": {
+          "fr": "Pyramides d'épices marocaines colorées",
+          "ar": "أهرامات من التوابل المغربية الملونة",
+          "en": "Pyramids of colorful Moroccan spices",
+          "darija": "أهرامات ديال التوابل المغربية الملونة"
+        }
+      }
+    ],
+    "proActorDomain": "produit_terroir",
+    "stock": 100,
+    "isInfiniteStock": false,
+    "sku": "KB-TER-007",
+    "status": "published",
+    "isActive": true,
+    "isFeatured": false,
+    "isOrganic": false,
+    "isHandmade": false,
+    "origin": { "region": "Marrakech-Safi", "city": "Marrakech", "country": "Maroc" },
+    "certifications": ["100% pur"],
+    "slug": "paprika-doux-fume-moulu",
+    "metaTitle": {
+      "fr": "Paprika doux fumé moulu | KENZ BLADI",
+      "ar": "فلفل حلو مدخن مطحون | كنز بلادي",
+      "en": "Smoked Sweet Paprika Powder | KENZ BLADI",
+      "darija": "الفلفل الحلو المدخن المطحون | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Paprika doux fumé et moulu finement, idéal pour relever couscous, grillades et plats mijotés.",
+      "ar": "فلفل حلو مدخن ومطحون بدقة، مثالي لإغناء الكسكس والمشاوي والأطباق المطهوة.",
+      "en": "Smoked sweet paprika, finely ground, ideal for enhancing couscous, grilled meats and stews.",
+      "darija": "فلفل حلو مدخن ومطحون بدقة، مزيان باش يزيد طعم للكسكس والمشوي والأطباق المطيبة."
+    },
+    "viewCount": 310,
+    "salesCount": 74,
+    "rating": 4.5,
+    "reviewCount": 21
+  },
+  {
+    "name": {
+      "fr": "Coffret découverte d'épices et condiments marocains",
+      "ar": "صندوق اكتشاف التوابل والمتبلات المغربية",
+      "en": "Moroccan Spices & Condiments Discovery Box",
+      "darija": "صندوق اكتشاف التوابل والمتبلات المغربية"
+    },
+    "description": {
+      "fr": "Coffret cadeau réunissant cinq incontournables du terroir marocain : ras el hanout, cumin moulu, paprika fumé, safran de Taliouine et un pot de citrons confits. Présenté dans une boîte en bois artisanale, ce coffret est l'occasion idéale de découvrir ou d'offrir l'essence de la cuisine marocaine traditionnelle.",
+      "ar": "صندوق هدايا يجمع بين خمسة من أساسيات المطبخ المغربي: رأس الحانوت، الكمون المطحون، الفلفل المدخن، زعفران طاليوين وعلبة من الليمون المخلل. مقدم في صندوق خشبي حرفي، يعد هذا الصندوق فرصة مثالية لاكتشاف أو إهداء جوهر المطبخ المغربي التقليدي.",
+      "en": "A gift box bringing together five essentials of Moroccan terroir: ras el hanout, ground cumin, smoked paprika, Taliouine saffron and a jar of preserved lemons. Presented in a handcrafted wooden box, this set is the ideal way to discover or gift the essence of traditional Moroccan cuisine.",
+      "darija": "صندوق هدايا كيجمع بين خمسة ديال أساسيات المطبخ المغربي: راس الحانوت، الكمون المطحون، الفلفل المدخن، زعفران طاليوين وعلبة ديال الحامض المصير. مقدم فصندوق خشبي حرفي، الصندوق هاد فرصة مزيانة لاكتشاف ولا إهداء جوهر المطبخ المغربي التقليدي."
+    },
+    "shortDescription": {
+      "fr": "Coffret de 5 produits du terroir marocain dans une boîte artisanale.",
+      "ar": "صندوق يحتوي على 5 منتجات محلية مغربية في علبة حرفية.",
+      "en": "Box of 5 Moroccan terroir products in a handcrafted case.",
+      "darija": "صندوق فيه 5 ديال المنتجات المحلية المغربية فعلبة حرفية."
+    },
+    "unit": { "fr": "coffret", "ar": "صندوق", "en": "box", "darija": "صندوق" },
+    "price": 220,
+    "priceDiscount": 189,
+    "currency": "MAD",
+    "domain": "produit_terroir",
+    "subcategory": {
+      "fr": "Coffrets cadeaux",
+      "ar": "صناديق الهدايا",
+      "en": "Gift Boxes",
+      "darija": "صناديق الهدايا"
+    },
+    "tags": ["coffret", "épices", "cadeau", "terroir"],
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Moroccan_Chicken_with_Olives_and_Preserved_Lemon_%2814572930969%29.jpg/960px-Moroccan_Chicken_with_Olives_and_Preserved_Lemon_%2814572930969%29.jpg",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Moroccan_Chicken_with_Olives_and_Preserved_Lemon_%2814572930969%29.jpg/960px-Moroccan_Chicken_with_Olives_and_Preserved_Lemon_%2814572930969%29.jpg",
+        "alt": {
+          "fr": "Plat marocain préparé avec des produits du terroir",
+          "ar": "طبق مغربي محضر بمنتجات محلية",
+          "en": "Moroccan dish prepared with terroir products",
+          "darija": "طبق مغربي محضر بمنتجات محلية"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Fresh_sardines_with_preserved_lemon.jpg/960px-Fresh_sardines_with_preserved_lemon.jpg",
+        "alt": {
+          "fr": "Citrons confits et épices marocaines en accompagnement",
+          "ar": "ليمون مخلل وتوابل مغربية كمرافقة",
+          "en": "Preserved lemons and Moroccan spices as accompaniment",
+          "darija": "الحامض المصير والتوابل المغربية كمرافقة"
+        }
+      }
+    ],
+    "proActorDomain": "produit_terroir",
+    "stock": 40,
+    "isInfiniteStock": false,
+    "sku": "KB-TER-008",
+    "status": "published",
+    "isActive": true,
+    "isFeatured": true,
+    "isOrganic": false,
+    "isHandmade": true,
+    "origin": { "region": "Marrakech-Safi", "city": "Marrakech", "country": "Maroc" },
+    "certifications": ["Fait main", "Coffret artisanal"],
+    "slug": "coffret-decouverte-epices-condiments-marocains",
+    "metaTitle": {
+      "fr": "Coffret découverte d'épices et condiments marocains | KENZ BLADI",
+      "ar": "صندوق اكتشاف التوابل والمتبلات المغربية | كنز بلادي",
+      "en": "Moroccan Spices & Condiments Discovery Box | KENZ BLADI",
+      "darija": "صندوق اكتشاف التوابل والمتبلات المغربية | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Coffret cadeau artisanal réunissant ras el hanout, cumin, paprika fumé, safran de Taliouine et citrons confits.",
+      "ar": "صندوق هدايا حرفي يجمع رأس الحانوت والكمون والفلفل المدخن وزعفران طاليوين والليمون المخلل.",
+      "en": "Handcrafted gift box with ras el hanout, cumin, smoked paprika, Taliouine saffron and preserved lemons.",
+      "darija": "صندوق هدايا حرفي فيه راس الحانوت والكمون والفلفل المدخن وزعفران طاليوين والحامض المصير."
+    },
+    "viewCount": 760,
+    "salesCount": 131,
+    "rating": 4.8,
+    "reviewCount": 56
+  }
+]

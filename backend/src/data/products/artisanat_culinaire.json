@@ -1,0 +1,650 @@
+[
+  {
+    "name": {
+      "fr": "Service à thé marocain traditionnel - théière et 6 verres",
+      "ar": "طقم أتاي مغربي تقليدي - براد و6 كاسات",
+      "en": "Traditional Moroccan Tea Set - Teapot and 6 Glasses",
+      "darija": "طقم أتاي مغربي تقليدي - براد و6 كيسان"
+    },
+    "description": {
+      "fr": "Service à thé complet composé d'une théière en métal argenté finement ciselée et de six verres décorés à motifs dorés, indispensables pour préparer et servir le thé à la menthe à la marocaine. La théière, au design traditionnel, conserve la chaleur et permet de verser le thé en hauteur pour le faire mousser. Idéal pour recevoir famille et invités.",
+      "ar": "طقم أتاي كامل يتكون من براد من المعدن المطلي بالفضة منقوش بدقة وستة كاسات مزخرفة بنقوش ذهبية، لا غنى عنهما لتحضير وتقديم أتاي بالنعناع على الطريقة المغربية. البراد ذو التصميم التقليدي يحافظ على الحرارة ويسمح بصب الشاي من الأعلى لإظهار الرغوة. مثالي لاستقبال العائلة والضيوف.",
+      "en": "A complete tea set comprising a finely engraved silver-plated metal teapot and six glasses decorated with golden patterns, essential for preparing and serving Moroccan mint tea. The traditionally designed teapot retains heat and allows the tea to be poured from a height to create foam. Perfect for hosting family and guests.",
+      "darija": "طقم أتاي كامل فيه براد من المعدن المطلي بالفضة منقوش بدقة وستة كيسان مزخرفين بنقوش دهبية، ماشي غادي تستغنى عليهم باش تحضر وتقدم أتاي بالنعناع على الطريقة المغربية. البراد بالتصميم التقليدي كيحافظ على السخانة وكيخليك تصب الشاي من فوق باش يطلع الرغوة. مزيان باش تستقبل بيه العائلة والضيوف."
+    },
+    "shortDescription": {
+      "fr": "Théière argentée ciselée et 6 verres dorés pour le thé à la menthe.",
+      "ar": "براد مفضض منقوش و6 كاسات مذهبة لأتاي بالنعناع.",
+      "en": "Engraved silver-plated teapot and 6 golden glasses for mint tea.",
+      "darija": "براد مفضض منقوش و6 كيسان مذهبة لأتاي بالنعناع."
+    },
+    "unit": { "fr": "set", "ar": "طقم", "en": "set", "darija": "طقم" },
+    "price": 280,
+    "priceDiscount": 240,
+    "currency": "MAD",
+    "domain": "artisanat_culinaire",
+    "subcategory": {
+      "fr": "Théières & Services à thé",
+      "ar": "البرادات وأطقم الأتاي",
+      "en": "Teapots & Tea Sets",
+      "darija": "البرادات وأطقم الأتاي"
+    },
+    "tags": ["théière", "thé à la menthe", "service", "fait main"],
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Moroccan_tea_glasses.jpg/960px-Moroccan_tea_glasses.jpg",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Moroccan_tea_glasses.jpg/960px-Moroccan_tea_glasses.jpg",
+        "alt": {
+          "fr": "Verres à thé marocains décorés de motifs dorés",
+          "ar": "كاسات أتاي مغربية مزخرفة بنقوش ذهبية",
+          "en": "Moroccan tea glasses decorated with golden patterns",
+          "darija": "كيسان أتاي مغربية مزخرفة بنقوش دهبية"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/The_Moroccan_tea.jpg/960px-The_Moroccan_tea.jpg",
+        "alt": {
+          "fr": "Service de thé à la menthe marocain",
+          "ar": "تقديم أتاي بالنعناع على الطريقة المغربية",
+          "en": "Moroccan mint tea service",
+          "darija": "تقديم أتاي بالنعناع على الطريقة المغربية"
+        }
+      }
+    ],
+    "proActorDomain": "artisanat_culinaire",
+    "stock": 70,
+    "isInfiniteStock": false,
+    "sku": "KB-CUL-001",
+    "status": "published",
+    "isActive": true,
+    "isFeatured": true,
+    "isOrganic": false,
+    "isHandmade": true,
+    "origin": { "region": "Fès-Meknès", "city": "Fès", "country": "Maroc" },
+    "certifications": ["Fait main"],
+    "slug": "service-the-marocain-traditionnel-theiere-verres",
+    "metaTitle": {
+      "fr": "Service à thé marocain traditionnel | KENZ BLADI",
+      "ar": "طقم أتاي مغربي تقليدي | كنز بلادي",
+      "en": "Traditional Moroccan Tea Set | KENZ BLADI",
+      "darija": "طقم أتاي مغربي تقليدي | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Service à thé marocain artisanal avec théière ciselée et 6 verres dorés, pour le thé à la menthe.",
+      "ar": "طقم أتاي مغربي حرفي ببراد منقوش و6 كاسات مذهبة، لأتاي بالنعناع.",
+      "en": "Artisanal Moroccan tea set with engraved teapot and 6 golden glasses, for mint tea.",
+      "darija": "طقم أتاي مغربي حرفي ببراد منقوش و6 كيسان مذهبة، لأتاي بالنعناع."
+    },
+    "viewCount": 980,
+    "salesCount": 176,
+    "rating": 4.8,
+    "reviewCount": 71
+  },
+  {
+    "name": {
+      "fr": "Plat tagine en terre cuite pour cuisson, diamètre 30cm",
+      "ar": "طاجين من الطين للطبخ، قطره 30 سم",
+      "en": "Terracotta Tagine Pot for Cooking, 30cm Diameter",
+      "darija": "طاجين من الطين للطبخ، قطرو 30 سم"
+    },
+    "description": {
+      "fr": "Plat tagine traditionnel en terre cuite naturelle de Safi, façonné et cuit selon des méthodes ancestrales. Son couvercle conique permet une cuisson lente à la vapeur, conservant tous les arômes et l'humidité des viandes et légumes. À badigeonner d'huile avant la première utilisation. Compatible avec une cuisson sur feu doux ou au four.",
+      "ar": "طاجين تقليدي من الطين الطبيعي من آسفي، مشكل ومطهو وفق طرق موروثة. غطاؤه المخروطي يسمح بطهي بطيء بالبخار يحافظ على جميع نكهات ورطوبة اللحوم والخضر. يُدهن بالزيت قبل أول استعمال. يمكن استعماله على نار هادئة أو في الفرن.",
+      "en": "A traditional tagine pot made from natural Safi clay, shaped and fired using age-old methods. Its conical lid allows for slow steam cooking, preserving all the flavors and moisture of meats and vegetables. Should be coated with oil before first use. Suitable for cooking on low heat or in the oven.",
+      "darija": "طاجين تقليدي من الطين الطبيعي ديال آسفي، مشكل ومطيب بطرق موروثة. الغطا المخروطي ديالو كيخلي طهي بطيء بالبخار كيحافظ على جميع النكهات والرطوبة ديال اللحم والخضرة. خاصو يتدهن بالزيت قبل أول استعمال. يمكن تستعملو على نار هادية ولا فالفرن."
+    },
+    "shortDescription": {
+      "fr": "Tagine en terre cuite de Safi, cuisson lente et façonnage artisanal.",
+      "ar": "طاجين من طين آسفي، طهي بطيء وصناعة حرفية.",
+      "en": "Safi terracotta tagine, slow cooking and handcrafted shaping.",
+      "darija": "طاجين من طين آسفي، طهي بطيء وصنعة حرفية."
+    },
+    "unit": { "fr": "pièce", "ar": "قطعة", "en": "piece", "darija": "وحدة" },
+    "price": 180,
+    "priceDiscount": null,
+    "currency": "MAD",
+    "domain": "artisanat_culinaire",
+    "subcategory": {
+      "fr": "Tagines & Plats de cuisson",
+      "ar": "الطواجن وأواني الطبخ",
+      "en": "Tagines & Cookware",
+      "darija": "الطواجن وأواني الطبخ"
+    },
+    "tags": ["tagine", "terre cuite", "Safi", "cuisson"],
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Tajine_009.JPG/960px-Tajine_009.JPG",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Tajine_009.JPG/960px-Tajine_009.JPG",
+        "alt": {
+          "fr": "Tagine en terre cuite traditionnel marocain",
+          "ar": "طاجين تقليدي مغربي من الطين",
+          "en": "Traditional Moroccan terracotta tagine",
+          "darija": "طاجين تقليدي مغربي من الطين"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Tajine_marocain.jpg/960px-Tajine_marocain.jpg",
+        "alt": {
+          "fr": "Plat tagine marocain prêt à cuire",
+          "ar": "طاجين مغربي جاهز للطبخ",
+          "en": "Moroccan tagine pot ready for cooking",
+          "darija": "طاجين مغربي جاهز للطبخ"
+        }
+      }
+    ],
+    "proActorDomain": "artisanat_culinaire",
+    "stock": 100,
+    "isInfiniteStock": false,
+    "sku": "KB-CUL-002",
+    "status": "published",
+    "isActive": true,
+    "isFeatured": false,
+    "isOrganic": false,
+    "isHandmade": true,
+    "origin": { "region": "Marrakech-Safi", "city": "Safi", "country": "Maroc" },
+    "certifications": ["Fait main", "Argile naturelle"],
+    "slug": "plat-tagine-terre-cuite-cuisson-30cm",
+    "metaTitle": {
+      "fr": "Plat tagine en terre cuite pour cuisson | KENZ BLADI",
+      "ar": "طاجين من الطين للطبخ | كنز بلادي",
+      "en": "Terracotta Tagine Pot for Cooking | KENZ BLADI",
+      "darija": "طاجين من الطين للطبخ | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Tagine en terre cuite naturelle de Safi, façonné à la main, idéal pour une cuisson lente et savoureuse.",
+      "ar": "طاجين من الطين الطبيعي من آسفي، مصنوع يدويًا، مثالي للطهي البطيء واللذيذ.",
+      "en": "Natural terracotta tagine from Safi, handmade, ideal for slow and flavorful cooking.",
+      "darija": "طاجين من الطين الطبيعي ديال آسفي، مصنوع بليد، مزيان للطهي البطيء واللذيذ."
+    },
+    "viewCount": 720,
+    "salesCount": 154,
+    "rating": 4.7,
+    "reviewCount": 64
+  },
+  {
+    "name": {
+      "fr": "Tagine décoratif émaillé de Fès",
+      "ar": "طاجين مزخرف مطلي بالميناء من فاس",
+      "en": "Decorative Glazed Tagine from Fès",
+      "darija": "طاجين مزخرف مطلي بالميناء ديال فاس"
+    },
+    "description": {
+      "fr": "Tagine décoratif réalisé par les potiers de Fès, recouvert d'émail coloré aux motifs géométriques traditionnels bleus et verts. Davantage destiné à la présentation et à la décoration qu'à la cuisson directe, il sublime une table de fête ou une étagère et fait un magnifique cadeau souvenir du Maroc.",
+      "ar": "طاجين مزخرف من صنع فخارين فاس، مغطى بميناء ملون بزخارف هندسية تقليدية باللونين الأزرق والأخضر. مخصص أكثر للعرض والديكور من الطهي المباشر، يضفي لمسة جمالية على مائدة الأعياد أو الرف ويعد هدية تذكارية رائعة من المغرب.",
+      "en": "A decorative tagine made by the potters of Fès, covered in colorful enamel with traditional blue and green geometric patterns. More suited to display and decoration than direct cooking, it enhances a festive table or shelf and makes a beautiful souvenir gift from Morocco.",
+      "darija": "طاجين مزخرف من صنع فخارة فاس، مغطى بميناء ملون بزخارف هندسية تقليدية بالأزرق والأخضر. مخصص أكثر للعرض والديكور من الطهي المباشر، كيعطي لمسة جمالية لمائدة الأعياد ولا الرف وكيعتبر هدية تذكارية زوينة من المغرب."
+    },
+    "shortDescription": {
+      "fr": "Tagine émaillé décoratif de Fès, motifs géométriques bleus et verts.",
+      "ar": "طاجين مزخرف مطلي بالميناء من فاس، زخارف هندسية زرقاء وخضراء.",
+      "en": "Decorative glazed tagine from Fès, blue and green geometric patterns.",
+      "darija": "طاجين مزخرف مطلي بالميناء ديال فاس، زخارف هندسية زرقة وخضرة."
+    },
+    "unit": { "fr": "pièce", "ar": "قطعة", "en": "piece", "darija": "وحدة" },
+    "price": 320,
+    "priceDiscount": 270,
+    "currency": "MAD",
+    "domain": "artisanat_culinaire",
+    "subcategory": {
+      "fr": "Tagines & Plats de cuisson",
+      "ar": "الطواجن وأواني الطبخ",
+      "en": "Tagines & Cookware",
+      "darija": "الطواجن وأواني الطبخ"
+    },
+    "tags": ["tagine", "décoratif", "Fès", "céramique"],
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Tajine_012.JPG/960px-Tajine_012.JPG",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Tajine_012.JPG/960px-Tajine_012.JPG",
+        "alt": {
+          "fr": "Tagine décoratif émaillé aux motifs traditionnels",
+          "ar": "طاجين مزخرف مطلي بالميناء بزخارف تقليدية",
+          "en": "Decorative glazed tagine with traditional patterns",
+          "darija": "طاجين مزخرف مطلي بالميناء بزخارف تقليدية"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Tajine_Moroccan.jpg/960px-Tajine_Moroccan.jpg",
+        "alt": {
+          "fr": "Tagine marocain coloré sur une table",
+          "ar": "طاجين مغربي ملون فوق طاولة",
+          "en": "Colorful Moroccan tagine on a table",
+          "darija": "طاجين مغربي ملون فوق طاولة"
+        }
+      }
+    ],
+    "proActorDomain": "artisanat_culinaire",
+    "stock": 45,
+    "isInfiniteStock": false,
+    "sku": "KB-CUL-003",
+    "status": "published",
+    "isActive": true,
+    "isFeatured": true,
+    "isOrganic": false,
+    "isHandmade": true,
+    "origin": { "region": "Fès-Meknès", "city": "Fès", "country": "Maroc" },
+    "certifications": ["Fait main", "Émail artisanal"],
+    "slug": "tagine-decoratif-emaille-fes",
+    "metaTitle": {
+      "fr": "Tagine décoratif émaillé de Fès | KENZ BLADI",
+      "ar": "طاجين مزخرف مطلي بالميناء من فاس | كنز بلادي",
+      "en": "Decorative Glazed Tagine from Fès | KENZ BLADI",
+      "darija": "طاجين مزخرف مطلي بالميناء ديال فاس | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Tagine décoratif en céramique émaillée de Fès, motifs géométriques traditionnels, idéal en cadeau souvenir.",
+      "ar": "طاجين مزخرف من السيراميك المطلي بالميناء من فاس، زخارف هندسية تقليدية، مثالي كهدية تذكارية.",
+      "en": "Decorative glazed ceramic tagine from Fès, traditional geometric patterns, ideal as a souvenir gift.",
+      "darija": "طاجين مزخرف من السيراميك المطلي بالميناء ديال فاس، زخارف هندسية تقليدية، مزيان كهدية تذكارية."
+    },
+    "viewCount": 640,
+    "salesCount": 109,
+    "rating": 4.8,
+    "reviewCount": 47
+  },
+  {
+    "name": {
+      "fr": "Couscoussier traditionnel en terre cuite, 2 pièces",
+      "ar": "كسكاس تقليدي من الطين، قطعتين",
+      "en": "Traditional Terracotta Couscoussier, 2 Pieces",
+      "darija": "كسكاس تقليدي من الطين، جوج قطع"
+    },
+    "description": {
+      "fr": "Couscoussier composé de deux éléments en terre cuite : une marmite pour le bouillon de légumes et un panier perforé pour la cuisson à la vapeur de la semoule, selon la méthode marocaine traditionnelle. La cuisson à la vapeur permet d'obtenir une semoule légère et aérée tout en parfumant le couscous des arômes du bouillon.",
+      "ar": "كسكاس يتكون من قطعتين من الطين: قِدر لمرق الخضر وسلة مثقبة لطهي السميد بالبخار، حسب الطريقة المغربية التقليدية. الطهي بالبخار يعطي سميدًا خفيفًا ومتفتتًا مع امتصاص نكهات المرق.",
+      "en": "A couscoussier made of two terracotta pieces: a pot for the vegetable broth and a perforated basket for steaming the semolina, following the traditional Moroccan method. Steam cooking produces light, fluffy semolina while infusing the couscous with the flavors of the broth.",
+      "darija": "كسكاس فيه جوج قطع من الطين: قدرة ديال مرق الخضرة وسلة مثقبة لطهي السميدة بالبخار، حسب الطريقة المغربية التقليدية. الطهي بالبخار كيعطي سميدة خفيفة ومتفتتة مع ما تشرب نكهات المرق."
+    },
+    "shortDescription": {
+      "fr": "Couscoussier en terre cuite, 2 pièces, cuisson vapeur traditionnelle.",
+      "ar": "كسكاس من الطين، قطعتين، طهي بالبخار تقليدي.",
+      "en": "Terracotta couscoussier, 2 pieces, traditional steam cooking.",
+      "darija": "كسكاس من الطين، جوج قطع، طهي بالبخار تقليدي."
+    },
+    "unit": { "fr": "set", "ar": "طقم", "en": "set", "darija": "طقم" },
+    "price": 250,
+    "priceDiscount": 219,
+    "currency": "MAD",
+    "domain": "artisanat_culinaire",
+    "subcategory": {
+      "fr": "Couscoussiers & Ustensiles",
+      "ar": "الكسكاس وأدوات الطبخ",
+      "en": "Couscoussiers & Utensils",
+      "darija": "الكسكاس وأدوات الطبخ"
+    },
+    "tags": ["couscoussier", "terre cuite", "Safi", "couscous"],
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Couscous_%2874111%29.jpg/960px-Couscous_%2874111%29.jpg",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Couscous_%2874111%29.jpg/960px-Couscous_%2874111%29.jpg",
+        "alt": {
+          "fr": "Couscous traditionnel servi dans un plat",
+          "ar": "كسكس تقليدي مقدم في طبق",
+          "en": "Traditional couscous served in a dish",
+          "darija": "كسكس تقليدي مقدم فطبق"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Tajine_de_viande_marocain.jpg",
+        "alt": {
+          "fr": "Plat marocain mijoté servi avec couscous",
+          "ar": "طبق مغربي مطهو يقدم مع الكسكس",
+          "en": "Moroccan stewed dish served with couscous",
+          "darija": "طبق مغربي مطيب كيتقدم مع الكسكس"
+        }
+      }
+    ],
+    "proActorDomain": "artisanat_culinaire",
+    "stock": 55,
+    "isInfiniteStock": false,
+    "sku": "KB-CUL-004",
+    "status": "published",
+    "isActive": true,
+    "isFeatured": false,
+    "isOrganic": false,
+    "isHandmade": true,
+    "origin": { "region": "Marrakech-Safi", "city": "Safi", "country": "Maroc" },
+    "certifications": ["Fait main", "Argile naturelle"],
+    "slug": "couscoussier-traditionnel-terre-cuite-2-pieces",
+    "metaTitle": {
+      "fr": "Couscoussier traditionnel en terre cuite | KENZ BLADI",
+      "ar": "كسكاس تقليدي من الطين | كنز بلادي",
+      "en": "Traditional Terracotta Couscoussier | KENZ BLADI",
+      "darija": "كسكاس تقليدي من الطين | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Couscoussier en terre cuite de Safi, 2 pièces, pour une cuisson vapeur authentique du couscous marocain.",
+      "ar": "كسكاس من طين آسفي، قطعتين، لطهي بالبخار أصيل للكسكس المغربي.",
+      "en": "Terracotta couscoussier from Safi, 2 pieces, for authentic steam cooking of Moroccan couscous.",
+      "darija": "كسكاس من طين آسفي، جوج قطع، لطهي بالبخار أصيل ديال الكسكس المغربي."
+    },
+    "viewCount": 410,
+    "salesCount": 78,
+    "rating": 4.6,
+    "reviewCount": 29
+  },
+  {
+    "name": {
+      "fr": "Pastilla artisanale au poulet et amandes, prête à cuire",
+      "ar": "بسطيلة حرفية بالدجاج واللوز، جاهزة للطهي",
+      "en": "Artisanal Chicken and Almond Pastilla, Ready to Bake",
+      "darija": "بسطيلة حرفية بالدجاج واللوز، جاهزة للطهي"
+    },
+    "description": {
+      "fr": "Pastilla traditionnelle préparée à la main avec des feuilles de brick fines, du poulet effiloché mijoté aux épices, des amandes grillées et une touche de cannelle et de sucre glace, selon la recette emblématique de Fès. Livrée crue et emballée sous vide, prête à être dorée au four pour un repas de fête authentique.",
+      "ar": "بسطيلة تقليدية محضرة يدويًا بأوراق ورقة رقيقة، دجاج مطهو بالتوابل ومفتت، لوز محمص ولمسة من القرفة والسكر البودرة، حسب الوصفة الشهيرة لمدينة فاس. تُسلَّم نيئة ومعبأة تحت التفريغ، جاهزة لتُحمَّر في الفرن لوجبة احتفالية أصيلة.",
+      "en": "A traditional pastilla handmade with thin brick pastry sheets, slow-cooked shredded chicken with spices, toasted almonds and a touch of cinnamon and powdered sugar, following the iconic Fès recipe. Delivered raw and vacuum-packed, ready to be browned in the oven for an authentic festive meal.",
+      "darija": "بسطيلة تقليدية محضرة بليد بورق ورقة رقيق، دجاج مطيب بالتوابل ومفتت، لوز محمص ولمسة من القرفة والسكر البودرة، حسب الوصفة الشهيرة ديال فاس. كتوصل نية ومعبأة تحت التفريغ، جاهزة باش تحمر فالفرن لوجبة احتفالية أصيلة."
+    },
+    "shortDescription": {
+      "fr": "Pastilla maison au poulet, amandes et cannelle, à cuire chez soi.",
+      "ar": "بسطيلة منزلية بالدجاج واللوز والقرفة، تُطهى في المنزل.",
+      "en": "Homemade chicken, almond and cinnamon pastilla, to bake at home.",
+      "darija": "بسطيلة ديال الدار بالدجاج واللوز والقرفة، تتطيب فالدار."
+    },
+    "unit": { "fr": "pièce (4 pers.)", "ar": "قطعة (4 أشخاص)", "en": "piece (4 pers.)", "darija": "وحدة (4 ديال الناس)" },
+    "price": 110,
+    "priceDiscount": 95,
+    "currency": "MAD",
+    "domain": "artisanat_culinaire",
+    "subcategory": {
+      "fr": "Spécialités prêtes à cuire",
+      "ar": "أطباق جاهزة للطهي",
+      "en": "Ready-to-Bake Specialties",
+      "darija": "أطباق جاهزين للطهي"
+    },
+    "tags": ["pastilla", "poulet", "Fès", "spécialité"],
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Pastilla_au_poulet_et_amandes.jpg",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Pastilla_au_poulet_et_amandes.jpg",
+        "alt": {
+          "fr": "Pastilla au poulet et amandes saupoudrée de cannelle",
+          "ar": "بسطيلة بالدجاج واللوز مرشوشة بالقرفة",
+          "en": "Chicken and almond pastilla dusted with cinnamon",
+          "darija": "بسطيلة بالدجاج واللوز مرشوشة بالقرفة"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Moroccan_Pastilla.jpg/960px-Moroccan_Pastilla.jpg",
+        "alt": {
+          "fr": "Pastilla marocaine traditionnelle entière",
+          "ar": "بسطيلة مغربية تقليدية كاملة",
+          "en": "Whole traditional Moroccan pastilla",
+          "darija": "بسطيلة مغربية تقليدية كاملة"
+        }
+      }
+    ],
+    "proActorDomain": "artisanat_culinaire",
+    "stock": 25,
+    "isInfiniteStock": false,
+    "sku": "KB-CUL-005",
+    "status": "published",
+    "isActive": true,
+    "isFeatured": true,
+    "isOrganic": false,
+    "isHandmade": true,
+    "origin": { "region": "Fès-Meknès", "city": "Fès", "country": "Maroc" },
+    "certifications": ["Fait main", "Recette traditionnelle"],
+    "slug": "pastilla-artisanale-poulet-amandes-pret-a-cuire",
+    "metaTitle": {
+      "fr": "Pastilla artisanale au poulet et amandes | KENZ BLADI",
+      "ar": "بسطيلة حرفية بالدجاج واللوز | كنز بلادي",
+      "en": "Artisanal Chicken and Almond Pastilla | KENZ BLADI",
+      "darija": "بسطيلة حرفية بالدجاج واللوز | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Pastilla artisanale au poulet et amandes, recette traditionnelle de Fès, prête à cuire chez vous.",
+      "ar": "بسطيلة حرفية بالدجاج واللوز، وصفة تقليدية من فاس، جاهزة للطهي في منزلكم.",
+      "en": "Artisanal chicken and almond pastilla, traditional recipe from Fès, ready to bake at home.",
+      "darija": "بسطيلة حرفية بالدجاج واللوز، وصفة تقليدية من فاس، جاهزة للطهي فدارك."
+    },
+    "viewCount": 540,
+    "salesCount": 87,
+    "rating": 4.8,
+    "reviewCount": 36
+  },
+  {
+    "name": {
+      "fr": "Pain traditionnel khobz cuit au four à bois",
+      "ar": "خبز مغربي تقليدي مطهو في فرن الحطب",
+      "en": "Traditional Khobz Bread Baked in a Wood-Fired Oven",
+      "darija": "خبز مغربي تقليدي مطيب فالفران دالحطب"
+    },
+    "description": {
+      "fr": "Pain rond marocain (khobz) à base de farine de blé semi-complète, levé naturellement et cuit dans un four à bois traditionnel du quartier, comme le veut la coutume. Sa croûte légèrement dorée et sa mie moelleuse en font le compagnon idéal de tous les plats marocains, des tagines aux salades. Livré frais le jour même.",
+      "ar": "خبز مغربي مدور (خبز) من دقيق القمح نصف الكامل، يُخمَّر طبيعيًا ويُطهى في فرن الحطب التقليدي للحي، حسب العادة المتبعة. قشرته الذهبية الخفيفة ولبه الطري يجعلانه رفيقًا مثاليًا لجميع الأطباق المغربية، من الطواجن إلى السلطات. يُسلَّم طازجًا في نفس اليوم.",
+      "en": "Round Moroccan bread (khobz) made from semi-wholemeal wheat flour, naturally leavened and baked in a traditional neighborhood wood-fired oven, as is customary. Its lightly golden crust and soft crumb make it the perfect companion to all Moroccan dishes, from tagines to salads. Delivered fresh on the same day.",
+      "darija": "خبز مغربي مدور (خبز) من دقيق القمح نص الكامل، كيتخمر طبيعيًا وكيتطيب فالفران دالحطب التقليدي ديال الحومة، حسب العادة. القشرة الدهبية الخفيفة ديالو واللب الطري ديالو كيخليوه رفيق مثالي لجميع الأطباق المغربية، من الطاجين للسلطة. كيتوصل طازة فنفس النهار."
+    },
+    "shortDescription": {
+      "fr": "Khobz marocain au levain, cuit au four à bois, livré frais.",
+      "ar": "خبز مغربي بخميرة طبيعية، مطهو في فرن الحطب، يُسلَّم طازجًا.",
+      "en": "Moroccan sourdough khobz, wood-fired oven baked, delivered fresh.",
+      "darija": "خبز مغربي بخميرة طبيعية، مطيب فالفران دالحطب، كيتوصل طازة."
+    },
+    "unit": { "fr": "lot de 4 pains", "ar": "علبة من 4 أرغفة", "en": "pack of 4 loaves", "darija": "علبة ديال 4 خبزات" },
+    "price": 25,
+    "priceDiscount": null,
+    "currency": "MAD",
+    "domain": "artisanat_culinaire",
+    "subcategory": {
+      "fr": "Pains & Galettes",
+      "ar": "الخبز والفطائر",
+      "en": "Breads & Flatbreads",
+      "darija": "الخبز والفطائر"
+    },
+    "tags": ["pain", "khobz", "four à bois", "frais"],
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/9/96/Moroccan_Flatbread-01.jpg",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Moroccan_Flatbread-01.jpg",
+        "alt": {
+          "fr": "Pain marocain rond traditionnel khobz",
+          "ar": "خبز مغربي مدور تقليدي",
+          "en": "Traditional round Moroccan khobz bread",
+          "darija": "خبز مغربي مدور تقليدي"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Woman_backing_breads.jpg/960px-Woman_backing_breads.jpg",
+        "alt": {
+          "fr": "Femme préparant le pain dans une boulangerie traditionnelle",
+          "ar": "امرأة تحضر الخبز في فرن تقليدي",
+          "en": "Woman preparing bread in a traditional bakery",
+          "darija": "مرا كتحضر الخبز ففران تقليدي"
+        }
+      }
+    ],
+    "proActorDomain": "artisanat_culinaire",
+    "stock": 120,
+    "isInfiniteStock": false,
+    "sku": "KB-CUL-006",
+    "status": "published",
+    "isActive": true,
+    "isFeatured": false,
+    "isOrganic": false,
+    "isHandmade": true,
+    "origin": { "region": "Marrakech-Safi", "city": "Marrakech", "country": "Maroc" },
+    "certifications": ["Fait main", "Cuisson au four à bois"],
+    "slug": "pain-traditionnel-khobz-four-bois",
+    "metaTitle": {
+      "fr": "Pain traditionnel khobz cuit au four à bois | KENZ BLADI",
+      "ar": "خبز مغربي تقليدي مطهو في فرن الحطب | كنز بلادي",
+      "en": "Traditional Khobz Bread Baked in a Wood-Fired Oven | KENZ BLADI",
+      "darija": "خبز مغربي تقليدي مطيب فالفران دالحطب | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Khobz marocain traditionnel au levain, cuit au four à bois, livré frais le jour même.",
+      "ar": "خبز مغربي تقليدي بخميرة طبيعية، مطهو في فرن الحطب، يُسلَّم طازجًا في نفس اليوم.",
+      "en": "Traditional Moroccan sourdough khobz, baked in a wood-fired oven, delivered fresh the same day.",
+      "darija": "خبز مغربي تقليدي بخميرة طبيعية، مطيب فالفران دالحطب، كيتوصل طازة فنفس النهار."
+    },
+    "viewCount": 290,
+    "salesCount": 145,
+    "rating": 4.6,
+    "reviewCount": 53
+  },
+  {
+    "name": {
+      "fr": "Batbout marocain - pain plat fourré, lot de 6",
+      "ar": "بطبوط مغربي - خبز مدور محشو، علبة من 6",
+      "en": "Moroccan Batbout - Stuffed Flatbread, Pack of 6",
+      "darija": "بطبوط مغربي - خبز محشي، علبة ديال 6"
+    },
+    "description": {
+      "fr": "Batbout, petit pain plat marocain cuit à la poêle (et non au four), à la mie moelleuse qui se gonfle à la cuisson pour former une poche idéale à garnir. Préparé à la main avec de la farine de blé et de semoule fine, ce pain polyvalent se déguste fourré de viande hachée, de fromage ou de légumes, ou simplement avec du beurre et du miel au petit-déjeuner.",
+      "ar": "البطبوط، خبز مغربي صغير ومدور يُطهى على الصاج (وليس في الفرن)، بلب طري ينتفخ أثناء الطهي ليشكل جيبًا مثاليًا للحشو. محضر يدويًا بدقيق القمح والسميد الناعم، هذا الخبز متعدد الاستعمالات يُؤكل محشوًا باللحم المفروم أو الجبن أو الخضر، أو ببساطة مع الزبدة والعسل في الفطور.",
+      "en": "Batbout, a small Moroccan flatbread cooked on a griddle (not in the oven), with a soft crumb that puffs up during cooking to form a pocket ideal for filling. Handmade with wheat flour and fine semolina, this versatile bread can be enjoyed stuffed with minced meat, cheese or vegetables, or simply with butter and honey for breakfast.",
+      "darija": "البطبوط، خبز مغربي صغير ومدور كيتطيب على الصاج (ماشي فالفرن)، بلب طري كينفخ فالطهي باش يولي جيب مزيان للحشو. محضر بليد بدقيق القمح والسميدة الناعمة، الخبز هاد متعدد الاستعمالات وممكن تاكلو محشي باللحم المفروم ولا الجبن ولا الخضرة، ولا غير بالزبدة والعسل فالفطور."
+    },
+    "shortDescription": {
+      "fr": "Batbout fait main, pain marocain à la poêle, à garnir.",
+      "ar": "بطبوط مصنوع يدويًا، خبز مغربي على الصاج، يُحشى حسب الرغبة.",
+      "en": "Handmade batbout, griddle-cooked Moroccan bread, ready to fill.",
+      "darija": "بطبوط مصنوع بليد، خبز مغربي على الصاج، يتحشى كيفما بغيتي."
+    },
+    "unit": { "fr": "lot de 6", "ar": "علبة من 6", "en": "pack of 6", "darija": "علبة ديال 6" },
+    "price": 35,
+    "priceDiscount": null,
+    "currency": "MAD",
+    "domain": "artisanat_culinaire",
+    "subcategory": {
+      "fr": "Pains & Galettes",
+      "ar": "الخبز والفطائر",
+      "en": "Breads & Flatbreads",
+      "darija": "الخبز والفطائر"
+    },
+    "tags": ["batbout", "pain", "fait main", "petit-déjeuner"],
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Batbout.jpg/960px-Batbout.jpg",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Batbout.jpg/960px-Batbout.jpg",
+        "alt": {
+          "fr": "Batbout marocain, pain plat moelleux",
+          "ar": "بطبوط مغربي، خبز طري ومدور",
+          "en": "Moroccan batbout, soft flatbread",
+          "darija": "بطبوط مغربي، خبز طري ومدور"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Pain_dessin%C3%A9_en_pr%C3%A9paration.jpg/960px-Pain_dessin%C3%A9_en_pr%C3%A9paration.jpg",
+        "alt": {
+          "fr": "Préparation artisanale de pains marocains",
+          "ar": "تحضير حرفي للخبز المغربي",
+          "en": "Artisanal preparation of Moroccan breads",
+          "darija": "تحضير حرفي للخبز المغربي"
+        }
+      }
+    ],
+    "proActorDomain": "artisanat_culinaire",
+    "stock": 90,
+    "isInfiniteStock": false,
+    "sku": "KB-CUL-007",
+    "status": "published",
+    "isActive": true,
+    "isFeatured": false,
+    "isOrganic": false,
+    "isHandmade": true,
+    "origin": { "region": "Casablanca-Settat", "city": "Casablanca", "country": "Maroc" },
+    "certifications": ["Fait main"],
+    "slug": "batbout-marocain-pain-plat-fourre-lot-6",
+    "metaTitle": {
+      "fr": "Batbout marocain - pain plat fourré | KENZ BLADI",
+      "ar": "بطبوط مغربي - خبز محشو | كنز بلادي",
+      "en": "Moroccan Batbout - Stuffed Flatbread | KENZ BLADI",
+      "darija": "بطبوط مغربي - خبز محشي | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Batbout marocain fait main, pain plat moelleux à garnir, lot de 6 pièces.",
+      "ar": "بطبوط مغربي مصنوع يدويًا، خبز طري يُحشى حسب الرغبة، علبة من 6 قطع.",
+      "en": "Handmade Moroccan batbout, soft flatbread to fill, pack of 6 pieces.",
+      "darija": "بطبوط مغربي مصنوع بليد، خبز طري يتحشى، علبة ديال 6 وحدات."
+    },
+    "viewCount": 250,
+    "salesCount": 92,
+    "rating": 4.5,
+    "reviewCount": 31
+  },
+  {
+    "name": {
+      "fr": "Théière marocaine en laiton ciselé avec plateau",
+      "ar": "براد مغربي من النحاس الأصفر المنقوش مع صينية",
+      "en": "Engraved Moroccan Brass Teapot with Tray",
+      "darija": "براد مغربي من النحاس الأصفر المنقوش مع الطبسيل"
+    },
+    "description": {
+      "fr": "Théière en laiton massif finement ciselée à la main par les artisans dinandiers de Fès, accompagnée d'un plateau assorti aux motifs floraux gravés. Pièce maîtresse du cérémonial du thé marocain, elle allie fonctionnalité et esthétique, et constitue une magnifique pièce de décoration pour salon ou table basse.",
+      "ar": "براد من النحاس الأصفر الخالص منقوش بدقة يدويًا من طرف حرفيي النحاس بفاس، مرفق بصينية متناسقة بزخارف نباتية محفورة. قطعة أساسية في طقوس الشاي المغربي، يجمع بين الوظيفة والجمالية، ويُعد قطعة ديكور رائعة لصالون أو طاولة منخفضة.",
+      "en": "A solid brass teapot finely hand-engraved by coppersmith artisans in Fès, accompanied by a matching tray with engraved floral patterns. A centerpiece of the Moroccan tea ceremony, it combines functionality and aesthetics, making it a beautiful decorative piece for a living room or coffee table.",
+      "darija": "براد من النحاس الأصفر الخالص منقوش بدقة بليد من طرف الصناع ديال النحاس بفاس، مرفق بطبسيل متناسق بزخارف نباتية محفورة. قطعة أساسية فطقوس الشاي المغربي، كيجمع بين الفائدة والجمالية، وكيعتبر قطعة ديكور زوينة لصالون ولا طاولة منخفضة."
+    },
+    "shortDescription": {
+      "fr": "Théière en laiton massif ciselé avec plateau assorti, artisanat de Fès.",
+      "ar": "براد من النحاس الأصفر المنقوش مع صينية متناسقة، صناعة فاسية.",
+      "en": "Solid engraved brass teapot with matching tray, Fès craftsmanship.",
+      "darija": "براد من النحاس الأصفر المنقوش مع طبسيل متناسق، صنعة فاسية."
+    },
+    "unit": { "fr": "set", "ar": "طقم", "en": "set", "darija": "طقم" },
+    "price": 450,
+    "priceDiscount": 390,
+    "currency": "MAD",
+    "domain": "artisanat_culinaire",
+    "subcategory": {
+      "fr": "Théières & Services à thé",
+      "ar": "البرادات وأطقم الأتاي",
+      "en": "Teapots & Tea Sets",
+      "darija": "البرادات وأطقم الأتاي"
+    },
+    "tags": ["théière", "laiton", "Fès", "décoration"],
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ASC_Leiden_-_van_Achterberg_Collection_-_11_-_03_-_Two_Moroccan_men_are_sitting_in_the_shade_against_a_wall_with_a_tea_kettle_-_Morocco_-_1990s.jpg/960px-ASC_Leiden_-_van_Achterberg_Collection_-_11_-_03_-_Two_Moroccan_men_are_sitting_in_the_shade_against_a_wall_with_a_tea_kettle_-_Morocco_-_1990s.jpg",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ASC_Leiden_-_van_Achterberg_Collection_-_11_-_03_-_Two_Moroccan_men_are_sitting_in_the_shade_against_a_wall_with_a_tea_kettle_-_Morocco_-_1990s.jpg/960px-ASC_Leiden_-_van_Achterberg_Collection_-_11_-_03_-_Two_Moroccan_men_are_sitting_in_the_shade_against_a_wall_with_a_tea_kettle_-_Morocco_-_1990s.jpg",
+        "alt": {
+          "fr": "Théière en laiton traditionnelle marocaine",
+          "ar": "براد نحاسي مغربي تقليدي",
+          "en": "Traditional Moroccan brass teapot",
+          "darija": "براد نحاسي مغربي تقليدي"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/African_Tea.jpg/960px-African_Tea.jpg",
+        "alt": {
+          "fr": "Service à thé marocain en métal ciselé",
+          "ar": "طقم أتاي مغربي من المعدن المنقوش",
+          "en": "Moroccan tea set in engraved metal",
+          "darija": "طقم أتاي مغربي من المعدن المنقوش"
+        }
+      }
+    ],
+    "proActorDomain": "artisanat_culinaire",
+    "stock": 35,
+    "isInfiniteStock": false,
+    "sku": "KB-CUL-008",
+    "status": "published",
+    "isActive": true,
+    "isFeatured": true,
+    "isOrganic": false,
+    "isHandmade": true,
+    "origin": { "region": "Fès-Meknès", "city": "Fès", "country": "Maroc" },
+    "certifications": ["Fait main", "Laiton massif"],
+    "slug": "theiere-marocaine-laiton-cisele-plateau",
+    "metaTitle": {
+      "fr": "Théière marocaine en laiton ciselé avec plateau | KENZ BLADI",
+      "ar": "براد مغربي من النحاس المنقوش مع صينية | كنز بلادي",
+      "en": "Engraved Moroccan Brass Teapot with Tray | KENZ BLADI",
+      "darija": "براد مغربي من النحاس المنقوش مع الطبسيل | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Théière en laiton massif ciselé à la main par les artisans de Fès, avec plateau assorti, pour le thé et la décoration.",
+      "ar": "براد من النحاس الأصفر منقوش يدويًا من طرف حرفيي فاس، مع صينية متناسقة، للشاي والديكور.",
+      "en": "Solid brass teapot hand-engraved by Fès artisans, with matching tray, for tea and decoration.",
+      "darija": "براد من النحاس الأصفر منقوش بليد من طرف الصناع ديال فاس، مع طبسيل متناسق، للشاي والديكور."
+    },
+    "viewCount": 880,
+    "salesCount": 121,
+    "rating": 4.9,
+    "reviewCount": 58
+  }
+]

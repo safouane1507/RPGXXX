@@ -5,7 +5,8 @@ $transition: 0.25s ease;
 // ── Shell ──────────────────────────────────────────────────────────
 .admin-shell {
   display: flex;
-  min-height: 100vh;
+  height: 100vh;
+  overflow: hidden;
   background: var(--admin-bg, #f4f6f9);
 
   :root[data-theme='dark'] & { --admin-bg: #0f1117; }
@@ -30,10 +31,7 @@ $transition: 0.25s ease;
   display: flex;
   flex-direction: column;
   min-width: 0;
-  margin-inline-start: $sidebar-width;
-  transition: margin-inline-start $transition;
-
-  .sidebar-collapsed & { margin-inline-start: 0; }
+  overflow: hidden;
 }
 
 // ── Top Bar ───────────────────────────────────────────────────────
@@ -146,6 +144,7 @@ $transition: 0.25s ease;
   flex: 1;
   padding: 1.75rem;
   overflow-y: auto;
+  height: 0; // allows flex child to scroll without overflowing parent
 
   @media (max-width: 768px) { padding: 1rem; }
 }

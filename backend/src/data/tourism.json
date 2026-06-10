@@ -1,0 +1,1629 @@
+[
+  {
+    "name": {
+      "fr": "Place Jemaa el-Fnaa",
+      "ar": "ساحة جامع الفنا",
+      "en": "Jemaa el-Fnaa Square",
+      "darija": "ساحة جامع الفنا"
+    },
+    "shortDescription": {
+      "fr": "Le cœur battant de Marrakech, classée patrimoine oral de l'humanité par l'UNESCO, où conteurs, musiciens et marchands animent jour et nuit.",
+      "ar": "القلب النابض لمراكش، المصنفة ضمن التراث الشفهي للإنسانية من طرف اليونسكو، حيث يحيي الحكواتية والموسيقيون والباعة الساحة ليل نهار.",
+      "en": "The beating heart of Marrakech, listed as Intangible Cultural Heritage by UNESCO, where storytellers, musicians and vendors bring the square to life day and night.",
+      "darija": "القلب ديال مراكش، مصنفة فالتراث العالمي ديال اليونيسكو، فيها الحكواتية والموسيقى والباعة كيعمرو الساحة نهار وليل."
+    },
+    "fullArticle": {
+      "fr": "Située au centre de la médina de Marrakech, la place Jemaa el-Fnaa est l'une des places les plus célèbres d'Afrique. Le jour, on y trouve des charmeurs de serpents, des vendeurs de jus d'orange frais et des dresseurs de singes. À la tombée de la nuit, la place se transforme en un immense marché à ciel ouvert avec des dizaines de stands de cuisine de rue proposant tagines, brochettes, escargots et soupe harira. Les conteurs (hlaykia), musiciens gnaouas et acrobates perpétuent une tradition séculaire reconnue par l'UNESCO depuis 2001. Les terrasses des cafés environnants offrent une vue imprenable sur ce spectacle permanent.",
+      "ar": "تقع ساحة جامع الفنا في قلب مدينة مراكش العتيقة، وهي من أشهر الساحات في إفريقيا. خلال النهار، يمكن مشاهدة سحرة الثعابين وباعة عصير البرتقال الطازج ومدربي القرود. ومع حلول الليل، تتحول الساحة إلى سوق ضخم في الهواء الطلق يضم عشرات الأكشاك التي تقدم الطاجين والبروشيط والحلزون وحساء الحريرة. يحافظ الحكواتية وموسيقيو ﯕناوة والبهلوانيون على تقليد عريق صنفته اليونيسكو ضمن التراث الشفهي للإنسانية منذ سنة 2001. توفر شرفات المقاهي المحيطة إطلالة رائعة على هذا العرض المستمر.",
+      "en": "Located in the heart of Marrakech's medina, Jemaa el-Fnaa is one of the most famous squares in Africa. By day, visitors can see snake charmers, fresh orange juice vendors and monkey trainers. As night falls, the square transforms into a huge open-air market with dozens of food stalls serving tagines, skewers, snails and harira soup. Storytellers, Gnaoua musicians and acrobats keep alive an age-old tradition recognized by UNESCO since 2001. The surrounding café terraces offer a stunning view of this ongoing spectacle.",
+      "darija": "كاينة فقلب المدينة القديمة ديال مراكش، ساحة جامع الفنا من أشهر الساحات فإفريقيا. فالنهار كاين سحارة الحنش، الباعة ديال عصير اللمون، والقرود. ومع الليل، الساحة كتبدل لسوق كبير فالهواء الطلق فيه بزاف ديال الحوانت ديال الماكلة كيبيعو الطاجين، البروشيط، البابوش، والحريرة. الحكواتية وموسيقى ﯕناوة والبهلوانيين كيحافظو على تقليد قديم اعترفات بيه اليونيسكو من 2001. الشرفات ديال القهاوي اللي محيطة بالساحة كتعطي إطلالة زوينة على هاد المنظر المستمر."
+    },
+    "locationType": "souk",
+    "location": {
+      "country": "Maroc",
+      "region": "Marrakech-Safi",
+      "province": "Marrakech",
+      "city": "Marrakech",
+      "address": "Médina de Marrakech",
+      "coordinates": { "type": "Point", "coordinates": [-7.9892, 31.6258] }
+    },
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Jemaa_el-Fnaa_at_night.jpg/960px-Jemaa_el-Fnaa_at_night.jpg",
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Jemaa_el-Fnaa_at_night.jpg/960px-Jemaa_el-Fnaa_at_night.jpg",
+        "caption": { "fr": "La place Jemaa el-Fnaa illuminée la nuit", "ar": "ساحة جامع الفنا مضاءة ليلاً", "en": "Jemaa el-Fnaa Square lit up at night", "darija": "ساحة جامع الفنا ضاوية بالليل" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Jemaa_El_Fnaa_-_panoramio.jpg/960px-Jemaa_El_Fnaa_-_panoramio.jpg",
+        "caption": { "fr": "Vue panoramique de la place animée", "ar": "منظر بانورامي للساحة النابضة بالحياة", "en": "Panoramic view of the bustling square", "darija": "منظر بانورامي للساحة الزاحمة" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Jemaa_el-Fnaa_-_panoramio.jpg/960px-Jemaa_el-Fnaa_-_panoramio.jpg",
+        "caption": { "fr": "Foule et étals au cœur de la médina", "ar": "الحشود والأكشاك في قلب المدينة", "en": "Crowds and stalls in the heart of the medina", "darija": "الناس والحوانت فقلب المدينة" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Jemaa_el-Fnaa_-_panoramio_%281%29.jpg/960px-Jemaa_el-Fnaa_-_panoramio_%281%29.jpg",
+        "caption": { "fr": "Ambiance animée en fin de journée", "ar": "أجواء نشيطة في نهاية اليوم", "en": "Lively atmosphere at the end of the day", "darija": "أجواء حماسية فآخر النهار" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Storytellers_in_Jemaa_el-Fnaa_%28Marrakech%2C_Morocco%29_%2815722800436%29.jpg/960px-Storytellers_in_Jemaa_el-Fnaa_%28Marrakech%2C_Morocco%29_%2815722800436%29.jpg",
+        "caption": { "fr": "Conteurs traditionnels rassemblant les passants", "ar": "حكواتية تقليديون يجمعون المارة", "en": "Traditional storytellers gathering passers-by", "darija": "الحكواتية التقليديين كيجمعو الناس" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Tourism_-_this_way_to_Jemaa_el-Fnaa%2C_Marrakech%2C_Morocco_%285546528906%29.jpg/960px-Tourism_-_this_way_to_Jemaa_el-Fnaa%2C_Marrakech%2C_Morocco_%285546528906%29.jpg",
+        "caption": { "fr": "Ruelle menant vers la place mythique", "ar": "زقاق يؤدي إلى الساحة الأسطورية", "en": "Alleyway leading to the legendary square", "darija": "زنقة كتوصل للساحة الأسطورية" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Drawing_a_henna%2C_Jemaa_el-Fnaa%2C_Marrakesh_%28%D9%88%D8%B4%D9%85_%D8%A7%D9%84%D8%AD%D9%86%D8%A7%D8%A1%D8%8C_%D8%AC%D8%A7%D9%85%D8%B9_%D8%A7%D9%84%D9%81%D9%86%D8%A7%D8%8C_%D9%85%D8%B1%D8%A7%D9%83%D8%B4%29.jpg/960px-Drawing_a_henna%2C_Jemaa_el-Fnaa%2C_Marrakesh_%28%D9%88%D8%B4%D9%85_%D8%A7%D9%84%D8%AD%D9%86%D8%A7%D8%A1%D8%8C_%D8%AC%D8%A7%D9%85%D8%B9_%D8%A7%D9%84%D9%81%D9%86%D8%A7%D8%8C_%D9%85%D8%B1%D8%A7%D9%83%D8%B4%29.jpg",
+        "caption": { "fr": "Artisane appliquant un tatouage au henné", "ar": "حرفية ترسم وشماً بالحناء", "en": "Artisan applying a henna tattoo", "darija": "صانعة كدير الحنة" },
+        "credit": "Wikimedia Commons"
+      }
+    ],
+    "videos": [],
+    "practicalInfo": {
+      "bestSeason": {
+        "fr": "Mars à mai et septembre à novembre, pour éviter la chaleur estivale.",
+        "ar": "من مارس إلى ماي ومن شتنبر إلى نونبر، لتفادي حرارة الصيف.",
+        "en": "March to May and September to November, to avoid summer heat.",
+        "darija": "من مارس لماي ومن شتنبر لنونبر، باش تتفادى السخانة ديال الصيف."
+      },
+      "openingHours": {
+        "fr": "Ouvert en permanence, mais l'ambiance est à son comble entre 18h et minuit.",
+        "ar": "مفتوحة على مدار الساعة، لكن الأجواء تكون في أوجها بين السادسة مساءً ومنتصف الليل.",
+        "en": "Open around the clock, but the atmosphere peaks between 6pm and midnight.",
+        "darija": "مفتوحة طول النهار والليل، ولكن الأجواء كتكون فأوجها من 6 ديال العشية حتى نص الليل."
+      },
+      "entryFee": {
+        "fr": "Accès gratuit à la place ; les spectacles et services (henné, photos) sont payants et négociables.",
+        "ar": "الدخول إلى الساحة مجاني؛ العروض والخدمات (الحناء، الصور) مؤدى عنها وقابلة للتفاوض.",
+        "en": "Free access to the square; performances and services (henna, photos) are paid and negotiable.",
+        "darija": "الدخول للساحة بلاش؛ العروض والخدمات (الحنة، التصاور) خاصها تخلص وكتقدر تفاوض فالثمن."
+      },
+      "howToGet": {
+        "fr": "À pied depuis la médina, ou en taxi petit format depuis la ville nouvelle (Guéliz).",
+        "ar": "سيرا على الأقدام من المدينة العتيقة، أو بالطاكسي الصغير من المدينة الجديدة (جليز).",
+        "en": "On foot from the medina, or by petit taxi from the new town (Guéliz).",
+        "darija": "تقدر تمشي على رجليك من المدينة القديمة، أو بالطاكسي الصغير من جليز."
+      },
+      "accessibility": {
+        "fr": "Sol pavé irrégulier, foule dense le soir ; vigilance recommandée avec les enfants et effets personnels.",
+        "ar": "أرضية مرصوفة غير منتظمة وازدحام كبير في المساء؛ يُنصح بالحذر مع الأطفال والمقتنيات الشخصية.",
+        "en": "Uneven paved ground and dense crowds in the evening; caution advised with children and belongings.",
+        "darija": "الأرض مزروبة وغير منتظمة، والزحام كبير فالعشية؛ خاص الحذر مع الدراري والحوايج ديالك."
+      }
+    },
+    "activities": {
+      "fr": "Dégustation de cuisine de rue, spectacles de musique gnaoua, henné traditionnel, balades en calèche, shopping dans les souks adjacents.",
+      "ar": "تذوق الأكل الشعبي، عروض موسيقى ﯕناوة، الحناء التقليدية، نزهات بالعربة، التسوق في الأسواق المجاورة.",
+      "en": "Street food tasting, Gnaoua music performances, traditional henna, horse-carriage rides, shopping in nearby souks.",
+      "darija": "تتذوق الماكلة الشعبية، تشوف عروض ﯕناوة، تدير الحنة التقليدية، تتفسح بالعربة، وتتسوق فالسوق اللي جنبها."
+    },
+    "tags": ["medina", "marrakech", "patrimoine_unesco", "vie_nocturne", "cuisine_de_rue"],
+    "isActive": true,
+    "isFeatured": true,
+    "slug": "place-jemaa-el-fnaa-marrakech",
+    "metaTitle": {
+      "fr": "Place Jemaa el-Fnaa à Marrakech | Kenz Bladi",
+      "ar": "ساحة جامع الفنا بمراكش | كنز بلادي",
+      "en": "Jemaa el-Fnaa Square in Marrakech | Kenz Bladi",
+      "darija": "ساحة جامع الفنا فمراكش | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Découvrez la place Jemaa el-Fnaa à Marrakech, son ambiance unique, ses spectacles et sa cuisine de rue, classée patrimoine UNESCO.",
+      "ar": "اكتشف ساحة جامع الفنا بمراكش، أجواءها الفريدة، عروضها وأكلها الشعبي، المصنفة تراثاً عالمياً لليونيسكو.",
+      "en": "Discover Jemaa el-Fnaa Square in Marrakech, its unique atmosphere, performances and street food, a UNESCO heritage site.",
+      "darija": "اكتشف ساحة جامع الفنا فمراكش، الأجواء ديالها، العروض والماكلة الشعبية، مصنفة كتراث عالمي ديال اليونيسكو."
+    },
+    "viewCount": 0,
+    "rating": 4.7
+  },
+  {
+    "name": {
+      "fr": "Vallée de l'Ourika",
+      "ar": "وادي أوريكا",
+      "en": "Ourika Valley",
+      "darija": "وادي أوريكا"
+    },
+    "shortDescription": {
+      "fr": "Une vallée verdoyante au pied de l'Atlas, célèbre pour ses cascades, ses villages berbères et ses terrasses cultivées.",
+      "ar": "وادٍ أخضر عند سفح جبال الأطلس، يشتهر بشلالاته وقراه الأمازيغية ومدرجاته الزراعية.",
+      "en": "A lush green valley at the foot of the Atlas Mountains, famous for its waterfalls, Berber villages and cultivated terraces.",
+      "darija": "وادي أخضر فسفح جبال الأطلس، مشهور بالشلالات ديالو والدواوير الأمازيغية والمدرجات الفلاحية."
+    },
+    "fullArticle": {
+      "fr": "À environ 30 km au sud de Marrakech, la vallée de l'Ourika est une excursion d'une journée très prisée. La route longe la rivière Ourika, bordée de villages berbères en pisé accrochés aux flancs de la montagne. On y trouve des restaurants traditionnels installés sur des terrasses surplombant l'eau, où l'on déguste tagines et thé à la menthe au son du torrent. Plus haut, le village de Setti Fatma est le point de départ de randonnées vers une série de sept cascades. La vallée est également un haut lieu de la culture amazighe, avec des coopératives de tissage et de production d'huile d'argan.",
+      "ar": "على بعد حوالي 30 كم جنوب مراكش، يعتبر وادي أوريكا رحلة يومية مفضلة لدى الزوار. تمتد الطريق على طول نهر أوريكا، المحاط بقرى أمازيغية مبنية بالطين متشبثة بسفوح الجبل. توجد بها مطاعم تقليدية على شرفات تطل على الماء، حيث يمكن تذوق الطاجين وأتاي بالنعناع على صوت المجرى. وفي الأعلى، تعتبر قرية سطي فاطمة نقطة انطلاق للمشي نحو سلسلة من سبع شلالات. يعد الوادي أيضاً معقلاً للثقافة الأمازيغية، بتعاونيات النسيج وإنتاج زيت أركان.",
+      "en": "About 30 km south of Marrakech, the Ourika Valley is a popular day trip. The road follows the Ourika River, lined with Berber mudbrick villages clinging to the mountainside. Traditional restaurants sit on terraces overlooking the water, serving tagines and mint tea to the sound of the rushing stream. Higher up, the village of Setti Fatma is the starting point for hikes to a series of seven waterfalls. The valley is also a stronghold of Amazigh culture, with weaving and argan oil cooperatives.",
+      "darija": "على بعد 30 كيلومتر من مراكش للجنوب، وادي أوريكا هو رحلة ديال نهار كاملة محبوبة بزاف. الطريق كتمشي مع واد أوريكا، محاط بدواوير أمازيغية مبنية بالطين فالجبل. كاينين مطاعم تقليدية فوق تيراسات مطلة على الما، فين كتاكل الطاجين وكتشرب أتاي بالنعناع وانت سامع حفيف الواد. فالعالي، دوار سطي فاطمة هو نقطة البداية ديال المشي نحو سلسلة ديال سبع شلالات. الوادي عندو ثقافة أمازيغية أصيلة، فيه تعاونيات ديال النسيج وزيت الأركان."
+    },
+    "locationType": "rural_region",
+    "location": {
+      "country": "Maroc",
+      "region": "Marrakech-Safi",
+      "province": "Al Haouz",
+      "city": "Setti Fatma",
+      "address": "Vallée de l'Ourika, route de l'Ourika",
+      "coordinates": { "type": "Point", "coordinates": [-7.7667, 31.3833] }
+    },
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/OurikaValley.jpg/960px-OurikaValley.jpg",
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/OurikaValley.jpg/960px-OurikaValley.jpg",
+        "caption": { "fr": "Vue générale de la vallée de l'Ourika", "ar": "منظر عام لوادي أوريكا", "en": "General view of the Ourika Valley", "darija": "منظر عام لوادي أوريكا" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Ourika_river.jpg/960px-Ourika_river.jpg",
+        "caption": { "fr": "La rivière Ourika serpentant entre les montagnes", "ar": "نهر أوريكا يتعرج بين الجبال", "en": "The Ourika River winding between the mountains", "darija": "واد أوريكا كيدور بين الجبال" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Ourika_sightseeing_%288162699524%29.jpg/960px-Ourika_sightseeing_%288162699524%29.jpg",
+        "caption": { "fr": "Randonneurs découvrant le paysage de l'Ourika", "ar": "متجولون يكتشفون منظر أوريكا الطبيعي", "en": "Hikers discovering the Ourika landscape", "darija": "ماشيين على رجليهم كيكتشفو منظر أوريكا" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Autumn_in_Ourika_Valley_%2811278106653%29.jpg/960px-Autumn_in_Ourika_Valley_%2811278106653%29.jpg",
+        "caption": { "fr": "Couleurs automnales dans la vallée", "ar": "ألوان الخريف في الوادي", "en": "Autumn colours in the valley", "darija": "ألوان الخريف فالوادي" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Ourika_valley_%2811277947875%29.jpg/960px-Ourika_valley_%2811277947875%29.jpg",
+        "caption": { "fr": "Terrasses cultivées le long du versant", "ar": "مدرجات زراعية على طول المنحدر", "en": "Cultivated terraces along the slope", "darija": "مدرجات فلاحية على طول الجبل" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Autumn_in_Ourika_Valley_%2811277917535%29.jpg/960px-Autumn_in_Ourika_Valley_%2811277917535%29.jpg",
+        "caption": { "fr": "Vue d'ensemble en automne", "ar": "منظر عام في فصل الخريف", "en": "Overview in autumn", "darija": "منظر عام فالخريف" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Ourika_Valley_1.jpg/960px-Ourika_Valley_1.jpg",
+        "caption": { "fr": "Maisons traditionnelles en pisé", "ar": "منازل تقليدية مبنية بالطين", "en": "Traditional mudbrick houses", "darija": "ديور تقليدية مبنية بالطين" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Ourika_Valley_%2CMarrakech.jpg/960px-Ourika_Valley_%2CMarrakech.jpg",
+        "caption": { "fr": "Panorama de la vallée près de Marrakech", "ar": "بانوراما الوادي قرب مراكش", "en": "Panorama of the valley near Marrakech", "darija": "بانوراما ديال الوادي قريب من مراكش" },
+        "credit": "Wikimedia Commons"
+      }
+    ],
+    "videos": [],
+    "practicalInfo": {
+      "bestSeason": {
+        "fr": "Avril à octobre, idéal après la fonte des neiges pour des cascades abondantes.",
+        "ar": "من أبريل إلى أكتوبر، الأفضل بعد ذوبان الثلوج لشلالات غزيرة.",
+        "en": "April to October, ideal after the snowmelt for fuller waterfalls.",
+        "darija": "من أبريل لأكتوبر، أحسن وقت من بعد ما يدوب الثلج باش الشلالات تكون قوية."
+      },
+      "openingHours": {
+        "fr": "Site naturel accessible en permanence ; les restaurants ouvrent généralement de 9h à 19h.",
+        "ar": "موقع طبيعي مفتوح باستمرار؛ المطاعم تفتح عموماً من 9 صباحاً إلى 7 مساءً.",
+        "en": "Natural site always accessible; restaurants generally open from 9am to 7pm.",
+        "darija": "البقعة الطبيعية مفتوحة فأي وقت؛ المطاعم عادة كتحل من 9 الصباح حتى 7 العشية."
+      },
+      "entryFee": {
+        "fr": "Gratuit ; un guide local pour la randonnée vers les cascades coûte environ 100 à 150 MAD.",
+        "ar": "مجاني؛ مرشد محلي للمشي نحو الشلالات يكلف ما بين 100 و150 درهم.",
+        "en": "Free; a local guide for the waterfall hike costs around 100-150 MAD.",
+        "darija": "بلاش؛ المرشد المحلي للمشي للشلالات كيكلف من 100 لـ150 درهم."
+      },
+      "howToGet": {
+        "fr": "Environ 1h en voiture ou en grand taxi depuis Marrakech via la route R203.",
+        "ar": "حوالي ساعة بالسيارة أو الطاكسي الكبير من مراكش عبر الطريق R203.",
+        "en": "About 1 hour by car or grand taxi from Marrakech via road R203.",
+        "darija": "حوالي ساعة بالطوموبيل أو الطاكسي الكبير من مراكش عبر الطريق R203."
+      },
+      "accessibility": {
+        "fr": "Sentiers de montagne pouvant être glissants ; chaussures de randonnée recommandées.",
+        "ar": "مسالك جبلية قد تكون زلقة؛ يُنصح بأحذية المشي.",
+        "en": "Mountain trails can be slippery; hiking shoes recommended.",
+        "darija": "الطرق ديال الجبل يمكن تكون زلاقة؛ خاص تلبس صباط ديال المشي."
+      }
+    },
+    "activities": {
+      "fr": "Randonnée vers les sept cascades, déjeuner en terrasse au bord de l'eau, visite de coopératives d'argan, baignade estivale.",
+      "ar": "المشي نحو الشلالات السبعة، الغداء على شرفة قرب الماء، زيارة تعاونيات الأركان، السباحة الصيفية.",
+      "en": "Hiking to the seven waterfalls, riverside terrace lunch, visiting argan cooperatives, summer swimming.",
+      "darija": "المشي نحو السبع شلالات، الغدا فوق تيراس قرب الما، زيارة تعاونيات الأركان، والعوم فالصيف."
+    },
+    "tags": ["nature", "atlas", "randonnee", "berbere", "cascades"],
+    "isActive": true,
+    "isFeatured": true,
+    "slug": "vallee-de-lourika",
+    "metaTitle": {
+      "fr": "Vallée de l'Ourika | Kenz Bladi",
+      "ar": "وادي أوريكا | كنز بلادي",
+      "en": "Ourika Valley | Kenz Bladi",
+      "darija": "وادي أوريكا | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Explorez la vallée de l'Ourika près de Marrakech, ses cascades, villages berbères et randonnées au pied de l'Atlas.",
+      "ar": "استكشف وادي أوريكا قرب مراكش، شلالاته وقراه الأمازيغية ومساراته للمشي عند سفح الأطلس.",
+      "en": "Explore the Ourika Valley near Marrakech, its waterfalls, Berber villages and hikes at the foot of the Atlas.",
+      "darija": "اكتشف وادي أوريكا قريب من مراكش، الشلالات والدواوير الأمازيغية والمشي فسفح الأطلس."
+    },
+    "viewCount": 0,
+    "rating": 4.5
+  },
+  {
+    "name": {
+      "fr": "Mosquée Hassan II",
+      "ar": "مسجد الحسن الثاني",
+      "en": "Hassan II Mosque",
+      "darija": "جامع الحسن الثاني"
+    },
+    "shortDescription": {
+      "fr": "L'une des plus grandes mosquées au monde, érigée en bord d'océan à Casablanca, chef-d'œuvre d'artisanat marocain.",
+      "ar": "أحد أكبر المساجد في العالم، شُيّد على ضفاف المحيط بالدار البيضاء، وهو تحفة فنية للصناعة التقليدية المغربية.",
+      "en": "One of the largest mosques in the world, built on the Atlantic shore in Casablanca, a masterpiece of Moroccan craftsmanship.",
+      "darija": "من أكبر المساجد فالعالم، مبني على شط المحيط فالدار البيضاء، تحفة فنية للصنعة التقليدية المغربية."
+    },
+    "fullArticle": {
+      "fr": "Achevée en 1993, la mosquée Hassan II domine l'océan Atlantique avec son minaret de 210 mètres, le plus haut du monde. Elle peut accueillir jusqu'à 105 000 fidèles, dont 25 000 à l'intérieur sur un sol partiellement vitré laissant apercevoir les vagues. Sa construction a mobilisé des milliers d'artisans marocains, spécialistes du zellige, du bois sculpté, du plâtre ciselé et du marbre. Le toit rétractable de la salle de prière s'ouvre en quelques minutes. Des visites guidées permettent aux non-musulmans de découvrir l'intérieur, fait rare au Maroc pour un lieu de culte actif.",
+      "ar": "اكتمل بناء مسجد الحسن الثاني سنة 1993، ويطل على المحيط الأطلسي بمئذنته التي يبلغ ارتفاعها 210 أمتار، وهي الأعلى في العالم. يتسع لاستقبال ما يصل إلى 105,000 مصلٍ، منهم 25,000 داخل المسجد فوق أرضية زجاجية جزئياً تطل على الأمواج. تطلب بناؤه آلاف الحرفيين المغاربة المتخصصين في الزليج والخشب المنحوت والجبس المنقوش والرخام. سقف قاعة الصلاة القابل للسحب ينفتح في دقائق معدودة. تتيح الزيارات المرفوقة لغير المسلمين اكتشاف الداخل، وهو أمر نادر بالمغرب بالنسبة لمكان عبادة نشط.",
+      "en": "Completed in 1993, the Hassan II Mosque overlooks the Atlantic Ocean with its 210-metre minaret, the tallest in the world. It can hold up to 105,000 worshippers, 25,000 of them inside on a partially glazed floor revealing the waves below. Its construction involved thousands of Moroccan craftsmen specializing in zellige, carved wood, chiseled plaster and marble. The retractable roof of the prayer hall opens within minutes. Guided tours allow non-Muslims to discover the interior, a rare opportunity in Morocco for an active place of worship.",
+      "darija": "تكمل البناء ديال جامع الحسن الثاني فعام 1993، وهو مطل على المحيط الأطلسي بصومعة طولها 210 متر، أعلى صومعة فالعالم. يقدر يستوعب حتى 105,000 مصلي، منهم 25,000 فالداخل فوق أرضية زجاجية كتبين الأمواج. البناء ديالو طلب آلاف الصناع المغاربة المتخصصين فالزليج والخشب المنقوش والجبس والرخام. السقف ديال قاعة الصلاة كيتفتح فدقائق معدودة. الزيارات المرفقة كتسمح للي ماشي مسلمين يكتشفو الداخل، شي حاجة نادرة بالمغرب بالنسبة لمكان عبادة نشيط."
+    },
+    "locationType": "monument",
+    "location": {
+      "country": "Maroc",
+      "region": "Casablanca-Settat",
+      "province": "Casablanca",
+      "city": "Casablanca",
+      "address": "Boulevard de la Corniche, Casablanca",
+      "coordinates": { "type": "Point", "coordinates": [-7.6325, 33.6086] }
+    },
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Mosque_Hassan_Ii_2_%28133662553%29.jpeg/960px-Mosque_Hassan_Ii_2_%28133662553%29.jpeg",
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Mosque_Hassan_Ii_2_%28133662553%29.jpeg/960px-Mosque_Hassan_Ii_2_%28133662553%29.jpeg",
+        "caption": { "fr": "La mosquée Hassan II vue de l'extérieur", "ar": "مسجد الحسن الثاني من الخارج", "en": "Hassan II Mosque seen from outside", "darija": "جامع الحسن الثاني من برا" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/The_Open_Area_of_Hassan_II_Mosque_-_Casablanca_Morocco.jpg/960px-The_Open_Area_of_Hassan_II_Mosque_-_Casablanca_Morocco.jpg",
+        "caption": { "fr": "L'esplanade ouverte de la mosquée", "ar": "الساحة المفتوحة للمسجد", "en": "The mosque's open esplanade", "darija": "الساحة الكبيرة ديال الجامع" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Sunshine_on_mosque_Hassan_II_in_Casablanca%2C_Morocco_-_Flickr_-_Milamber%27s_portfolio.jpg/960px-Sunshine_on_mosque_Hassan_II_in_Casablanca%2C_Morocco_-_Flickr_-_Milamber%27s_portfolio.jpg",
+        "caption": { "fr": "Reflets du soleil sur la façade", "ar": "انعكاس الشمس على الواجهة", "en": "Sunlight reflecting on the façade", "darija": "ضوء الشمس فاضي على الواجهة" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Hassan_II_Mosque_Plaza.jpg/960px-Hassan_II_Mosque_Plaza.jpg",
+        "caption": { "fr": "La place devant la mosquée", "ar": "الساحة أمام المسجد", "en": "The plaza in front of the mosque", "darija": "الساحة قدام الجامع" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Maroc%2C_Mosqu%C3%A9e_Hassan_2%2C_Grand_Casablanca.jpg/960px-Maroc%2C_Mosqu%C3%A9e_Hassan_2%2C_Grand_Casablanca.jpg",
+        "caption": { "fr": "Vue rapprochée des décorations en zellige", "ar": "منظر قريب لزخارف الزليج", "en": "Close-up of the zellige decorations", "darija": "منظر قريب على الزليج" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Maroc%2C_Mosqu%C3%A9e_Hassan_2%2C_Grand_Casablanca_2.jpg/960px-Maroc%2C_Mosqu%C3%A9e_Hassan_2%2C_Grand_Casablanca_2.jpg",
+        "caption": { "fr": "La mosquée et l'océan Atlantique en arrière-plan", "ar": "المسجد والمحيط الأطلسي في الخلفية", "en": "The mosque with the Atlantic Ocean in the background", "darija": "الجامع والمحيط الأطلسي من ورا" },
+        "credit": "Wikimedia Commons"
+      }
+    ],
+    "videos": [],
+    "practicalInfo": {
+      "bestSeason": {
+        "fr": "Toute l'année ; le matin offre une lumière idéale pour les photos.",
+        "ar": "طوال السنة؛ الصباح يوفر إضاءة مثالية للصور.",
+        "en": "Year-round; mornings offer ideal light for photos.",
+        "darija": "طول العام؛ الصباح فيه ضوء زوين للتصاور."
+      },
+      "openingHours": {
+        "fr": "Visites guidées du samedi au jeudi, généralement de 9h à 16h (fermé pendant les prières).",
+        "ar": "زيارات مرفوقة من السبت إلى الخميس، عادة من 9 صباحاً إلى 4 مساءً (مغلق خلال أوقات الصلاة).",
+        "en": "Guided tours Saturday to Thursday, generally 9am to 4pm (closed during prayer times).",
+        "darija": "الزيارات المرفقة من السبت للخميس، من 9 الصباح حتى 4 العشية (مسدود فوقت الصلاة)."
+      },
+      "entryFee": {
+        "fr": "Environ 130 MAD pour les adultes, tarif réduit pour les enfants et étudiants.",
+        "ar": "حوالي 130 درهم للبالغين، وسعر مخفض للأطفال والطلبة.",
+        "en": "About 130 MAD for adults, reduced rate for children and students.",
+        "darija": "تقريبا 130 درهم للكبار، وثمن مخفض للدراري والطلبة."
+      },
+      "howToGet": {
+        "fr": "Accessible en tramway (ligne T1, arrêt Mosquée Hassan II) ou en taxi depuis le centre-ville.",
+        "ar": "يمكن الوصول إليه بالترامواي (الخط T1، محطة مسجد الحسن الثاني) أو بالطاكسي من وسط المدينة.",
+        "en": "Accessible by tramway (line T1, Hassan II Mosque stop) or by taxi from downtown.",
+        "darija": "تقدر توصل بالترامواي (خط T1، محطة جامع الحسن الثاني) أو بالطاكسي من وسط المدينة."
+      },
+      "accessibility": {
+        "fr": "Site accessible aux personnes à mobilité réduite ; tenue vestimentaire correcte exigée et chaussures à retirer.",
+        "ar": "الموقع متاح لذوي الحركة المحدودة؛ يُشترط لباس محتشم وخلع الأحذية.",
+        "en": "Site accessible to visitors with reduced mobility; modest dress required and shoes removed.",
+        "darija": "البقعة متاحة للناس ذوي الإعاقة الحركية؛ خاص اللباس المحتشم وتقلع صبابطك."
+      }
+    },
+    "activities": {
+      "fr": "Visite guidée de l'intérieur, promenade sur la Corniche, photographie au coucher du soleil.",
+      "ar": "زيارة مرفوقة للداخل، نزهة على الكورنيش، التصوير عند غروب الشمس.",
+      "en": "Guided interior tour, walk along the Corniche, sunset photography.",
+      "darija": "زيارة مرفقة للداخل، تمشية على الكورنيش، تصاور وقت غروب الشمس."
+    },
+    "tags": ["monument", "casablanca", "religieux", "architecture", "ocean"],
+    "isActive": true,
+    "isFeatured": true,
+    "slug": "mosquee-hassan-ii-casablanca",
+    "metaTitle": {
+      "fr": "Mosquée Hassan II à Casablanca | Kenz Bladi",
+      "ar": "مسجد الحسن الثاني بالدار البيضاء | كنز بلادي",
+      "en": "Hassan II Mosque in Casablanca | Kenz Bladi",
+      "darija": "جامع الحسن الثاني بالدار البيضاء | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Visitez la mosquée Hassan II à Casablanca, son minaret record et son artisanat marocain exceptionnel face à l'océan.",
+      "ar": "زر مسجد الحسن الثاني بالدار البيضاء، مئذنته القياسية وصناعته التقليدية الاستثنائية المطلة على المحيط.",
+      "en": "Visit the Hassan II Mosque in Casablanca, its record-breaking minaret and exceptional Moroccan craftsmanship facing the ocean.",
+      "darija": "زور جامع الحسن الثاني بالدار البيضاء، الصومعة القياسية والصنعة المغربية الاستثنائية المطلة على المحيط."
+    },
+    "viewCount": 0,
+    "rating": 4.8
+  },
+  {
+    "name": {
+      "fr": "Cascades d'Ouzoud",
+      "ar": "شلالات أوزود",
+      "en": "Ouzoud Falls",
+      "darija": "شلالات أوزود"
+    },
+    "shortDescription": {
+      "fr": "Les plus hautes cascades du Maroc, entourées de moulins à huile traditionnels et de singes magots dans les oliveraies.",
+      "ar": "أعلى شلالات بالمغرب، محاطة بمعاصر الزيت التقليدية وقرود المكاك في بساتين الزيتون.",
+      "en": "Morocco's highest waterfalls, surrounded by traditional olive mills and Barbary macaques in the olive groves.",
+      "darija": "أعلى شلالات بالمغرب، محاطة بالمعاصر التقليدية ديال الزيت وقرود الماكاك فبساتين الزيتون."
+    },
+    "fullArticle": {
+      "fr": "Situées dans le Moyen Atlas à environ 150 km de Marrakech, les cascades d'Ouzoud chutent sur près de 110 mètres dans des bassins d'un bleu turquoise. Le sentier qui descend vers le pied des chutes traverse des oliveraies où vivent des troupes de singes magots, espèce endémique d'Afrique du Nord. Au pied des cascades, de petites embarcations permettent de s'approcher du rideau d'eau, et un arc-en-ciel se forme souvent dans la brume. Le village d'Ouzoud abrite encore quelques moulins à huile d'olive traditionnels actionnés par la force de l'eau.",
+      "ar": "تقع شلالات أوزود في الأطلس المتوسط على بعد حوالي 150 كم من مراكش، وتنحدر من ارتفاع يقارب 110 أمتار إلى أحواض زرقاء فيروزية. يمر المسار المؤدي إلى أسفل الشلالات عبر بساتين الزيتون التي تعيش فيها قطعان من قرود المكاك، وهي نوع مستوطن في شمال إفريقيا. عند سفح الشلالات، تتيح قوارب صغيرة الاقتراب من ستار الماء، وغالباً ما يتشكل قوس قزح وسط الرذاذ. لا تزال قرية أوزود تحتضن بعض المعاصر التقليدية لزيت الزيتون التي تعمل بقوة الماء.",
+      "en": "Located in the Middle Atlas about 150 km from Marrakech, the Ouzoud Falls drop nearly 110 metres into turquoise pools. The trail down to the base of the falls passes through olive groves home to troops of Barbary macaques, a species endemic to North Africa. At the foot of the falls, small boats allow visitors to get close to the curtain of water, and a rainbow often forms in the mist. The village of Ouzoud still houses a few traditional olive oil mills powered by water.",
+      "darija": "كاينة فالأطلس المتوسط على بعد 150 كيلومتر من مراكش، شلالات أوزود كتهبط من علو يقارب 110 متر فأحواض زرقة فيروزية. الطريق اللي كتهبط لقاع الشلالات كتعدي من بساتين الزيتون فين كاينين قرود الماكاك، نوع موجود غير فشمال إفريقيا. فقاع الشلالات، كاينين قوارب صغار كيقربوك من الما، وغالبا كيبان قوس قزح فالرذاذ. دوار أوزود مازال فيه شي معاصر تقليدية ديال زيت الزيتون كتخدم بقوة الما."
+    },
+    "locationType": "nature",
+    "location": {
+      "country": "Maroc",
+      "region": "Béni Mellal-Khénifra",
+      "province": "Azilal",
+      "city": "Tanaghmeilt",
+      "address": "Cascades d'Ouzoud, Azilal",
+      "coordinates": { "type": "Point", "coordinates": [-6.7144, 32.0058] }
+    },
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Ouzoud_Falls%2C_Morocco%2C_20250126_1357_7467.jpg/960px-Ouzoud_Falls%2C_Morocco%2C_20250126_1357_7467.jpg",
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Ouzoud_Falls%2C_Morocco%2C_20250126_1357_7467.jpg/960px-Ouzoud_Falls%2C_Morocco%2C_20250126_1357_7467.jpg",
+        "caption": { "fr": "Les chutes d'Ouzoud en pleine puissance", "ar": "شلالات أوزود في كامل قوتها", "en": "Ouzoud Falls in full force", "darija": "شلالات أوزود فقوتها الكاملة" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ouzoud_Falls%2C_Morocco%2C_20250126_1355_7465.jpg/960px-Ouzoud_Falls%2C_Morocco%2C_20250126_1355_7465.jpg",
+        "caption": { "fr": "Vue rapprochée du rideau d'eau", "ar": "منظر قريب لستار الماء", "en": "Close view of the water curtain", "darija": "منظر قريب على الما النازل" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Ouzoud_Falls%2C_Morocco%2C_20250126_1354_7463.jpg/960px-Ouzoud_Falls%2C_Morocco%2C_20250126_1354_7463.jpg",
+        "caption": { "fr": "Panorama depuis le sommet des chutes", "ar": "بانوراما من أعلى الشلالات", "en": "Panorama from the top of the falls", "darija": "بانوراما من فوق الشلالات" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Ouzoud_Falls%2C_Morocco%2C_20250126_1357_7470.jpg/960px-Ouzoud_Falls%2C_Morocco%2C_20250126_1357_7470.jpg",
+        "caption": { "fr": "La brume créée par la chute d'eau", "ar": "الرذاذ الناتج عن سقوط الماء", "en": "The mist created by the falling water", "darija": "الرذاذ اللي كيخلقو الما الهابط" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ouzoud_Falls%2C_Morocco%2C_20250126_1404_7476.jpg/960px-Ouzoud_Falls%2C_Morocco%2C_20250126_1404_7476.jpg",
+        "caption": { "fr": "Bassins turquoise au pied des cascades", "ar": "أحواض فيروزية عند سفح الشلالات", "en": "Turquoise pools at the foot of the falls", "darija": "أحواض فيروزية فقاع الشلالات" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ouzoud_Falls%2C_Morocco%2C_20250126_1428_7496.jpg/960px-Ouzoud_Falls%2C_Morocco%2C_20250126_1428_7496.jpg",
+        "caption": { "fr": "Sentier longeant les oliveraies", "ar": "مسار يمتد على طول بساتين الزيتون", "en": "Trail running alongside the olive groves", "darija": "طريق جنب بساتين الزيتون" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Lake_below_Ouzoud_Falls%2C_Morocco%2C_20250126_1402_7475.jpg/960px-Lake_below_Ouzoud_Falls%2C_Morocco%2C_20250126_1402_7475.jpg",
+        "caption": { "fr": "Le lac en contrebas des chutes", "ar": "البحيرة أسفل الشلالات", "en": "The lake below the falls", "darija": "البحيرة تحت الشلالات" },
+        "credit": "Wikimedia Commons"
+      }
+    ],
+    "videos": [],
+    "practicalInfo": {
+      "bestSeason": {
+        "fr": "Printemps (mars à juin) pour un débit d'eau maximal après la fonte des neiges.",
+        "ar": "الربيع (من مارس إلى يونيو) لأقصى تدفق للماء بعد ذوبان الثلوج.",
+        "en": "Spring (March to June) for maximum water flow after the snowmelt.",
+        "darija": "الربيع (من مارس ليونيو) باش الما يكون بزاف من بعد ما يدوب الثلج."
+      },
+      "openingHours": {
+        "fr": "Site naturel ouvert toute la journée, idéalement de 9h à 18h pour la lumière.",
+        "ar": "موقع طبيعي مفتوح طوال اليوم، الأفضل من 9 صباحاً إلى 6 مساءً للإضاءة.",
+        "en": "Natural site open all day, ideally 9am to 6pm for the light.",
+        "darija": "البقعة الطبيعية مفتوحة طول النهار، الأحسن من 9 الصباح حتى 6 العشية للضو."
+      },
+      "entryFee": {
+        "fr": "Accès gratuit ; tour en barque environ 20 MAD par personne.",
+        "ar": "الدخول مجاني؛ جولة بالقارب حوالي 20 درهم للشخص.",
+        "en": "Free access; boat ride about 20 MAD per person.",
+        "darija": "الدخول بلاش؛ جولة بالقارب تقريبا 20 درهم للفرد."
+      },
+      "howToGet": {
+        "fr": "Environ 2h30 en voiture depuis Marrakech via Demnate, ou excursion organisée à la journée.",
+        "ar": "حوالي ساعتين ونصف بالسيارة من مراكش عبر دمنات، أو رحلة منظمة ليوم كامل.",
+        "en": "About 2.5 hours by car from Marrakech via Demnate, or an organized day trip.",
+        "darija": "حوالي ساعتين ونص بالطوموبيل من مراكش عبر دمنات، أو رحلة منظمة ديال نهار كامل."
+      },
+      "accessibility": {
+        "fr": "Sentiers escarpés et glissants par endroits ; déconseillé aux personnes à mobilité réduite.",
+        "ar": "مسالك وعرة وزلقة في بعض الأماكن؛ غير مناسبة لذوي الحركة المحدودة.",
+        "en": "Steep and slippery paths in places; not recommended for visitors with reduced mobility.",
+        "darija": "الطرق وعرة وزلاقة فبعض الأماكن؛ ماشي مناسبة للناس ذوي الإعاقة الحركية."
+      }
+    },
+    "activities": {
+      "fr": "Randonnée jusqu'au pied des chutes, baignade, balade en barque, observation des singes magots, repas en terrasse panoramique.",
+      "ar": "المشي إلى أسفل الشلالات، السباحة، جولة بالقارب، مشاهدة قرود المكاك، الغداء على شرفة بانورامية.",
+      "en": "Hiking to the base of the falls, swimming, boat ride, watching Barbary macaques, panoramic terrace dining.",
+      "darija": "المشي حتى لقاع الشلالات، العوم، جولة بالقارب، تشوف قرود الماكاك، والغدا فوق تيراس بمنظر زوين."
+    },
+    "tags": ["nature", "cascades", "moyen_atlas", "randonnee", "faune"],
+    "isActive": true,
+    "isFeatured": true,
+    "slug": "cascades-douzoud",
+    "metaTitle": {
+      "fr": "Cascades d'Ouzoud | Kenz Bladi",
+      "ar": "شلالات أوزود | كنز بلادي",
+      "en": "Ouzoud Falls | Kenz Bladi",
+      "darija": "شلالات أوزود | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Découvrez les cascades d'Ouzoud, les plus hautes du Maroc, leurs singes magots et leurs moulins à huile traditionnels.",
+      "ar": "اكتشف شلالات أوزود، أعلى شلالات المغرب، وقرود المكاك ومعاصر الزيت التقليدية.",
+      "en": "Discover the Ouzoud Falls, Morocco's highest waterfalls, their Barbary macaques and traditional olive mills.",
+      "darija": "اكتشف شلالات أوزود، أعلى شلالات بالمغرب، وقرود الماكاك والمعاصر التقليدية ديال الزيت."
+    },
+    "viewCount": 0,
+    "rating": 4.6
+  },
+  {
+    "name": {
+      "fr": "Plage de Legzira",
+      "ar": "شاطئ لكزيرة",
+      "en": "Legzira Beach",
+      "darija": "بلاج لكزيرة"
+    },
+    "shortDescription": {
+      "fr": "Une plage atlantique sauvage célèbre pour ses arches rocheuses naturelles aux teintes ocre, près de Sidi Ifni.",
+      "ar": "شاطئ أطلسي بري يشتهر بأقواسه الصخرية الطبيعية ذات الألوان البرتقالية، قرب سيدي إفني.",
+      "en": "A wild Atlantic beach famous for its natural ochre-coloured rock arches, near Sidi Ifni.",
+      "darija": "بلاج أطلسي بري مشهور بالأقواس الصخرية الطبيعية بلون البرتقالي، قريب من سيدي إفني."
+    },
+    "fullArticle": {
+      "fr": "À environ 10 km au nord de Sidi Ifni, la plage de Legzira s'étend sur plusieurs kilomètres de sable doré bordés de falaises ocre. Elle était célèbre pour ses deux arches naturelles sculptées par l'érosion marine, dont l'une s'est effondrée en 2016, laissant la seconde toujours visible à marée basse. Le coucher de soleil y est spectaculaire, illuminant la roche de teintes orangées et rougeâtres. Quelques cafés rudimentaires installés sur la plage proposent du poisson grillé. C'est aussi un spot apprécié des surfeurs et des amateurs de balades à cheval ou à dos de chameau.",
+      "ar": "على بعد حوالي 10 كم شمال سيدي إفني، يمتد شاطئ لكزيرة على عدة كيلومترات من الرمال الذهبية المحاطة بمنحدرات برتقالية. اشتهر بقوسيه الطبيعيين اللذين نحتهما تآكل البحر، حيث انهار أحدهما سنة 2016 وبقي الثاني ظاهراً عند الجزر. غروب الشمس هناك مشهد مذهل يضيء الصخر بألوان برتقالية وحمراء. توجد بعض المقاهي البسيطة على الشاطئ تقدم السمك المشوي. كما أنه مكان محبب لراكبي الأمواج وهواة التنزه على ظهور الخيل أو الجمال.",
+      "en": "About 10 km north of Sidi Ifni, Legzira Beach stretches for several kilometres of golden sand lined with ochre cliffs. It was famous for its two natural arches carved by sea erosion, one of which collapsed in 2016, leaving the second still visible at low tide. The sunset is spectacular, lighting up the rock in orange and red hues. A few simple beach cafés serve grilled fish. It is also a popular spot for surfers and horse or camel rides.",
+      "darija": "على بعد 10 كيلومتر فالشمال ديال سيدي إفني، بلاج لكزيرة كيمتد على بزاف ديال الكيلومترات ديال الرمل الذهبي محاط بجبال برتقالية. كان مشهور بقوسين طبيعيين نحتهم البحر، وحد منهم طاح فعام 2016 وبقا الثاني بادي وقت الجزر. غروب الشمس هناك منظر مذهل كيضوي الصخر بألوان البرتقالي والأحمر. كاينين شي قهاوي بسيطة فالبلاج كيبيعو الحوت المشوي. وهو مكان محبوب لراكبي الأمواج والركوب على الخيل أو الجمال."
+    },
+    "locationType": "beach",
+    "location": {
+      "country": "Maroc",
+      "region": "Guelmim-Oued Noun",
+      "province": "Sidi Ifni",
+      "city": "Sidi Ifni",
+      "address": "Plage de Legzira, route de Mirleft",
+      "coordinates": { "type": "Point", "coordinates": [-10.2167, 29.3667] }
+    },
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/The_unforgettable_Legzira_beach_-_panoramio.jpg/960px-The_unforgettable_Legzira_beach_-_panoramio.jpg",
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/The_unforgettable_Legzira_beach_-_panoramio.jpg/960px-The_unforgettable_Legzira_beach_-_panoramio.jpg",
+        "caption": { "fr": "Vue inoubliable de la plage de Legzira", "ar": "منظر لا يُنسى لشاطئ لكزيرة", "en": "Unforgettable view of Legzira beach", "darija": "منظر ما يتنساش لبلاج لكزيرة" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/El_Gzira_beach.jpg/960px-El_Gzira_beach.jpg",
+        "caption": { "fr": "Étendue de sable doré et falaises ocre", "ar": "امتداد الرمال الذهبية والمنحدرات البرتقالية", "en": "Stretch of golden sand and ochre cliffs", "darija": "امتداد ديال الرمل الذهبي والجبال البرتقالية" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/MA.GN.Sidi-Ifni_Legzira-Beach_Stone-Arch_756_16x9-R_5120x2880.jpg/960px-MA.GN.Sidi-Ifni_Legzira-Beach_Stone-Arch_756_16x9-R_5120x2880.jpg",
+        "caption": { "fr": "L'arche de pierre emblématique de Legzira", "ar": "القوس الصخري الشهير بلكزيرة", "en": "Legzira's iconic stone arch", "darija": "القوس الصخري المشهور ديال لكزيرة" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/MA.GN.Sidi_Ifni_Legzira_Beach_2018-08-13_696_16x9-R_5K.jpg/960px-MA.GN.Sidi_Ifni_Legzira_Beach_2018-08-13_696_16x9-R_5K.jpg",
+        "caption": { "fr": "Vue de la plage à marée basse", "ar": "منظر الشاطئ عند الجزر", "en": "View of the beach at low tide", "darija": "منظر البلاج وقت الجزر" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/MA.GN.Sidi_Ifni_Legzira_Beach_2018-08-13_739_16x9%2BR_8192x4608.jpg/960px-MA.GN.Sidi_Ifni_Legzira_Beach_2018-08-13_739_16x9%2BR_8192x4608.jpg",
+        "caption": { "fr": "Falaises ocre surplombant l'océan", "ar": "منحدرات برتقالية تطل على المحيط", "en": "Ochre cliffs overlooking the ocean", "darija": "جبال برتقالية مطلة على المحيط" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/MA.GN.Sidi-Ifni_2018-08-13_Legzira_Beach_682.jpg/960px-MA.GN.Sidi-Ifni_2018-08-13_Legzira_Beach_682.jpg",
+        "caption": { "fr": "Coucher de soleil sur la plage", "ar": "غروب الشمس على الشاطئ", "en": "Sunset over the beach", "darija": "غروب الشمس على البلاج" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Camels_and_Quads_at_Legzira_Beach.jpg/960px-Camels_and_Quads_at_Legzira_Beach.jpg",
+        "caption": { "fr": "Balade à dos de chameau sur le sable", "ar": "نزهة على ظهر الجمل على الرمال", "en": "Camel ride on the sand", "darija": "ركوب الجمل فوق الرمل" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Legzira_Arche_from_Distance.jpg/960px-Legzira_Arche_from_Distance.jpg",
+        "caption": { "fr": "L'arche vue de loin", "ar": "القوس من بعيد", "en": "The arch seen from a distance", "darija": "القوس من بعيد" },
+        "credit": "Wikimedia Commons"
+      }
+    ],
+    "videos": [],
+    "practicalInfo": {
+      "bestSeason": {
+        "fr": "Toute l'année, avec un climat doux ; éviter la marée haute pour accéder à l'arche.",
+        "ar": "طوال السنة بمناخ معتدل؛ يُفضل تجنب المد العالي للوصول إلى القوس.",
+        "en": "Year-round with a mild climate; avoid high tide to access the arch.",
+        "darija": "طول العام بمناخ معتدل؛ تفادى وقت المد العالي باش توصل للقوس."
+      },
+      "openingHours": {
+        "fr": "Plage accessible en permanence, sans horaires fixes.",
+        "ar": "الشاطئ مفتوح باستمرار دون أوقات محددة.",
+        "en": "Beach accessible at all times, no fixed hours.",
+        "darija": "البلاج مفتوحة فأي وقت، ماكاينش وقت محدد."
+      },
+      "entryFee": {
+        "fr": "Accès libre et gratuit.",
+        "ar": "الدخول حر ومجاني.",
+        "en": "Free and open access.",
+        "darija": "الدخول حر وبلاش."
+      },
+      "howToGet": {
+        "fr": "Environ 1h15 de route depuis Agadir, ou 15 minutes depuis Sidi Ifni en taxi.",
+        "ar": "حوالي ساعة وربع بالطريق من أكادير، أو 15 دقيقة من سيدي إفني بالطاكسي.",
+        "en": "About 1h15 by road from Agadir, or 15 minutes from Sidi Ifni by taxi.",
+        "darija": "حوالي ساعة وربع بالطريق من أكادير، أو 15 دقيقة من سيدي إفني بالطاكسي."
+      },
+      "accessibility": {
+        "fr": "Sable profond et zones rocheuses ; attention aux courants forts pour la baignade.",
+        "ar": "رمال عميقة ومناطق صخرية؛ احذر من التيارات القوية أثناء السباحة.",
+        "en": "Deep sand and rocky areas; beware of strong currents when swimming.",
+        "darija": "الرمل عميق وكاينين مناطق صخرية؛ احذر من التيارات القوية إلا غادي تعوم."
+      }
+    },
+    "activities": {
+      "fr": "Photographie au coucher du soleil, surf, balade à cheval ou à dos de chameau, dégustation de poisson grillé.",
+      "ar": "التصوير عند الغروب، ركوب الأمواج، التنزه على الخيل أو الجمل، تذوق السمك المشوي.",
+      "en": "Sunset photography, surfing, horse or camel rides, grilled fish tasting.",
+      "darija": "تصاور وقت الغروب، ركوب الأمواج، ركوب الخيل أو الجمل، وتذوق الحوت المشوي."
+    },
+    "tags": ["plage", "ocean", "nature", "surf", "sidi_ifni"],
+    "isActive": true,
+    "isFeatured": false,
+    "slug": "plage-de-legzira",
+    "metaTitle": {
+      "fr": "Plage de Legzira | Kenz Bladi",
+      "ar": "شاطئ لكزيرة | كنز بلادي",
+      "en": "Legzira Beach | Kenz Bladi",
+      "darija": "بلاج لكزيرة | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Découvrez la plage de Legzira et son arche rocheuse spectaculaire près de Sidi Ifni, sur la côte atlantique du Maroc.",
+      "ar": "اكتشف شاطئ لكزيرة وقوسه الصخري المذهل قرب سيدي إفني على الساحل الأطلسي للمغرب.",
+      "en": "Discover Legzira Beach and its spectacular rock arch near Sidi Ifni, on Morocco's Atlantic coast.",
+      "darija": "اكتشف بلاج لكزيرة والقوس الصخري المذهل ديالها قريب من سيدي إفني على الساحل الأطلسي ديال المغرب."
+    },
+    "viewCount": 0,
+    "rating": 4.4
+  },
+  {
+    "name": {
+      "fr": "Mont Toubkal",
+      "ar": "جبل توبقال",
+      "en": "Mount Toubkal",
+      "darija": "جبل توبقال"
+    },
+    "shortDescription": {
+      "fr": "Le plus haut sommet d'Afrique du Nord (4 167 m), destination phare des randonneurs dans le Parc National du Toubkal.",
+      "ar": "أعلى قمة في شمال إفريقيا (4167 متراً)، وجهة مفضلة للمتسلقين داخل الحديقة الوطنية لتوبقال.",
+      "en": "The highest peak in North Africa (4,167 m), a top destination for hikers in Toubkal National Park.",
+      "darija": "أعلى جبل فشمال إفريقيا (4167 متر)، وجهة محبوبة عند المتسلقين فالحديقة الوطنية ديال توبقال."
+    },
+    "fullArticle": {
+      "fr": "Culminant à 4 167 mètres dans le Haut Atlas, le Mont Toubkal attire chaque année des milliers de randonneurs venus du monde entier. L'ascension se fait généralement en deux jours depuis le village d'Imlil, avec une nuitée dans un refuge de montagne situé à environ 3 200 mètres. En été, le sommet est accessible sans équipement technique particulier, tandis qu'en hiver et au printemps, crampons et piolet sont nécessaires en raison de la neige. Le panorama depuis le sommet offre une vue à couper le souffle sur les vallées berbères environnantes et, par temps clair, jusqu'au désert du Sahara.",
+      "ar": "بارتفاع يصل إلى 4167 متراً في الأطلس الكبير، يجذب جبل توبقال آلاف المتسلقين سنوياً من مختلف أنحاء العالم. تتم القمة عادة في يومين انطلاقاً من قرية إمليل، مع المبيت في ملجأ جبلي يقع على ارتفاع حوالي 3200 متر. في الصيف، يمكن الوصول إلى القمة دون معدات تقنية خاصة، بينما في الشتاء والربيع تكون الكرامبونات والفأس الجليدي ضرورية بسبب الثلوج. يوفر المنظر من القمة إطلالة خلابة على الوديان الأمازيغية المحيطة، وفي الأيام الصافية يمكن رؤية صحراء الساحرة.",
+      "en": "Standing at 4,167 metres in the High Atlas, Mount Toubkal attracts thousands of hikers from around the world each year. The ascent is usually done over two days from the village of Imlil, with an overnight stay at a mountain refuge at around 3,200 metres. In summer, the summit is accessible without special technical equipment, while in winter and spring, crampons and an ice axe are needed due to snow. The view from the summit offers a breathtaking panorama of the surrounding Berber valleys and, on clear days, towards the Sahara desert.",
+      "darija": "بعلو 4167 متر فالأطلس الكبير، جبل توبقال كيجبد آلاف المتسلقين كل عام من بزاف بلدان. الصعود عادة كيتدار فيومين من دوار إمليل، مع المبيت فمأوى جبلي على علو 3200 متر. فالصيف، يمكن توصل للقمة بلا معدات تقنية خاصة، ولكن فالشتاء والربيع خاصك الكرامبون والفأس الجليدي بسبب الثلج. المنظر من فوق كيعطي إطلالة رائعة على الوديان الأمازيغية اللي حداه، وفالنهار الصافي تقدر تشوف حتى الصحراء."
+    },
+    "locationType": "mountain",
+    "location": {
+      "country": "Maroc",
+      "region": "Marrakech-Safi",
+      "province": "Al Haouz",
+      "city": "Imlil",
+      "address": "Parc National du Toubkal, Imlil",
+      "coordinates": { "type": "Point", "coordinates": [-7.9151, 31.0595] }
+    },
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Toubkal_7.90965W_31.05231N.jpg/960px-Toubkal_7.90965W_31.05231N.jpg",
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Toubkal_7.90965W_31.05231N.jpg/960px-Toubkal_7.90965W_31.05231N.jpg",
+        "caption": { "fr": "Le sommet du Mont Toubkal", "ar": "قمة جبل توبقال", "en": "The summit of Mount Toubkal", "darija": "قمة جبل توبقال" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Veronica-Jbel_Toubkal_II.jpg/960px-Veronica-Jbel_Toubkal_II.jpg",
+        "caption": { "fr": "Vue du massif du Toubkal", "ar": "منظر سلسلة جبال توبقال", "en": "View of the Toubkal massif", "darija": "منظر سلسلة جبال توبقال" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Toubkal_mountain.jpg",
+        "caption": { "fr": "La montagne enneigée en hiver", "ar": "الجبل المغطى بالثلوج في الشتاء", "en": "The snow-capped mountain in winter", "darija": "الجبل مغطى بالثلج فالشتاء" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Spring_blossom_Toubkal_National_Park.jpg/960px-Spring_blossom_Toubkal_National_Park.jpg",
+        "caption": { "fr": "Floraison printanière dans le parc national", "ar": "إزهار الربيع في الحديقة الوطنية", "en": "Spring blossom in the national park", "darija": "زهور الربيع فالحديقة الوطنية" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Toubkal_Mountain.jpg",
+        "caption": { "fr": "Panorama du sommet vers les vallées", "ar": "بانوراما من القمة نحو الوديان", "en": "Panorama from the summit towards the valleys", "darija": "بانوراما من القمة نحو الوديان" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Trekking_Toubkal_2019.jpg/960px-Trekking_Toubkal_2019.jpg",
+        "caption": { "fr": "Randonneurs sur le sentier d'altitude", "ar": "متسلقون في المسار الجبلي", "en": "Hikers on the high-altitude trail", "darija": "متسلقين فالطريق ديال الجبل" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Jebel_Toubkal_and_a_group_of_hikers.jpg/960px-Jebel_Toubkal_and_a_group_of_hikers.jpg",
+        "caption": { "fr": "Groupe de randonneurs en ascension", "ar": "مجموعة متسلقين أثناء الصعود", "en": "Group of hikers during the ascent", "darija": "مجموعة متسلقين فالطلعة" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Vue_depuis_le_sommet_du_Mont_Toubkal_en_%C3%A9t%C3%A9_2022.jpg/960px-Vue_depuis_le_sommet_du_Mont_Toubkal_en_%C3%A9t%C3%A9_2022.jpg",
+        "caption": { "fr": "Vue estivale depuis le sommet", "ar": "منظر صيفي من القمة", "en": "Summer view from the summit", "darija": "منظر الصيف من القمة" },
+        "credit": "Wikimedia Commons"
+      }
+    ],
+    "videos": [],
+    "practicalInfo": {
+      "bestSeason": {
+        "fr": "Avril à octobre pour une ascension sans matériel technique ; hiver pour les amateurs de ski de randonnée.",
+        "ar": "من أبريل إلى أكتوبر للتسلق بدون معدات تقنية؛ الشتاء لهواة التزلج الجبلي.",
+        "en": "April to October for ascents without technical gear; winter for ski touring enthusiasts.",
+        "darija": "من أبريل لأكتوبر للطلعة بلا معدات تقنية؛ الشتاء لمحبي التزلج الجبلي."
+      },
+      "openingHours": {
+        "fr": "Parc national accessible toute la journée ; départ recommandé tôt le matin.",
+        "ar": "الحديقة الوطنية مفتوحة طوال اليوم؛ يُنصح بالانطلاق في الصباح الباكر.",
+        "en": "National park open all day; an early morning start is recommended.",
+        "darija": "الحديقة الوطنية مفتوحة طول النهار؛ الأحسن تبدا باكر فالصباح."
+      },
+      "entryFee": {
+        "fr": "Frais d'accès au parc national d'environ 30 MAD ; guide de montagne obligatoire (environ 400-600 MAD/jour).",
+        "ar": "رسوم دخول الحديقة الوطنية حوالي 30 درهم؛ المرشد الجبلي إلزامي (حوالي 400-600 درهم في اليوم).",
+        "en": "National park entry fee around 30 MAD; a mountain guide is mandatory (around 400-600 MAD/day).",
+        "darija": "رسوم الدخول للحديقة الوطنية تقريبا 30 درهم؛ المرشد الجبلي واجب (تقريبا 400-600 درهم فاليوم)."
+      },
+      "howToGet": {
+        "fr": "Environ 1h30 en voiture depuis Marrakech jusqu'à Imlil, point de départ des treks.",
+        "ar": "حوالي ساعة ونصف بالسيارة من مراكش إلى إمليل، نقطة انطلاق الرحلات.",
+        "en": "About 1.5 hours by car from Marrakech to Imlil, the trek's starting point.",
+        "darija": "حوالي ساعة ونص بالطوموبيل من مراكش حتى إمليل، نقطة بداية الرحلة."
+      },
+      "accessibility": {
+        "fr": "Trek exigeant nécessitant une bonne condition physique ; déconseillé aux personnes non entraînées sans préparation.",
+        "ar": "رحلة شاقة تتطلب لياقة بدنية جيدة؛ غير مستحسنة لغير المتمرنين بدون تحضير.",
+        "en": "Demanding trek requiring good physical condition; not recommended for untrained visitors without preparation.",
+        "darija": "رحلة صعيبة كتطلب لياقة بدنية مزيانة؛ ماشي منصوح بها للي ماشي مدرب بلا تحضير."
+      }
+    },
+    "activities": {
+      "fr": "Trekking de plusieurs jours, ascension du sommet, nuit en refuge de montagne, découverte des villages berbères de l'Atlas.",
+      "ar": "رحلات تسلق متعددة الأيام، الوصول إلى القمة، المبيت في ملجأ جبلي، اكتشاف القرى الأمازيغية بالأطلس.",
+      "en": "Multi-day trekking, summit ascent, overnight stay in a mountain refuge, discovering Berber villages in the Atlas.",
+      "darija": "تريك ديال بزاف ديال الأيام، الطلعة للقمة، المبيت فمأوى جبلي، اكتشاف الدواوير الأمازيغية فالأطلس."
+    },
+    "tags": ["montagne", "trekking", "haut_atlas", "imlil", "aventure"],
+    "isActive": true,
+    "isFeatured": false,
+    "slug": "mont-toubkal",
+    "metaTitle": {
+      "fr": "Mont Toubkal | Kenz Bladi",
+      "ar": "جبل توبقال | كنز بلادي",
+      "en": "Mount Toubkal | Kenz Bladi",
+      "darija": "جبل توبقال | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Préparez votre ascension du Mont Toubkal, plus haut sommet d'Afrique du Nord, dans le Parc National du Toubkal.",
+      "ar": "حضّر لتسلق جبل توبقال، أعلى قمة في شمال إفريقيا، داخل الحديقة الوطنية لتوبقال.",
+      "en": "Plan your ascent of Mount Toubkal, North Africa's highest peak, in Toubkal National Park.",
+      "darija": "حضر للطلعة ديالك لجبل توبقال، أعلى قمة فشمال إفريقيا، فالحديقة الوطنية ديال توبقال."
+    },
+    "viewCount": 0,
+    "rating": 4.7
+  },
+  {
+    "name": {
+      "fr": "Erg Chebbi - Merzouga",
+      "ar": "عرق الشبي - مرزوكة",
+      "en": "Erg Chebbi - Merzouga",
+      "darija": "عرق الشبي - مرزوكة"
+    },
+    "shortDescription": {
+      "fr": "Le plus spectaculaire champ de dunes du Maroc, aux portes du Sahara, célèbre pour ses bivouacs et ses couchers de soleil dorés.",
+      "ar": "أروع حقل كثبان رملية بالمغرب، على أبواب الصحراء، يشتهر بالمخيمات الليلية وغروب الشمس الذهبي.",
+      "en": "Morocco's most spectacular dune field, at the gateway to the Sahara, famous for desert camps and golden sunsets.",
+      "darija": "أروع كثبان رملية بالمغرب، على باب الصحراء، مشهورة بالمخيمات الليلية وغروب الشمس الذهبي."
+    },
+    "fullArticle": {
+      "fr": "Erg Chebbi est un ensemble de dunes de sable orangé pouvant atteindre 150 mètres de hauteur, situé près du village de Merzouga, à l'extrémité sud-est du Maroc. C'est l'une des portes d'entrée les plus accessibles du désert du Sahara. Les visiteurs y arrivent généralement à dos de dromadaire pour passer la nuit dans des camps de tentes berbères, où sont organisées des soirées de musique gnaoua autour du feu. Le lever et le coucher du soleil sur les dunes offrent des dégradés de couleurs allant de l'or à l'orange profond. La région abrite aussi le lac saisonnier Dayet Srji, refuge de flamants roses lorsqu'il est en eau.",
+      "ar": "عرق الشبي هو مجموعة من الكثبان الرملية البرتقالية التي يصل ارتفاعها إلى 150 متراً، تقع قرب قرية مرزوكة في أقصى جنوب شرق المغرب. تعتبر من أسهل بوابات الدخول إلى الصحراء الكبرى. يصل الزوار عادة على ظهور الجمال لقضاء الليلة في مخيمات من الخيام الأمازيغية، حيث تُنظم سهرات موسيقى ﯕناوة حول النار. شروق وغروب الشمس على الكثبان يقدمان تدرجات لونية من الذهبي إلى البرتقالي الغامق. تضم المنطقة أيضاً بحيرة دار الصرجي الموسمية، ملاذ طيور النحام الوردي عندما تمتلئ بالماء.",
+      "en": "Erg Chebbi is a set of orange sand dunes reaching up to 150 metres in height, located near the village of Merzouga at the south-eastern edge of Morocco. It is one of the most accessible gateways to the Sahara desert. Visitors usually arrive by camel to spend the night in Berber tent camps, where Gnaoua music evenings are held around the fire. Sunrise and sunset over the dunes produce gradients of colour from gold to deep orange. The area is also home to the seasonal Dayet Srji lake, a refuge for flamingos when it fills with water.",
+      "darija": "عرق الشبي هو مجموعة ديال الكثبان الرملية البرتقالية اللي كيوصل علاها حتى 150 متر، كاينة قريب من دوار مرزوكة فأقصى الجنوب الشرقي ديال المغرب. هي من أسهل الأبواب للدخول للصحراء الكبرى. الزوار كيوصلو عادة فوق الجمال باش يبيتو فمخيمات ديال الخيام الأمازيغية، فين كتنظم سهرات ديال موسيقى ﯕناوة حول النار. شروق وغروب الشمس على الكثبان كيعطيو ألوان من الذهبي للبرتقالي الغامق. المنطقة فيها أيضا بحيرة داية الصرجي الموسمية، ملجأ للفلامينكو ملي كتعمر بالما."
+    },
+    "locationType": "oasis",
+    "location": {
+      "country": "Maroc",
+      "region": "Drâa-Tafilalet",
+      "province": "Errachidia",
+      "city": "Merzouga",
+      "address": "Erg Chebbi, Merzouga",
+      "coordinates": { "type": "Point", "coordinates": [-4.0133, 31.0801] }
+    },
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Dunes-Merzouga-Erg_Chebi.JPG/960px-Dunes-Merzouga-Erg_Chebi.JPG",
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Dunes-Merzouga-Erg_Chebi.JPG/960px-Dunes-Merzouga-Erg_Chebi.JPG",
+        "caption": { "fr": "Les dunes orangées d'Erg Chebbi", "ar": "كثبان عرق الشبي البرتقالية", "en": "The orange dunes of Erg Chebbi", "darija": "الكثبان البرتقالية ديال عرق الشبي" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Sunset-couche_soleil-Merzouga-Erg_Chebi.JPG/960px-Sunset-couche_soleil-Merzouga-Erg_Chebi.JPG",
+        "caption": { "fr": "Coucher de soleil sur les dunes", "ar": "غروب الشمس فوق الكثبان", "en": "Sunset over the dunes", "darija": "غروب الشمس فوق الكثبان" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Erg_Chebbi.jpg/960px-Erg_Chebbi.jpg",
+        "caption": { "fr": "Vue panoramique du désert", "ar": "منظر بانورامي للصحراء", "en": "Panoramic view of the desert", "darija": "منظر بانورامي للصحراء" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Merzouga_-_Erg_Chebbi_-_1990_-_panoramio.jpg/960px-Merzouga_-_Erg_Chebbi_-_1990_-_panoramio.jpg",
+        "caption": { "fr": "Vue d'ensemble de Merzouga", "ar": "منظر عام لمرزوكة", "en": "Overview of Merzouga", "darija": "منظر عام لمرزوكة" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Merzouga_desert_Erg_Chebbi.jpg/960px-Merzouga_desert_Erg_Chebbi.jpg",
+        "caption": { "fr": "Le désert de Merzouga au lever du jour", "ar": "صحراء مرزوكة عند الفجر", "en": "Merzouga desert at dawn", "darija": "صحراء مرزوكة وقت الفجر" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Sunset_in_Erg_Chebbi_%2854244351519%29.jpg/960px-Sunset_in_Erg_Chebbi_%2854244351519%29.jpg",
+        "caption": { "fr": "Camp de tentes berbères au crépuscule", "ar": "مخيم الخيام الأمازيغية عند الغسق", "en": "Berber tent camp at twilight", "darija": "مخيم الخيام الأمازيغية وقت الغسق" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Erg_Chebbi_%2854291836637%29.jpg/960px-Erg_Chebbi_%2854291836637%29.jpg",
+        "caption": { "fr": "Caravane de dromadaires sur les dunes", "ar": "قافلة جمال فوق الكثبان", "en": "Camel caravan on the dunes", "darija": "قافلة جمال فوق الكثبان" },
+        "credit": "Wikimedia Commons"
+      }
+    ],
+    "videos": [],
+    "practicalInfo": {
+      "bestSeason": {
+        "fr": "Octobre à avril, pour éviter les chaleurs extrêmes de l'été saharien.",
+        "ar": "من أكتوبر إلى أبريل، لتفادي الحرارة الشديدة لصيف الصحراء.",
+        "en": "October to April, to avoid the extreme heat of the Saharan summer.",
+        "darija": "من أكتوبر لأبريل، باش تتفادى السخانة القوية ديال صيف الصحراء."
+      },
+      "openingHours": {
+        "fr": "Accès libre au désert ; les excursions à dos de chameau démarrent généralement en fin d'après-midi.",
+        "ar": "الدخول إلى الصحراء حر؛ رحلات الجمال تنطلق عادة في آخر النهار.",
+        "en": "Free access to the desert; camel excursions usually start in the late afternoon.",
+        "darija": "الدخول للصحراء حر؛ رحلات الجمال عادة كتبدا فآخر النهار."
+      },
+      "entryFee": {
+        "fr": "Bivouac avec dîner et nuit sous tente entre 250 et 600 MAD selon le confort.",
+        "ar": "المخيم مع العشاء والمبيت في الخيمة يتراوح بين 250 و600 درهم حسب الراحة.",
+        "en": "Bivouac with dinner and overnight tent stay between 250 and 600 MAD depending on comfort level.",
+        "darija": "المخيم مع العشا والمبيت فالخيمة بين 250 و600 درهم على حساب الراحة."
+      },
+      "howToGet": {
+        "fr": "Environ 1h de route depuis Rissani, ou 5-6h depuis Fès via Erfoud.",
+        "ar": "حوالي ساعة بالطريق من الريصاني، أو 5-6 ساعات من فاس عبر أرفود.",
+        "en": "About 1 hour by road from Rissani, or 5-6 hours from Fès via Erfoud.",
+        "darija": "حوالي ساعة بالطريق من الريصاني، أو 5-6 ساعات من فاس عبر أرفود."
+      },
+      "accessibility": {
+        "fr": "Sable profond difficile pour les fauteuils roulants ; prévoir vêtements chauds la nuit, même en été.",
+        "ar": "الرمال العميقة صعبة بالنسبة للكراسي المتحركة؛ يُنصح بملابس دافئة ليلاً حتى في الصيف.",
+        "en": "Deep sand is difficult for wheelchairs; bring warm clothes for the night, even in summer.",
+        "darija": "الرمل العميق صعيب بالنسبة للكراسي المتحركة؛ جيب حوايج سخونين لليل حتى فالصيف."
+      }
+    },
+    "activities": {
+      "fr": "Trek à dos de dromadaire, bivouac sous tente, soirée musique gnaoua, sandboard, observation des étoiles.",
+      "ar": "رحلة على ظهر الجمل، المبيت في خيمة، سهرة موسيقى ﯕناوة، التزلج على الرمال، مراقبة النجوم.",
+      "en": "Camel trekking, overnight camping in tents, Gnaoua music evening, sandboarding, stargazing.",
+      "darija": "رحلة فوق الجمل، المبيت فالخيمة، سهرة ﯕناوة، التزلج على الرمل، ومشاهدة النجوم."
+    },
+    "tags": ["desert", "sahara", "merzouga", "dunes", "bivouac"],
+    "isActive": true,
+    "isFeatured": true,
+    "slug": "erg-chebbi-merzouga",
+    "metaTitle": {
+      "fr": "Erg Chebbi - Merzouga | Kenz Bladi",
+      "ar": "عرق الشبي - مرزوكة | كنز بلادي",
+      "en": "Erg Chebbi - Merzouga | Kenz Bladi",
+      "darija": "عرق الشبي - مرزوكة | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Vivez l'expérience du désert à Erg Chebbi près de Merzouga : dunes dorées, bivouac et nuits étoilées dans le Sahara marocain.",
+      "ar": "عش تجربة الصحراء في عرق الشبي قرب مرزوكة: كثبان ذهبية ومخيمات وليالٍ مرصعة بالنجوم في صحراء المغرب.",
+      "en": "Experience the desert at Erg Chebbi near Merzouga: golden dunes, desert camps and starry nights in the Moroccan Sahara.",
+      "darija": "عيش تجربة الصحراء فعرق الشبي قريب من مرزوكة: كثبان ذهبية ومخيمات وليالي مليانة نجوم فالصحراء المغربية."
+    },
+    "viewCount": 0,
+    "rating": 4.8
+  },
+  {
+    "name": {
+      "fr": "Chefchaouen, la perle bleue",
+      "ar": "شفشاون، اللؤلؤة الزرقاء",
+      "en": "Chefchaouen, the Blue Pearl",
+      "darija": "شفشاون، اللؤلؤة الزرقاء"
+    },
+    "shortDescription": {
+      "fr": "Une médina nichée dans le Rif, célèbre pour ses ruelles et façades peintes en bleu, entre tradition andalouse et nature montagneuse.",
+      "ar": "مدينة عتيقة محتضنة في جبال الريف، تشتهر بأزقتها وواجهاتها المطلية بالأزرق، بين التراث الأندلسي والطبيعة الجبلية.",
+      "en": "A medina nestled in the Rif Mountains, famous for its blue-painted alleys and façades, blending Andalusian tradition and mountain nature.",
+      "darija": "مدينة قديمة فحضن جبال الريف، مشهورة بالأزقة والواجهات مصبوغة بالأزرق، بين التراث الأندلسي والطبيعة الجبلية."
+    },
+    "fullArticle": {
+      "fr": "Fondée en 1471, Chefchaouen est nichée au creux des montagnes du Rif, dans le nord du Maroc. Sa médina est mondialement connue pour ses murs et escaliers peints dans toutes les nuances de bleu, une tradition que certains attribuent aux réfugiés juifs séfarades arrivés au XVe siècle. Les ruelles pavées, ponctuées de pots de fleurs et de portes en bois sculpté, en font un véritable labyrinthe photogénique. La place Outa el-Hammam, bordée de cafés, est le cœur de la vie locale. Les environs offrent également de belles randonnées, notamment vers les cascades d'Akchour et le pont de Dieu (Pont de Dieu).",
+      "ar": "تأسست شفشاون سنة 1471، وهي محتضنة بين جبال الريف في شمال المغرب. تشتهر مدينتها العتيقة عالمياً بجدرانها وسلالمها المطلية بدرجات متعددة من الأزرق، وهو تقليد ينسبه البعض إلى اللاجئين اليهود السفارديم الذين وصلوا في القرن الخامس عشر. الأزقة المرصوفة، المزينة بأواني الزهور والأبواب الخشبية المنقوشة، تجعل منها متاهة ساحرة للتصوير. ساحة وطا الحمام، المحاطة بالمقاهي، هي قلب الحياة المحلية. كما توفر المناطق المجاورة مسارات مشي جميلة، خاصة نحو شلالات أقشور وقنطرة الله.",
+      "en": "Founded in 1471, Chefchaouen nestles in the Rif Mountains of northern Morocco. Its medina is world-famous for its walls and stairways painted in every shade of blue, a tradition some attribute to Sephardic Jewish refugees who arrived in the 15th century. The cobbled alleys, dotted with flower pots and carved wooden doors, form a truly photogenic maze. Outa el-Hammam square, lined with cafés, is the heart of local life. The surrounding area also offers beautiful hikes, notably to the Akchour waterfalls and God's Bridge.",
+      "darija": "تأسست شفشاون فعام 1471، وهي محضونة بين جبال الريف فشمال المغرب. المدينة القديمة ديالها مشهورة فالعالم كامل بالحيوط والدرج المصبوغين بدرجات الأزرق، تقليد كاين لي كينسبو لليهود السفارديم اللي جاو فالقرن 15. الأزقة المرصوفة، مزينة بأواني الورد والأبواب الخشب المنقوشة، كتخليها متاهة زوينة للتصاور. ساحة وطا الحمام، محاطة بالقهاوي، هي قلب الحياة المحلية. المناطق اللي حداها فيهم مسارات مشي زوينين، خاصة نحو شلالات أقشور وقنطرة الله."
+    },
+    "locationType": "medina",
+    "location": {
+      "country": "Maroc",
+      "region": "Tanger-Tétouan-Al Hoceïma",
+      "province": "Chefchaouen",
+      "city": "Chefchaouen",
+      "address": "Médina de Chefchaouen",
+      "coordinates": { "type": "Point", "coordinates": [-5.2636, 35.1688] }
+    },
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/2018_01_%28Blue%29_-_Chaouen.jpg/960px-2018_01_%28Blue%29_-_Chaouen.jpg",
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/2018_01_%28Blue%29_-_Chaouen.jpg/960px-2018_01_%28Blue%29_-_Chaouen.jpg",
+        "caption": { "fr": "Ruelle bleue typique de Chefchaouen", "ar": "زقاق أزرق نموذجي بشفشاون", "en": "A typical blue alley in Chefchaouen", "darija": "زنقة زرقة تقليدية بشفشاون" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Akchour%2C_Chefchaouen_2.jpg/960px-Akchour%2C_Chefchaouen_2.jpg",
+        "caption": { "fr": "Les cascades d'Akchour près de Chefchaouen", "ar": "شلالات أقشور قرب شفشاون", "en": "The Akchour waterfalls near Chefchaouen", "darija": "شلالات أقشور قريب من شفشاون" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Chefchaouen_-_blue_city_in_Morocco_2.jpg/960px-Chefchaouen_-_blue_city_in_Morocco_2.jpg",
+        "caption": { "fr": "Façades bleues et pots de fleurs", "ar": "واجهات زرقاء وأواني زهور", "en": "Blue façades and flower pots", "darija": "واجهات زرقة وأواني ديال الورد" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Chefchaouen_-_blue_city_in_Morocco_1.jpg/960px-Chefchaouen_-_blue_city_in_Morocco_1.jpg",
+        "caption": { "fr": "Escalier bleu emblématique", "ar": "سلم أزرق مميز", "en": "Iconic blue staircase", "darija": "درج أزرق مشهور" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Chefchaouen_-_blue_city_in_Morocco.jpg/960px-Chefchaouen_-_blue_city_in_Morocco.jpg",
+        "caption": { "fr": "Vue d'ensemble de la médina bleue", "ar": "منظر عام للمدينة الزرقاء", "en": "Overview of the blue medina", "darija": "منظر عام للمدينة الزرقة" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Chefchaouen%2C_the_blue_city_%D8%B4%D9%81%D8%B4%D8%A7%D9%88%D9%86_%D8%A7%D9%84%D9%85%D8%AF%D9%8A%D9%86%D9%87_%D8%A7%D9%84%D8%B2%D8%B1%D9%82%D8%A7%D8%A1.jpg",
+        "caption": { "fr": "Ruelle pavée et porte sculptée", "ar": "زقاق مرصوف وباب منقوش", "en": "Cobbled alley with a carved door", "darija": "زنقة مرصوفة وباب منقوش" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Chefchaouen%2C_the_blue_city_%D8%B4%D9%81%D8%B4%D8%A7%D9%88%D9%86_%D8%A7%D9%84%D9%85%D8%AF%D9%8A%D9%86%D9%87_%D8%A7%D9%84%D8%B2%D8%B1%D9%82%D8%A7%D8%A13.jpg",
+        "caption": { "fr": "Détail architectural bleu et blanc", "ar": "تفصيل معماري أزرق وأبيض", "en": "Blue and white architectural detail", "darija": "تفصيل معماري أزرق وأبيض" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Chefchaouen%2C_the_blue_city_%D8%B4%D9%81%D8%B4%D8%A7%D9%88%D9%86_%D8%A7%D9%84%D9%85%D8%AF%D9%8A%D9%86%D9%87_%D8%A7%D9%84%D8%B2%D8%B1%D9%82%D8%A7%D8%A14.jpg",
+        "caption": { "fr": "Vue depuis les hauteurs de la ville", "ar": "منظر من أعالي المدينة", "en": "View from the hills above the city", "darija": "منظر من فوق المدينة" },
+        "credit": "Wikimedia Commons"
+      }
+    ],
+    "videos": [],
+    "practicalInfo": {
+      "bestSeason": {
+        "fr": "Avril à juin et septembre à octobre, pour un climat tempéré et une belle lumière.",
+        "ar": "من أبريل إلى يونيو ومن شتنبر إلى أكتوبر، لمناخ معتدل وإضاءة جميلة.",
+        "en": "April to June and September to October, for mild weather and beautiful light.",
+        "darija": "من أبريل ليونيو ومن شتنبر لأكتوبر، لمناخ معتدل وضو زوين."
+      },
+      "openingHours": {
+        "fr": "Médina accessible en permanence ; commerces généralement ouverts de 9h à 21h.",
+        "ar": "المدينة العتيقة مفتوحة باستمرار؛ المحلات عموماً من 9 صباحاً إلى 9 مساءً.",
+        "en": "Medina accessible at all times; shops generally open from 9am to 9pm.",
+        "darija": "المدينة القديمة مفتوحة فأي وقت؛ الحوانت عادة من 9 الصباح حتى 9 ديال الليل."
+      },
+      "entryFee": {
+        "fr": "Accès libre à la médina ; certains points de vue panoramiques (Pont espagnol) sont gratuits.",
+        "ar": "الدخول إلى المدينة العتيقة حر؛ بعض نقاط المشاهدة (الجسر الإسباني) مجانية.",
+        "en": "Free access to the medina; some viewpoints (Spanish Bridge) are free.",
+        "darija": "الدخول للمدينة القديمة حر؛ بعض نقاط المشاهدة (القنطرة الإسبانية) بلاش."
+      },
+      "howToGet": {
+        "fr": "Environ 2h de route depuis Tétouan ou Tanger, 4h depuis Fès.",
+        "ar": "حوالي ساعتين بالطريق من تطوان أو طنجة، و4 ساعات من فاس.",
+        "en": "About 2 hours by road from Tétouan or Tangier, 4 hours from Fès.",
+        "darija": "حوالي ساعتين بالطريق من تطوان أو طنجة، و4 ساعات من فاس."
+      },
+      "accessibility": {
+        "fr": "Ruelles pavées en pente, parfois glissantes ; bonnes chaussures recommandées.",
+        "ar": "أزقة مرصوفة منحدرة وقد تكون زلقة؛ يُنصح بأحذية مريحة.",
+        "en": "Sloped, sometimes slippery cobbled streets; comfortable shoes recommended.",
+        "darija": "الأزقة المرصوفة فيهم منحدرات وممكن يكونو زلاقين؛ خاص صباط مريح."
+      }
+    },
+    "activities": {
+      "fr": "Promenade photo dans la médina bleue, shopping artisanal, randonnée à Akchour, dégustation de cuisine du Rif.",
+      "ar": "نزهة تصويرية في المدينة الزرقاء، التسوق الحرفي، المشي إلى أقشور، تذوق المطبخ الريفي.",
+      "en": "Photo walk through the blue medina, craft shopping, hiking to Akchour, tasting Rif cuisine.",
+      "darija": "تمشية وتصاور فالمدينة الزرقة، التسوق ديال الصناعة التقليدية، المشي لأقشور، وتذوق الماكلة الريفية."
+    },
+    "tags": ["medina", "rif", "ville_bleue", "randonnee", "photographie"],
+    "isActive": true,
+    "isFeatured": true,
+    "slug": "chefchaouen-perle-bleue",
+    "metaTitle": {
+      "fr": "Chefchaouen, la perle bleue | Kenz Bladi",
+      "ar": "شفشاون، اللؤلؤة الزرقاء | كنز بلادي",
+      "en": "Chefchaouen, the Blue Pearl | Kenz Bladi",
+      "darija": "شفشاون، اللؤلؤة الزرقاء | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Explorez Chefchaouen, la ville bleue du Rif marocain, ses ruelles photogéniques et ses randonnées proches.",
+      "ar": "استكشف شفشاون، المدينة الزرقاء بريف المغرب، أزقتها الساحرة ومساراتها للمشي القريبة.",
+      "en": "Explore Chefchaouen, Morocco's blue city in the Rif, its photogenic alleys and nearby hikes.",
+      "darija": "اكتشف شفشاون، المدينة الزرقة فريف المغرب، الأزقة الزوينة والمشي القريب منها."
+    },
+    "viewCount": 0,
+    "rating": 4.7
+  },
+  {
+    "name": {
+      "fr": "Tannerie Chouara",
+      "ar": "دباغة الشوارة",
+      "en": "Chouara Tannery",
+      "darija": "دباغة الشوارة"
+    },
+    "shortDescription": {
+      "fr": "La plus grande et plus ancienne tannerie traditionnelle de Fès, où le cuir est encore traité selon des méthodes médiévales.",
+      "ar": "أكبر وأقدم دباغة تقليدية بفاس، حيث لا يزال الجلد يُعالج بطرق يعود تاريخها إلى العصور الوسطى.",
+      "en": "The largest and oldest traditional tannery in Fès, where leather is still processed using medieval methods.",
+      "darija": "أكبر وأقدم دباغة تقليدية بفاس، فين الجلد مازال كيتعالج بطرق ترجع للعصور الوسطى."
+    },
+    "fullArticle": {
+      "fr": "Datant du XIe siècle, la tannerie Chouara est l'une des trois tanneries traditionnelles encore actives dans la médina de Fès. Vue depuis les terrasses des boutiques de cuir environnantes, elle ressemble à une immense palette de peintre, avec ses cuves circulaires remplies de teintures naturelles aux couleurs vives : safran pour le jaune, indigo pour le bleu, henné pour l'orange. Les ouvriers, appelés tanneurs, travaillent pieds nus dans les cuves pour assouplir et teindre les peaux de vache, chèvre, mouton et dromadaire selon des techniques transmises depuis des générations. À l'entrée, des brins de menthe sont offerts aux visiteurs pour atténuer l'odeur forte des produits de tannage.",
+      "ar": "يعود تاريخ دباغة الشوارة إلى القرن الحادي عشر، وهي واحدة من ثلاث دباغات تقليدية لا تزال نشطة في مدينة فاس العتيقة. ينظر إليها من شرفات محلات الجلد المحيطة وكأنها لوحة رسام ضخمة، بأحواضها الدائرية المملوءة بأصباغ طبيعية زاهية الألوان: الزعفران للأصفر، النيلة للأزرق، الحناء للبرتقالي. يعمل الدباغون حفاة الأقدام داخل الأحواض لتليين وصبغ جلود البقر والماعز والغنم والجمل وفق تقنيات متوارثة عبر الأجيال. عند المدخل، تُقدَّم أغصان النعناع للزوار لتخفيف الرائحة القوية لمواد الدباغة.",
+      "en": "Dating back to the 11th century, the Chouara Tannery is one of three traditional tanneries still active in the medina of Fès. Seen from the terraces of the surrounding leather shops, it resembles a giant painter's palette, with its circular vats filled with brightly coloured natural dyes: saffron for yellow, indigo for blue, henna for orange. Tannery workers, barefoot in the vats, soften and dye cow, goat, sheep and camel hides using techniques passed down through generations. At the entrance, sprigs of mint are offered to visitors to ease the strong smell of the tanning products.",
+      "darija": "دباغة الشوارة كترجع للقرن 11، وهي وحدة من تلات دباغات تقليدية مازالين خدامين فمدينة فاس القديمة. كيفاش كتشوفها من فوق التيراسات ديال حوانت الجلد اللي حداها، كتبان بحال لوحة رسام كبيرة، بالأحواض الدائرية معمرة بأصباغ طبيعية بألوان قوية: الزعفران للأصفر، النيلة للأزرق، الحناء للبرتقالي. الدباغين كيخدمو حفاة فالأحواض باش يلينو ويصبغو جلود البقر والمعز والغنم والجمل بتقنيات موروثة من جيل لجيل. فالمدخل، كيعطيو للزوار النعناع باش يخففو الريحة القوية ديال مواد الدباغة."
+    },
+    "locationType": "monument",
+    "location": {
+      "country": "Maroc",
+      "region": "Fès-Meknès",
+      "province": "Fès",
+      "city": "Fès",
+      "address": "Quartier Cherrabliyne, Médina de Fès",
+      "coordinates": { "type": "Point", "coordinates": [-4.9833, 34.0667] }
+    },
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Leather_tanning%2C_Fes.jpg/960px-Leather_tanning%2C_Fes.jpg",
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Leather_tanning%2C_Fes.jpg/960px-Leather_tanning%2C_Fes.jpg",
+        "caption": { "fr": "Tanneurs au travail dans les cuves colorées", "ar": "دباغون يعملون في الأحواض الملونة", "en": "Tannery workers in the coloured vats", "darija": "الدباغين كيخدمو فالأحواض الملونة" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Chouara_Tannery_-_153_-_Marokko_Handybilder_2018_-_Fes_%2842218570701%29.jpg/960px-Chouara_Tannery_-_153_-_Marokko_Handybilder_2018_-_Fes_%2842218570701%29.jpg",
+        "caption": { "fr": "Vue d'ensemble de la tannerie Chouara", "ar": "منظر عام لدباغة الشوارة", "en": "Overview of the Chouara Tannery", "darija": "منظر عام لدباغة الشوارة" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Chouara_Tannery_-_154_-_Marokko_Handybilder_2018_-_Fes_%2827347707917%29.jpg/960px-Chouara_Tannery_-_154_-_Marokko_Handybilder_2018_-_Fes_%2827347707917%29.jpg",
+        "caption": { "fr": "Cuves circulaires aux teintures naturelles", "ar": "أحواض دائرية بأصباغ طبيعية", "en": "Circular vats with natural dyes", "darija": "أحواض دائرية بأصباغ طبيعية" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Chouara_Tannery_-_155_-_Marokko_Handybilder_2018_-_Fes_%2827347719327%29.jpg/960px-Chouara_Tannery_-_155_-_Marokko_Handybilder_2018_-_Fes_%2827347719327%29.jpg",
+        "caption": { "fr": "Peaux séchant au soleil sur les toits", "ar": "جلود تجف في الشمس فوق السطوح", "en": "Hides drying in the sun on rooftops", "darija": "الجلود كتيبس فالشمس فوق السطوح" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Chouara_Tannery_-_156_-_Marokko_Handybilder_2018_-_Fes_%2841497450044%29.jpg/960px-Chouara_Tannery_-_156_-_Marokko_Handybilder_2018_-_Fes_%2841497450044%29.jpg",
+        "caption": { "fr": "Détail des couleurs vives des cuves", "ar": "تفاصيل الألوان الزاهية للأحواض", "en": "Detail of the vats' vivid colours", "darija": "تفاصيل الألوان القوية ديال الأحواض" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Chouara_Tannery%2C_Fes_%288947682350%29.jpg/960px-Chouara_Tannery%2C_Fes_%288947682350%29.jpg",
+        "caption": { "fr": "Vue depuis une terrasse de boutique de cuir", "ar": "منظر من شرفة محل للجلود", "en": "View from a leather shop terrace", "darija": "منظر من فوق تيراس حانوت الجلد" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Fez_Chouara_Tannery_%2854238811661%29.jpg/960px-Fez_Chouara_Tannery_%2854238811661%29.jpg",
+        "caption": { "fr": "Tanneur transportant des peaux teintes", "ar": "دباغ يحمل جلوداً مصبوغة", "en": "Worker carrying dyed hides", "darija": "دباغ كيشيل جلود مصبوغين" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Fez_Chouara_Tannery_%2854239949701%29.jpg/960px-Fez_Chouara_Tannery_%2854239949701%29.jpg",
+        "caption": { "fr": "Panorama de la médina autour de la tannerie", "ar": "بانوراما المدينة العتيقة حول الدباغة", "en": "Panorama of the medina around the tannery", "darija": "بانوراما المدينة القديمة حول الدباغة" },
+        "credit": "Wikimedia Commons"
+      }
+    ],
+    "videos": [],
+    "practicalInfo": {
+      "bestSeason": {
+        "fr": "Toute l'année ; le matin offre la meilleure lumière et une activité intense.",
+        "ar": "طوال السنة؛ الصباح يوفر أفضل إضاءة ونشاطاً مكثفاً.",
+        "en": "Year-round; mornings offer the best light and intense activity.",
+        "darija": "طول العام؛ الصباح فيه أحسن ضو ونشاط كبير."
+      },
+      "openingHours": {
+        "fr": "Boutiques et terrasses d'observation ouvertes généralement de 9h à 19h, tous les jours.",
+        "ar": "المحلات وشرفات المشاهدة مفتوحة عموماً من 9 صباحاً إلى 7 مساءً يومياً.",
+        "en": "Shops and viewing terraces generally open from 9am to 7pm, daily.",
+        "darija": "الحوانت والتيراسات ديال المشاهدة مفتوحين عادة من 9 الصباح حتى 7 العشية، كل نهار."
+      },
+      "entryFee": {
+        "fr": "Accès gratuit aux terrasses d'observation via les boutiques de cuir (pourboire apprécié).",
+        "ar": "الدخول مجاني إلى شرفات المشاهدة عبر محلات الجلد (الإكرامية مستحبة).",
+        "en": "Free access to viewing terraces via leather shops (a tip is appreciated).",
+        "darija": "الدخول بلاش للتيراسات عبر حوانت الجلد (التيب محبب)."
+      },
+      "howToGet": {
+        "fr": "À pied dans la médina de Fès, à proximité de Bab Guissa.",
+        "ar": "سيرا على الأقدام داخل مدينة فاس العتيقة، بالقرب من باب كيسة.",
+        "en": "On foot within the Fès medina, near Bab Guissa.",
+        "darija": "تقدر تمشي على رجليك فمدينة فاس القديمة، قريب من باب كيسة."
+      },
+      "accessibility": {
+        "fr": "Ruelles étroites et escaliers raides pour accéder aux terrasses ; odeur forte, déconseillé aux personnes sensibles.",
+        "ar": "أزقة ضيقة وسلالم حادة للوصول إلى الشرفات؛ رائحة قوية، غير مستحسن للأشخاص الحساسين.",
+        "en": "Narrow alleys and steep stairs to reach the terraces; strong smell, not recommended for sensitive visitors.",
+        "darija": "أزقة ضيقة ودرج وعر باش توصل للتيراسات؛ الريحة قوية، ماشي منصوح بها للناس الحساسين."
+      }
+    },
+    "activities": {
+      "fr": "Observation du processus de tannage depuis les terrasses, achat de produits en cuir, visite guidée de la médina.",
+      "ar": "مشاهدة عملية الدباغة من الشرفات، شراء منتجات جلدية، جولة مرفوقة في المدينة العتيقة.",
+      "en": "Watching the tanning process from terraces, buying leather goods, guided medina tour.",
+      "darija": "مشاهدة عملية الدباغة من فوق التيراسات، شرا منتوجات الجلد، وجولة مرفقة فالمدينة القديمة."
+    },
+    "tags": ["artisanat", "fes", "cuir", "medina", "patrimoine"],
+    "isActive": true,
+    "isFeatured": true,
+    "slug": "tannerie-chouara-fes",
+    "metaTitle": {
+      "fr": "Tannerie Chouara à Fès | Kenz Bladi",
+      "ar": "دباغة الشوارة بفاس | كنز بلادي",
+      "en": "Chouara Tannery in Fès | Kenz Bladi",
+      "darija": "دباغة الشوارة بفاس | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Découvrez la tannerie Chouara à Fès, ses cuves colorées et le travail traditionnel du cuir transmis depuis des siècles.",
+      "ar": "اكتشف دباغة الشوارة بفاس، أحواضها الملونة وحرفة الجلد التقليدية المتوارثة منذ قرون.",
+      "en": "Discover the Chouara Tannery in Fès, its colourful vats and traditional leatherwork passed down for centuries.",
+      "darija": "اكتشف دباغة الشوارة بفاس، الأحواض الملونة وصنعة الجلد التقليدية الموروثة من قرون."
+    },
+    "viewCount": 0,
+    "rating": 4.5
+  },
+  {
+    "name": {
+      "fr": "Musée Dar Batha",
+      "ar": "متحف دار البطحاء",
+      "en": "Dar Batha Museum",
+      "darija": "متحف دار البطحاء"
+    },
+    "shortDescription": {
+      "fr": "Un palais andalou du XIXe siècle abritant un musée d'arts et traditions populaires marocaines, entouré d'un jardin de style hispano-mauresque.",
+      "ar": "قصر أندلسي من القرن التاسع عشر يحتضن متحفاً للفنون والتقاليد الشعبية المغربية، محاط بحديقة على الطراز الأندلسي.",
+      "en": "A 19th-century Andalusian palace housing a museum of Moroccan arts and popular traditions, surrounded by a Hispano-Moorish garden.",
+      "darija": "قصر أندلسي من القرن 19 فيه متحف ديال الفنون والتقاليد الشعبية المغربية، محاط بجنان على الطراز الأندلسي."
+    },
+    "fullArticle": {
+      "fr": "Construit à la fin du XIXe siècle par le sultan Moulay Hassan Ier, le palais Dar Batha allie architecture andalouse et marocaine, avec ses patios, ses zelliges et ses plafonds en cèdre sculpté. Transformé en musée en 1915, il présente une riche collection d'arts traditionnels de Fès : céramiques bleues caractéristiques, broderies, tapis berbères, instruments de musique, bijoux, astrolabes et manuscrits anciens. Le jardin andalou planté de palmiers centenaires et de plantes aromatiques offre une pause paisible loin de l'agitation de la médina. Le musée constitue une excellente introduction à l'artisanat et à l'histoire culturelle de la ville impériale.",
+      "ar": "شُيّد قصر دار البطحاء في أواخر القرن التاسع عشر على يد السلطان مولاي الحسن الأول، ويجمع بين العمارة الأندلسية والمغربية، بأفنيته وزليجه وأسقفه من خشب الأرز المنحوت. تحول إلى متحف سنة 1915، ويعرض مجموعة غنية من الفنون التقليدية الفاسية: الخزف الأزرق المميز، التطريز، الزرابي الأمازيغية، الآلات الموسيقية، الحلي، الإسطرلابات والمخطوطات القديمة. توفر الحديقة الأندلسية المزروعة بنخيل معمر ونباتات عطرية استراحة هادئة بعيداً عن صخب المدينة العتيقة. يعد المتحف مدخلاً ممتازاً للتعرف على الصناعة التقليدية والتاريخ الثقافي للمدينة الإمبراطورية.",
+      "en": "Built in the late 19th century by Sultan Moulay Hassan I, the Dar Batha palace combines Andalusian and Moroccan architecture, with its patios, zellige tilework and carved cedar ceilings. Converted into a museum in 1915, it displays a rich collection of traditional Fès arts: characteristic blue ceramics, embroidery, Berber carpets, musical instruments, jewellery, astrolabes and ancient manuscripts. The Andalusian garden, planted with century-old palm trees and aromatic plants, offers a peaceful break away from the bustle of the medina. The museum is an excellent introduction to the crafts and cultural history of the imperial city.",
+      "darija": "تبنى قصر دار البطحاء فآخر القرن 19 من طرف السلطان مولاي الحسن الأول، وكيجمع بين العمارة الأندلسية والمغربية، بالصحون والزليج والسقوف ديال خشب الأرز المنقوش. تحول لمتحف فعام 1915، وكيعرض مجموعة غنية ديال الفنون التقليدية الفاسية: الخزف الأزرق المميز، التطريز، الزرابي الأمازيغية، الآلات الموسيقية، الحلي، الإسطرلابات والمخطوطات القديمة. الجنان الأندلسي مزروع بالنخيل القديم والنباتات العطرية كيعطي استراحة هادية بعيد عن صخب المدينة القديمة. المتحف مدخل ممتاز للتعرف على الصنعة التقليدية والتاريخ الثقافي ديال المدينة الإمبراطورية."
+    },
+    "locationType": "museum",
+    "location": {
+      "country": "Maroc",
+      "region": "Fès-Meknès",
+      "province": "Fès",
+      "city": "Fès",
+      "address": "Place de l'Istiqlal, Médina de Fès",
+      "coordinates": { "type": "Point", "coordinates": [-4.9778, 34.0594] }
+    },
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Dar_Batha_Museum%2C_Fes_%288958254162%29.jpg/960px-Dar_Batha_Museum%2C_Fes_%288958254162%29.jpg",
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Dar_Batha_Museum%2C_Fes_%288958254162%29.jpg/960px-Dar_Batha_Museum%2C_Fes_%288958254162%29.jpg",
+        "caption": { "fr": "Façade du musée Dar Batha", "ar": "واجهة متحف دار البطحاء", "en": "Façade of the Dar Batha Museum", "darija": "واجهة متحف دار البطحاء" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Dar_Batha_Museum%2C_Fes_%288958246898%29.jpg/960px-Dar_Batha_Museum%2C_Fes_%288958246898%29.jpg",
+        "caption": { "fr": "Cour intérieure et zelliges", "ar": "الفناء الداخلي والزليج", "en": "Inner courtyard and zellige tilework", "darija": "الصحن الداخلي والزليج" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Dar_Batha_Museum_%284317467806%29.jpg/960px-Dar_Batha_Museum_%284317467806%29.jpg",
+        "caption": { "fr": "Collection de céramiques bleues de Fès", "ar": "مجموعة من الخزف الأزرق الفاسي", "en": "Collection of blue Fès ceramics", "darija": "مجموعة ديال الخزف الأزرق الفاسي" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Dar_el_Batha_Museum_%28588894744%29.jpg/960px-Dar_el_Batha_Museum_%28588894744%29.jpg",
+        "caption": { "fr": "Plafond en cèdre sculpté", "ar": "سقف من خشب الأرز المنحوت", "en": "Carved cedar ceiling", "darija": "سقف ديال الأرز المنقوش" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Dar_Batha%2C_Hispano-Moorish_palace_%284317466156%29.jpg/960px-Dar_Batha%2C_Hispano-Moorish_palace_%284317466156%29.jpg",
+        "caption": { "fr": "Le palais hispano-mauresque de Dar Batha", "ar": "القصر الأندلسي المغربي دار البطحاء", "en": "The Hispano-Moorish Dar Batha palace", "darija": "القصر الأندلسي المغربي دار البطحاء" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Batha_Museum_%284317468784%29.jpg/960px-Batha_Museum_%284317468784%29.jpg",
+        "caption": { "fr": "Salle d'exposition d'objets traditionnels", "ar": "قاعة عرض القطع التقليدية", "en": "Exhibition room of traditional artifacts", "darija": "قاعة عرض ديال الأشياء التقليدية" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Dar_el_Batha_Museum_%28588954762%29.jpg/960px-Dar_el_Batha_Museum_%28588954762%29.jpg",
+        "caption": { "fr": "Le jardin andalou aux palmiers centenaires", "ar": "الحديقة الأندلسية ونخيلها المعمر", "en": "The Andalusian garden with century-old palms", "darija": "الجنان الأندلسي بالنخيل القديم" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Dar_Batha_%284782503319%29.jpg/960px-Dar_Batha_%284782503319%29.jpg",
+        "caption": { "fr": "Détail architectural du musée", "ar": "تفصيل معماري للمتحف", "en": "Architectural detail of the museum", "darija": "تفصيل معماري ديال المتحف" },
+        "credit": "Wikimedia Commons"
+      }
+    ],
+    "videos": [],
+    "practicalInfo": {
+      "bestSeason": {
+        "fr": "Toute l'année ; le jardin est particulièrement agréable au printemps.",
+        "ar": "طوال السنة؛ الحديقة جميلة بشكل خاص في الربيع.",
+        "en": "Year-round; the garden is especially pleasant in spring.",
+        "darija": "طول العام؛ الجنان زوين بزاف فالربيع."
+      },
+      "openingHours": {
+        "fr": "Ouvert du mercredi au lundi, de 9h à 16h, fermé le mardi.",
+        "ar": "مفتوح من الأربعاء إلى الاثنين، من 9 صباحاً إلى 4 مساءً، مغلق يوم الثلاثاء.",
+        "en": "Open Wednesday to Monday, 9am to 4pm, closed on Tuesdays.",
+        "darija": "مفتوح من الأربعاء للاثنين، من 9 الصباح حتى 4 العشية، مسدود نهار الثلاثاء."
+      },
+      "entryFee": {
+        "fr": "Environ 20 MAD pour les adultes, gratuit pour les enfants de moins de 12 ans.",
+        "ar": "حوالي 20 درهم للبالغين، مجاني للأطفال أقل من 12 سنة.",
+        "en": "About 20 MAD for adults, free for children under 12.",
+        "darija": "تقريبا 20 درهم للكبار، بلاش للدراري تحت 12 عام."
+      },
+      "howToGet": {
+        "fr": "À pied depuis Bab Boujloud, à l'entrée de la médina de Fès.",
+        "ar": "سيرا على الأقدام من باب بوجلود، عند مدخل مدينة فاس العتيقة.",
+        "en": "On foot from Bab Boujloud, at the entrance to the Fès medina.",
+        "darija": "تقدر تمشي على رجليك من باب بوجلود، فمدخل مدينة فاس القديمة."
+      },
+      "accessibility": {
+        "fr": "Accès de plain-pied dans la majorité des salles ; quelques marches dans le jardin.",
+        "ar": "الدخول سهل لمعظم القاعات؛ توجد بعض الدرجات في الحديقة.",
+        "en": "Step-free access to most rooms; a few steps in the garden.",
+        "darija": "الدخول سهل لمعظم القاعات؛ كاينين شي درجات فالجنان."
+      }
+    },
+    "activities": {
+      "fr": "Visite des collections d'arts traditionnels, promenade dans le jardin andalou, photographie architecturale.",
+      "ar": "زيارة مجموعات الفنون التقليدية، نزهة في الحديقة الأندلسية، التصوير المعماري.",
+      "en": "Touring the traditional arts collections, strolling in the Andalusian garden, architectural photography.",
+      "darija": "زيارة مجموعات الفنون التقليدية، تمشية فالجنان الأندلسي، وتصوير العمارة."
+    },
+    "tags": ["musee", "fes", "artisanat", "patrimoine", "architecture"],
+    "isActive": true,
+    "isFeatured": false,
+    "slug": "musee-dar-batha-fes",
+    "metaTitle": {
+      "fr": "Musée Dar Batha à Fès | Kenz Bladi",
+      "ar": "متحف دار البطحاء بفاس | كنز بلادي",
+      "en": "Dar Batha Museum in Fès | Kenz Bladi",
+      "darija": "متحف دار البطحاء بفاس | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Visitez le musée Dar Batha à Fès, son palais andalou, ses collections d'artisanat traditionnel et son jardin paisible.",
+      "ar": "زر متحف دار البطحاء بفاس، قصره الأندلسي ومجموعاته من الصناعة التقليدية وحديقته الهادئة.",
+      "en": "Visit the Dar Batha Museum in Fès, its Andalusian palace, traditional craft collections and peaceful garden.",
+      "darija": "زور متحف دار البطحاء بفاس، القصر الأندلسي ومجموعات الصنعة التقليدية والجنان الهادي."
+    },
+    "viewCount": 0,
+    "rating": 4.4
+  },
+  {
+    "name": {
+      "fr": "Ksar d'Aït Benhaddou",
+      "ar": "قصر آيت بن حدو",
+      "en": "Aït Benhaddou Ksar",
+      "darija": "قصر آيت بن حدو"
+    },
+    "shortDescription": {
+      "fr": "Un village fortifié en pisé classé à l'UNESCO, sur l'ancienne route caravanière entre le Sahara et Marrakech, célèbre décor de cinéma.",
+      "ar": "قرية محصنة مبنية بالطين مصنفة في التراث العالمي لليونيسكو، على طريق القوافل القديم بين الصحراء ومراكش، وموقع تصوير سينمائي شهير.",
+      "en": "A fortified earthen village listed by UNESCO, on the ancient caravan route between the Sahara and Marrakech, a famous film location.",
+      "darija": "قرية محصنة مبنية بالطين مصنفة فالتراث العالمي ديال اليونيسكو، على طريق القوافل القديم بين الصحراء ومراكش، وموقع تصوير سينمائي مشهور."
+    },
+    "fullArticle": {
+      "fr": "Aït Benhaddou est un ksar (village fortifié) typique de l'architecture pré-saharienne, composé de maisons en terre regroupées derrière des remparts crénelés et des tours d'angle. Inscrit au patrimoine mondial de l'UNESCO depuis 1987, il a été le théâtre de tournages de nombreux films et séries internationaux, dont Lawrence d'Arabie, Gladiator et Game of Thrones. Bien que la majorité des habitants aient quitté le ksar pour le village moderne de l'autre côté de la rivière Asif Ounila, quelques familles continuent d'y vivre et d'entretenir les bâtiments en terre crue selon des techniques ancestrales. La montée jusqu'au sommet du ksar offre une vue magnifique sur la vallée et l'Anti-Atlas environnant.",
+      "ar": "آيت بن حدو هو قصر (قرية محصنة) نموذجي للعمارة شبه الصحراوية، يتكون من منازل طينية متجمعة خلف أسوار مسننة وأبراج زاوية. مسجل في التراث العالمي لليونيسكو منذ سنة 1987، وكان مسرحاً لتصوير العديد من الأفلام والمسلسلات العالمية، منها لورانس العرب وغلادييتور وصراع العروش. ورغم أن معظم السكان غادروا القصر إلى القرية الحديثة عبر نهر أسيف ونيلا، لا تزال بعض العائلات تعيش هناك وتعتني بالمباني الطينية وفق تقنيات موروثة. الصعود إلى أعلى القصر يوفر منظراً رائعاً للوادي والأطلس الصغير المحيط.",
+      "en": "Aït Benhaddou is a ksar (fortified village) typical of pre-Saharan architecture, made up of earthen houses clustered behind crenellated ramparts and corner towers. Listed as a UNESCO World Heritage Site since 1987, it has been the filming location for many international films and series, including Lawrence of Arabia, Gladiator and Game of Thrones. Although most inhabitants have moved to the modern village across the Asif Ounila River, a few families still live there and maintain the earthen buildings using ancestral techniques. The climb to the top of the ksar offers a magnificent view of the valley and the surrounding Anti-Atlas.",
+      "darija": "آيت بن حدو هو قصر (قرية محصنة) نموذجي للعمارة قبل الصحراوية، مكون من ديور طينية مجمعة ورا أسوار مسننة وأبراج فالزوايا. مسجل فالتراث العالمي ديال اليونيسكو من 1987، وكان مكان لتصوير بزاف ديال الأفلام والمسلسلات العالمية، منهم لورنس العرب وغلادياتور وصراع العروش. وحتى كيما معظم السكان غادرو القصر للقرية الحديثة عبر واد أسيف ونيلا، مازال شي عائلات عايشين تما وكيهتمو بالبناي الطيني بتقنيات قديمة. الطلعة لقمة القصر كتعطي منظر رائع على الوادي والأطلس الصغير اللي حداه."
+    },
+    "locationType": "monument",
+    "location": {
+      "country": "Maroc",
+      "region": "Drâa-Tafilalet",
+      "province": "Ouarzazate",
+      "city": "Aït Benhaddou",
+      "address": "Vallée de l'Asif Ounila, Ouarzazate",
+      "coordinates": { "type": "Point", "coordinates": [-7.1311, 31.0472] }
+    },
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/A%C3%AFtBenhaddou_Morocco_2.jpg/960px-A%C3%AFtBenhaddou_Morocco_2.jpg",
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/A%C3%AFtBenhaddou_Morocco_2.jpg/960px-A%C3%AFtBenhaddou_Morocco_2.jpg",
+        "caption": { "fr": "Vue d'ensemble du ksar d'Aït Benhaddou", "ar": "منظر عام لقصر آيت بن حدو", "en": "Overview of the Aït Benhaddou ksar", "darija": "منظر عام لقصر آيت بن حدو" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Ait_Zineb_-_Ksar_of_A%C3%AFt_Benhaddou_-_20190716174408.jpg/960px-Ait_Zineb_-_Ksar_of_A%C3%AFt_Benhaddou_-_20190716174408.jpg",
+        "caption": { "fr": "Les remparts en terre et tours d'angle", "ar": "الأسوار الطينية وأبراج الزوايا", "en": "The earthen ramparts and corner towers", "darija": "الأسوار الطينية والأبراج" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Ait_Zineb_-_Ksar_of_A%C3%AFt_Benhaddou_-_20190716174533.jpg/960px-Ait_Zineb_-_Ksar_of_A%C3%AFt_Benhaddou_-_20190716174533.jpg",
+        "caption": { "fr": "Ruelles intérieures du village fortifié", "ar": "أزقة داخلية للقرية المحصنة", "en": "Inner alleys of the fortified village", "darija": "أزقة داخلية ديال القرية المحصنة" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Ait_Zineb_-_Ksar_of_A%C3%AFt_Benhaddou_-_20190716175500.jpg/960px-Ait_Zineb_-_Ksar_of_A%C3%AFt_Benhaddou_-_20190716175500.jpg",
+        "caption": { "fr": "La rivière Asif Ounila au pied du ksar", "ar": "نهر أسيف ونيلا عند سفح القصر", "en": "The Asif Ounila River at the foot of the ksar", "darija": "واد أسيف ونيلا فقاع القصر" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Ait_Zineb_-_Ksar_of_A%C3%AFt_Benhaddou_-_20190716175721.jpg/960px-Ait_Zineb_-_Ksar_of_A%C3%AFt_Benhaddou_-_20190716175721.jpg",
+        "caption": { "fr": "Vue depuis le sommet du ksar", "ar": "منظر من قمة القصر", "en": "View from the top of the ksar", "darija": "منظر من قمة القصر" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Ait_Zineb_-_Ksar_of_A%C3%AFt_Benhaddou_-_20190716180605.jpg/960px-Ait_Zineb_-_Ksar_of_A%C3%AFt_Benhaddou_-_20190716180605.jpg",
+        "caption": { "fr": "Architecture en terre typique de la région", "ar": "العمارة الطينية المميزة للمنطقة", "en": "Typical earthen architecture of the region", "darija": "العمارة الطينية المميزة ديال المنطقة" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Camels_at_A%C3%AFt_Benhaddou%2C_Saharan_caravan_route%2C_Morocco_%28%D8%A2%D9%8A%D8%AA_%D8%A8%D9%86_%D8%AD%D8%AF%D9%91%D9%88%2C_%E2%B4%B0%E2%B5%A2%E2%B5%9C_%E2%B4%B0%E2%B4%B7%E2%B4%B7%E2%B5%93%29.jpg/960px-Camels_at_A%C3%AFt_Benhaddou%2C_Saharan_caravan_route%2C_Morocco_%28%D8%A2%D9%8A%D8%AA_%D8%A8%D9%86_%D8%AD%D8%AF%D9%91%D9%88%2C_%E2%B4%B0%E2%B5%A2%E2%B5%9C_%E2%B4%B0%E2%B4%B7%E2%B4%B7%E2%B5%93%29.jpg",
+        "caption": { "fr": "Dromadaires sur l'ancienne route caravanière", "ar": "جمال على طريق القوافل القديم", "en": "Camels on the ancient caravan route", "darija": "جمال على طريق القوافل القديم" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Ksar_A%C3%AFt_Benhaddou%2C_Marocco_%28%D8%A3%D9%8A%D8%AA_%D8%A8%D9%86_%D8%AD%D8%AF%D9%88%D8%8C_%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8%2C_%E2%B4%B0%E2%B5%A2%E2%B5%9C_%E2%B4%B0%E2%B4%B7%E2%B4%B7%E2%B5%93%29.jpg/960px-Ksar_A%C3%AFt_Benhaddou%2C_Marocco_%28%D8%A3%D9%8A%D8%AA_%D8%A8%D9%86_%D8%AD%D8%AF%D9%88%D8%8C_%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8%2C_%E2%B4%B0%E2%B4%B7%E2%B4%B7%E2%B5%93%29.jpg",
+        "caption": { "fr": "Le ksar au coucher du soleil", "ar": "القصر عند غروب الشمس", "en": "The ksar at sunset", "darija": "القصر فوقت الغروب" },
+        "credit": "Wikimedia Commons"
+      }
+    ],
+    "videos": [],
+    "practicalInfo": {
+      "bestSeason": {
+        "fr": "Octobre à avril, pour des températures clémentes lors de la visite du site exposé au soleil.",
+        "ar": "من أكتوبر إلى أبريل، لدرجات حرارة معتدلة أثناء زيارة الموقع المعرض للشمس.",
+        "en": "October to April, for mild temperatures when visiting this sun-exposed site.",
+        "darija": "من أكتوبر لأبريل، لدرجة حرارة معتدلة باش تزور البقعة المعرضة للشمس."
+      },
+      "openingHours": {
+        "fr": "Site accessible toute la journée, idéalement de 8h à 18h.",
+        "ar": "الموقع مفتوح طوال اليوم، الأفضل من 8 صباحاً إلى 6 مساءً.",
+        "en": "Site accessible all day, ideally 8am to 6pm.",
+        "darija": "البقعة مفتوحة طول النهار، الأحسن من 8 الصباح حتى 6 العشية."
+      },
+      "entryFee": {
+        "fr": "Environ 20 MAD par personne ; guide local recommandé pour environ 100 MAD.",
+        "ar": "حوالي 20 درهم للشخص؛ يُنصح بمرشد محلي بسعر حوالي 100 درهم.",
+        "en": "About 20 MAD per person; a local guide is recommended for around 100 MAD.",
+        "darija": "تقريبا 20 درهم للفرد؛ منصوح بمرشد محلي بثمن تقريبا 100 درهم."
+      },
+      "howToGet": {
+        "fr": "Environ 30 minutes en voiture depuis Ouarzazate, sur la route N9 vers Marrakech.",
+        "ar": "حوالي 30 دقيقة بالسيارة من ورزازات، على الطريق N9 نحو مراكش.",
+        "en": "About 30 minutes by car from Ouarzazate, on the N9 road towards Marrakech.",
+        "darija": "حوالي 30 دقيقة بالطوموبيل من ورزازات، على الطريق N9 نحو مراكش."
+      },
+      "accessibility": {
+        "fr": "Passage à gué ou petit pont pour traverser la rivière selon la saison ; escaliers en terre pour monter au sommet.",
+        "ar": "عبور الوادي عبر معبر أو جسر صغير حسب الموسم؛ سلالم طينية للصعود إلى القمة.",
+        "en": "Crossing the river via a ford or small bridge depending on the season; earthen stairs to reach the top.",
+        "darija": "عبور الواد عبر معبر أو قنطرة صغيرة على حساب الموسم؛ درج طيني للطلعة للقمة."
+      }
+    },
+    "activities": {
+      "fr": "Visite guidée du ksar, photographie, découverte des décors de tournage, randonnée vers la colline panoramique.",
+      "ar": "زيارة مرفوقة للقصر، التصوير، اكتشاف مواقع التصوير السينمائي، المشي نحو التل البانورامي.",
+      "en": "Guided tour of the ksar, photography, discovering film sets, hiking to the panoramic hill.",
+      "darija": "زيارة مرفقة للقصر، تصاور، اكتشاف مواقع التصوير، والمشي نحو الهضبة البانورامية."
+    },
+    "tags": ["unesco", "ksar", "ouarzazate", "cinema", "patrimoine"],
+    "isActive": true,
+    "isFeatured": true,
+    "slug": "ksar-ait-benhaddou",
+    "metaTitle": {
+      "fr": "Ksar d'Aït Benhaddou | Kenz Bladi",
+      "ar": "قصر آيت بن حدو | كنز بلادي",
+      "en": "Aït Benhaddou Ksar | Kenz Bladi",
+      "darija": "قصر آيت بن حدو | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Découvrez le ksar d'Aït Benhaddou, village fortifié classé UNESCO et célèbre décor de cinéma près d'Ouarzazate.",
+      "ar": "اكتشف قصر آيت بن حدو، القرية المحصنة المصنفة لدى اليونيسكو وموقع التصوير السينمائي الشهير قرب ورزازات.",
+      "en": "Discover the Aït Benhaddou ksar, a UNESCO-listed fortified village and famous film location near Ouarzazate.",
+      "darija": "اكتشف قصر آيت بن حدو، القرية المحصنة المصنفة لليونيسكو وموقع التصوير المشهور قريب من ورزازات."
+    },
+    "viewCount": 0,
+    "rating": 4.7
+  },
+  {
+    "name": {
+      "fr": "Site archéologique de Volubilis",
+      "ar": "الموقع الأثري وليلي",
+      "en": "Volubilis Archaeological Site",
+      "darija": "الموقع الأثري وليلي"
+    },
+    "shortDescription": {
+      "fr": "Les ruines romaines les mieux conservées du Maroc, classées à l'UNESCO, célèbres pour leurs mosaïques et leurs colonnes antiques.",
+      "ar": "أفضل أطلال رومانية محفوظة بالمغرب، مصنفة في التراث العالمي لليونيسكو، تشتهر بفسيفسائها وأعمدتها القديمة.",
+      "en": "Morocco's best-preserved Roman ruins, a UNESCO World Heritage Site, famous for their mosaics and ancient columns.",
+      "darija": "أحسن أطلال رومانية محفوظة بالمغرب، مصنفة فالتراث العالمي ديال اليونيسكو، مشهورة بالفسيفساء والأعمدة القديمة."
+    },
+    "fullArticle": {
+      "fr": "Située près de Meknès, Volubilis fut une importante cité romaine fondée au IIIe siècle avant J.-C., qui devint la capitale de la province de Maurétanie tingitane. Le site archéologique, classé à l'UNESCO en 1997, conserve des vestiges remarquables : l'arc de triomphe dédié à l'empereur Caracalla, la basilique, le capitole, et surtout des dizaines de mosaïques au sol représentant des scènes mythologiques d'une grande finesse, comme celle des Travaux d'Hercule ou de Bacchus. Les colonnes corinthiennes encore debout témoignent de la splendeur passée de la cité, entourée aujourd'hui de champs d'oliviers verdoyants. La proximité avec la ville sainte de Moulay Idriss permet de combiner les deux visites.",
+      "ar": "تقع وليلي قرب مكناس، وكانت مدينة رومانية مهمة تأسست في القرن الثالث قبل الميلاد، وأصبحت عاصمة مقاطعة موريطانيا الطنجية. الموقع الأثري، المصنف لدى اليونيسكو سنة 1997، يحتفظ بآثار بارزة: قوس النصر المهدى للإمبراطور كاراكلا، الكنيسة الرومانية (البازيليك)، الكابيتول، وخصوصاً عشرات اللوحات الفسيفسائية الأرضية التي تمثل مشاهد أسطورية بدقة عالية، مثل لوحة أعمال هرقل أو باخوس. الأعمدة الكورنثية التي ما زالت قائمة تشهد على عظمة المدينة سابقاً، المحاطة اليوم بحقول زيتون خضراء. قربها من مدينة مولاي إدريس المقدسة يسمح بالجمع بين الزيارتين.",
+      "en": "Located near Meknès, Volubilis was an important Roman city founded in the 3rd century BC, which became the capital of the province of Mauretania Tingitana. The archaeological site, listed by UNESCO in 1997, preserves remarkable remains: the triumphal arch dedicated to Emperor Caracalla, the basilica, the capitol, and above all dozens of floor mosaics depicting mythological scenes with great finesse, such as the Labours of Hercules or Bacchus. The still-standing Corinthian columns testify to the city's past splendour, now surrounded by green olive groves. Its proximity to the holy city of Moulay Idriss allows both sites to be visited together.",
+      "darija": "وليلي كاينة قريب من مكناس، وكانت مدينة رومانية مهمة تأسست فالقرن الثالث قبل الميلاد، وولات عاصمة إقليم موريطانيا الطنجية. الموقع الأثري، المصنف عند اليونيسكو فعام 1997، فيه آثار مهمة: قوس النصر المهدى للإمبراطور كاراكلا، البازيليك، الكابيتول، وبزاف ديال لوحات الفسيفساء الأرضية اللي كتمثل مشاهد أسطورية بدقة كبيرة، بحال لوحة أعمال هرقل أو باخوس. الأعمدة الكورنثية اللي مازالت واقفة كتشهد على عظمة المدينة فالماضي، محاطة اليوم بحقول الزيتون الخضراء. قربها من مدينة مولاي إدريس المقدسة كيسمح تجمع بين الزيارتين."
+    },
+    "locationType": "monument",
+    "location": {
+      "country": "Maroc",
+      "region": "Fès-Meknès",
+      "province": "Meknès",
+      "city": "Moulay Idriss Zerhoun",
+      "address": "Site archéologique de Volubilis, près de Meknès",
+      "coordinates": { "type": "Point", "coordinates": [-5.5547, 34.0742] }
+    },
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Volubilis%2CMorocco.jpg/960px-Volubilis%2CMorocco.jpg",
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Volubilis%2CMorocco.jpg/960px-Volubilis%2CMorocco.jpg",
+        "caption": { "fr": "Vue panoramique du site de Volubilis", "ar": "منظر بانورامي لموقع وليلي", "en": "Panoramic view of the Volubilis site", "darija": "منظر بانورامي لموقع وليلي" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Roman_remains_in_Volubilis%2C_Morocco.JPG/960px-Roman_remains_in_Volubilis%2C_Morocco.JPG",
+        "caption": { "fr": "Vestiges romains et colonnes corinthiennes", "ar": "آثار رومانية وأعمدة كورنثية", "en": "Roman remains and Corinthian columns", "darija": "آثار رومانية وأعمدة كورنثية" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Jean-Pierre_Ghysels%2C_Volubilis%2C_1967.jpg/960px-Jean-Pierre_Ghysels%2C_Volubilis%2C_1967.jpg",
+        "caption": { "fr": "Vue historique du site archéologique", "ar": "منظر تاريخي للموقع الأثري", "en": "Historic view of the archaeological site", "darija": "منظر تاريخي للموقع الأثري" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Volubilis_1990.jpg/960px-Volubilis_1990.jpg",
+        "caption": { "fr": "L'arc de triomphe de Caracalla", "ar": "قوس النصر المهدى لكاراكلا", "en": "The triumphal arch of Caracalla", "darija": "قوس النصر ديال كاراكلا" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Blick_auf_Volubilis_1990.jpg/960px-Blick_auf_Volubilis_1990.jpg",
+        "caption": { "fr": "Vue sur les ruines entourées d'oliviers", "ar": "منظر للأطلال المحاطة بأشجار الزيتون", "en": "View of the ruins surrounded by olive trees", "darija": "منظر على الأطلال محاطة بشجر الزيتون" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Volubilis_und_Landschaft_1990.jpg/960px-Volubilis_und_Landschaft_1990.jpg",
+        "caption": { "fr": "Paysage environnant le site antique", "ar": "المناظر الطبيعية المحيطة بالموقع القديم", "en": "Landscape surrounding the ancient site", "darija": "المناظر الطبيعية اللي محيطة بالموقع القديم" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Volubilis_-_antikes_Bodenmosaik.jpg/960px-Volubilis_-_antikes_Bodenmosaik.jpg",
+        "caption": { "fr": "Mosaïque romaine au sol représentant une scène mythologique", "ar": "فسيفساء أرضية رومانية تمثل مشهداً أسطورياً", "en": "Roman floor mosaic depicting a mythological scene", "darija": "فسيفساء رومانية أرضية كتمثل مشهد أسطوري" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Volubilis_-_Basilica_romana.jpg/960px-Volubilis_-_Basilica_romana.jpg",
+        "caption": { "fr": "La basilique romaine de Volubilis", "ar": "البازيليك الرومانية بوليلي", "en": "The Roman basilica of Volubilis", "darija": "البازيليك الرومانية ديال وليلي" },
+        "credit": "Wikimedia Commons"
+      }
+    ],
+    "videos": [],
+    "practicalInfo": {
+      "bestSeason": {
+        "fr": "Mars à juin et septembre à novembre, le site étant très exposé au soleil en été.",
+        "ar": "من مارس إلى يونيو ومن شتنبر إلى نونبر، لأن الموقع معرض جداً للشمس صيفاً.",
+        "en": "March to June and September to November, as the site is very exposed to the sun in summer.",
+        "darija": "من مارس ليونيو ومن شتنبر لنونبر، حيت البقعة معرضة بزاف للشمس فالصيف."
+      },
+      "openingHours": {
+        "fr": "Ouvert tous les jours de 8h30 à 18h (17h en hiver).",
+        "ar": "مفتوح يومياً من 8:30 صباحاً إلى 6 مساءً (5 مساءً في الشتاء).",
+        "en": "Open daily from 8:30am to 6pm (5pm in winter).",
+        "darija": "مفتوح كل نهار من 8:30 الصباح حتى 6 العشية (5 العشية فالشتاء)."
+      },
+      "entryFee": {
+        "fr": "Environ 70 MAD pour les adultes étrangers, tarif réduit pour les résidents et étudiants.",
+        "ar": "حوالي 70 درهم للأجانب البالغين، سعر مخفض للمقيمين والطلبة.",
+        "en": "About 70 MAD for foreign adults, reduced rate for residents and students.",
+        "darija": "تقريبا 70 درهم للأجانب الكبار، ثمن مخفض للمقيمين والطلبة."
+      },
+      "howToGet": {
+        "fr": "Environ 30 minutes en voiture depuis Meknès, ou excursion combinée avec Moulay Idriss.",
+        "ar": "حوالي 30 دقيقة بالسيارة من مكناس، أو رحلة مجمعة مع مولاي إدريس.",
+        "en": "About 30 minutes by car from Meknès, or a combined excursion with Moulay Idriss.",
+        "darija": "حوالي 30 دقيقة بالطوموبيل من مكناس، أو رحلة مجمعة مع مولاي إدريس."
+      },
+      "accessibility": {
+        "fr": "Terrain inégal avec pierres et herbes ; chapeau et eau recommandés en raison de l'absence d'ombre.",
+        "ar": "أرضية غير مستوية بالحجارة والأعشاب؛ يُنصح بقبعة وماء بسبب غياب الظل.",
+        "en": "Uneven ground with stones and grass; hat and water recommended due to lack of shade.",
+        "darija": "الأرض غير مستوية بالحجر والعشب؛ خاصك الشابو والما حيت ماكاينش الظل."
+      }
+    },
+    "activities": {
+      "fr": "Visite guidée des ruines et mosaïques, excursion combinée avec Moulay Idriss Zerhoun, photographie archéologique.",
+      "ar": "زيارة مرفوقة للأطلال والفسيفساء، رحلة مجمعة مع مولاي إدريس زرهون، التصوير الأثري.",
+      "en": "Guided tour of the ruins and mosaics, combined excursion with Moulay Idriss Zerhoun, archaeological photography.",
+      "darija": "زيارة مرفقة للأطلال والفسيفساء، رحلة مجمعة مع مولاي إدريس زرهون، وتصوير أثري."
+    },
+    "tags": ["unesco", "romain", "archeologie", "meknes", "histoire"],
+    "isActive": true,
+    "isFeatured": false,
+    "slug": "site-archeologique-volubilis",
+    "metaTitle": {
+      "fr": "Site archéologique de Volubilis | Kenz Bladi",
+      "ar": "الموقع الأثري وليلي | كنز بلادي",
+      "en": "Volubilis Archaeological Site | Kenz Bladi",
+      "darija": "الموقع الأثري وليلي | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Visitez Volubilis, site romain classé UNESCO près de Meknès, célèbre pour ses mosaïques et son arc de triomphe.",
+      "ar": "زر وليلي، الموقع الروماني المصنف لدى اليونيسكو قرب مكناس، المشهور بفسيفسائه وقوس نصره.",
+      "en": "Visit Volubilis, a UNESCO-listed Roman site near Meknès, famous for its mosaics and triumphal arch.",
+      "darija": "زور وليلي، الموقع الروماني المصنف لليونيسكو قريب من مكناس، المشهور بالفسيفساء وقوس النصر."
+    },
+    "viewCount": 0,
+    "rating": 4.6
+  },
+  {
+    "name": {
+      "fr": "Festival des Roses de Kelaât M'Gouna",
+      "ar": "مهرجان الورد بقلعة مكونة",
+      "en": "Kelaât M'Gouna Rose Festival",
+      "darija": "موسم الورد ديال قلعة مكونة"
+    },
+    "shortDescription": {
+      "fr": "Une fête annuelle célébrant la récolte de la rose de Damas dans la vallée des Roses, avec défilés, musique et élection de Miss Roses.",
+      "ar": "احتفال سنوي يحتفي بجني الورد الدمشقي في وادي الورود، يتضمن عروضاً وموسيقى وانتخاب ملكة جمال الورد.",
+      "en": "An annual celebration of the Damask rose harvest in the Valley of Roses, with parades, music and the election of Miss Rose.",
+      "darija": "احتفال سنوي بجني الورد الدمشقي فوادي الورود، فيه عروض وموسيقى وانتخاب ملكة الورد."
+    },
+    "fullArticle": {
+      "fr": "Chaque année en mai, la ville de Kelaât M'Gouna, surnommée la « capitale de la rose », célèbre la récolte de la rose de Damas (Rosa damascena) lors d'un festival haut en couleurs. Pendant trois jours, les habitants des villages environnants de la vallée du Dadès défilent en costumes traditionnels brodés de fleurs, des chars couverts de pétales de roses parcourent les rues, et des troupes de musique et de danse ahidous se produisent. Le point culminant est l'élection de Miss Roses parmi les jeunes femmes de la région. Ce festival, classé patrimoine culturel immatériel du Maroc, célèbre également l'économie locale liée à la distillation de l'eau de rose et de l'huile essentielle, exportées dans le monde entier pour la cosmétique et la parfumerie.",
+      "ar": "كل سنة في شهر ماي، تحتفل مدينة قلعة مكونة، الملقبة بـ«عاصمة الورد»، بجني الورد الدمشقي (Rosa damascena) في مهرجان مفعم بالألوان. خلال ثلاثة أيام، يتجول سكان القرى المحيطة بوادي دادس في أزياء تقليدية مطرزة بالورود، وتجوب عربات مزينة بالبتلات شوارع المدينة، وتقدم فرق موسيقى ورقص أحيدوس عروضها. الذروة هي انتخاب ملكة جمال الورد من بين شابات المنطقة. يحتفي هذا المهرجان، المصنف ضمن التراث الثقافي اللامادي للمغرب، أيضاً بالاقتصاد المحلي المرتبط بتقطير ماء الورد والزيت العطري، اللذين يصدران إلى العالم لصناعة مستحضرات التجميل والعطور.",
+      "en": "Every year in May, the town of Kelaât M'Gouna, nicknamed the 'rose capital', celebrates the Damask rose (Rosa damascena) harvest with a colourful festival. For three days, residents of the surrounding villages in the Dadès Valley parade in traditional costumes embroidered with flowers, floats covered in rose petals roll through the streets, and ahidous music and dance troupes perform. The highlight is the election of Miss Rose among the region's young women. This festival, listed as part of Morocco's intangible cultural heritage, also celebrates the local economy linked to the distillation of rose water and essential oil, exported worldwide for cosmetics and perfumery.",
+      "darija": "كل عام فشهر ماي، مدينة قلعة مكونة، اللي كتسمى «عاصمة الورد»، كتحتفل بجني الورد الدمشقي (Rosa damascena) فمهرجان مليان ألوان. خلال تلت أيام، سكان الدواوير اللي محيطين بوادي دادس كيخرجو بزي تقليدي مطرز بالورود، وعربات مزينة بالورق ديال الورد كتجول فالشوارع، وفرق ديال موسيقى ورقص أحيدوس كتقدم عروضها. الذروة هي انتخاب ملكة الورد من بين بنات المنطقة. هاد المهرجان، المصنف فالتراث الثقافي اللامادي ديال المغرب، كيحتفي أيضا بالاقتصاد المحلي المرتبط بتقطير ماء الورد والزيت العطري، اللي كيتصدرو للعالم كامل لصناعة مستحضرات التجميل والعطور."
+    },
+    "locationType": "festival",
+    "location": {
+      "country": "Maroc",
+      "region": "Drâa-Tafilalet",
+      "province": "Tinghir",
+      "city": "Kelaât M'Gouna",
+      "address": "Vallée des Roses, Kelaât M'Gouna",
+      "coordinates": { "type": "Point", "coordinates": [-6.0306, 31.2458] }
+    },
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Rosa_damascena_kelaa_mgouna_Morocco.png",
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Rosa_damascena_kelaa_mgouna_Morocco.png",
+        "caption": { "fr": "Roses de Damas dans la vallée des Roses", "ar": "الورد الدمشقي في وادي الورود", "en": "Damask roses in the Valley of Roses", "darija": "الورد الدمشقي فوادي الورود" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Rosa_damascena_kelaa_mgouna_%D9%82%D9%84%D8%B9%D8%A9_%D9%85%D9%83%D9%88%D9%86%D8%A9.jpg/960px-Rosa_damascena_kelaa_mgouna_%D9%82%D9%84%D8%B9%D8%A9_%D9%85%D9%83%D9%88%D9%86%D8%A9.jpg",
+        "caption": { "fr": "Champs de roses près de Kelaât M'Gouna", "ar": "حقول الورد قرب قلعة مكونة", "en": "Rose fields near Kelaât M'Gouna", "darija": "حقول الورد قريب من قلعة مكونة" },
+        "credit": "Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Rosa_Damascena_kelaa_Mgouna.jpg/960px-Rosa_Damascena_kelaa_Mgouna.jpg",
+        "caption": { "fr": "Récolte de roses de Damas en fleurs", "ar": "جني أزهار الورد الدمشقي", "en": "Harvesting blooming Damask roses", "darija": "جني الورد الدمشقي وهو مزهر" },
+        "credit": "Wikimedia Commons"
+      }
+    ],
+    "videos": [],
+    "practicalInfo": {
+      "bestSeason": {
+        "fr": "Le festival a lieu chaque année en mai, pendant la pleine floraison des roses.",
+        "ar": "يقام المهرجان سنوياً في شهر ماي، خلال موسم تفتح الورود الكامل.",
+        "en": "The festival takes place every year in May, during the full bloom of the roses.",
+        "darija": "المهرجان كيتقام كل عام فشهر ماي، وقت ما الورد كيكون فازهارو الكامل."
+      },
+      "openingHours": {
+        "fr": "Programme étalé sur trois jours, avec défilés et spectacles principalement en après-midi et en soirée.",
+        "ar": "برنامج يمتد على ثلاثة أيام، مع عروض وفعاليات بشكل أساسي بعد الظهر والمساء.",
+        "en": "Programme spread over three days, with parades and shows mainly in the afternoon and evening.",
+        "darija": "البرنامج كيمتد على تلت أيام، مع عروض وفعاليات بزاف فالعشية والليل."
+      },
+      "entryFee": {
+        "fr": "Accès gratuit aux festivités principales et défilés dans les rues de la ville.",
+        "ar": "الدخول مجاني للفعاليات الرئيسية والعروض في شوارع المدينة.",
+        "en": "Free access to the main festivities and parades through the town streets.",
+        "darija": "الدخول بلاش للفعاليات الرئيسية والعروض فشوارع المدينة."
+      },
+      "howToGet": {
+        "fr": "Environ 1h30 de route depuis Ouarzazate, sur la route des vallées (N10).",
+        "ar": "حوالي ساعة ونصف بالطريق من ورزازات، على طريق الوديان (N10).",
+        "en": "About 1.5 hours by road from Ouarzazate, on the Valley Road (N10).",
+        "darija": "حوالي ساعة ونص بالطريق من ورزازات، على طريق الوديان (N10)."
+      },
+      "accessibility": {
+        "fr": "Forte affluence pendant le festival ; réserver l'hébergement bien à l'avance.",
+        "ar": "إقبال كبير خلال المهرجان؛ يُنصح بحجز الإقامة مسبقاً.",
+        "en": "Large crowds during the festival; book accommodation well in advance.",
+        "darija": "الزحام كبير خلال المهرجان؛ خاصك تحجز السكن بكري."
+      }
+    },
+    "activities": {
+      "fr": "Défilés en costumes traditionnels, élection de Miss Roses, danses ahidou, achat de produits à base de roses, visite des coopératives de distillation.",
+      "ar": "عروض بالأزياء التقليدية، انتخاب ملكة جمال الورد، رقصات أحيدوس، شراء منتجات الورد، زيارة تعاونيات التقطير.",
+      "en": "Parades in traditional costumes, election of Miss Rose, ahidous dances, buying rose-based products, visiting distillation cooperatives.",
+      "darija": "عروض بالأزياء التقليدية، انتخاب ملكة الورد، رقصات أحيدوس، شرا منتوجات الورد، وزيارة تعاونيات التقطير."
+    },
+    "tags": ["festival", "vallee_des_roses", "kelaat_mgouna", "culture", "artisanat"],
+    "isActive": true,
+    "isFeatured": true,
+    "slug": "festival-des-roses-kelaat-mgouna",
+    "metaTitle": {
+      "fr": "Festival des Roses de Kelaât M'Gouna | Kenz Bladi",
+      "ar": "مهرجان الورد بقلعة مكونة | كنز بلادي",
+      "en": "Kelaât M'Gouna Rose Festival | Kenz Bladi",
+      "darija": "موسم الورد ديال قلعة مكونة | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Découvrez le Festival des Roses de Kelaât M'Gouna, célébration annuelle de la rose de Damas dans la vallée des Roses au Maroc.",
+      "ar": "اكتشف مهرجان الورد بقلعة مكونة، الاحتفال السنوي بالورد الدمشقي في وادي الورود بالمغرب.",
+      "en": "Discover the Kelaât M'Gouna Rose Festival, an annual celebration of the Damask rose in Morocco's Valley of Roses.",
+      "darija": "اكتشف موسم الورد ديال قلعة مكونة، الاحتفال السنوي بالورد الدمشقي فوادي الورود بالمغرب."
+    },
+    "viewCount": 0,
+    "rating": 4.6
+  }
+]

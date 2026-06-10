@@ -1,0 +1,641 @@
+[
+  {
+    "name": {
+      "fr": "Caftan marocain brodé de luxe",
+      "ar": "قفطان مغربي فاخر مطرز",
+      "en": "Luxury Embroidered Moroccan Caftan",
+      "darija": "قفطان مغربي فاخر مطرز"
+    },
+    "description": {
+      "fr": "Caftan de cérémonie confectionné dans un tissu noble (velours ou soie), rehaussé de broderies dorées réalisées à la main au fil de soquetage selon la technique traditionnelle de Fès. Fermé par une rangée de boutons brandebourgs et ceinturé d'une ceinture assortie, ce caftan incarne l'élégance intemporelle de la haute couture marocaine. Pièce idéale pour mariages et grandes occasions.",
+      "ar": "قفطان للمناسبات الكبرى مصنوع من قماش فاخر (مخمل أو حرير)، مزين بتطريز ذهبي منجز يدويًا بتقنية السقطي التقليدية الفاسية. يُغلق بصف من الأزرار البرونزية ويُربط بحزام مطابق، ويجسد هذا القفطان الأناقة الخالدة للأزياء الراقية المغربية. قطعة مثالية للأعراس والمناسبات الكبرى.",
+      "en": "A ceremonial caftan crafted from noble fabric (velvet or silk), enhanced with hand-made gold embroidery using the traditional 'sqalli' technique of Fès. Closed with a row of ornate buttons and cinched with a matching belt, this caftan embodies the timeless elegance of Moroccan haute couture. An ideal piece for weddings and grand occasions.",
+      "darija": "قفطان ديال المناسبات الكبيرة مصنوع من قماش فاخر (المخمل ولا الحرير)، مزين بطرازة ديال الذهب مصنوعة بليد بتقنية السقطي التقليدية ديال فاس. كيتسد بصف ديال الزرار وكيترط بحزام مناسب، هاد القفطان كيعبر على الأناقة الخالدة ديال الموضة المغربية الراقية. قطعة مزيانة للعرس والمناسبات الكبيرة."
+    },
+    "shortDescription": {
+      "fr": "Caftan de cérémonie en velours brodé main, technique sqalli de Fès.",
+      "ar": "قفطان للمناسبات من المخمل المطرز يدويًا بتقنية السقطي الفاسية.",
+      "en": "Ceremonial velvet caftan with hand embroidery, Fès sqalli technique.",
+      "darija": "قفطان ديال المناسبات من المخمل مطرز بليد بتقنية السقطي الفاسية."
+    },
+    "unit": { "fr": "pièce", "ar": "قطعة", "en": "piece", "darija": "وحدة" },
+    "price": 1450,
+    "priceDiscount": 1290,
+    "currency": "MAD",
+    "domain": "habillement_mode",
+    "subcategory": {
+      "fr": "Caftans & Takchitas",
+      "ar": "القفطان والتكشيطة",
+      "en": "Caftans & Takchitas",
+      "darija": "القفطان والتكشيطة"
+    },
+    "tags": ["caftan", "broderie", "mariage", "haute couture", "Fès"],
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Moroccan_Caftan%2C_Bahia_Palace%2C_Marrakech%2C_Morocco.jpg/960px-Moroccan_Caftan%2C_Bahia_Palace%2C_Marrakech%2C_Morocco.jpg",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Moroccan_Caftan%2C_Bahia_Palace%2C_Marrakech%2C_Morocco.jpg/960px-Moroccan_Caftan%2C_Bahia_Palace%2C_Marrakech%2C_Morocco.jpg",
+        "alt": {
+          "fr": "Caftan marocain exposé au Palais Bahia",
+          "ar": "قفطان مغربي معروض في قصر الباهية",
+          "en": "Moroccan caftan displayed at Bahia Palace",
+          "darija": "قفطان مغربي معروض فقصر الباهية"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Man%27s_robe_%28kaftan%29%2C_Morocco%2C_1900s.jpg/960px-Man%27s_robe_%28kaftan%29%2C_Morocco%2C_1900s.jpg",
+        "alt": {
+          "fr": "Détail de broderie sur un caftan ancien",
+          "ar": "تفاصيل تطريز قفطان قديم",
+          "en": "Embroidery detail on an antique caftan",
+          "darija": "تفاصيل الطرازة على قفطان قديم"
+        }
+      }
+    ],
+    "proActorDomain": "habillement_mode",
+    "stock": 12,
+    "isInfiniteStock": false,
+    "sku": "KB-MOD-001",
+    "status": "published",
+    "isActive": true,
+    "isFeatured": true,
+    "isOrganic": false,
+    "isHandmade": true,
+    "origin": { "region": "Fès-Meknès", "city": "Fès", "country": "Maroc" },
+    "certifications": ["Fait main"],
+    "slug": "caftan-marocain-brode-luxe",
+    "metaTitle": {
+      "fr": "Caftan marocain brodé de luxe – Fès | KENZ BLADI",
+      "ar": "قفطان مغربي فاخر مطرز – فاس | كنز بلادي",
+      "en": "Luxury Embroidered Moroccan Caftan – Fès | KENZ BLADI",
+      "darija": "قفطان مغربي فاخر مطرز – فاس | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Caftan de cérémonie en velours brodé d'or à la main par des artisans de Fès, parfait pour mariages.",
+      "ar": "قفطان للمناسبات من المخمل المطرز بالذهب يدويًا من طرف حرفيي فاس، مثالي للأعراس.",
+      "en": "Ceremonial velvet caftan hand-embroidered with gold by Fès artisans, perfect for weddings.",
+      "darija": "قفطان ديال المناسبات من المخمل مطرز بالذهب بيد صناع فاس، مزيان للعرس."
+    },
+    "viewCount": 1620,
+    "salesCount": 64,
+    "rating": 4.9,
+    "reviewCount": 41
+  },
+  {
+    "name": {
+      "fr": "Djellaba homme en laine tissée main",
+      "ar": "جلابة رجالية من الصوف المنسوج يدويًا",
+      "en": "Men's Hand-Woven Wool Djellaba",
+      "darija": "جلابة ديال الراجل من الصوف المنسوج بليد"
+    },
+    "description": {
+      "fr": "Djellaba traditionnelle pour homme, tissée à partir de laine de mouton locale selon les techniques ancestrales des tisserands de l'Atlas. Sa capuche pointue et ses larges manches offrent confort et protection contre le froid hivernal. Un vêtement intemporel porté au quotidien comme lors des grandes prières et fêtes religieuses.",
+      "ar": "جلابة رجالية تقليدية، منسوجة من صوف الأغنام المحلي وفق تقنيات النساجين العريقة في جبال الأطلس. تتميز بقبعتها المدببة وأكمامها الواسعة التي توفر الراحة والحماية من برد الشتاء. لباس خالد يُرتدى يوميًا وكذلك في الصلوات والأعياد الدينية الكبرى.",
+      "en": "A traditional men's djellaba, woven from local sheep's wool using the ancestral techniques of Atlas weavers. Its pointed hood and wide sleeves provide comfort and protection from the winter cold. A timeless garment worn daily as well as for major prayers and religious celebrations.",
+      "darija": "جلابة تقليدية ديال الراجل، منسوجة من صوف الغنم المحلي بالتقنيات القديمة ديال النساجة ديال الأطلس. فيها القبوة المدببة والكمام الواسعين اللي كيعطيو الراحة والحماية من البرد ديال الشتا. لباس خالد كيتلبس فاليوميات وكذلك فالصلوات والأعياد الدينية الكبيرة."
+    },
+    "shortDescription": {
+      "fr": "Djellaba en laine tissée main, capuche traditionnelle, chaude et confortable.",
+      "ar": "جلابة من الصوف المنسوج يدويًا بقبعة تقليدية، دافئة ومريحة.",
+      "en": "Hand-woven wool djellaba with traditional hood, warm and comfortable.",
+      "darija": "جلابة من الصوف منسوجة بليد بقبوة تقليدية، سخونة ومريحة."
+    },
+    "unit": { "fr": "pièce", "ar": "قطعة", "en": "piece", "darija": "وحدة" },
+    "price": 480,
+    "priceDiscount": null,
+    "currency": "MAD",
+    "domain": "habillement_mode",
+    "subcategory": {
+      "fr": "Djellabas & Gandouras",
+      "ar": "الجلابة والقندورة",
+      "en": "Djellabas & Gandouras",
+      "darija": "الجلابة والقندورة"
+    },
+    "tags": ["djellaba", "laine", "homme", "Atlas", "artisanat"],
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Moroccan_djellaba.jpg/960px-Moroccan_djellaba.jpg",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Moroccan_djellaba.jpg/960px-Moroccan_djellaba.jpg",
+        "alt": {
+          "fr": "Djellaba marocaine traditionnelle en laine",
+          "ar": "جلابة مغربية تقليدية من الصوف",
+          "en": "Traditional Moroccan wool djellaba",
+          "darija": "جلابة مغربية تقليدية ديال الصوف"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Djellaba_cannon.jpg/960px-Djellaba_cannon.jpg",
+        "alt": {
+          "fr": "Détail de la capuche d'une djellaba",
+          "ar": "تفاصيل قبعة الجلابة",
+          "en": "Detail of a djellaba hood",
+          "darija": "تفاصيل القبوة ديال الجلابة"
+        }
+      }
+    ],
+    "proActorDomain": "habillement_mode",
+    "stock": 28,
+    "isInfiniteStock": false,
+    "sku": "KB-MOD-002",
+    "status": "published",
+    "isActive": true,
+    "isFeatured": false,
+    "isOrganic": false,
+    "isHandmade": true,
+    "origin": { "region": "Béni Mellal-Khénifra", "city": "Béni Mellal", "country": "Maroc" },
+    "certifications": ["Fait main"],
+    "slug": "djellaba-homme-laine-tissee-main",
+    "metaTitle": {
+      "fr": "Djellaba homme en laine tissée main | KENZ BLADI",
+      "ar": "جلابة رجالية من الصوف المنسوج يدويًا | كنز بلادي",
+      "en": "Men's Hand-Woven Wool Djellaba | KENZ BLADI",
+      "darija": "جلابة ديال الراجل من الصوف منسوجة بليد | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Djellaba homme en laine tissée selon les techniques ancestrales des tisserands de l'Atlas, chaude et confortable.",
+      "ar": "جلابة رجالية من الصوف منسوجة بتقنيات النساجين العريقة في الأطلس، دافئة ومريحة.",
+      "en": "Men's wool djellaba woven using the ancestral techniques of Atlas weavers, warm and comfortable.",
+      "darija": "جلابة ديال الراجل من الصوف منسوجة بتقنيات النساجة القدامى ديال الأطلس، سخونة ومريحة."
+    },
+    "viewCount": 720,
+    "salesCount": 95,
+    "rating": 4.6,
+    "reviewCount": 32
+  },
+  {
+    "name": {
+      "fr": "Djellaba femme moderne brodée",
+      "ar": "جلابة نسائية عصرية مطرزة",
+      "en": "Modern Embroidered Women's Djellaba",
+      "darija": "جلابة ديال المرا عصرية مطرزة"
+    },
+    "description": {
+      "fr": "Djellaba féminine au design contemporain, taillée dans un tissu léger et fluide, agrémentée de broderies discrètes au col et aux poignets. Coupe ajustée et coloris modernes pour un look à la fois traditionnel et tendance, parfaite pour les sorties décontractées comme pour les réunions de famille.",
+      "ar": "جلابة نسائية بتصميم عصري، مصنوعة من قماش خفيف وانسيابي، مزينة بتطريز بسيط عند الياقة والأكمام. قصة ضيقة وألوان عصرية تمنح إطلالة تجمع بين الأصالة والموضة، مثالية للخرجات اليومية ولقاءات العائلة.",
+      "en": "A contemporary-design women's djellaba, cut from a light, flowing fabric and adorned with subtle embroidery at the collar and cuffs. A fitted cut and modern colors give a look that is both traditional and trendy, perfect for casual outings as well as family gatherings.",
+      "darija": "جلابة ديال المرا بتصميم عصري، مصنوعة من قماش خفيف وسلس، مزينة بطرازة بسيطة فالكول والكمام. قصة مضبوطة وألوان عصرية كتعطي لوك بين الأصالة والموضة، مزيانة للخرجات اليومية ولقاءات العائلة."
+    },
+    "shortDescription": {
+      "fr": "Djellaba légère et moderne avec broderies discrètes, coupe ajustée.",
+      "ar": "جلابة خفيفة وعصرية بتطريز بسيط وقصة ضيقة.",
+      "en": "Light, modern djellaba with subtle embroidery and a fitted cut.",
+      "darija": "جلابة خفيفة وعصرية بطرازة بسيطة وقصة مضبوطة."
+    },
+    "unit": { "fr": "pièce", "ar": "قطعة", "en": "piece", "darija": "وحدة" },
+    "price": 350,
+    "priceDiscount": 299,
+    "currency": "MAD",
+    "domain": "habillement_mode",
+    "subcategory": {
+      "fr": "Djellabas & Gandouras",
+      "ar": "الجلابة والقندورة",
+      "en": "Djellabas & Gandouras",
+      "darija": "الجلابة والقندورة"
+    },
+    "tags": ["djellaba", "femme", "moderne", "broderie"],
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Morocco%2C_djellaba%2C_end_of_20th_century_-_Bunka_Gakuen_Costume_Museum_-_DSC05317.JPG/960px-Morocco%2C_djellaba%2C_end_of_20th_century_-_Bunka_Gakuen_Costume_Museum_-_DSC05317.JPG",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Morocco%2C_djellaba%2C_end_of_20th_century_-_Bunka_Gakuen_Costume_Museum_-_DSC05317.JPG/960px-Morocco%2C_djellaba%2C_end_of_20th_century_-_Bunka_Gakuen_Costume_Museum_-_DSC05317.JPG",
+        "alt": {
+          "fr": "Djellaba féminine exposée en musée du costume",
+          "ar": "جلابة نسائية معروضة في متحف الأزياء",
+          "en": "Women's djellaba displayed in a costume museum",
+          "darija": "جلابة ديال المرا معروضة فمتحف الأزياء"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Djellaba_buttons.jpg/960px-Djellaba_buttons.jpg",
+        "alt": {
+          "fr": "Détail des boutons brodés d'une djellaba",
+          "ar": "تفاصيل أزرار مطرزة على جلابة",
+          "en": "Detail of embroidered buttons on a djellaba",
+          "darija": "تفاصيل الزرار المطرزين فالجلابة"
+        }
+      }
+    ],
+    "proActorDomain": "habillement_mode",
+    "stock": 40,
+    "isInfiniteStock": false,
+    "sku": "KB-MOD-003",
+    "status": "published",
+    "isActive": true,
+    "isFeatured": true,
+    "isOrganic": false,
+    "isHandmade": true,
+    "origin": { "region": "Casablanca-Settat", "city": "Casablanca", "country": "Maroc" },
+    "certifications": ["Fait main"],
+    "slug": "djellaba-femme-moderne-brodee",
+    "metaTitle": {
+      "fr": "Djellaba femme moderne brodée | KENZ BLADI",
+      "ar": "جلابة نسائية عصرية مطرزة | كنز بلادي",
+      "en": "Modern Embroidered Women's Djellaba | KENZ BLADI",
+      "darija": "جلابة ديال المرا عصرية مطرزة | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Djellaba femme légère et moderne, broderies discrètes au col et aux poignets, coupe ajustée.",
+      "ar": "جلابة نسائية خفيفة وعصرية، تطريز بسيط عند الياقة والأكمام، قصة ضيقة.",
+      "en": "Light, modern women's djellaba with subtle embroidery at the collar and cuffs, fitted cut.",
+      "darija": "جلابة ديال المرا خفيفة وعصرية، طرازة بسيطة فالكول والكمام، قصة مضبوطة."
+    },
+    "viewCount": 1340,
+    "salesCount": 187,
+    "rating": 4.7,
+    "reviewCount": 64
+  },
+  {
+    "name": {
+      "fr": "Takchita de cérémonie deux pièces",
+      "ar": "تكشيطة احتفالية من قطعتين",
+      "en": "Two-Piece Ceremonial Takchita",
+      "darija": "تكشيطة ديال المناسبات من جوج قطع"
+    },
+    "description": {
+      "fr": "Ensemble traditionnel composé de deux pièces superposées : une robe intérieure (tahtiya) et une tunique extérieure ouverte (dfina), reliées par une ceinture brodée (mdamma). Confectionnée dans des tissus chatoyants ornés de broderies au fil métallique, cette takchita est une pièce maîtresse de la garde-robe féminine marocaine pour les mariages et cérémonies.",
+      "ar": "طقم تقليدي يتكون من قطعتين متراكبتين: ثوب داخلي (تحتية) وقفطان خارجي مفتوح (دفينة)، يُربطان بحزام مطرز (مدمة). مصنوعة من أقمشة لامعة مزينة بتطريز بخيوط معدنية، تُعد هذه التكشيطة قطعة أساسية في خزانة المرأة المغربية للأعراس والمناسبات.",
+      "en": "A traditional outfit made of two layered pieces: an inner dress (tahtiya) and an open outer tunic (dfina), joined by an embroidered belt (mdamma). Made from shimmering fabrics adorned with metallic-thread embroidery, this takchita is a centerpiece of the Moroccan woman's wardrobe for weddings and ceremonies.",
+      "darija": "طقم تقليدي مكون من جوج قطع فوق بعضياتهم: ثوب من الداخل (تحتية) وقفطان مفتوح من الخارج (دفينة)، مربوطين بحزام مطرز (مدامة). مصنوعة من قماش لامع مزين بطرازة بخيوط معدنية، هاد التكشيطة قطعة أساسية فخزانة المرا المغربية ديال العرس والمناسبات."
+    },
+    "shortDescription": {
+      "fr": "Takchita deux pièces avec ceinture brodée, pour mariages et grandes fêtes.",
+      "ar": "تكشيطة من قطعتين مع حزام مطرز، للأعراس والمناسبات الكبرى.",
+      "en": "Two-piece takchita with embroidered belt, for weddings and major celebrations.",
+      "darija": "تكشيطة من جوج قطع مع حزام مطرز، للعرس والمناسبات الكبيرة."
+    },
+    "unit": { "fr": "ensemble", "ar": "طقم", "en": "set", "darija": "طقم" },
+    "price": 1850,
+    "priceDiscount": null,
+    "currency": "MAD",
+    "domain": "habillement_mode",
+    "subcategory": {
+      "fr": "Caftans & Takchitas",
+      "ar": "القفطان والتكشيطة",
+      "en": "Caftans & Takchitas",
+      "darija": "القفطان والتكشيطة"
+    },
+    "tags": ["takchita", "mariage", "broderie", "tradition"],
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Caftan_Ntaa_-_Maroc.jpg",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Caftan_Ntaa_-_Maroc.jpg",
+        "alt": {
+          "fr": "Takchita marocaine traditionnelle",
+          "ar": "تكشيطة مغربية تقليدية",
+          "en": "Traditional Moroccan takchita",
+          "darija": "تكشيطة مغربية تقليدية"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Moroccan_Kaftan%2C_National_Museum_of_African_Art_%281%29.jpg",
+        "alt": {
+          "fr": "Pièce de haute couture marocaine exposée en musée",
+          "ar": "قطعة من الأزياء الراقية المغربية معروضة في متحف",
+          "en": "Moroccan haute couture piece displayed in a museum",
+          "darija": "قطعة ديال الموضة الراقية المغربية معروضة فمتحف"
+        }
+      }
+    ],
+    "proActorDomain": "habillement_mode",
+    "stock": 8,
+    "isInfiniteStock": false,
+    "sku": "KB-MOD-004",
+    "status": "published",
+    "isActive": true,
+    "isFeatured": true,
+    "isOrganic": false,
+    "isHandmade": true,
+    "origin": { "region": "Fès-Meknès", "city": "Fès", "country": "Maroc" },
+    "certifications": ["Fait main"],
+    "slug": "takchita-ceremonie-deux-pieces",
+    "metaTitle": {
+      "fr": "Takchita de cérémonie deux pièces – Fès | KENZ BLADI",
+      "ar": "تكشيطة احتفالية من قطعتين – فاس | كنز بلادي",
+      "en": "Two-Piece Ceremonial Takchita – Fès | KENZ BLADI",
+      "darija": "تكشيطة ديال المناسبات من جوج قطع – فاس | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Takchita traditionnelle deux pièces avec ceinture brodée mdamma, idéale pour mariages et cérémonies.",
+      "ar": "تكشيطة تقليدية من قطعتين مع حزام مدمة مطرز، مثالية للأعراس والمناسبات.",
+      "en": "Traditional two-piece takchita with an embroidered mdamma belt, ideal for weddings and ceremonies.",
+      "darija": "تكشيطة تقليدية من جوج قطع مع حزام مدامة مطرز، مزيانة للعرس والمناسبات."
+    },
+    "viewCount": 1980,
+    "salesCount": 38,
+    "rating": 4.9,
+    "reviewCount": 22
+  },
+  {
+    "name": {
+      "fr": "Parure de bijoux berbères en argent",
+      "ar": "طقم حلي أمازيغية من الفضة",
+      "en": "Berber Silver Jewelry Set",
+      "darija": "طقم الحلي الأمازيغية ديال الفضة"
+    },
+    "description": {
+      "fr": "Ensemble de bijoux en argent massif composé d'un collier, de boucles d'oreilles et d'un bracelet, ornés de motifs géométriques typiques de la bijouterie berbère du Sud marocain. Façonnés à la main par des artisans selon des techniques de gravure et de filigrane transmises depuis des générations, ces bijoux accompagnent aussi bien une tenue traditionnelle qu'une tenue moderne.",
+      "ar": "طقم من الحلي الفضية الخالصة يتكون من قلادة وأقراط وسوار، مزينة بأشكال هندسية مميزة للحلي الأمازيغية في جنوب المغرب. تُصنع يدويًا من طرف حرفيين بتقنيات الحفر والفتيلة المتوارثة عبر الأجيال، وتناسب هذه الحلي اللباس التقليدي والعصري على حد سواء.",
+      "en": "A set of solid silver jewelry comprising a necklace, earrings and a bracelet, decorated with geometric patterns typical of Berber jewelry from southern Morocco. Handcrafted by artisans using engraving and filigree techniques passed down through generations, this jewelry pairs well with both traditional and modern outfits.",
+      "darija": "طقم ديال الحلي من الفضة الخالصة فيه قلادة وحلقات وسوار، مزينين بأشكال هندسية مميزة ديال الحلي الأمازيغية فجنوب المغرب. مصنوعين بليد من طرف الصناع بتقنيات الحفر والفتيلة اللي وارثينها من جدودهم، وهاد الحلي كتمشي مع اللباس التقليدي والعصري بجوج."
+    },
+    "shortDescription": {
+      "fr": "Collier, boucles d'oreilles et bracelet en argent, motifs berbères gravés main.",
+      "ar": "قلادة وأقراط وسوار من الفضة، بأشكال أمازيغية محفورة يدويًا.",
+      "en": "Necklace, earrings and bracelet in silver, hand-engraved Berber motifs.",
+      "darija": "قلادة وحلقات وسوار من الفضة، أشكال أمازيغية محفورين بليد."
+    },
+    "unit": { "fr": "ensemble", "ar": "طقم", "en": "set", "darija": "طقم" },
+    "price": 620,
+    "priceDiscount": null,
+    "currency": "MAD",
+    "domain": "habillement_mode",
+    "subcategory": {
+      "fr": "Accessoires & Bijoux",
+      "ar": "الإكسسوارات والحلي",
+      "en": "Accessories & Jewelry",
+      "darija": "الإكسسوارات والحلي"
+    },
+    "tags": ["bijoux", "argent", "berbère", "artisanat"],
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Berber_silver_jewelry_on_display_at_a_bazaar_in_the_city_of_Essaouira%2C_Morocco.jpg",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Berber_silver_jewelry_on_display_at_a_bazaar_in_the_city_of_Essaouira%2C_Morocco.jpg",
+        "alt": {
+          "fr": "Bijoux berbères en argent exposés sur un étal",
+          "ar": "حلي أمازيغية من الفضة معروضة في بسطة",
+          "en": "Berber silver jewelry displayed at a stall",
+          "darija": "حلي أمازيغية من الفضة معروضة فحانوت"
+        }
+      }
+    ],
+    "proActorDomain": "habillement_mode",
+    "stock": 22,
+    "isInfiniteStock": false,
+    "sku": "KB-MOD-005",
+    "status": "published",
+    "isActive": true,
+    "isFeatured": true,
+    "isOrganic": false,
+    "isHandmade": true,
+    "origin": { "region": "Souss-Massa", "city": "Tiznit", "country": "Maroc" },
+    "certifications": ["Fait main", "Argent massif"],
+    "slug": "parure-bijoux-berberes-argent",
+    "metaTitle": {
+      "fr": "Parure de bijoux berbères en argent – Tiznit | KENZ BLADI",
+      "ar": "طقم حلي أمازيغية من الفضة – تيزنيت | كنز بلادي",
+      "en": "Berber Silver Jewelry Set – Tiznit | KENZ BLADI",
+      "darija": "طقم الحلي الأمازيغية ديال الفضة – تيزنيت | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Collier, boucles d'oreilles et bracelet en argent massif, motifs berbères gravés à la main à Tiznit.",
+      "ar": "قلادة وأقراط وسوار من الفضة الخالصة، بأشكال أمازيغية محفورة يدويًا في تيزنيت.",
+      "en": "Necklace, earrings and bracelet in solid silver, Berber motifs hand-engraved in Tiznit.",
+      "darija": "قلادة وحلقات وسوار من الفضة الخالصة، أشكال أمازيغية محفورين بليد فتيزنيت."
+    },
+    "viewCount": 1110,
+    "salesCount": 73,
+    "rating": 4.8,
+    "reviewCount": 29
+  },
+  {
+    "name": {
+      "fr": "Ceinture brodée traditionnelle pour caftan",
+      "ar": "حزام مطرز تقليدي للقفطان",
+      "en": "Traditional Embroidered Belt for Caftan",
+      "darija": "حزام مطرز تقليدي ديال القفطان"
+    },
+    "description": {
+      "fr": "Large ceinture textile rigide (mdamma), brodée de fils dorés et ornée de motifs floraux, conçue pour souligner la taille sur un caftan ou une takchita. Fermeture par crochets dissimulés, elle est doublée d'une toile résistante garantissant tenue et confort tout au long des cérémonies.",
+      "ar": "حزام نسيجي عريض وصلب (مدمة)، مطرز بخيوط ذهبية ومزين بأشكال زهرية، مصمم لإبراز الخصر فوق القفطان أو التكشيطة. يُغلق بخطافات مخفية، ومبطن بقماش متين يضمن الثبات والراحة طوال المناسبات.",
+      "en": "A wide, rigid fabric belt (mdamma), embroidered with golden thread and adorned with floral motifs, designed to accentuate the waist over a caftan or takchita. It closes with hidden hooks and is lined with a sturdy fabric that ensures a secure, comfortable fit throughout ceremonies.",
+      "darija": "حزام عريض وقاسي من القماش (مدامة)، مطرز بخيوط الذهب ومزين بأشكال الزهور، مصمم باش يبرز الوسط فوق القفطان ولا التكشيطة. كيتسد بخطافات مخبيين، ومبطن بقماش قوي كيضمن الثبات والراحة طول المناسبة."
+    },
+    "shortDescription": {
+      "fr": "Ceinture brodée dorée pour caftan ou takchita, motifs floraux.",
+      "ar": "حزام مطرز بالذهب للقفطان أو التكشيطة، بأشكال زهرية.",
+      "en": "Gold-embroidered belt for caftan or takchita, floral motifs.",
+      "darija": "حزام مطرز بالذهب ديال القفطان ولا التكشيطة، أشكال الزهور."
+    },
+    "unit": { "fr": "pièce", "ar": "قطعة", "en": "piece", "darija": "وحدة" },
+    "price": 280,
+    "priceDiscount": null,
+    "currency": "MAD",
+    "domain": "habillement_mode",
+    "subcategory": {
+      "fr": "Accessoires & Bijoux",
+      "ar": "الإكسسوارات والحلي",
+      "en": "Accessories & Jewelry",
+      "darija": "الإكسسوارات والحلي"
+    },
+    "tags": ["ceinture", "mdamma", "caftan", "broderie"],
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Sword_Belt_MET_3436.jpg/960px-Sword_Belt_MET_3436.jpg",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Sword_Belt_MET_3436.jpg/960px-Sword_Belt_MET_3436.jpg",
+        "alt": {
+          "fr": "Ceinture brodée marocaine de collection",
+          "ar": "حزام مغربي مطرز من قطع المتاحف",
+          "en": "Collectible embroidered Moroccan belt",
+          "darija": "حزام مغربي مطرز من قطع المتاحف"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Traditional_handicraft%2C_leather_industry.jpg/960px-Traditional_handicraft%2C_leather_industry.jpg",
+        "alt": {
+          "fr": "Artisan confectionnant des accessoires brodés",
+          "ar": "حرفي يصنع إكسسوارات مطرزة",
+          "en": "Artisan crafting embroidered accessories",
+          "darija": "صانعي كيصنع إكسسوارات مطرزة"
+        }
+      }
+    ],
+    "proActorDomain": "habillement_mode",
+    "stock": 30,
+    "isInfiniteStock": false,
+    "sku": "KB-MOD-006",
+    "status": "published",
+    "isActive": true,
+    "isFeatured": false,
+    "isOrganic": false,
+    "isHandmade": true,
+    "origin": { "region": "Fès-Meknès", "city": "Fès", "country": "Maroc" },
+    "certifications": ["Fait main"],
+    "slug": "ceinture-brodee-traditionnelle-caftan",
+    "metaTitle": {
+      "fr": "Ceinture brodée traditionnelle pour caftan – Fès | KENZ BLADI",
+      "ar": "حزام مطرز تقليدي للقفطان – فاس | كنز بلادي",
+      "en": "Traditional Embroidered Belt for Caftan – Fès | KENZ BLADI",
+      "darija": "حزام مطرز تقليدي ديال القفطان – فاس | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Ceinture mdamma brodée de fils dorés à motifs floraux, accessoire indispensable pour caftan et takchita.",
+      "ar": "حزام مدمة مطرز بخيوط ذهبية بأشكال زهرية، إكسسوار أساسي للقفطان والتكشيطة.",
+      "en": "Mdamma belt embroidered with golden thread in floral motifs, an essential accessory for caftan and takchita.",
+      "darija": "حزام مدامة مطرز بخيوط الذهب بأشكال الزهور، إكسسوار أساسي للقفطان والتكشيطة."
+    },
+    "viewCount": 480,
+    "salesCount": 56,
+    "rating": 4.5,
+    "reviewCount": 19
+  },
+  {
+    "name": {
+      "fr": "Foulard en soie sabra tissé main",
+      "ar": "وشاح من حرير الصبرة المنسوج يدويًا",
+      "en": "Hand-Woven Sabra Silk Scarf",
+      "darija": "فولار من حرير الصبرة منسوج بليد"
+    },
+    "description": {
+      "fr": "Foulard léger tissé à partir de fibre de sabra, une soie végétale extraite des feuilles du cactus, selon un savoir-faire artisanal du Souss-Massa. Sa texture soyeuse et brillante, ses teintes naturelles et ses franges tissées main en font un accessoire raffiné, écologique et résistant.",
+      "ar": "وشاح خفيف منسوج من ألياف الصبرة، وهو حرير نباتي يُستخرج من أوراق الصبار، وفق خبرة حرفية من منطقة سوس ماسة. ملمسه الحريري اللامع وألوانه الطبيعية وأهدابه المنسوجة يدويًا تجعله إكسسوارًا أنيقًا وصديقًا للبيئة ومتينًا.",
+      "en": "A lightweight scarf woven from sabra fiber, a plant-based silk extracted from cactus leaves, using artisanal know-how from the Souss-Massa region. Its silky, lustrous texture, natural tones and hand-woven fringes make it a refined, eco-friendly and durable accessory.",
+      "darija": "فولار خفيف منسوج من ألياف الصبرة، وهو حرير نباتي كيتسطا من ورق الصبار، بخبرة الصناع ديال منطقة سوس ماسة. الملمس الحريري اللامع ديالو والألوان الطبيعية والهدوب المنسوجة بليد كيخليوه إكسسوار أنيق وصديق للبيئة وقوي."
+    },
+    "shortDescription": {
+      "fr": "Foulard en soie végétale de cactus, tissé main, teintes naturelles.",
+      "ar": "وشاح من حرير الصبار النباتي، منسوج يدويًا بألوان طبيعية.",
+      "en": "Cactus plant-silk scarf, hand-woven with natural tones.",
+      "darija": "فولار من حرير الصبار النباتي، منسوج بليد بألوان طبيعية."
+    },
+    "unit": { "fr": "pièce", "ar": "قطعة", "en": "piece", "darija": "وحدة" },
+    "price": 220,
+    "priceDiscount": 180,
+    "currency": "MAD",
+    "domain": "habillement_mode",
+    "subcategory": {
+      "fr": "Accessoires & Bijoux",
+      "ar": "الإكسسوارات والحلي",
+      "en": "Accessories & Jewelry",
+      "darija": "الإكسسوارات والحلي"
+    },
+    "tags": ["foulard", "sabra", "soie végétale", "Souss-Massa"],
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Ary_Heyk_%D8%AD%D8%A7%D9%8A%D9%83_zgh_aHayk_%E2%B4%B0%E2%B5%83%E2%B4%B0%E2%B5%A2%E2%B4%BD.jpg/960px-Ary_Heyk_%D8%AD%D8%A7%D9%8A%D9%83_zgh_aHayk_%E2%B4%B0%E2%B5%83%E2%B4%B0%E2%B5%A2%E2%B4%BD.jpg",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Ary_Heyk_%D8%AD%D8%A7%D9%8A%D9%83_zgh_aHayk_%E2%B4%B0%E2%B5%83%E2%B4%B0%E2%B5%A2%E2%B4%BD.jpg/960px-Ary_Heyk_%D8%AD%D8%A7%D9%8A%D9%83_zgh_aHayk_%E2%B4%B0%E2%B5%83%E2%B4%B0%E2%B5%A2%E2%B4%BD.jpg",
+        "alt": {
+          "fr": "Tissage traditionnel d'un voile en soie naturelle",
+          "ar": "نسيج تقليدي لوشاح من الحرير الطبيعي",
+          "en": "Traditional weaving of a natural silk veil",
+          "darija": "نسيج تقليدي ديال الفولار من الحرير الطبيعي"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Moroccan_Kaftan%2C_National_Museum_of_African_Art_%282%29.jpg",
+        "alt": {
+          "fr": "Détail textile aux teintes naturelles",
+          "ar": "تفاصيل نسيج بألوان طبيعية",
+          "en": "Textile detail in natural tones",
+          "darija": "تفاصيل النسيج بألوان طبيعية"
+        }
+      }
+    ],
+    "proActorDomain": "habillement_mode",
+    "stock": 55,
+    "isInfiniteStock": false,
+    "sku": "KB-MOD-007",
+    "status": "published",
+    "isActive": true,
+    "isFeatured": false,
+    "isOrganic": true,
+    "isHandmade": true,
+    "origin": { "region": "Souss-Massa", "city": "Taroudant", "country": "Maroc" },
+    "certifications": ["Fait main", "Fibre végétale"],
+    "slug": "foulard-soie-sabra-tisse-main",
+    "metaTitle": {
+      "fr": "Foulard en soie sabra tissé main – Souss-Massa | KENZ BLADI",
+      "ar": "وشاح من حرير الصبرة المنسوج يدويًا – سوس ماسة | كنز بلادي",
+      "en": "Hand-Woven Sabra Silk Scarf – Souss-Massa | KENZ BLADI",
+      "darija": "فولار من حرير الصبرة منسوج بليد – سوس ماسة | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Foulard en soie végétale de cactus tissé main par des artisanes du Souss-Massa, léger et écologique.",
+      "ar": "وشاح من حرير الصبار النباتي منسوج يدويًا من طرف حرفيات سوس ماسة، خفيف وصديق للبيئة.",
+      "en": "Plant-silk cactus scarf hand-woven by artisans from Souss-Massa, lightweight and eco-friendly.",
+      "darija": "فولار من حرير الصبار النباتي منسوج بليد من طرف صانعات سوس ماسة، خفيف وصديق للبيئة."
+    },
+    "viewCount": 390,
+    "salesCount": 67,
+    "rating": 4.6,
+    "reviewCount": 24
+  },
+  {
+    "name": {
+      "fr": "Gandoura légère en coton pour l'été",
+      "ar": "قندورة قطنية خفيفة للصيف",
+      "en": "Lightweight Cotton Summer Gandoura",
+      "darija": "قندورة قطنية خفيفة ديال الصيف"
+    },
+    "description": {
+      "fr": "Robe ample et sans manches en coton léger, idéale pour les journées chaudes. Sa coupe droite, ses motifs brodés discrets au col en V et son tissu respirant en font un vêtement confortable porté aussi bien à la maison qu'en extérieur durant les mois d'été.",
+      "ar": "ثوب فضفاض بدون أكمام من القطن الخفيف، مثالي للأيام الحارة. قصته المستقيمة وتطريزه البسيط عند فتحة الرقبة على شكل V وقماشه القابل للتنفس تجعله لباسًا مريحًا يُرتدى في المنزل وخارجه خلال أشهر الصيف.",
+      "en": "A loose, sleeveless dress in lightweight cotton, ideal for hot days. Its straight cut, subtle embroidery around the V-neck and breathable fabric make it a comfortable garment worn both at home and outdoors during the summer months.",
+      "darija": "ثوب واسع بلا كمام من القطن الخفيف، مزيان للنهارات السخونة. القصة ديالو مستقيمة، فيه طرازة بسيطة فالرقبة على شكل V والقماش كيتنفس، كيخليه لباس مريح كيتلبس فالدار وبراها فالصيف."
+    },
+    "shortDescription": {
+      "fr": "Gandoura ample en coton léger, broderie discrète au col, parfaite pour l'été.",
+      "ar": "قندورة فضفاضة من القطن الخفيف، تطريز بسيط عند الياقة، مثالية للصيف.",
+      "en": "Loose lightweight cotton gandoura with subtle collar embroidery, perfect for summer.",
+      "darija": "قندورة واسعة من القطن الخفيف، طرازة بسيطة فالكول، مزيانة للصيف."
+    },
+    "unit": { "fr": "pièce", "ar": "قطعة", "en": "piece", "darija": "وحدة" },
+    "price": 180,
+    "priceDiscount": null,
+    "currency": "MAD",
+    "domain": "habillement_mode",
+    "subcategory": {
+      "fr": "Djellabas & Gandouras",
+      "ar": "الجلابة والقندورة",
+      "en": "Djellabas & Gandouras",
+      "darija": "الجلابة والقندورة"
+    },
+    "tags": ["gandoura", "coton", "été", "femme"],
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Moroccan_Kaftan%2C_National_Museum_of_African_Art_%283%29.jpg",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Moroccan_Kaftan%2C_National_Museum_of_African_Art_%283%29.jpg",
+        "alt": {
+          "fr": "Robe traditionnelle légère en coton",
+          "ar": "ثوب تقليدي خفيف من القطن",
+          "en": "Light traditional cotton dress",
+          "darija": "ثوب تقليدي خفيف من القطن"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Moroccan_djellaba.jpg/960px-Moroccan_djellaba.jpg",
+        "alt": {
+          "fr": "Vêtement traditionnel marocain en tissu léger",
+          "ar": "لباس مغربي تقليدي من قماش خفيف",
+          "en": "Traditional Moroccan garment in light fabric",
+          "darija": "لباس مغربي تقليدي من قماش خفيف"
+        }
+      }
+    ],
+    "proActorDomain": "habillement_mode",
+    "stock": 65,
+    "isInfiniteStock": false,
+    "sku": "KB-MOD-008",
+    "status": "published",
+    "isActive": true,
+    "isFeatured": false,
+    "isOrganic": false,
+    "isHandmade": true,
+    "origin": { "region": "Casablanca-Settat", "city": "Casablanca", "country": "Maroc" },
+    "certifications": ["Fait main"],
+    "slug": "gandoura-legere-coton-ete",
+    "metaTitle": {
+      "fr": "Gandoura légère en coton pour l'été | KENZ BLADI",
+      "ar": "قندورة قطنية خفيفة للصيف | كنز بلادي",
+      "en": "Lightweight Cotton Summer Gandoura | KENZ BLADI",
+      "darija": "قندورة قطنية خفيفة ديال الصيف | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Gandoura ample et légère en coton respirant, broderie discrète, idéale pour l'été marocain.",
+      "ar": "قندورة فضفاضة وخفيفة من القطن القابل للتنفس، تطريز بسيط، مثالية للصيف المغربي.",
+      "en": "Loose, lightweight breathable cotton gandoura with subtle embroidery, ideal for Moroccan summer.",
+      "darija": "قندورة واسعة وخفيفة من القطن اللي كيتنفس، طرازة بسيطة، مزيانة للصيف المغربي."
+    },
+    "viewCount": 610,
+    "salesCount": 121,
+    "rating": 4.5,
+    "reviewCount": 40
+  }
+]

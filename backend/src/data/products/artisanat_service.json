@@ -1,0 +1,650 @@
+[
+  {
+    "name": {
+      "fr": "Sac à main en cuir véritable fait main",
+      "ar": "حقيبة يد من الجلد الطبيعي صناعة يدوية",
+      "en": "Handmade Genuine Leather Handbag",
+      "darija": "ساك ديال اليد بالجلد الطبيعي خدمة اليد"
+    },
+    "description": {
+      "fr": "Sac à main artisanal confectionné par des maîtres maroquiniers de Fès à partir de cuir de chèvre tanné selon des méthodes traditionnelles transmises de génération en génération. Doublure en coton tissé, fermeture éclair robuste et coutures réalisées entièrement à la main. Chaque pièce est unique et porte les marques authentiques du tannage végétal.",
+      "ar": "حقيبة يد تقليدية من إبداع حرفيين متمرسين في مدينة فاس، مصنوعة من جلد الماعز المدبوغ بطرق تقليدية متوارثة عبر الأجيال. بطانة من القطن المنسوج، سحاب متين وخياطة منجزة بالكامل يدويًا. كل قطعة فريدة من نوعها وتحمل بصمات الدباغة النباتية الأصيلة.",
+      "en": "An artisanal handbag crafted by master leatherworkers in Fès using goat leather tanned with traditional methods passed down through generations. Woven cotton lining, a sturdy zipper and entirely hand-stitched seams. Each piece is unique and bears the authentic marks of vegetable tanning.",
+      "darija": "ساك ديال اليد تقليدي، خدمة الصناع المهرة ديال فاس، بجلد الماعز اللي تدبغ بالطريقة القديمة اللي وارثوها من جدودهم. مبطن بالقطن المنسوج، فيه سيركلي قوي وخياطة كاملة باليد. كل ساك وحدو بحالو وفيه طابع الدباغة الطبيعية الأصلية."
+    },
+    "shortDescription": {
+      "fr": "Sac en cuir de chèvre tanné traditionnellement, cousu main à Fès.",
+      "ar": "حقيبة من جلد الماعز المدبوغ تقليديًا، مخيطة يدويًا في فاس.",
+      "en": "Goat leather handbag, traditionally tanned and hand-stitched in Fès.",
+      "darija": "ساك ديال جلد الماعز مدبوغ بالطريقة التقليدية، مخيط باليد فالفاس."
+    },
+    "unit": { "fr": "pièce", "ar": "قطعة", "en": "piece", "darija": "وحدة" },
+    "price": 380,
+    "priceDiscount": null,
+    "currency": "MAD",
+    "domain": "artisanat_service",
+    "subcategory": {
+      "fr": "Maroquinerie",
+      "ar": "صناعة الجلد",
+      "en": "Leather Goods",
+      "darija": "صنعة الجلد"
+    },
+    "tags": ["cuir", "fait main", "Fès", "maroquinerie", "tannerie"],
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/A_Babouches_manufacturing_workshop_in_Fez%2C_Morocco.jpg/960px-A_Babouches_manufacturing_workshop_in_Fez%2C_Morocco.jpg",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/A_Babouches_manufacturing_workshop_in_Fez%2C_Morocco.jpg/960px-A_Babouches_manufacturing_workshop_in_Fez%2C_Morocco.jpg",
+        "alt": {
+          "fr": "Atelier de maroquinerie traditionnelle à Fès",
+          "ar": "ورشة تقليدية لصناعة الجلد في فاس",
+          "en": "Traditional leather workshop in Fès",
+          "darija": "ورشة تقليدية ديال الجلد فالفاس"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Traditional_handicraft%2C_leather_industry.jpg/960px-Traditional_handicraft%2C_leather_industry.jpg",
+        "alt": {
+          "fr": "Artisan travaillant le cuir à la main",
+          "ar": "حرفي يشتغل على الجلد يدويًا",
+          "en": "Craftsman working leather by hand",
+          "darija": "صانعي كيخدم الجلد بيدو"
+        }
+      }
+    ],
+    "proActorDomain": "artisanat_service",
+    "stock": 18,
+    "isInfiniteStock": false,
+    "sku": "KB-SVC-001",
+    "status": "published",
+    "isActive": true,
+    "isFeatured": true,
+    "isOrganic": false,
+    "isHandmade": true,
+    "origin": { "region": "Fès-Meknès", "city": "Fès", "country": "Maroc" },
+    "certifications": ["Fait main"],
+    "slug": "sac-cuir-fait-main-fes",
+    "metaTitle": {
+      "fr": "Sac à main en cuir véritable fait main – Fès | KENZ BLADI",
+      "ar": "حقيبة يد من الجلد الطبيعي صناعة يدوية – فاس | كنز بلادي",
+      "en": "Handmade Genuine Leather Handbag – Fès | KENZ BLADI",
+      "darija": "ساك ديال اليد بالجلد الطبيعي – فاس | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Découvrez ce sac en cuir de chèvre tanné et cousu à la main par des artisans de Fès, une pièce unique d'artisanat marocain.",
+      "ar": "اكتشف هذه الحقيبة من جلد الماعز المدبوغ والمخيط يدويًا من طرف حرفيي فاس، قطعة فريدة من الصناعة التقليدية المغربية.",
+      "en": "Discover this goat leather handbag, tanned and hand-stitched by artisans in Fès — a unique piece of Moroccan craftsmanship.",
+      "darija": "شوف هاد الساك ديال جلد الماعز، مدبوغ ومخيط باليد من طرف صناع فاس، قطعة فريدة ديال الصنعة المغربية."
+    },
+    "viewCount": 1240,
+    "salesCount": 87,
+    "rating": 4.7,
+    "reviewCount": 34
+  },
+  {
+    "name": {
+      "fr": "Babouches en cuir brodées pour femme",
+      "ar": "بلغة جلدية مطرزة للمرأة",
+      "en": "Embroidered Leather Babouches for Women",
+      "darija": "بلغة ديال الجلد مطرزة للمرا"
+    },
+    "description": {
+      "fr": "Babouches traditionnelles confectionnées à la main par des artisans de Marrakech, en cuir souple brodé de fils de soie colorés. La semelle en cuir épais assure confort et durabilité, tandis que les motifs brodés s'inspirent des arts décoratifs berbères. Idéales pour la maison ou en accessoire de tenue traditionnelle.",
+      "ar": "بلغة تقليدية من صنع حرفيين في مراكش، من جلد طري مطرز بخيوط حرير ملونة. النعل من الجلد السميك يضمن الراحة والمتانة، بينما تستلهم الزخارف المطرزة من الفنون الزخرفية الأمازيغية. مثالية للمنزل أو كإكسسوار للباس التقليدي.",
+      "en": "Traditional babouches handmade by artisans in Marrakech, crafted from soft leather embroidered with colorful silk threads. The thick leather sole ensures comfort and durability, while the embroidered patterns draw inspiration from Berber decorative arts. Ideal for home wear or as an accessory to traditional outfits.",
+      "darija": "بلغة تقليدية مصنوعة بليد من طرف صناع مراكش، من جلد طري مطرز بخيوط الحرير ديال الألوان. النعل غليظ كيعطي الراحة والقوة، والرسومات المطرزة مستوحاة من الفن الأمازيغي. مزيانة للدار ولا كإكسسوار مع اللباس التقليدي."
+    },
+    "shortDescription": {
+      "fr": "Babouches en cuir souple brodées main, motifs berbères, fabriquées à Marrakech.",
+      "ar": "بلغة من جلد طري مطرزة يدويًا بزخارف أمازيغية، صنعت في مراكش.",
+      "en": "Soft leather babouches with hand-embroidered Berber motifs, made in Marrakech.",
+      "darija": "بلغة من جلد طري مطرزة باليد برسومات أمازيغية، مصنوعة فمراكش."
+    },
+    "unit": { "fr": "paire", "ar": "زوج", "en": "pair", "darija": "زوج" },
+    "price": 180,
+    "priceDiscount": 150,
+    "currency": "MAD",
+    "domain": "artisanat_service",
+    "subcategory": {
+      "fr": "Babouches",
+      "ar": "البلغة",
+      "en": "Babouches",
+      "darija": "البلغة"
+    },
+    "tags": ["babouches", "cuir", "broderie", "Marrakech", "femme"],
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Moroccan_babouche%2C_burgundy_leather_with_silver_sequins%2C_20th_century_-_Bata_Shoe_Museum_-_DSC00131.JPG/960px-Moroccan_babouche%2C_burgundy_leather_with_silver_sequins%2C_20th_century_-_Bata_Shoe_Museum_-_DSC00131.JPG",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Moroccan_babouche%2C_burgundy_leather_with_silver_sequins%2C_20th_century_-_Bata_Shoe_Museum_-_DSC00131.JPG/960px-Moroccan_babouche%2C_burgundy_leather_with_silver_sequins%2C_20th_century_-_Bata_Shoe_Museum_-_DSC00131.JPG",
+        "alt": {
+          "fr": "Babouche en cuir bordeaux brodée de paillettes argentées",
+          "ar": "بلغة من الجلد الكستنائي مطرزة بترتر فضي",
+          "en": "Burgundy leather babouche embroidered with silver sequins",
+          "darija": "بلغة ديال الجلد الكميري مطرزة بترتر فضي"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Moroccan_babouche%2C_green_velvet_with_silver_thread%2C_20th_century_-_Bata_Shoe_Museum_-_DSC00124.JPG/960px-Moroccan_babouche%2C_green_velvet_with_silver_thread%2C_20th_century_-_Bata_Shoe_Museum_-_DSC00124.JPG",
+        "alt": {
+          "fr": "Babouche en velours vert brodée de fil argenté",
+          "ar": "بلغة من المخمل الأخضر مطرزة بخيط فضي",
+          "en": "Green velvet babouche embroidered with silver thread",
+          "darija": "بلغة ديال القطيفة الخضرا مطرزة بخيط فضي"
+        }
+      }
+    ],
+    "proActorDomain": "artisanat_service",
+    "stock": 42,
+    "isInfiniteStock": false,
+    "sku": "KB-SVC-002",
+    "status": "published",
+    "isActive": true,
+    "isFeatured": false,
+    "isOrganic": false,
+    "isHandmade": true,
+    "origin": { "region": "Marrakech-Safi", "city": "Marrakech", "country": "Maroc" },
+    "certifications": ["Fait main"],
+    "slug": "babouches-brodees-femme-marrakech",
+    "metaTitle": {
+      "fr": "Babouches brodées pour femme – Marrakech | KENZ BLADI",
+      "ar": "بلغة مطرزة للمرأة – مراكش | كنز بلادي",
+      "en": "Embroidered Babouches for Women – Marrakech | KENZ BLADI",
+      "darija": "بلغة مطرزة للمرا – مراكش | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Babouches en cuir souple brodées à la main par des artisans de Marrakech, alliant confort et tradition berbère.",
+      "ar": "بلغة من جلد طري مطرزة يدويًا من طرف حرفيي مراكش، تجمع بين الراحة والتراث الأمازيغي.",
+      "en": "Soft leather babouches hand-embroidered by Marrakech artisans, combining comfort with Berber tradition.",
+      "darija": "بلغة من جلد طري مطرزة باليد من صناع مراكش، فيها الراحة والتراث الأمازيغي."
+    },
+    "viewCount": 980,
+    "salesCount": 156,
+    "rating": 4.8,
+    "reviewCount": 62
+  },
+  {
+    "name": {
+      "fr": "Babouches traditionnelles en cuir pour homme",
+      "ar": "بلغة جلدية تقليدية للرجل",
+      "en": "Traditional Leather Babouches for Men",
+      "darija": "بلغة ديال الجلد تقليدية للراجل"
+    },
+    "description": {
+      "fr": "Babouches masculines sobres et élégantes, taillées dans un cuir épais de qualité supérieure. Fabriquées selon les techniques ancestrales des maâlems de Marrakech, elles offrent une excellente résistance à l'usure quotidienne tout en restant souples au pied. Disponibles en plusieurs teintes naturelles.",
+      "ar": "بلغة رجالية أنيقة وبسيطة، مصنوعة من جلد سميك عالي الجودة. تُصنع وفق التقنيات التقليدية لمعلمي مراكش، وتتميز بمقاومة عالية للاستعمال اليومي مع الحفاظ على ليونتها. متوفرة بعدة ألوان طبيعية.",
+      "en": "Sleek and elegant men's babouches cut from thick, high-quality leather. Made using the ancestral techniques of Marrakech's master craftsmen (maâlems), they offer excellent resistance to daily wear while remaining supple. Available in several natural shades.",
+      "darija": "بلغة ديال الراجل بسيطة وأنيقة، مقطوعة من جلد غليظ ديال الجودة العالية. مصنوعة بالتقنيات القديمة ديال المعلمين ديال مراكش، عندها مقاومة كبيرة للخدمة اليومية ومع ذلك خفيفة فالرجل. كاينة بعدة ألوان طبيعية."
+    },
+    "shortDescription": {
+      "fr": "Babouches en cuir épais pour homme, façonnées par des maâlems à Marrakech.",
+      "ar": "بلغة رجالية من جلد سميك، من صنع معلمين في مراكش.",
+      "en": "Thick leather babouches for men, shaped by master craftsmen in Marrakech.",
+      "darija": "بلغة للراجل من جلد غليظ، مصنوعة من طرف معلمين فمراكش."
+    },
+    "unit": { "fr": "paire", "ar": "زوج", "en": "pair", "darija": "زوج" },
+    "price": 220,
+    "priceDiscount": null,
+    "currency": "MAD",
+    "domain": "artisanat_service",
+    "subcategory": {
+      "fr": "Babouches",
+      "ar": "البلغة",
+      "en": "Babouches",
+      "darija": "البلغة"
+    },
+    "tags": ["babouches", "cuir", "homme", "Marrakech", "artisanat"],
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Traditional_Moroccan_shoes_called_%22babouches%22.JPG/960px-Traditional_Moroccan_shoes_called_%22babouches%22.JPG",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Traditional_Moroccan_shoes_called_%22babouches%22.JPG/960px-Traditional_Moroccan_shoes_called_%22babouches%22.JPG",
+        "alt": {
+          "fr": "Babouches marocaines traditionnelles en cuir",
+          "ar": "بلغة مغربية تقليدية من الجلد",
+          "en": "Traditional Moroccan leather babouches",
+          "darija": "بلغة مغربية تقليدية ديال الجلد"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Moroccan_traditional_babouches.jpg/960px-Moroccan_traditional_babouches.jpg",
+        "alt": {
+          "fr": "Paire de babouches marocaines exposées",
+          "ar": "زوج من البلغة المغربية معروض",
+          "en": "Pair of Moroccan babouches on display",
+          "darija": "زوج ديال البلغة المغربية معروضين"
+        }
+      }
+    ],
+    "proActorDomain": "artisanat_service",
+    "stock": 35,
+    "isInfiniteStock": false,
+    "sku": "KB-SVC-003",
+    "status": "published",
+    "isActive": true,
+    "isFeatured": false,
+    "isOrganic": false,
+    "isHandmade": true,
+    "origin": { "region": "Marrakech-Safi", "city": "Marrakech", "country": "Maroc" },
+    "certifications": ["Fait main"],
+    "slug": "babouches-cuir-homme-marrakech",
+    "metaTitle": {
+      "fr": "Babouches traditionnelles pour homme – Marrakech | KENZ BLADI",
+      "ar": "بلغة تقليدية للرجل – مراكش | كنز بلادي",
+      "en": "Traditional Babouches for Men – Marrakech | KENZ BLADI",
+      "darija": "بلغة تقليدية للراجل – مراكش | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Babouches en cuir épais pour homme, façonnées à la main par des maâlems marocains, robustes et confortables.",
+      "ar": "بلغة من جلد سميك للرجل، صنعت يدويًا من طرف معلمين مغاربة، متينة ومريحة.",
+      "en": "Thick leather babouches for men, handmade by Moroccan master craftsmen, sturdy and comfortable.",
+      "darija": "بلغة من جلد غليظ للراجل، مصنوعة باليد من طرف معلمين مغاربة، قوية ومريحة."
+    },
+    "viewCount": 760,
+    "salesCount": 110,
+    "rating": 4.6,
+    "reviewCount": 41
+  },
+  {
+    "name": {
+      "fr": "Ceinture en cuir clouté artisanale",
+      "ar": "حزام جلدي مزين بالمسامير صناعة تقليدية",
+      "en": "Handcrafted Studded Leather Belt",
+      "darija": "حزام ديال الجلد مزين بالمسامير صنعة تقليدية"
+    },
+    "description": {
+      "fr": "Ceinture large en cuir de vachette véritable, agrémentée de clous métalliques disposés selon des motifs géométriques traditionnels. Boucle en métal massif et cuir épais cousu à double rangée de points pour une grande longévité. Un accessoire authentique qui sublime aussi bien une tenue traditionnelle qu'un look moderne.",
+      "ar": "حزام عريض من جلد البقر الطبيعي، مزين بمسامير معدنية مرتبة وفق أشكال هندسية تقليدية. إبزيم من معدن صلب وجلد سميك مخيط بصفين من الغرز لضمان متانة طويلة الأمد. إكسسوار أصيل يضفي لمسة مميزة على اللباس التقليدي والعصري على حد سواء.",
+      "en": "A wide belt made of genuine cowhide leather, adorned with metal studs arranged in traditional geometric patterns. Solid metal buckle and thick leather double-stitched for long-lasting durability. An authentic accessory that enhances both traditional outfits and modern looks.",
+      "darija": "حزام عريض من جلد البقري الطبيعي، مزين بمسامير ديال الميتال مرتبين بأشكال هندسية تقليدية. البوكلة ديال الميتال القوي والجلد غليظ مخيط بزوج صفوف باش يدوم بزاف. إكسسوار أصيل كيزيد لمسة فاللباس التقليدي ولا العصري."
+    },
+    "shortDescription": {
+      "fr": "Ceinture en cuir de vachette à motifs cloutés, fabriquée artisanalement.",
+      "ar": "حزام من جلد البقر بزخارف مسمارية، صناعة حرفية.",
+      "en": "Cowhide belt with studded patterns, handcrafted by artisans.",
+      "darija": "حزام من جلد البقري بمسامير، صنعة الصناع."
+    },
+    "unit": { "fr": "pièce", "ar": "قطعة", "en": "piece", "darija": "وحدة" },
+    "price": 160,
+    "priceDiscount": null,
+    "currency": "MAD",
+    "domain": "artisanat_service",
+    "subcategory": {
+      "fr": "Maroquinerie",
+      "ar": "صناعة الجلد",
+      "en": "Leather Goods",
+      "darija": "صنعة الجلد"
+    },
+    "tags": ["ceinture", "cuir", "accessoire", "fait main"],
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Traditional_handicraft%2C_leather_industry.jpg/960px-Traditional_handicraft%2C_leather_industry.jpg",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Traditional_handicraft%2C_leather_industry.jpg/960px-Traditional_handicraft%2C_leather_industry.jpg",
+        "alt": {
+          "fr": "Travail artisanal du cuir pour accessoires",
+          "ar": "عمل حرفي على الجلد لصناعة الإكسسوارات",
+          "en": "Artisanal leatherwork for accessories",
+          "darija": "خدمة الصناع فالجلد ديال الإكسسوارات"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Manufacturer_of_women%27s_Babouches%2C_Morocco%2C_1936.jpg/960px-Manufacturer_of_women%27s_Babouches%2C_Morocco%2C_1936.jpg",
+        "alt": {
+          "fr": "Atelier de maroquinerie traditionnelle marocaine",
+          "ar": "ورشة تقليدية لصناعة الجلد المغربية",
+          "en": "Traditional Moroccan leather workshop",
+          "darija": "ورشة تقليدية مغربية ديال الجلد"
+        }
+      }
+    ],
+    "proActorDomain": "artisanat_service",
+    "stock": 50,
+    "isInfiniteStock": false,
+    "sku": "KB-SVC-004",
+    "status": "published",
+    "isActive": true,
+    "isFeatured": false,
+    "isOrganic": false,
+    "isHandmade": true,
+    "origin": { "region": "Fès-Meknès", "city": "Fès", "country": "Maroc" },
+    "certifications": ["Fait main"],
+    "slug": "ceinture-cuir-cloutee-artisanale",
+    "metaTitle": {
+      "fr": "Ceinture en cuir clouté artisanale – Fès | KENZ BLADI",
+      "ar": "حزام جلدي مزين بالمسامير – فاس | كنز بلادي",
+      "en": "Handcrafted Studded Leather Belt – Fès | KENZ BLADI",
+      "darija": "حزام ديال الجلد مزين بالمسامير – فاس | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Ceinture large en cuir de vachette à motifs cloutés, cousue main par des artisans marocains.",
+      "ar": "حزام عريض من جلد البقر بزخارف مسمارية، مخيط يدويًا من طرف حرفيين مغاربة.",
+      "en": "Wide cowhide belt with studded patterns, hand-stitched by Moroccan artisans.",
+      "darija": "حزام عريض من جلد البقري بمسامير، مخيط باليد من صناع مغاربة."
+    },
+    "viewCount": 540,
+    "salesCount": 64,
+    "rating": 4.5,
+    "reviewCount": 22
+  },
+  {
+    "name": {
+      "fr": "Lanterne en fer forgé ajourée",
+      "ar": "فانوس من الحديد المطروق المزخرف",
+      "en": "Pierced Wrought Iron Lantern",
+      "darija": "فانوس ديال الحديد المطروق منقوش"
+    },
+    "description": {
+      "fr": "Lanterne réalisée à la main par des forgerons marocains, en fer forgé ajouré laissant filtrer une lumière chaleureuse aux motifs étoilés. Munie d'une anse renforcée pour la suspension, elle peut accueillir une bougie ou une petite ampoule LED. Pièce idéale pour décorer un patio, une terrasse ou un riad.",
+      "ar": "فانوس مصنوع يدويًا من طرف حدادين مغاربة، من الحديد المطروق المنقوش الذي يسمح بمرور ضوء دافئ بأشكال نجمية. مزود بمقبض معزز للتعليق، ويمكن استخدامه مع شمعة أو مصباح LED صغير. قطعة مثالية لتزيين فناء أو شرفة أو رياض.",
+      "en": "A lantern handmade by Moroccan blacksmiths from pierced wrought iron that lets warm light filter through star-shaped patterns. Fitted with a reinforced handle for hanging, it can hold a candle or a small LED bulb. An ideal piece to decorate a patio, terrace or riad.",
+      "darija": "فانوس مصنوع باليد من طرف الحدادة المغاربة، من الحديد المطروق المنقوش اللي كيخلي الضوء يدخل بأشكال نجوم. فيه مقبض قوي باش تعلقو، تقدر تحط فيه شمعة ولا لمبة LED صغيرة. قطعة مزيانة باش تزين بيها الباطيو ولا الرياض."
+    },
+    "shortDescription": {
+      "fr": "Lanterne en fer forgé à motifs étoilés, façonnée par des forgerons marocains.",
+      "ar": "فانوس من الحديد المطروق بأشكال نجمية، صنعه حدادون مغاربة.",
+      "en": "Wrought iron lantern with star motifs, shaped by Moroccan blacksmiths.",
+      "darija": "فانوس ديال الحديد بأشكال نجوم، صنعوه الحدادة المغاربة."
+    },
+    "unit": { "fr": "pièce", "ar": "قطعة", "en": "piece", "darija": "وحدة" },
+    "price": 240,
+    "priceDiscount": 199,
+    "currency": "MAD",
+    "domain": "artisanat_service",
+    "subcategory": {
+      "fr": "Ferronnerie",
+      "ar": "الحدادة التقليدية",
+      "en": "Ironwork",
+      "darija": "الحدادة"
+    },
+    "tags": ["fer forgé", "lanterne", "décoration", "forgeron"],
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/A_Blacksmith_MET_DP851174.jpg/960px-A_Blacksmith_MET_DP851174.jpg",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/A_Blacksmith_MET_DP851174.jpg/960px-A_Blacksmith_MET_DP851174.jpg",
+        "alt": {
+          "fr": "Forgeron marocain au travail",
+          "ar": "حداد مغربي أثناء العمل",
+          "en": "Moroccan blacksmith at work",
+          "darija": "حداد مغربي كيخدم"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/A_blacksmith.jpg/960px-A_blacksmith.jpg",
+        "alt": {
+          "fr": "Atelier traditionnel de forge au Maroc",
+          "ar": "ورشة حدادة تقليدية في المغرب",
+          "en": "Traditional blacksmith workshop in Morocco",
+          "darija": "ورشة حدادة تقليدية فالمغرب"
+        }
+      }
+    ],
+    "proActorDomain": "artisanat_service",
+    "stock": 25,
+    "isInfiniteStock": false,
+    "sku": "KB-SVC-005",
+    "status": "published",
+    "isActive": true,
+    "isFeatured": false,
+    "isOrganic": false,
+    "isHandmade": true,
+    "origin": { "region": "Marrakech-Safi", "city": "Marrakech", "country": "Maroc" },
+    "certifications": ["Fait main"],
+    "slug": "lanterne-fer-forge-ajouree",
+    "metaTitle": {
+      "fr": "Lanterne en fer forgé ajourée – Marrakech | KENZ BLADI",
+      "ar": "فانوس من الحديد المطروق المزخرف – مراكش | كنز بلادي",
+      "en": "Pierced Wrought Iron Lantern – Marrakech | KENZ BLADI",
+      "darija": "فانوس ديال الحديد المطروق – مراكش | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Lanterne en fer forgé ajouré façonnée à la main par des forgerons marocains, parfaite pour une décoration authentique.",
+      "ar": "فانوس من الحديد المطروق المزخرف صنع يدويًا من طرف حدادين مغاربة، مثالي لديكور أصيل.",
+      "en": "Pierced wrought iron lantern handmade by Moroccan blacksmiths, perfect for authentic decor.",
+      "darija": "فانوس ديال الحديد المطروق مصنوع باليد من الحدادة المغاربة، مزيان للديكور الأصيل."
+    },
+    "viewCount": 690,
+    "salesCount": 58,
+    "rating": 4.6,
+    "reviewCount": 27
+  },
+  {
+    "name": {
+      "fr": "Couteau artisanal à manche en corne",
+      "ar": "سكين تقليدي بمقبض من القرن",
+      "en": "Handcrafted Knife with Horn Handle",
+      "darija": "موس تقليدي بمقبض ديال القرن"
+    },
+    "description": {
+      "fr": "Couteau forgé à la main selon des techniques séculaires, lame en acier carbone affûtée et manche en corne de bœuf naturelle, chaque pièce présentant ainsi des nuances uniques. Utilisé traditionnellement pour la cuisine ou comme objet de collection, il est livré avec un fourreau en cuir cousu main.",
+      "ar": "سكين مطروق يدويًا وفق تقنيات عريقة، نصله من الفولاذ الكربوني الحاد ومقبضه من قرن البقر الطبيعي، مما يجعل كل قطعة تحمل تدرجات لونية فريدة. يُستعمل تقليديًا في المطبخ أو كقطعة للهواة، ويُسلَّم مع غمد جلدي مخيط يدويًا.",
+      "en": "A knife forged by hand using centuries-old techniques, with a sharp carbon steel blade and a natural ox-horn handle, giving each piece unique shading. Traditionally used in the kitchen or as a collector's item, it comes with a hand-stitched leather sheath.",
+      "darija": "موس مطروق باليد بتقنيات قديمة بزاف، النصل ديالو من الفولاذ الكربوني الحاد والمقبض من قرن البقري الطبيعي، فهاد الشي كل وحدة فيها ألوان خاصة بيها. كيتستعمل فالكوزينة ولا كقطعة للهواة، كيجي مع غلاف ديال الجلد مخيط باليد."
+    },
+    "shortDescription": {
+      "fr": "Couteau forgé main, lame en acier carbone et manche en corne naturelle.",
+      "ar": "سكين مطروق يدويًا، نصل من الفولاذ ومقبض من القرن الطبيعي.",
+      "en": "Hand-forged knife with carbon steel blade and natural horn handle.",
+      "darija": "موس مطروق باليد، النصل من الفولاذ والمقبض من القرن الطبيعي."
+    },
+    "unit": { "fr": "pièce", "ar": "قطعة", "en": "piece", "darija": "وحدة" },
+    "price": 145,
+    "priceDiscount": null,
+    "currency": "MAD",
+    "domain": "artisanat_service",
+    "subcategory": {
+      "fr": "Ferronnerie",
+      "ar": "الحدادة التقليدية",
+      "en": "Ironwork",
+      "darija": "الحدادة"
+    },
+    "tags": ["couteau", "forgé", "corne", "artisanat", "cuisine"],
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/A_blacksmith_on_the_job.jpg/960px-A_blacksmith_on_the_job.jpg",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/A_blacksmith_on_the_job.jpg/960px-A_blacksmith_on_the_job.jpg",
+        "alt": {
+          "fr": "Forgeron façonnant une lame à la main",
+          "ar": "حداد يصنع نصل سكين يدويًا",
+          "en": "Blacksmith shaping a blade by hand",
+          "darija": "حداد كيصنع نصل بيدو"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/A_Blacksmith_MET_DP851173.jpg/960px-A_Blacksmith_MET_DP851173.jpg",
+        "alt": {
+          "fr": "Travail traditionnel du métal au Maroc",
+          "ar": "عمل تقليدي على المعدن في المغرب",
+          "en": "Traditional metalwork in Morocco",
+          "darija": "خدمة تقليدية فالحديد فالمغرب"
+        }
+      }
+    ],
+    "proActorDomain": "artisanat_service",
+    "stock": 30,
+    "isInfiniteStock": false,
+    "sku": "KB-SVC-006",
+    "status": "published",
+    "isActive": true,
+    "isFeatured": false,
+    "isOrganic": false,
+    "isHandmade": true,
+    "origin": { "region": "Fès-Meknès", "city": "Fès", "country": "Maroc" },
+    "certifications": ["Fait main"],
+    "slug": "couteau-artisanal-manche-corne",
+    "metaTitle": {
+      "fr": "Couteau artisanal à manche en corne – Fès | KENZ BLADI",
+      "ar": "سكين تقليدي بمقبض من القرن – فاس | كنز بلادي",
+      "en": "Handcrafted Knife with Horn Handle – Fès | KENZ BLADI",
+      "darija": "موس تقليدي بمقبض ديال القرن – فاس | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Couteau forgé à la main, lame en acier carbone et manche en corne naturelle, livré avec son fourreau en cuir.",
+      "ar": "سكين مطروق يدويًا، نصل من الفولاذ الكربوني ومقبض من القرن الطبيعي، يُسلَّم مع غمد جلدي.",
+      "en": "Hand-forged knife with carbon steel blade and natural horn handle, delivered with a leather sheath.",
+      "darija": "موس مطروق باليد، النصل من الفولاذ والمقبض من القرن، كيجي مع غلاف ديال الجلد."
+    },
+    "viewCount": 410,
+    "salesCount": 39,
+    "rating": 4.5,
+    "reviewCount": 16
+  },
+  {
+    "name": {
+      "fr": "Henné naturel en poudre du Maroc",
+      "ar": "حناء طبيعية مطحونة من المغرب",
+      "en": "Natural Moroccan Henna Powder",
+      "darija": "حنا طبيعية مطحونة ديال المغرب"
+    },
+    "description": {
+      "fr": "Poudre de henné 100% naturelle, issue de feuilles séchées et broyées dans la région de Marrakech. Sans additifs chimiques, elle convient aussi bien aux tatouages temporaires qu'aux soins capillaires traditionnels. Conditionnée dans un emballage hermétique pour préserver sa fraîcheur et son pouvoir colorant.",
+      "ar": "مسحوق حناء طبيعي 100%، مستخرج من أوراق مجففة ومطحونة في منطقة مراكش. خالٍ من المواد الكيميائية، يصلح للوشم المؤقت وللعناية التقليدية بالشعر. معبأ في علبة محكمة الإغلاق للحفاظ على نضارته وقوة لونه.",
+      "en": "100% natural henna powder, made from leaves dried and ground in the Marrakech region. Free of chemical additives, it is suitable for both temporary tattoos and traditional hair care. Packaged in an airtight container to preserve its freshness and coloring power.",
+      "darija": "مسحوق الحنا طبيعي 100%، مصنوع من ورق مجفف ومطحون فمنطقة مراكش. ماشي فيه شي مادة كيميائية، يصلح للوشم المؤقت وللعناية التقليدية بالشعر. معبأ فعلبة مسدودة مزيان باش يبقى طري ولونو قوي."
+    },
+    "shortDescription": {
+      "fr": "Poudre de henné pure et naturelle, broyée artisanalement à Marrakech.",
+      "ar": "مسحوق حناء نقي وطبيعي، مطحون يدويًا في مراكش.",
+      "en": "Pure, natural henna powder, hand-ground in Marrakech.",
+      "darija": "مسحوق الحنا نقي وطبيعي، مطحون باليد فمراكش."
+    },
+    "unit": { "fr": "sachet de 200g", "ar": "كيس 200 غرام", "en": "200g bag", "darija": "ساشي ديال 200 غرام" },
+    "price": 45,
+    "priceDiscount": null,
+    "currency": "MAD",
+    "domain": "artisanat_service",
+    "subcategory": {
+      "fr": "Henné & Cosmétique naturelle",
+      "ar": "الحناء ومستحضرات التجميل الطبيعية",
+      "en": "Henna & Natural Cosmetics",
+      "darija": "الحنا والتجميل الطبيعي"
+    },
+    "tags": ["henné", "naturel", "cheveux", "tatouage", "cosmétique"],
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Moroccan_Henna.jpg",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Moroccan_Henna.jpg",
+        "alt": {
+          "fr": "Poudre de henné marocaine",
+          "ar": "مسحوق الحناء المغربية",
+          "en": "Moroccan henna powder",
+          "darija": "مسحوق الحنا المغربية"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Henna_souk.jpg/960px-Henna_souk.jpg",
+        "alt": {
+          "fr": "Étal de henné dans un souk marocain",
+          "ar": "بسطة الحناء في سوق مغربي",
+          "en": "Henna stall in a Moroccan souk",
+          "darija": "حانوت الحنا فسوق مغربي"
+        }
+      }
+    ],
+    "proActorDomain": "artisanat_service",
+    "stock": 120,
+    "isInfiniteStock": false,
+    "sku": "KB-SVC-007",
+    "status": "published",
+    "isActive": true,
+    "isFeatured": true,
+    "isOrganic": true,
+    "isHandmade": true,
+    "origin": { "region": "Marrakech-Safi", "city": "Marrakech", "country": "Maroc" },
+    "certifications": ["100% naturel"],
+    "slug": "henne-naturel-poudre-marrakech",
+    "metaTitle": {
+      "fr": "Henné naturel en poudre – Marrakech | KENZ BLADI",
+      "ar": "حناء طبيعية مطحونة – مراكش | كنز بلادي",
+      "en": "Natural Henna Powder – Marrakech | KENZ BLADI",
+      "darija": "حنا طبيعية مطحونة – مراكش | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Poudre de henné 100% naturelle de Marrakech, idéale pour tatouages temporaires et soins capillaires.",
+      "ar": "مسحوق حناء طبيعي 100% من مراكش، مثالي للوشم المؤقت والعناية بالشعر.",
+      "en": "100% natural henna powder from Marrakech, ideal for temporary tattoos and hair care.",
+      "darija": "مسحوق الحنا طبيعي 100% من مراكش، مزيان للوشم المؤقت والعناية بالشعر."
+    },
+    "viewCount": 1530,
+    "salesCount": 312,
+    "rating": 4.9,
+    "reviewCount": 128
+  },
+  {
+    "name": {
+      "fr": "Kit henné de cérémonie avec pochoirs",
+      "ar": "طقم حناء للمناسبات مع استنسلات",
+      "en": "Ceremony Henna Kit with Stencils",
+      "darija": "طقم حنا ديال المناسبات مع الستنسيل"
+    },
+    "description": {
+      "fr": "Coffret complet pour célébrations et fêtes, comprenant des cônes de henné prêts à l'emploi, une sélection de pochoirs aux motifs traditionnels marocains et un livret illustré de modèles. Idéal pour les mariages, fiançailles et fêtes de l'Aïd, ce kit permet de réaliser de magnifiques motifs sans expérience préalable.",
+      "ar": "علبة متكاملة للأفراح والمناسبات، تحتوي على أنابيب حناء جاهزة للاستعمال، ومجموعة استنسلات بزخارف مغربية تقليدية، وكتيب مصور بالنماذج. مثالية لحفلات الزفاف والخطوبة وأعياد الفطر والأضحى، يتيح هذا الطقم رسم زخارف رائعة دون الحاجة لخبرة مسبقة.",
+      "en": "A complete kit for celebrations and festivities, including ready-to-use henna cones, a selection of stencils with traditional Moroccan motifs and an illustrated booklet of patterns. Ideal for weddings, engagements and Eid celebrations, this kit allows beautiful designs to be created without prior experience.",
+      "darija": "علبة كاملة ديال الأعراس والمناسبات، فيها أنابيب الحنا جاهزين للاستعمال، مجموعة ستنسيل برسومات مغربية تقليدية، وكتيب فيه صور النماذج. مزيانة للعرس والخطوبة والعيد، هاد الطقم كيخليك ترسم أشكال زوينة بلا ما يكون عندك تجربة من قبل."
+    },
+    "shortDescription": {
+      "fr": "Coffret henné complet avec cônes, pochoirs et modèles pour les fêtes.",
+      "ar": "طقم حناء متكامل بأنابيب واستنسلات ونماذج للمناسبات.",
+      "en": "Complete henna kit with cones, stencils and patterns for celebrations.",
+      "darija": "طقم حنا كامل بالأنابيب والستنسيل والنماذج ديال المناسبات."
+    },
+    "unit": { "fr": "coffret", "ar": "علبة", "en": "kit", "darija": "علبة" },
+    "price": 95,
+    "priceDiscount": 79,
+    "currency": "MAD",
+    "domain": "artisanat_service",
+    "subcategory": {
+      "fr": "Henné & Cosmétique naturelle",
+      "ar": "الحناء ومستحضرات التجميل الطبيعية",
+      "en": "Henna & Natural Cosmetics",
+      "darija": "الحنا والتجميل الطبيعي"
+    },
+    "tags": ["henné", "cérémonie", "mariage", "coffret", "Aïd"],
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Henna_in_Moroccan_wedding.jpg/960px-Henna_in_Moroccan_wedding.jpg",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Henna_in_Moroccan_wedding.jpg/960px-Henna_in_Moroccan_wedding.jpg",
+        "alt": {
+          "fr": "Application de henné lors d'un mariage marocain",
+          "ar": "وضع الحناء خلال عرس مغربي",
+          "en": "Henna application during a Moroccan wedding",
+          "darija": "تحطيط الحنا فعرس مغربي"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Henna_Patterns.jpg/960px-Henna_Patterns.jpg",
+        "alt": {
+          "fr": "Motifs traditionnels de henné",
+          "ar": "زخارف حناء تقليدية",
+          "en": "Traditional henna patterns",
+          "darija": "رسومات الحنا التقليدية"
+        }
+      }
+    ],
+    "proActorDomain": "artisanat_service",
+    "stock": 60,
+    "isInfiniteStock": false,
+    "sku": "KB-SVC-008",
+    "status": "published",
+    "isActive": true,
+    "isFeatured": false,
+    "isOrganic": true,
+    "isHandmade": true,
+    "origin": { "region": "Marrakech-Safi", "city": "Marrakech", "country": "Maroc" },
+    "certifications": ["100% naturel"],
+    "slug": "kit-henne-ceremonie-pochoirs",
+    "metaTitle": {
+      "fr": "Kit henné de cérémonie avec pochoirs – Marrakech | KENZ BLADI",
+      "ar": "طقم حناء للمناسبات مع استنسلات – مراكش | كنز بلادي",
+      "en": "Ceremony Henna Kit with Stencils – Marrakech | KENZ BLADI",
+      "darija": "طقم حنا ديال المناسبات – مراكش | كنز بلادي"
+    },
+    "metaDescription": {
+      "fr": "Coffret henné complet avec cônes prêts à l'emploi, pochoirs traditionnels et livret de modèles pour vos fêtes.",
+      "ar": "طقم حناء متكامل بأنابيب جاهزة واستنسلات تقليدية وكتيب نماذج لمناسباتكم.",
+      "en": "Complete henna kit with ready-to-use cones, traditional stencils and a pattern booklet for your celebrations.",
+      "darija": "طقم حنا كامل بالأنابيب الجاهزة والستنسيل التقليدي وكتيب النماذج ديال المناسبات ديالكم."
+    },
+    "viewCount": 870,
+    "salesCount": 145,
+    "rating": 4.7,
+    "reviewCount": 53
+  }
+]

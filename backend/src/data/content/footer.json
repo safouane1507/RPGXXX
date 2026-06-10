@@ -1,0 +1,137 @@
+{
+  "brand": {
+    "name": "KENZ BLADI كنز بلادي",
+    "tagline": {
+      "fr": "Le trésor du patrimoine artisanal marocain, à portée de clic.",
+      "ar": "كنز التراث الحرفي المغربي، على بعد نقرة.",
+      "en": "The treasure of Moroccan artisanal heritage, just a click away.",
+      "darija": "كنز التراث الحرفي المغربي، على بعد نقرة."
+    },
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Flag_of_Morocco.svg/240px-Flag_of_Morocco.svg.png"
+  },
+  "columns": [
+    {
+      "id": "navigation",
+      "title": {
+        "fr": "Navigation",
+        "ar": "روابط الموقع",
+        "en": "Navigation",
+        "darija": "روابط الموقع"
+      },
+      "links": [
+        { "label": { "fr": "Accueil", "ar": "الرئيسية", "en": "Home", "darija": "الرئيسية" }, "url": "/" },
+        { "label": { "fr": "À propos", "ar": "من نحن", "en": "About Us", "darija": "علينا" }, "url": "/about" },
+        { "label": { "fr": "Marketplace", "ar": "المتجر", "en": "Marketplace", "darija": "السوق" }, "url": "/marketplace" },
+        { "label": { "fr": "Tourisme rural", "ar": "السياحة القروية", "en": "Rural Tourism", "darija": "السياحة القروية" }, "url": "/tourism" },
+        { "label": { "fr": "Blog", "ar": "المدونة", "en": "Blog", "darija": "المدونة" }, "url": "/blog" },
+        { "label": { "fr": "Nos services", "ar": "خدماتنا", "en": "Our Services", "darija": "الخدمات ديالنا" }, "url": "/services" },
+        { "label": { "fr": "FAQ", "ar": "الأسئلة الشائعة", "en": "FAQ", "darija": "الأسئلة الشائعة" }, "url": "/faq" },
+        { "label": { "fr": "Contact", "ar": "اتصل بنا", "en": "Contact", "darija": "تواصل معانا" }, "url": "/contact" }
+      ]
+    },
+    {
+      "id": "categories",
+      "title": {
+        "fr": "Catégories",
+        "ar": "الفئات",
+        "en": "Categories",
+        "darija": "الفئات"
+      },
+      "links": [
+        { "label": { "fr": "Artisanat de Service", "ar": "الصناعة التقليدية للخدمات", "en": "Service Crafts", "darija": "الصنعة ديال الخدمات" }, "url": "/marketplace?domain=artisanat_service" },
+        { "label": { "fr": "Produits de la mer & Pêche artisanale", "ar": "منتجات البحر والصيد التقليدي", "en": "Sea Products & Artisanal Fishing", "darija": "منتوجات البحر والصيد" }, "url": "/marketplace?domain=produits_mer" },
+        { "label": { "fr": "Habillement & Mode Marocaine", "ar": "الملبس والموضة المغربية", "en": "Moroccan Fashion & Clothing", "darija": "الكسوة والموضة المغربية" }, "url": "/marketplace?domain=habillement_mode" },
+        { "label": { "fr": "Tourisme Rural & Éco-tourisme", "ar": "السياحة القروية والسياحة البيئية", "en": "Rural Tourism & Eco-tourism", "darija": "السياحة القروية والإيكولوجية" }, "url": "/marketplace?domain=tourisme_rural" },
+        { "label": { "fr": "Artisanat d'art", "ar": "الصناعة التقليدية الفنية", "en": "Art Craftsmanship", "darija": "الصنعة الفنية" }, "url": "/marketplace?domain=artisanat_art" },
+        { "label": { "fr": "Agriculture Bio & Local", "ar": "الزراعة العضوية والمحلية", "en": "Organic & Local Agriculture", "darija": "الزراعة البيولوجية والمحلية" }, "url": "/marketplace?domain=agriculture_bio" },
+        { "label": { "fr": "Soin & Beauté Naturelle", "ar": "العناية والجمال الطبيعي", "en": "Natural Beauty & Wellness", "darija": "العناية والجمال الطبيعي" }, "url": "/marketplace?domain=soin_beaute" },
+        { "label": { "fr": "Produit de Terroir", "ar": "منتجات الأراضي", "en": "Local Terroir Products", "darija": "منتوجات الأرض" }, "url": "/marketplace?domain=produit_terroir" },
+        { "label": { "fr": "Artisanat Culinaire", "ar": "الصناعة التقليدية الطهوية", "en": "Culinary Crafts", "darija": "الصنعة الطهوية" }, "url": "/marketplace?domain=artisanat_culinaire" }
+      ]
+    },
+    {
+      "id": "legal",
+      "title": {
+        "fr": "Informations légales",
+        "ar": "معلومات قانونية",
+        "en": "Legal Information",
+        "darija": "معلومات قانونية"
+      },
+      "links": [
+        { "label": { "fr": "Conditions générales d'utilisation", "ar": "الشروط العامة للاستخدام", "en": "Terms of Service", "darija": "الشروط العامة للاستعمال" }, "url": "/legal/terms" },
+        { "label": { "fr": "Politique de confidentialité", "ar": "سياسة الخصوصية", "en": "Privacy Policy", "darija": "سياسة الخصوصية" }, "url": "/legal/privacy" },
+        { "label": { "fr": "Politique de retour & remboursement", "ar": "سياسة الإرجاع والاسترداد", "en": "Return & Refund Policy", "darija": "سياسة الإرجاع والاسترداد" }, "url": "/legal/returns" },
+        { "label": { "fr": "Mentions légales", "ar": "إشعار قانوني", "en": "Legal Notice", "darija": "إشعار قانوني" }, "url": "/legal/notice" },
+        { "label": { "fr": "Devenir partenaire", "ar": "كن شريكاً", "en": "Become a Partner", "darija": "كون شريك" }, "url": "/devenir-partenaire" }
+      ]
+    }
+  ],
+  "contact": {
+    "title": {
+      "fr": "Contactez-nous",
+      "ar": "تواصل معنا",
+      "en": "Contact Us",
+      "darija": "تواصل معانا"
+    },
+    "address": {
+      "fr": "123 Avenue Mohammed V, Rabat, Maroc",
+      "ar": "123 شارع محمد الخامس، الرباط، المغرب",
+      "en": "123 Mohammed V Avenue, Rabat, Morocco",
+      "darija": "123 شارع محمد الخامس، الرباط، المغرب"
+    },
+    "phone": "+212 5 37 00 00 00",
+    "whatsapp": "+212 6 00 00 00 00",
+    "email": "contact@kenzbladi.ma",
+    "workingHours": {
+      "fr": "Lundi - Vendredi : 9h00 - 18h00",
+      "ar": "الإثنين - الجمعة: 9:00 - 18:00",
+      "en": "Monday - Friday: 9:00 AM - 6:00 PM",
+      "darija": "الإثنين - الجمعة: 9:00 - 18:00"
+    }
+  },
+  "newsletter": {
+    "title": {
+      "fr": "Restez informé",
+      "ar": "ابق على اطلاع",
+      "en": "Stay Informed",
+      "darija": "بقا على اطلاع"
+    },
+    "description": {
+      "fr": "Inscrivez-vous à notre newsletter pour découvrir les nouveaux produits, articles de blog et destinations touristiques.",
+      "ar": "اشترك في نشرتنا الإخبارية لاكتشاف المنتجات الجديدة ومقالات المدونة والوجهات السياحية.",
+      "en": "Subscribe to our newsletter to discover new products, blog articles and tourist destinations.",
+      "darija": "تسجل فالنشرة الإخبارية ديالنا باش تكتشف المنتوجات الجداد ومقالات المدونة والوجهات السياحية."
+    },
+    "placeholder": {
+      "fr": "Votre adresse e-mail",
+      "ar": "بريدك الإلكتروني",
+      "en": "Your email address",
+      "darija": "البريد الإلكتروني ديالك"
+    },
+    "buttonLabel": {
+      "fr": "S'abonner",
+      "ar": "اشترك",
+      "en": "Subscribe",
+      "darija": "تسجل"
+    }
+  },
+  "socialMedia": [
+    { "id": "facebook", "icon": "facebook", "url": "https://facebook.com/kenzbladi", "label": "Facebook" },
+    { "id": "instagram", "icon": "instagram", "url": "https://instagram.com/kenzbladi", "label": "Instagram" },
+    { "id": "youtube", "icon": "youtube", "url": "https://youtube.com/@kenzbladi", "label": "YouTube" },
+    { "id": "tiktok", "icon": "tiktok", "url": "https://tiktok.com/@kenzbladi", "label": "TikTok" },
+    { "id": "linkedin", "icon": "linkedin", "url": "https://linkedin.com/company/kenzbladi", "label": "LinkedIn" }
+  ],
+  "paymentMethods": [
+    { "id": "cmi", "label": "CMI", "icon": "credit-card" },
+    { "id": "visa", "label": "Visa", "icon": "visa" },
+    { "id": "mastercard", "label": "Mastercard", "icon": "mastercard" },
+    { "id": "cod", "label": { "fr": "Paiement à la livraison", "ar": "الدفع عند الاستلام", "en": "Cash on Delivery", "darija": "الخلاص عند التوصيل" }, "icon": "banknote" }
+  ],
+  "copyright": {
+    "fr": "© 2026 KENZ BLADI كنز بلادي. Tous droits réservés.",
+    "ar": "© 2026 كنز بلادي KENZ BLADI. جميع الحقوق محفوظة.",
+    "en": "© 2026 KENZ BLADI كنز بلادي. All rights reserved.",
+    "darija": "© 2026 كنز بلادي KENZ BLADI. جميع الحقوق محفوظة."
+  }
+}
