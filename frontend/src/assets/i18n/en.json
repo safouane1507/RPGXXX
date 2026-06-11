@@ -70,6 +70,46 @@
     "RIGHTS": "All rights reserved",
     "LEGAL": "Legal notice"
   },
+  "ABOUT": {
+    "TITLE": "About KENZ BLADI",
+    "SUBTITLE": "A digital platform dedicated to Moroccan artisanal heritage",
+    "INTRO_P1": "KENZ BLADI (كنز بلادي, \"Treasure of my country\") is a digital ecosystem connecting Moroccan artisans, cooperatives and local producers with the world. Our goal is to promote ancestral know-how passed down from generation to generation.",
+    "INTRO_P2": "Through a marketplace, a professional directory, tourism content and blog articles, we offer a modern digital showcase for Moroccan craftsmanship, available in French, Arabic, English and Darija.",
+    "MISSION_TITLE": "Our Mission",
+    "MISSION_TEXT": "Facilitate market access for Moroccan artisans and cooperatives, while preserving the authenticity and quality of their production.",
+    "VISION_TITLE": "Our Vision",
+    "VISION_TEXT": "Become the digital reference for Moroccan artisanal heritage, internationally recognized for the quality and authenticity of its actors.",
+    "VALUES_TITLE": "Our Values",
+    "VALUES": [
+      { "icon": "🌍", "title": "Authenticity", "text": "100% Moroccan products and services, true to local traditions." },
+      { "icon": "🤝", "title": "Solidarity", "text": "Direct support for cooperatives and artisans for fair trade." },
+      { "icon": "🌱", "title": "Sustainability", "text": "Production that respects the environment and local resources." },
+      { "icon": "✨", "title": "Excellence", "text": "A rigorous selection to guarantee the quality of every product and service." }
+    ]
+  },
+  "SERVICES": {
+    "TITLE": "Our Services",
+    "SUBTITLE": "A complete ecosystem for Moroccan craftsmanship actors and visitors",
+    "LIST": [
+      { "icon": "🛍️", "title": "Marketplace", "text": "Buy authentic handcrafted products directly from Moroccan producers." },
+      { "icon": "📖", "title": "Pro Actors Directory", "text": "Discover cooperatives, artisans and companies listed by domain and region." },
+      { "icon": "🌍", "title": "Rural Tourism", "text": "Explore authentic rural and eco-tourism destinations across Morocco." },
+      { "icon": "📰", "title": "Blog & News", "text": "Follow news, reports and inspiring stories from our community." },
+      { "icon": "🌐", "title": "Multilingual Platform", "text": "An experience available in French, Arabic, English and Moroccan Darija." },
+      { "icon": "📊", "title": "Pro Actor Space", "text": "A dedicated dashboard to manage your products, directory listing and statistics." }
+    ]
+  },
+  "FAQ": {
+    "TITLE": "Frequently Asked Questions",
+    "SUBTITLE": "Everything you need to know about KENZ BLADI",
+    "ITEMS": [
+      { "q": "How do I register as an artisan on KENZ BLADI?", "a": "Contact the administrator via the contact form. A Pro account will be created for you with your personal credentials." },
+      { "q": "How do I add my products to the shop?", "a": "Once your Pro account is activated, go to your Pro space → Product management → Add." },
+      { "q": "In which languages is the platform available?", "a": "The platform is available in French, Arabic, English and Moroccan Darija." },
+      { "q": "How can I appear in the Pro Actors Directory?", "a": "Complete your profile in the Pro space. It will be reviewed by the administrator before publication." },
+      { "q": "Can I sell my products directly through the platform?", "a": "Yes, via the Marketplace. The platform offers several subscription plans: Free, Basic, Premium and Enterprise." }
+    ]
+  },
   "AUTH": {
     "LOGIN": "Sign in",
     "LOGOUT": "Sign out",

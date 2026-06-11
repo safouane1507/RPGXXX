@@ -73,6 +73,46 @@
     "RIGHTS": "Tous droits réservés",
     "LEGAL": "Mentions légales"
   },
+  "ABOUT": {
+    "TITLE": "À Propos de KENZ BLADI",
+    "SUBTITLE": "Une plateforme numérique au service du patrimoine artisanal marocain",
+    "INTRO_P1": "KENZ BLADI (كنز بلادي, « Trésor de mon pays ») est un écosystème digital qui connecte les artisans, coopératives et producteurs locaux du Maroc avec le monde entier. Notre objectif est de valoriser un savoir-faire ancestral transmis de génération en génération.",
+    "INTRO_P2": "À travers une marketplace, un annuaire professionnel, des contenus touristiques et des articles de blog, nous offrons une vitrine digitale moderne aux acteurs de l'artisanat marocain, disponible en français, arabe, anglais et darija.",
+    "MISSION_TITLE": "Notre Mission",
+    "MISSION_TEXT": "Faciliter l'accès aux marchés pour les artisans et coopératives marocaines, tout en préservant l'authenticité et la qualité de leur production.",
+    "VISION_TITLE": "Notre Vision",
+    "VISION_TEXT": "Devenir la référence digitale du patrimoine artisanal marocain, reconnue à l'international pour la qualité et l'authenticité de ses acteurs.",
+    "VALUES_TITLE": "Nos Valeurs",
+    "VALUES": [
+      { "icon": "🌍", "title": "Authenticité", "text": "Des produits et services 100% marocains, fidèles aux traditions locales." },
+      { "icon": "🤝", "title": "Solidarité", "text": "Un soutien direct aux coopératives et artisans pour un commerce équitable." },
+      { "icon": "🌱", "title": "Durabilité", "text": "Une production respectueuse de l'environnement et des ressources locales." },
+      { "icon": "✨", "title": "Excellence", "text": "Une sélection rigoureuse pour garantir la qualité de chaque produit et service." }
+    ]
+  },
+  "SERVICES": {
+    "TITLE": "Nos Services",
+    "SUBTITLE": "Un écosystème complet pour les acteurs de l'artisanat marocain et leurs visiteurs",
+    "LIST": [
+      { "icon": "🛍️", "title": "Marketplace", "text": "Achetez des produits artisanaux authentiques directement auprès des producteurs marocains." },
+      { "icon": "📖", "title": "Annuaire des Acteurs Pro", "text": "Découvrez les coopératives, artisans et entreprises labellisés par domaine et région." },
+      { "icon": "🌍", "title": "Tourisme Rural", "text": "Explorez des destinations rurales et éco-touristiques authentiques à travers le Maroc." },
+      { "icon": "📰", "title": "Blog & Actualités", "text": "Suivez les actualités, reportages et histoires inspirantes de notre communauté." },
+      { "icon": "🌐", "title": "Plateforme Multilingue", "text": "Une expérience disponible en français, arabe, anglais et darija marocaine." },
+      { "icon": "📊", "title": "Espace Acteur Pro", "text": "Un tableau de bord dédié pour gérer vos produits, votre fiche annuaire et vos statistiques." }
+    ]
+  },
+  "FAQ": {
+    "TITLE": "Questions Fréquentes",
+    "SUBTITLE": "Tout ce que vous devez savoir sur KENZ BLADI",
+    "ITEMS": [
+      { "q": "Comment s'inscrire comme artisan sur KENZ BLADI ?", "a": "Contactez l'administrateur via le formulaire de contact. Un compte Pro vous sera créé avec vos identifiants personnels." },
+      { "q": "Comment ajouter mes produits dans la boutique ?", "a": "Une fois votre compte Pro activé, rendez-vous dans votre espace Pro → Gestion des produits → Ajouter." },
+      { "q": "Dans quelles langues la plateforme est-elle disponible ?", "a": "La plateforme est disponible en français, arabe, anglais et darija marocaine." },
+      { "q": "Comment apparaître dans l'Annuaire des Acteurs Pro ?", "a": "Complétez votre fiche dans l'espace Pro. Elle sera soumise à validation par l'administrateur avant publication." },
+      { "q": "Puis-je vendre mes produits directement via la plateforme ?", "a": "Oui, via la Marketplace. La plateforme propose différents plans d'abonnement : Gratuit, Basic, Premium et Enterprise." }
+    ]
+  },
   "AUTH": {
     "LOGIN": "Connexion",
     "LOGOUT": "Déconnexion",
