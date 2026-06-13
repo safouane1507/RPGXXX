@@ -1,10 +1,12 @@
 import { Component, OnInit, inject, signal } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { RouterModule, ActivatedRoute } from '@angular/router';
+import { RouterModule, ActivatedRoute, Router } from '@angular/router';
 import { TranslateModule } from '@ngx-translate/core';
 import { Title, Meta } from '@angular/platform-browser';
 import { ApiService } from '../../../core/services/api.service';
 import { LanguageService } from '../../../core/services/language.service';
+import { AuthService } from '../../../core/services/auth.service';
+import { CartService } from '../../../core/services/cart.service';
 
 const DOMAIN_LABELS: Record<string, string> = {
   artisanat_art:       'Artisanat d\'art',
@@ -128,8 +130,23 @@ const DOMAIN_LABELS: Record<string, string> = {
             <p class="pd-short-desc">{{ t(product().shortDescription) }}</p>
           }
 
+          <!-- Quantity -->
+          @if (product().isInfiniteStock || product().stock > 0) {
+            <div class="pd-qty">
+              <span class="pd-qty-label">Quantité</span>
+              <div class="pd-qty-stepper">
+                <button (click)="decQty()" [disabled]="qty() <= 1" aria-label="Diminuer">−</button>
+                <span>{{ qty() }}</span>
+                <button (click)="incQty()" [disabled]="!product().isInfiniteStock && qty() >= product().stock" aria-label="Augmenter">+</button>
+              </div>
+            </div>
+          }
+
           <!-- CTA -->
           <div class="pd-cta">
+            <button class="btn-add-cart" (click)="addToCart()" [disabled]="!product().isInfiniteStock && product().stock <= 0">
+              🛒 {{ (!product().isInfiniteStock && product().stock <= 0) ? 'Rupture de stock' : 'Ajouter au panier' }}
+            </button>
             <a routerLink="/annuaire" class="btn-contact">✉️ Contacter le vendeur</a>
           </div>
 
@@ -249,7 +266,17 @@ const DOMAIN_LABELS: Record<string, string> = {
     .pd-origin strong { color:var(--text-primary); }
     .origin-region { color:var(--text-muted); }
     .pd-short-desc { font-size:.9rem; line-height:1.75; color:var(--text-secondary); margin:0; }
+    .pd-qty { display:flex; align-items:center; gap:.875rem; }
+    .pd-qty-label { font-size:.85rem; font-weight:600; color:var(--text-secondary); }
+    .pd-qty-stepper { display:flex; align-items:center; gap:.875rem; border:1px solid var(--card-border); border-radius:10px; padding:.35rem .9rem; }
+    .pd-qty-stepper button { width:26px; height:26px; border-radius:50%; border:1px solid var(--card-border); background:var(--bg-secondary); color:var(--text-primary); font-size:1rem; font-weight:700; cursor:pointer; display:flex; align-items:center; justify-content:center; transition:background .2s; }
+    .pd-qty-stepper button:hover:not(:disabled) { background:var(--brand-gold,#d4af6a); color:#2c1a05; border-color:var(--brand-gold,#d4af6a); }
+    .pd-qty-stepper button:disabled { opacity:.35; cursor:not-allowed; }
+    .pd-qty-stepper span { min-width:1.5rem; text-align:center; font-weight:700; color:var(--text-primary); }
     .pd-cta { display:flex; gap:.75rem; flex-wrap:wrap; }
+    .btn-add-cart { display:inline-flex; align-items:center; gap:.375rem; padding:.7rem 1.5rem; background:var(--brand-gold,#d4af6a); color:#2c1a05; border:none; border-radius:10px; font-weight:700; font-size:.9rem; cursor:pointer; transition:background .2s; }
+    .btn-add-cart:hover:not(:disabled) { background:#c49a52; }
+    .btn-add-cart:disabled { opacity:.5; cursor:not-allowed; }
     .btn-contact { display:inline-flex; align-items:center; gap:.375rem; padding:.7rem 1.5rem; background:#8B4513; color:#fff; border:none; border-radius:10px; font-weight:700; font-size:.9rem; text-decoration:none; cursor:pointer; transition:background .2s; }
     .btn-contact:hover { background:#7a3a10; }
     .vendor-card { display:flex; align-items:center; gap:.875rem; background:var(--bg-secondary); border:1px solid var(--card-border); border-radius:12px; padding:.875rem 1rem; }
@@ -293,17 +320,21 @@ const DOMAIN_LABELS: Record<string, string> = {
   `]
 })
 export class ProductDetailComponent implements OnInit {
-  private api   = inject(ApiService);
-  private route = inject(ActivatedRoute);
-  private lang  = inject(LanguageService);
-  private title = inject(Title);
-  private meta  = inject(Meta);
+  private api    = inject(ApiService);
+  private route  = inject(ActivatedRoute);
+  private lang   = inject(LanguageService);
+  private title  = inject(Title);
+  private meta   = inject(Meta);
+  private router = inject(Router);
+  private auth   = inject(AuthService);
+  private cart   = inject(CartService);
 
   product  = signal<any>(null);
   similar  = signal<any[]>([]);
   notFound = signal(false);
   activeImg = signal<string | null>(null);
   allImages = signal<string[]>([]);
+  qty       = signal(1);
 
   ngOnInit(): void {
     const slug = this.route.snapshot.paramMap.get('slug');
@@ -361,5 +392,25 @@ export class ProductDetailComponent implements OnInit {
     const half  = rating % 1 >= 0.5 ? 1 : 0;
     const empty = 5 - full - half;
     return '★'.repeat(full) + (half ? '½' : '') + '☆'.repeat(empty);
+  }
+
+  incQty(): void {
+    const p = this.product();
+    const max = p.isInfiniteStock ? Infinity : p.stock;
+    this.qty.update(v => Math.min(v + 1, max));
+  }
+
+  decQty(): void {
+    this.qty.update(v => Math.max(1, v - 1));
+  }
+
+  addToCart(): void {
+    if (!this.auth.isLoggedIn() || this.auth.currentUser()?.role !== 'client') {
+      this.router.navigate(['/auth/login'], { queryParams: { returnUrl: this.router.url } });
+      return;
+    }
+
+    this.cart.addToCart(this.product(), this.qty());
+    this.cart.isCartOpen.set(true);
   }
 }

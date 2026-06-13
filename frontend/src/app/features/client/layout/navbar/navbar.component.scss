@@ -277,6 +277,47 @@ $transition: 0.25s ease;
   }
 }
 
+// ── Cart Toggle ───────────────────────────────────────────────────
+.cart-toggle {
+  position: relative;
+  width: 38px;
+  height: 38px;
+  border-radius: 50%;
+  border: 1px solid var(--nav-border, rgba(0,0,0,0.12));
+  background: transparent;
+  color: var(--nav-text, #2c2c2c);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background $transition, border-color $transition, transform $transition;
+
+  svg { width: 18px; height: 18px; }
+
+  &:hover {
+    background: rgba(212, 175, 106, 0.12);
+    border-color: var(--brand-gold, #d4af6a);
+    transform: translateY(-1px);
+  }
+
+  .cart-badge {
+    position: absolute;
+    top: -4px;
+    right: -4px;
+    min-width: 17px;
+    height: 17px;
+    padding: 0 4px;
+    border-radius: 9px;
+    background: var(--brand-gold, #d4af6a);
+    color: #2c1a05;
+    font-size: 0.65rem;
+    font-weight: 800;
+    line-height: 17px;
+    text-align: center;
+    box-shadow: 0 0 0 2px var(--nav-bg, #fff);
+  }
+}
+
 // ── Hamburger ─────────────────────────────────────────────────────
 .hamburger {
   display: none;

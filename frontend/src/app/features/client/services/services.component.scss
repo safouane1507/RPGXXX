@@ -1,19 +1,37 @@
 .services-hero {
-  background: linear-gradient(135deg, rgba(139,69,19,0.08), rgba(212,175,106,0.08));
-  border-bottom: 1px solid var(--card-border);
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(135deg, #2c1a00, #5a3200);
   padding: 3.5rem 1.5rem;
   text-align: center;
+
+  &::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background-image: var(--zellige-pattern);
+    background-repeat: repeat;
+    background-size: 40px 12px;
+    opacity: 0.15;
+    pointer-events: none;
+  }
+
+  h1, .subtitle {
+    position: relative;
+    z-index: 1;
+  }
 
   h1 {
     font-size: clamp(1.75rem, 4vw, 2.5rem);
     font-weight: 800;
-    color: var(--text-primary);
+    color: #f8f1e7 !important;
     margin: 0 0 0.5rem;
   }
 
   .subtitle {
     font-size: 1rem;
-    color: var(--text-secondary);
+    color: #f8f1e7 !important;
+    opacity: 0.85;
     max-width: 640px;
     margin: 0 auto;
   }

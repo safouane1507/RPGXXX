@@ -135,9 +135,23 @@ const MOROCCAN_REGIONS = [
   `,
   styles: [`
     .tourism-page { min-height:70vh; }
-    .tourism-hero { background:linear-gradient(135deg,#0d2818,#1a4731); padding:3.5rem 0 2.5rem; color:#fff; }
-    .tourism-hero h1 { font-size:1.9rem; font-weight:900; margin-bottom:.5rem; }
-    .tourism-hero p { opacity:.75; font-size:.95rem; margin-bottom:1.5rem; }
+    .tourism-hero {
+      position: relative; overflow: hidden;
+      background: linear-gradient(135deg,#0d2818,#1a4731);
+      padding: 3.5rem 0 2.5rem;
+      color: #fff;
+
+      &::before {
+        content: ''; position: absolute; inset: 0;
+        background-image: var(--zellige-pattern);
+        background-repeat: repeat; background-size: 40px 12px;
+        opacity: .15; pointer-events: none;
+      }
+
+      .container { position: relative; z-index: 1; }
+    }
+    .tourism-hero h1 { font-size:1.9rem; font-weight:900; margin-bottom:.5rem; color:#f8f1e7 !important; }
+    .tourism-hero p { opacity:.75; font-size:.95rem; margin-bottom:1.5rem; color:#f8f1e7 !important; }
     .hero-search { display:flex; gap:.5rem; max-width:480px; }
     .hero-input { flex:1; padding:.65rem 1rem; border:none; border-radius:10px; font-size:.9rem; outline:none; background:rgba(255,255,255,.15); color:#fff; backdrop-filter:blur(4px); }
     .hero-input::placeholder { color:rgba(255,255,255,.6); }
