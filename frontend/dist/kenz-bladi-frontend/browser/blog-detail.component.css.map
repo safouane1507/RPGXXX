@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["blog-detail.component.ts"],
-  "sourcesContent": [".blog-detail{max-width:800px;margin:0 auto;padding:3rem 1.5rem;} .back-link{font-size:.85rem;color:#8B4513;text-decoration:none;display:block;margin-bottom:1.5rem;&:hover{text-decoration:underline;}} .post-cover{width:100%;max-height:400px;object-fit:cover;border-radius:14px;margin-bottom:1.5rem;} h1{font-size:1.75rem;font-weight:800;margin-bottom:.5rem;color:var(--text-primary);} .post-date{font-size:.82rem;color:var(--text-muted);margin-bottom:2rem;} .post-content{font-size:.95rem;line-height:1.9;color:var(--text-secondary);} .loading{text-align:center;padding:3rem;color:var(--text-muted);}"],
-  "mappings": ";AAAA,CAAA;AAAa,aAAA;AAAgB,UAAA,EAAA;AAAc,WAAA,KAAA;;AAAsB,CAAA;AAAW,aAAA;AAAiB,SAAA;AAAc,mBAAA;AAAqB,WAAA;AAAc,iBAAA;;AAAqB,CAAlG,SAAkG;AAAQ,mBAAA;;AAA6B,CAAA;AAAY,SAAA;AAAW,cAAA;AAAiB,cAAA;AAAiB,iBAAA;AAAmB,iBAAA;;AAAuB;AAAG,aAAA;AAAkB,eAAA;AAAgB,iBAAA;AAAoB,SAAA,IAAA;;AAA4B,CAAA;AAAW,aAAA;AAAiB,SAAA,IAAA;AAAwB,iBAAA;;AAAqB,CAAA;AAAc,aAAA;AAAiB,eAAA;AAAgB,SAAA,IAAA;;AAA8B,CAAA;AAAS,cAAA;AAAkB,WAAA;AAAa,SAAA,IAAA;;",
-  "names": []
-}

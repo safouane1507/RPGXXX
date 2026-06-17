@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["complaints.component.ts"],
-  "sourcesContent": [".admin-stub{background:var(--card-bg);border:1px solid var(--card-border);border-radius:10px;padding:2rem;} h2{font-size:1.1rem;font-weight:700;margin-bottom:.75rem;color:var(--text-primary);} p{font-size:.875rem;color:var(--text-secondary);}"],
-  "mappings": ";AAAA,CAAA;AAAY,cAAA,IAAA;AAA0B,UAAA,IAAA,MAAA,IAAA;AAAoC,iBAAA;AAAmB,WAAA;;AAAe;AAAG,aAAA;AAAiB,eAAA;AAAgB,iBAAA;AAAqB,SAAA,IAAA;;AAA4B;AAAE,aAAA;AAAkB,SAAA,IAAA;;",
-  "names": []
-}
