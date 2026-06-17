@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["cooperatives-list.component.ts"],
+  "sourcesContent": [".admin-stub{background:var(--card-bg);border:1px solid var(--card-border);border-radius:10px;padding:2rem;} h2{font-size:1.1rem;font-weight:700;margin-bottom:1rem;color:var(--text-primary);} ul{padding-inline-start:1.25rem;font-size:.875rem;color:var(--text-secondary);line-height:2;}"],
+  "mappings": ";AAAA,CAAA;AAAY,cAAA,IAAA;AAA0B,UAAA,IAAA,MAAA,IAAA;AAAoC,iBAAA;AAAmB,WAAA;;AAAe;AAAG,aAAA;AAAiB,eAAA;AAAgB,iBAAA;AAAmB,SAAA,IAAA;;AAA4B;AAAG,wBAAA;AAA6B,aAAA;AAAkB,SAAA,IAAA;AAA4B,eAAA;;",
+  "names": []
+}

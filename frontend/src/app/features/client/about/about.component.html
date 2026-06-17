@@ -1,0 +1,41 @@
+<section class="about-page">
+  <!-- ── Header ─────────────────────────────────────────── -->
+  <div class="about-hero">
+    <div class="container">
+      <h1>{{ 'ABOUT.TITLE' | translate }}</h1>
+      <p class="subtitle">{{ 'ABOUT.SUBTITLE' | translate }}</p>
+    </div>
+  </div>
+
+  <div class="container section-spacing">
+    <!-- ── Intro ────────────────────────────────────────── -->
+    <div class="about-intro">
+      <p>{{ 'ABOUT.INTRO_P1' | translate }}</p>
+      <p>{{ 'ABOUT.INTRO_P2' | translate }}</p>
+    </div>
+
+    <!-- ── Mission / Vision ─────────────────────────────── -->
+    <div class="mission-vision-grid">
+      <div class="mv-card">
+        <h2>{{ 'ABOUT.MISSION_TITLE' | translate }}</h2>
+        <p>{{ 'ABOUT.MISSION_TEXT' | translate }}</p>
+      </div>
+      <div class="mv-card">
+        <h2>{{ 'ABOUT.VISION_TITLE' | translate }}</h2>
+        <p>{{ 'ABOUT.VISION_TEXT' | translate }}</p>
+      </div>
+    </div>
+
+    <!-- ── Values ───────────────────────────────────────── -->
+    <h2 class="values-title">{{ 'ABOUT.VALUES_TITLE' | translate }}</h2>
+    <div class="values-grid">
+      @for (value of ('ABOUT.VALUES' | translate); track value.title) {
+        <div class="value-card">
+          <span class="value-icon">{{ value.icon }}</span>
+          <h3>{{ value.title }}</h3>
+          <p>{{ value.text }}</p>
+        </div>
+      }
+    </div>
+  </div>
+</section>

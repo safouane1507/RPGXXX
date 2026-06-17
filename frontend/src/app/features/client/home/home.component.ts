@@ -1,4 +1,4 @@
-import { Component, OnInit, OnDestroy, inject, signal } from '@angular/core';
+import { Component, OnInit, inject, signal, ViewChild, ElementRef } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { RouterModule } from '@angular/router';
 import { TranslateModule } from '@ngx-translate/core';
@@ -44,12 +44,15 @@ interface BlogPost {
   templateUrl: './home.component.html',
   styleUrls: ['./home.component.scss']
 })
-export class HomeComponent implements OnInit, OnDestroy {
+export class HomeComponent implements OnInit {
   private api         = inject(ApiService);
   private langService = inject(LanguageService);
 
   currentLang = this.langService.current;
   isRTL       = this.langService.isRTL;
+
+  @ViewChild('marketplaceTrack') marketplaceTrack?: ElementRef<HTMLElement>;
+  @ViewChild('annuaireTrack')    annuaireTrack?: ElementRef<HTMLElement>;
 
   // ── Data ──────────────────────────────────────────────────
   annuaireList     = signal<AnnuaireCard[]>([]);
@@ -58,8 +61,6 @@ export class HomeComponent implements OnInit, OnDestroy {
 
   // ── UI State ──────────────────────────────────────────────
   activeDomain     = signal<string>('all');
-  carouselIndex    = signal(0);
-  carouselInterval?: ReturnType<typeof setInterval>;
   isLoadingAnnuaire = signal(true);
   isLoadingProducts = signal(true);
 
@@ -80,11 +81,6 @@ export class HomeComponent implements OnInit, OnDestroy {
     this.loadAnnuaire('all');
     this.loadFeaturedProducts();
     this.loadBlogPosts();
-    this.startCarousel();
-  }
-
-  ngOnDestroy(): void {
-    if (this.carouselInterval) clearInterval(this.carouselInterval);
   }
 
   // ── Data Loaders ──────────────────────────────────────────
@@ -118,23 +114,22 @@ export class HomeComponent implements OnInit, OnDestroy {
   }
 
   // ── Carousel ──────────────────────────────────────────────
-  startCarousel(): void {
-    this.carouselInterval = setInterval(() => {
-      const products = this.featuredProducts();
-      if (products.length > 0) {
-        this.carouselIndex.update(i => (i + 1) % products.length);
-      }
-    }, 3500);
+  scrollCarousel(direction: 'prev' | 'next'): void {
+    const el = this.marketplaceTrack?.nativeElement;
+    if (!el) return;
+    const amount = el.clientWidth * 0.8;
+    const sign = this.isRTL() ? -1 : 1;
+    const delta = direction === 'next' ? amount * sign : -amount * sign;
+    el.scrollBy({ left: delta, behavior: 'smooth' });
   }
 
-  prevSlide(): void {
-    const len = this.featuredProducts().length;
-    this.carouselIndex.update(i => (i - 1 + len) % len);
-  }
-
-  nextSlide(): void {
-    const len = this.featuredProducts().length;
-    this.carouselIndex.update(i => (i + 1) % len);
+  scrollAnnuaire(direction: 'prev' | 'next'): void {
+    const el = this.annuaireTrack?.nativeElement;
+    if (!el) return;
+    const amount = el.clientWidth * 0.8;
+    const sign = this.isRTL() ? -1 : 1;
+    const delta = direction === 'next' ? amount * sign : -amount * sign;
+    el.scrollBy({ left: delta, behavior: 'smooth' });
   }
 
   // ── Helpers ───────────────────────────────────────────────

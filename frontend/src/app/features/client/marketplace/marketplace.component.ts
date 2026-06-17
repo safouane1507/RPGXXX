@@ -1,10 +1,12 @@
 import { Component, OnInit, inject, signal } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { RouterModule } from '@angular/router';
+import { RouterModule, Router } from '@angular/router';
 import { TranslateModule } from '@ngx-translate/core';
 import { FormsModule } from '@angular/forms';
 import { ApiService } from '../../../core/services/api.service';
 import { LanguageService } from '../../../core/services/language.service';
+import { AuthService } from '../../../core/services/auth.service';
+import { CartService } from '../../../core/services/cart.service';
 
 const DOMAINS = [
   { id: '',                    label: 'Tout',               icon: '🛍️',  color: '#8B4513' },
@@ -156,6 +158,14 @@ const SORT_OPTIONS = [
                     @if (p.priceDiscount) {
                       <div class="mp-discount-badge">-{{ discountPct(p) }}%</div>
                     }
+                    <button class="mp-cart-btn" (click)="addToCart($event, p)" title="Ajouter au panier" aria-label="Ajouter au panier">
+                      <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <circle cx="9" cy="21" r="1" stroke="currentColor" stroke-width="2"/>
+                        <circle cx="20" cy="21" r="1" stroke="currentColor" stroke-width="2"/>
+                        <path d="M1 1H5L7.68 14.39A2 2 0 0 0 9.66 16H19.4A2 2 0 0 0 21.38 14.39L23 6H6"
+                          stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                      </svg>
+                    </button>
                   </div>
                   <div class="mp-body">
                     <span class="mp-domain">{{ domainLabel(p.domain) }}</span>
@@ -203,6 +213,7 @@ const SORT_OPTIONS = [
                     } @else {
                       <strong class="mp-price">{{ p.price | number:'1.0-0' }} MAD</strong>
                     }
+                    <button class="mli-cart-btn" (click)="addToCart($event, p)">🛒 Ajouter</button>
                     <span class="mli-voir">Voir le produit →</span>
                   </div>
                 </a>
@@ -226,9 +237,23 @@ const SORT_OPTIONS = [
 </section>
   `,
   styles: [`
-    .mp-hero { background:linear-gradient(135deg,#1a0a00,#3d1a00); padding:3.5rem 0 2.5rem; color:#fff; }
-    .mp-hero h1 { font-size:1.9rem; font-weight:900; margin-bottom:.5rem; }
-    .mp-hero p  { opacity:.75; font-size:.95rem; margin-bottom:1.5rem; }
+    .mp-hero {
+      position: relative; overflow: hidden;
+      background: linear-gradient(135deg,#1a0a00,#3d1a00);
+      padding: 3.5rem 0 2.5rem;
+      color: #fff;
+
+      &::before {
+        content: ''; position: absolute; inset: 0;
+        background-image: var(--zellige-pattern);
+        background-repeat: repeat; background-size: 40px 12px;
+        opacity: .15; pointer-events: none;
+      }
+
+      .container { position: relative; z-index: 1; }
+    }
+    .mp-hero h1 { font-size:1.9rem; font-weight:900; margin-bottom:.5rem; color:#f8f1e7 !important; }
+    .mp-hero p  { opacity:.75; font-size:.95rem; margin-bottom:1.5rem; color:#f8f1e7 !important; }
     .hero-search { display:flex; gap:.5rem; max-width:520px; }
     .hero-input { flex:1; padding:.65rem 1rem; border:none; border-radius:10px; font-size:.9rem; outline:none; background:rgba(255,255,255,.12); color:#fff; }
     .hero-input::placeholder { color:rgba(255,255,255,.55); }
@@ -267,7 +292,15 @@ const SORT_OPTIONS = [
     .empty-state h3 { font-size:1.1rem; font-weight:800; color:var(--text-primary); margin:0; }
     .empty-state p { color:var(--text-muted); font-size:.875rem; margin:0; }
     .btn-reset { padding:.5rem 1.25rem; background:#8B4513; color:#fff; border:none; border-radius:8px; font-weight:600; cursor:pointer; }
-    .mp-card { background:var(--card-bg); border:1px solid var(--card-border); border-radius:12px; overflow:hidden; text-decoration:none; transition:transform .2s,box-shadow .2s; display:flex; flex-direction:column; }
+    .mp-card {
+      background:var(--card-bg); border:1px solid var(--card-border); border-radius:12px; overflow:hidden; text-decoration:none; transition:transform .2s,box-shadow .2s,background .2s; display:flex; flex-direction:column;
+
+      :root[data-theme='dark'] & {
+        background: #24201d;
+        border-color: rgba(255,255,255,.05);
+        box-shadow: 0 2px 10px rgba(0,0,0,.35);
+      }
+    }
     .mp-card:hover { transform:translateY(-2px); box-shadow:0 6px 20px rgba(0,0,0,.1); }
     .mp-thumb { height:165px; background:var(--bg-tertiary); overflow:hidden; position:relative; flex-shrink:0; }
     .mp-thumb img { width:100%; height:100%; object-fit:cover; transition:transform .35s; }
@@ -276,6 +309,11 @@ const SORT_OPTIONS = [
     .mp-feat-badge    { position:absolute; top:.5rem; left:.5rem; background:rgba(0,0,0,.6); color:#ffd700; padding:.15rem .45rem; border-radius:5px; font-size:.68rem; }
     .mp-organic-badge { position:absolute; bottom:.5rem; left:.5rem; background:rgba(39,174,96,.8); color:#fff; padding:.15rem .45rem; border-radius:5px; font-size:.68rem; font-weight:700; }
     .mp-discount-badge{ position:absolute; top:.5rem; right:.5rem; background:#e74c3c; color:#fff; padding:.15rem .45rem; border-radius:5px; font-size:.7rem; font-weight:800; }
+    .mp-cart-btn { position:absolute; bottom:.5rem; right:.5rem; width:34px; height:34px; border-radius:50%; border:none; background:var(--brand-gold,#d4af6a); color:#2c1a05; display:flex; align-items:center; justify-content:center; cursor:pointer; box-shadow:0 2px 8px rgba(0,0,0,.25); transition:transform .2s, background .2s; opacity:0; transform:translateY(6px); }
+    .mp-cart-btn svg { width:17px; height:17px; }
+    .mp-cart-btn:hover { background:#c49a52; transform:translateY(0) scale(1.08); }
+    .mp-card:hover .mp-cart-btn, .mp-cart-btn:focus-visible { opacity:1; transform:translateY(0); }
+    @media(max-width:860px) { .mp-cart-btn { opacity:1; transform:translateY(0); } }
     .mp-body { padding:.875rem; flex:1; display:flex; flex-direction:column; gap:.3rem; }
     .mp-domain { font-size:.68rem; font-weight:700; color:#8B4513; text-transform:uppercase; letter-spacing:.04em; }
     h3 { font-size:.84rem; font-weight:700; color:var(--text-primary); margin:0; display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden; }
@@ -286,7 +324,15 @@ const SORT_OPTIONS = [
     .mp-price { color:#8B4513; font-weight:800; font-size:.9rem; }
     .mp-origin { font-size:.7rem; color:var(--text-muted); }
     .products-list { display:flex; flex-direction:column; gap:.75rem; }
-    .mp-list-item { display:flex; gap:1rem; background:var(--card-bg); border:1px solid var(--card-border); border-radius:12px; overflow:hidden; text-decoration:none; transition:box-shadow .2s; align-items:stretch; }
+    .mp-list-item {
+      display:flex; gap:1rem; background:var(--card-bg); border:1px solid var(--card-border); border-radius:12px; overflow:hidden; text-decoration:none; transition:box-shadow .2s,background .2s; align-items:stretch;
+
+      :root[data-theme='dark'] & {
+        background: #24201d;
+        border-color: rgba(255,255,255,.05);
+        box-shadow: 0 2px 10px rgba(0,0,0,.35);
+      }
+    }
     .mp-list-item:hover { box-shadow:0 4px 16px rgba(0,0,0,.08); }
     .mli-thumb { width:110px; flex-shrink:0; background:var(--bg-tertiary); overflow:hidden; }
     .mli-thumb img { width:100%; height:100%; object-fit:cover; }
@@ -298,6 +344,8 @@ const SORT_OPTIONS = [
     .badge-sm.amber { background:rgba(243,156,18,.1); color:#f39c12; }
     .mli-price { padding:.875rem; display:flex; flex-direction:column; align-items:flex-end; justify-content:center; gap:.375rem; flex-shrink:0; }
     .mli-voir { font-size:.78rem; color:#8B4513; font-weight:600; white-space:nowrap; }
+    .mli-cart-btn { padding:.32rem .75rem; background:var(--brand-gold,#d4af6a); color:#2c1a05; border:none; border-radius:8px; font-size:.78rem; font-weight:700; cursor:pointer; white-space:nowrap; transition:background .2s; }
+    .mli-cart-btn:hover { background:#c49a52; }
     .pagination { display:flex; gap:.375rem; justify-content:center; margin-top:2rem; flex-wrap:wrap; }
     .pagination button { padding:.4rem .875rem; border:1px solid var(--card-border); border-radius:8px; background:var(--bg-secondary); color:var(--text-primary); cursor:pointer; font-size:.82rem; }
     .pagination button.active { background:#8B4513; color:#fff; border-color:#8B4513; }
@@ -308,8 +356,11 @@ const SORT_OPTIONS = [
   `]
 })
 export class MarketplaceComponent implements OnInit {
-  private api  = inject(ApiService);
-  private lang = inject(LanguageService);
+  private api    = inject(ApiService);
+  private lang   = inject(LanguageService);
+  private router = inject(Router);
+  private auth   = inject(AuthService);
+  private cart   = inject(CartService);
 
   products     = signal<any[]>([]);
   total        = signal(0);
@@ -335,6 +386,19 @@ export class MarketplaceComponent implements OnInit {
   domainLabel(id: string): string { return DOMAINS.find(d => d.id === id)?.label || id; }
   domainIcon(id: string): string  { return DOMAINS.find(d => d.id === id)?.icon || '🛍️'; }
   discountPct(p: any): number { return Math.round((1 - p.priceDiscount / p.price) * 100); }
+
+  addToCart(e: Event, p: any): void {
+    e.preventDefault();
+    e.stopPropagation();
+
+    if (!this.auth.isLoggedIn() || this.auth.currentUser()?.role !== 'client') {
+      this.router.navigate(['/auth/login'], { queryParams: { returnUrl: this.router.url } });
+      return;
+    }
+
+    this.cart.addToCart(p);
+    this.cart.isCartOpen.set(true);
+  }
 
   ngOnInit(): void { this.load(); }
 

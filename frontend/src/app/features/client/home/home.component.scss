@@ -277,9 +277,14 @@
 .carousel-track {
   display: flex;
   gap: 1rem;
-  overflow: hidden;
   flex: 1;
+  overflow-x: auto;
   scroll-behavior: smooth;
+  scroll-snap-type: x mandatory;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+
+  &::-webkit-scrollbar { display: none; }
 }
 
 .product-card {
@@ -290,12 +295,11 @@
   background: var(--card-bg);
   border: 1px solid var(--card-border);
   text-decoration: none;
-  transition: transform 0.3s ease, box-shadow 0.3s ease, opacity 0.3s ease;
-  opacity: 0.7;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
   flex-shrink: 0;
+  scroll-snap-align: start;
 
-  &.active { opacity: 1; transform: scale(1.03); box-shadow: var(--shadow-lg); }
-  &.prev, &.next { opacity: 0.85; }
+  &:hover { transform: translateY(-3px); box-shadow: var(--shadow-md); }
 
   .product-thumb {
     height: 160px;
@@ -349,29 +353,6 @@
   }
 }
 
-.carousel-dots {
-  display: flex;
-  justify-content: center;
-  gap: 0.5rem;
-  margin-top: 1rem;
-
-  .dot {
-    width: 8px;
-    height: 8px;
-    border-radius: 50%;
-    background: var(--border);
-    border: none;
-    cursor: pointer;
-    transition: all 0.2s ease;
-
-    &.active {
-      width: 24px;
-      border-radius: 4px;
-      background: #8B4513;
-    }
-  }
-}
-
 // ── Annuaire Section ───────────────────────────────────────────────
 .section-annuaire {
   padding: 4rem 0;
@@ -412,17 +393,23 @@
   }
 }
 
-// Annuaire Cards Grid
+// Annuaire Cards Carousel
 .annuaire-grid {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 1.25rem;
+  display: flex;
+  gap: 1.5rem;
+  flex: 1;
+  overflow-x: auto;
+  scroll-behavior: smooth;
+  scroll-snap-type: x mandatory;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
 
-  @media (max-width: 1100px) { grid-template-columns: repeat(2, 1fr); }
-  @media (max-width: 640px)  { grid-template-columns: 1fr; }
+  &::-webkit-scrollbar { display: none; }
 }
 
 .annuaire-skeleton {
+  min-width: 320px;
+  flex-shrink: 0;
   height: 220px;
   border-radius: 14px;
   background: linear-gradient(90deg, var(--bg-tertiary) 0%, var(--bg-secondary) 50%, var(--bg-tertiary) 100%);
@@ -433,6 +420,10 @@
 .annuaire-card {
   display: flex;
   flex-direction: column;
+  min-width: 320px;
+  max-width: 320px;
+  flex-shrink: 0;
+  scroll-snap-align: start;
   background: var(--card-bg);
   border: 1px solid var(--card-border);
   border-radius: 14px;

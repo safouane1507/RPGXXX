@@ -7,8 +7,12 @@ require('dotenv').config({ path: require('path').resolve(__dirname, '../../.env'
 if (!process.env.JWT_SECRET)   { console.error('❌ JWT_SECRET manquant dans .env'); process.exit(1); }
 if (!process.env.MONGODB_URI)  { console.error('❌ MONGODB_URI manquant dans .env'); process.exit(1); }
 
+const fs       = require('fs');
+const path     = require('path');
+const slugify  = require('slugify');
 const mongoose = require('mongoose');
 const User     = require('../models/User.model');
+const Annuaire = require('../models/Annuaire.model');
 const { DOMAIN_IDS, STRUCTURE_TYPES, USER_ROLES } = require('../config/constants');
 
 // npm run seed -- --force  →  supprime et recrée tous les comptes de démo
@@ -146,6 +150,77 @@ async function seedClientUser() {
 }
 
 // ─────────────────────────────────────────────────────────────
+// Seed Annuaires (acteurs Pro de l'annuaire, données de démo)
+// ─────────────────────────────────────────────────────────────
+async function seedAnnuaires(adminId) {
+  const dataPath = path.resolve(__dirname, '../data/annuaires.json');
+  const entries = JSON.parse(fs.readFileSync(dataPath, 'utf-8'));
+
+  let createdAccounts = 0;
+  let createdAnnuaires = 0;
+
+  for (const entry of entries) {
+    const { proAccount, ...annuaireData } = entry;
+
+    // 1. Récupère ou crée le compte Pro lié
+    let user = await User.findOne({ email: proAccount.email });
+    if (!user) {
+      user = await new User({
+        role:      USER_ROLES.PRO,
+        email:     proAccount.email,
+        password:  'Demo@123456',
+        firstName: proAccount.firstName,
+        lastName:  proAccount.lastName,
+        isActive:  true,
+        isEmailVerified: true,
+        createdBy: adminId,
+        proProfile: {
+          companyName:      annuaireData.structureName,
+          structureType:    annuaireData.structureType,
+          domain:           annuaireData.domain,
+          subscriptionPlan: 'gratuit',
+          isVerified:       true,
+          verifiedAt:       new Date(),
+          verifiedBy:       adminId
+        }
+      }).save();
+      createdAccounts++;
+    }
+
+    // 2. Récupère ou crée la fiche Annuaire liée à ce compte
+    let annuaire = await Annuaire.findOne({ proActor: user._id });
+    if (annuaire) {
+      if (!FORCE) continue;
+      await Annuaire.deleteOne({ _id: annuaire._id });
+    }
+
+    annuaire = await new Annuaire({
+      proActor:      user._id,
+      structureName: annuaireData.structureName,
+      structureType: annuaireData.structureType,
+      domain:        annuaireData.domain,
+      description:   annuaireData.description,
+      contact:       annuaireData.contact,
+      logo:          annuaireData.logo,
+      isActive:      true,
+      isVerified:    !!annuaireData.isVerified,
+      isFeatured:    !!annuaireData.isFeatured,
+      verifiedAt:    annuaireData.isVerified ? new Date() : null,
+      slug:          slugify(annuaireData.structureName, { lower: true, strict: true }),
+      publishedAt:   new Date()
+    }).save();
+
+    user.proProfile.annuaireRef = annuaire._id;
+    await user.save();
+    createdAnnuaires++;
+  }
+
+  if (createdAccounts > 0)  console.log(`🏭 ${createdAccounts} compte(s) Pro créé(s) pour l'annuaire (mot de passe : Demo@123456)`);
+  if (createdAnnuaires > 0) console.log(`📖 ${createdAnnuaires} fiche(s) Annuaire créée(s)`);
+  if (createdAccounts === 0 && createdAnnuaires === 0) console.log('ℹ️  Annuaires de démo déjà présents');
+}
+
+// ─────────────────────────────────────────────────────────────
 // Runner principal
 // ─────────────────────────────────────────────────────────────
 (async () => {
@@ -154,6 +229,7 @@ async function seedClientUser() {
     const admin = await seedAdmin();
     await seedProUsers(admin._id);
     await seedClientUser();
+    await seedAnnuaires(admin._id);
     console.log('\n🌟 Seed terminé avec succès !');
     console.log('────────────────────────────────────────');
     console.log('  Admin   →', process.env.ADMIN_EMAIL    || 'admin@kenzbladi.ma');

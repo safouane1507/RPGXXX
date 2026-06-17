@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["client-layout.component.ts"],
+  "sourcesContent": ["\n    .main-content {\n      padding-top: 72px;\n      min-height: 100vh;\n    }\n  "],
+  "mappings": ";AACI,CAAA;AACE,eAAA;AACA,cAAA;;",
+  "names": []
+}

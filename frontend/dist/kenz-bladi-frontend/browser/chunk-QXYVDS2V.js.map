@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/features/admin/complaints/complaints.component.ts"],
+  "sourcesContent": ["import { Component } from '@angular/core';\nimport { CommonModule } from '@angular/common';\n\n@Component({\n  selector: 'app-complaints',\n  standalone: true,\n  imports: [CommonModule],\n  template: `\n    <div class=\"admin-stub\">\n      <h2>Réclamations</h2>\n      <p>Suivi et traitement des réclamations des clients et acteurs professionnels.</p>\n    </div>`,\n  styles: [`.admin-stub{background:var(--card-bg);border:1px solid var(--card-border);border-radius:10px;padding:2rem;} h2{font-size:1.1rem;font-weight:700;margin-bottom:.75rem;color:var(--text-primary);} p{font-size:.875rem;color:var(--text-secondary);}`]\n})\nexport class ComplaintsComponent {}\n"],
+  "mappings": ";;;;;;;;;;;AAcM,IAAO,sBAAP,MAAO,qBAAmB;;;uBAAnB,sBAAmB;IAAA;EAAA;;yEAAnB,sBAAmB,WAAA,CAAA,CAAA,gBAAA,CAAA,GAAA,YAAA,MAAA,UAAA,CAAA,6BAAA,GAAA,OAAA,GAAA,MAAA,GAAA,QAAA,CAAA,CAAA,GAAA,YAAA,CAAA,GAAA,UAAA,SAAA,6BAAA,IAAA,KAAA;AAAA,UAAA,KAAA,GAAA;AAN5B,QAAA,yBAAA,GAAA,OAAA,CAAA,EAAwB,GAAA,IAAA;AAClB,QAAA,iBAAA,GAAA,iBAAA;AAAY,QAAA,uBAAA;AAChB,QAAA,yBAAA,GAAA,GAAA;AAAG,QAAA,iBAAA,GAAA,gFAAA;AAA2E,QAAA,uBAAA,EAAI;;sBAJ5E,YAAY,GAAA,QAAA,CAAA,saAAA,EAAA,CAAA;EAAA;;;6EAQX,qBAAmB,EAAA,WAAA,uBAAA,UAAA,kEAAA,YAAA,GAAA,CAAA;AAAA,GAAA;",
+  "names": []
+}

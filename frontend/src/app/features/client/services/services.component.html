@@ -1,0 +1,20 @@
+<section class="services-page">
+  <div class="services-hero">
+    <div class="container">
+      <h1>{{ 'SERVICES.TITLE' | translate }}</h1>
+      <p class="subtitle">{{ 'SERVICES.SUBTITLE' | translate }}</p>
+    </div>
+  </div>
+
+  <div class="container section-spacing">
+    <div class="services-grid">
+      @for (service of ('SERVICES.LIST' | translate); track service.title) {
+        <div class="service-card">
+          <span class="service-icon">{{ service.icon }}</span>
+          <h3>{{ service.title }}</h3>
+          <p>{{ service.text }}</p>
+        </div>
+      }
+    </div>
+  </div>
+</section>

@@ -1,0 +1,302 @@
+[
+  {
+    "proAccount": {
+      "email": "argane.bayt@kenzbladi.ma",
+      "firstName": "Coopérative",
+      "lastName": "Bayt Argane"
+    },
+    "structureName": "Coopérative Bayt Argane",
+    "structureType": "cooperative",
+    "domain": "soin_beaute",
+    "description": {
+      "fr": "Coopérative féminine spécialisée dans la production d'huile d'argan biologique et de cosmétiques naturels à base de plantes du Souss.",
+      "ar": "تعاونية نسائية متخصصة في إنتاج زيت أركان عضوي ومستحضرات تجميل طبيعية من نباتات سوس.",
+      "en": "Women's cooperative specializing in organic argan oil and natural cosmetics made from plants of the Souss region.",
+      "darija": "تعاونية ديال النساء كتنتج زيت الأركان البيو والمنتوجات الطبيعية ديال التجميل من نباتات سوس."
+    },
+    "contact": {
+      "city": "Agadir",
+      "region": "Souss-Massa",
+      "phone": "+212528112233",
+      "email": "contact@baytargane.ma"
+    },
+    "logo": "https://ui-avatars.com/api/?name=Bayt+Argane&background=E91E8C&color=fff&size=128&bold=true",
+    "isVerified": true,
+    "isFeatured": true
+  },
+  {
+    "proAccount": {
+      "email": "zellige.fes@kenzbladi.ma",
+      "firstName": "Coopérative",
+      "lastName": "Dar Zellige"
+    },
+    "structureName": "Coopérative Dar Zellige",
+    "structureType": "cooperative",
+    "domain": "artisanat_art",
+    "description": {
+      "fr": "Atelier coopératif perpétuant l'art ancestral du zellige et de la poterie de Fès, entièrement façonnés et peints à la main.",
+      "ar": "ورشة تعاونية تحافظ على فن الزليج والفخار الفاسي العريق، مصنوعة ومرسومة يدويًا بالكامل.",
+      "en": "Cooperative workshop preserving the ancestral art of Fez zellige and pottery, entirely handcrafted and hand-painted.",
+      "darija": "ورشة تعاونية كتحافظ على فن الزليج والفخار ديال فاس، كلشي مصنوع ومصبوغ بالليد."
+    },
+    "contact": {
+      "city": "Fès",
+      "region": "Fès-Meknès",
+      "phone": "+212535223344",
+      "email": "contact@darzellige.ma"
+    },
+    "logo": "https://ui-avatars.com/api/?name=Dar+Zellige&background=8E44AD&color=fff&size=128&bold=true",
+    "isVerified": true,
+    "isFeatured": true
+  },
+  {
+    "proAccount": {
+      "email": "safran.dor@kenzbladi.ma",
+      "firstName": "Coopérative",
+      "lastName": "Safran d'Or Taliouine"
+    },
+    "structureName": "Coopérative Safran d'Or Taliouine",
+    "structureType": "cooperative",
+    "domain": "produit_terroir",
+    "description": {
+      "fr": "Coopérative de safranières récoltant et conditionnant le safran AOP de Taliouine, l'un des plus prisés au monde.",
+      "ar": "تعاونية لمزارعي الزعفران تقوم بجني وتعليب زعفران تالوين ذي العلامة الأصلية، من أرقى أنواع الزعفران في العالم.",
+      "en": "Cooperative of saffron growers harvesting and packaging Taliouine PDO saffron, one of the most prized in the world.",
+      "darija": "تعاونية ديال الفلاحين كتقطف وكتعلب الزعفران ديال تالوين، من أحسن الزعفران فالعالم."
+    },
+    "contact": {
+      "city": "Taliouine",
+      "region": "Souss-Massa",
+      "phone": "+212528334455",
+      "email": "contact@safrandor.ma"
+    },
+    "logo": "https://ui-avatars.com/api/?name=Safran+Dor&background=F39C12&color=fff&size=128&bold=true",
+    "isVerified": true,
+    "isFeatured": true
+  },
+  {
+    "proAccount": {
+      "email": "peche.essaouira@kenzbladi.ma",
+      "firstName": "Coopérative",
+      "lastName": "Bahr Essaouira"
+    },
+    "structureName": "Coopérative Bahr Essaouira",
+    "structureType": "cooperative",
+    "domain": "produits_mer",
+    "description": {
+      "fr": "Coopérative de marins-pêcheurs proposant poissons frais, conserves de sardines et algues comestibles de la côte atlantique.",
+      "ar": "تعاونية للصيادين تقدم الأسماك الطازجة وعلب السردين والأعشاب البحرية الصالحة للأكل من الساحل الأطلسي.",
+      "en": "Fishermen's cooperative offering fresh fish, canned sardines and edible seaweed from the Atlantic coast.",
+      "darija": "تعاونية ديال الصيادين كتبيع الحوت الطري وعلب السردين والعشبة البحرية من الساحل الأطلسي."
+    },
+    "contact": {
+      "city": "Essaouira",
+      "region": "Marrakech-Safi",
+      "phone": "+212524445566",
+      "email": "contact@bahressaouira.ma"
+    },
+    "logo": "https://ui-avatars.com/api/?name=Bahr+Essaouira&background=006994&color=fff&size=128&bold=true",
+    "isVerified": true,
+    "isFeatured": false
+  },
+  {
+    "proAccount": {
+      "email": "olive.meknes@kenzbladi.ma",
+      "firstName": "Coopérative",
+      "lastName": "Zaytoune Meknès"
+    },
+    "structureName": "Coopérative Zaytoune Meknès",
+    "structureType": "cooperative",
+    "domain": "agriculture_bio",
+    "description": {
+      "fr": "Coopérative agricole produisant de l'huile d'olive biologique extra vierge issue des oliveraies de la plaine de Meknès.",
+      "ar": "تعاونية فلاحية تنتج زيت الزيتون البيولوجي البكر الممتاز من بساتين سهل مكناس.",
+      "en": "Agricultural cooperative producing extra virgin organic olive oil from the olive groves of the Meknès plain.",
+      "darija": "تعاونية فلاحية كتنتج زيت الزيتون البيو من البساتين ديال سهل مكناس."
+    },
+    "contact": {
+      "city": "Meknès",
+      "region": "Fès-Meknès",
+      "phone": "+212535556677",
+      "email": "contact@zaytounemeknes.ma"
+    },
+    "logo": "https://ui-avatars.com/api/?name=Zaytoune+Meknes&background=2ECC71&color=fff&size=128&bold=true",
+    "isVerified": true,
+    "isFeatured": false
+  },
+  {
+    "proAccount": {
+      "email": "caftan.fes@kenzbladi.ma",
+      "firstName": "Coopérative",
+      "lastName": "Caftan Atlas"
+    },
+    "structureName": "Coopérative Caftan Atlas",
+    "structureType": "cooperative",
+    "domain": "habillement_mode",
+    "description": {
+      "fr": "Maison coopérative de couturières confectionnant caftans, takchitas et tenues traditionnelles brodées main.",
+      "ar": "دار تعاونية للخياطات تصنع القفطان والتكشيطة والألبسة التقليدية المطرزة يدويًا.",
+      "en": "Cooperative tailoring house creating caftans, takchitas and hand-embroidered traditional outfits.",
+      "darija": "دار تعاونية ديال الخياطات كتصنع القفطان والتكشيطة والحوايج التقليدية مطرزين بالليد."
+    },
+    "contact": {
+      "city": "Fès",
+      "region": "Fès-Meknès",
+      "phone": "+212535667788",
+      "email": "contact@caftanatlas.ma"
+    },
+    "logo": "https://ui-avatars.com/api/?name=Caftan+Atlas&background=C0392B&color=fff&size=128&bold=true",
+    "isVerified": false,
+    "isFeatured": false
+  },
+  {
+    "proAccount": {
+      "email": "trekking.imlil@kenzbladi.ma",
+      "firstName": "Coopérative",
+      "lastName": "Imlil Trekking"
+    },
+    "structureName": "Coopérative Imlil Trekking",
+    "structureType": "cooperative",
+    "domain": "tourisme_rural",
+    "description": {
+      "fr": "Coopérative villageoise organisant treks guidés, gîtes d'hébergement et expériences culinaires dans le Haut Atlas.",
+      "ar": "تعاونية قروية تنظم رحلات مرشدة وإقامات في بيوت الضيافة وتجارب طهي في الأطلس الكبير.",
+      "en": "Village cooperative organizing guided treks, guesthouse stays and culinary experiences in the High Atlas.",
+      "darija": "تعاونية ديال الدوار كتنظم تريكات مع مرشدين، السكن فالكيتات، وتجارب الماكلة فالأطلس الكبير."
+    },
+    "contact": {
+      "city": "Imlil",
+      "region": "Marrakech-Safi",
+      "phone": "+212524778899",
+      "email": "contact@imliltrekking.ma"
+    },
+    "logo": "https://ui-avatars.com/api/?name=Imlil+Trekking&background=27AE60&color=fff&size=128&bold=true",
+    "isVerified": true,
+    "isFeatured": true
+  },
+  {
+    "proAccount": {
+      "email": "patisserie.rabat@kenzbladi.ma",
+      "firstName": "Coopérative",
+      "lastName": "Halawiyat Rabat"
+    },
+    "structureName": "Coopérative Halawiyat Rabat",
+    "structureType": "cooperative",
+    "domain": "artisanat_culinaire",
+    "description": {
+      "fr": "Coopérative culinaire spécialisée dans les pâtisseries marocaines traditionnelles : cornes de gazelle, chebakia et msemen.",
+      "ar": "تعاونية طهوية متخصصة في الحلويات المغربية التقليدية: كعب الغزال، الشباكية والمسمن.",
+      "en": "Culinary cooperative specializing in traditional Moroccan pastries: gazelle horns, chebakia and msemen.",
+      "darija": "تعاونية كتخصص فالحلويات المغربية التقليدية: كعب الغزال، الشباكية والمسمن."
+    },
+    "contact": {
+      "city": "Rabat",
+      "region": "Rabat-Salé-Kénitra",
+      "phone": "+212537889900",
+      "email": "contact@halawiyatrabat.ma"
+    },
+    "logo": "https://ui-avatars.com/api/?name=Halawiyat+Rabat&background=E74C3C&color=fff&size=128&bold=true",
+    "isVerified": false,
+    "isFeatured": false
+  },
+  {
+    "proAccount": {
+      "email": "couture.tetouan@kenzbladi.ma",
+      "firstName": "Coopérative",
+      "lastName": "Khayata Tétouan"
+    },
+    "structureName": "Coopérative Khayata Tétouan",
+    "structureType": "cooperative",
+    "domain": "artisanat_service",
+    "description": {
+      "fr": "Atelier coopératif de couture et retouche proposant confection sur mesure, réparation textile et broderie traditionnelle.",
+      "ar": "ورشة تعاونية للخياطة والتعديل تقدم خدمات الخياطة حسب الطلب وإصلاح الأقمشة والتطريز التقليدي.",
+      "en": "Cooperative tailoring and alteration workshop offering made-to-measure sewing, textile repair and traditional embroidery.",
+      "darija": "ورشة تعاونية ديال الخياطة والتصليح، كتقدم الخياطة على القياس وتصليح الحوايج والطرز التقليدي."
+    },
+    "contact": {
+      "city": "Tétouan",
+      "region": "Tanger-Tétouan-Al Hoceïma",
+      "phone": "+212539990011",
+      "email": "contact@khayatatetouan.ma"
+    },
+    "logo": "https://ui-avatars.com/api/?name=Khayata+Tetouan&background=8B4513&color=fff&size=128&bold=true",
+    "isVerified": false,
+    "isFeatured": false
+  },
+  {
+    "proAccount": {
+      "email": "dattes.erfoud@kenzbladi.ma",
+      "firstName": "Coopérative",
+      "lastName": "Tamesna Dattes"
+    },
+    "structureName": "Coopérative Tamesna Dattes",
+    "structureType": "cooperative",
+    "domain": "produit_terroir",
+    "description": {
+      "fr": "Coopérative agricole du Tafilalet récoltant et conditionnant des dattes Majhoul et Aziza Bouzid de qualité supérieure.",
+      "ar": "تعاونية فلاحية بتافيلالت تجني وتعلب تمور المجهول والعزيزة بوزيد عالية الجودة.",
+      "en": "Agricultural cooperative from the Tafilalet harvesting and packaging premium Majhoul and Aziza Bouzid dates.",
+      "darija": "تعاونية فلاحية ديال تافيلالت كتقطف وكتعلب التمر مجهول وعزيزة بوزيد ديال الجودة العالية."
+    },
+    "contact": {
+      "city": "Erfoud",
+      "region": "Drâa-Tafilalet",
+      "phone": "+212535001122",
+      "email": "contact@tamesnadattes.ma"
+    },
+    "logo": "https://ui-avatars.com/api/?name=Tamesna+Dattes&background=F39C12&color=fff&size=128&bold=true",
+    "isVerified": true,
+    "isFeatured": false
+  },
+  {
+    "proAccount": {
+      "email": "cuir.marrakech@kenzbladi.ma",
+      "firstName": "Coopérative",
+      "lastName": "Jild Marrakech"
+    },
+    "structureName": "Coopérative Jild Marrakech",
+    "structureType": "cooperative",
+    "domain": "artisanat_art",
+    "description": {
+      "fr": "Coopérative de maroquiniers de la médina de Marrakech, fabricants de sacs, babouches et articles en cuir tannés naturellement.",
+      "ar": "تعاونية للدباغين والصناع الجلديين بمدينة مراكش، تصنع الحقائب والبلغة ومنتجات جلدية مدبوغة طبيعيًا.",
+      "en": "Cooperative of leather craftsmen from the Marrakech medina, making bags, babouches and naturally tanned leather goods.",
+      "darija": "تعاونية ديال الصناع ديال الجلد فمدينة مراكش، كيصنعو الشكارة والبلغة والحوايج ديال الجلد المدبوغ طبيعي."
+    },
+    "contact": {
+      "city": "Marrakech",
+      "region": "Marrakech-Safi",
+      "phone": "+212524112244",
+      "email": "contact@jildmarrakech.ma"
+    },
+    "logo": "https://ui-avatars.com/api/?name=Jild+Marrakech&background=8E44AD&color=fff&size=128&bold=true",
+    "isVerified": true,
+    "isFeatured": false
+  },
+  {
+    "proAccount": {
+      "email": "maraichage.taroudant@kenzbladi.ma",
+      "firstName": "Coopérative",
+      "lastName": "Nakhla Verte"
+    },
+    "structureName": "Coopérative Nakhla Verte",
+    "structureType": "cooperative",
+    "domain": "agriculture_bio",
+    "description": {
+      "fr": "Coopérative maraîchère biologique cultivant légumes de saison, plantes aromatiques et médicinales sans pesticides.",
+      "ar": "تعاونية فلاحية بيولوجية تزرع الخضر الموسمية والنباتات العطرية والطبية دون مبيدات.",
+      "en": "Organic market-gardening cooperative growing seasonal vegetables, aromatic and medicinal plants without pesticides.",
+      "darija": "تعاونية بيو كتزرع الخضرة ديال الموسم والنباتات العطرية والطبية بلا مبيدات."
+    },
+    "contact": {
+      "city": "Taroudant",
+      "region": "Souss-Massa",
+      "phone": "+212528223355",
+      "email": "contact@nakhlaverte.ma"
+    },
+    "logo": "https://ui-avatars.com/api/?name=Nakhla+Verte&background=2ECC71&color=fff&size=128&bold=true",
+    "isVerified": false,
+    "isFeatured": false
+  }
+]

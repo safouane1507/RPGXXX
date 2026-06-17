@@ -1,6 +1,6 @@
 import { Component, inject, signal, OnInit } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { RouterModule, Router } from '@angular/router';
+import { RouterModule, Router, ActivatedRoute } from '@angular/router';
 import { ReactiveFormsModule, FormBuilder, Validators, AbstractControl } from '@angular/forms';
 import { AuthService } from '../../../core/services/auth.service';
 
@@ -319,6 +319,7 @@ import { AuthService } from '../../../core/services/auth.service';
 export class LoginComponent implements OnInit {
   private auth   = inject(AuthService);
   private router = inject(Router);
+  private route  = inject(ActivatedRoute);
   private fb     = inject(FormBuilder);
 
   form = this.fb.group({
@@ -331,7 +332,7 @@ export class LoginComponent implements OnInit {
   showPassword = signal(false);
 
   ngOnInit(): void {
-    if (this.auth.isLoggedIn()) this.redirectByRole();
+    if (this.auth.isLoggedIn()) this.redirectAfterLogin();
   }
 
   get emailInvalid(): boolean {
@@ -358,7 +359,7 @@ export class LoginComponent implements OnInit {
     this.auth.login(email!, password!).subscribe({
       next: () => {
         this.isLoading.set(false);
-        this.redirectByRole();
+        this.redirectAfterLogin();
       },
       error: err => {
         this.isLoading.set(false);
@@ -367,6 +368,18 @@ export class LoginComponent implements OnInit {
         );
       }
     });
+  }
+
+  // Si l'utilisateur a été redirigé vers /auth/login depuis une page précise
+  // (ex: "Ajouter au panier" sur une fiche produit), ?returnUrl=... le ramène
+  // exactement là où il était. Sinon, redirection par défaut selon son rôle.
+  private redirectAfterLogin(): void {
+    const returnUrl = this.route.snapshot.queryParamMap.get('returnUrl');
+    if (returnUrl) {
+      this.router.navigateByUrl(returnUrl);
+      return;
+    }
+    this.redirectByRole();
   }
 
   private redirectByRole(): void {

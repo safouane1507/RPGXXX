@@ -1,0 +1,66 @@
+<!-- Overlay -->
+<div class="cart-overlay" [class.open]="cart.isCartOpen()" (click)="close()"></div>
+
+<!-- Drawer -->
+<aside class="cart-drawer" [class.open]="cart.isCartOpen()" role="dialog" aria-label="Panier d'achat" [attr.aria-hidden]="!cart.isCartOpen()">
+
+  <!-- Header (bordure Zellige) -->
+  <header class="cart-header">
+    <h2>🛒 Mon Panier <span class="cart-count">({{ cart.itemCount() }})</span></h2>
+    <button class="cart-close" (click)="close()" aria-label="Fermer le panier">✕</button>
+  </header>
+
+  <!-- Body -->
+  <div class="cart-body">
+    @if (cart.cartItems().length === 0) {
+      <div class="cart-empty">
+        <div class="empty-icon">🛍️</div>
+        <p>Votre panier est vide</p>
+        <span class="empty-sub">Découvrez nos trésors artisanaux et ajoutez-les ici</span>
+        <a routerLink="/marketplace" (click)="close()" class="btn-browse">Découvrir la boutique</a>
+      </div>
+    } @else {
+      <ul class="cart-items">
+        @for (item of cart.cartItems(); track item.productId) {
+          <li class="cart-item">
+            <a [routerLink]="['/marketplace', item.slug]" (click)="close()" class="ci-thumb">
+              @if (item.coverImage) {
+                <img [src]="item.coverImage" [alt]="t(item.name)" />
+              } @else {
+                <div class="ci-thumb-ph">🛍️</div>
+              }
+            </a>
+
+            <div class="ci-info">
+              <a [routerLink]="['/marketplace', item.slug]" (click)="close()" class="ci-name">{{ t(item.name) }}</a>
+              <span class="ci-price">{{ item.price | number:'1.0-0' }} MAD</span>
+
+              <div class="ci-qty">
+                <button (click)="cart.updateQuantity(item.productId, item.quantity - 1)" aria-label="Diminuer la quantité">−</button>
+                <span>{{ item.quantity }}</span>
+                <button (click)="cart.updateQuantity(item.productId, item.quantity + 1)"
+                  [disabled]="!item.isInfiniteStock && item.quantity >= item.stock"
+                  aria-label="Augmenter la quantité">+</button>
+              </div>
+            </div>
+
+            <button class="ci-remove" (click)="cart.removeFromCart(item.productId)" title="Retirer du panier" aria-label="Retirer du panier">🗑️</button>
+          </li>
+        }
+      </ul>
+    }
+  </div>
+
+  <!-- Footer -->
+  @if (cart.cartItems().length > 0) {
+    <footer class="cart-footer">
+      <div class="cart-subtotal">
+        <span>Sous-total</span>
+        <strong>{{ cart.getTotal() | number:'1.0-0' }} MAD</strong>
+      </div>
+      <button class="btn-checkout" (click)="checkout()">Passer la commande</button>
+      <a routerLink="/marketplace" (click)="close()" class="link-continue">Continuer mes achats</a>
+    </footer>
+  }
+
+</aside>

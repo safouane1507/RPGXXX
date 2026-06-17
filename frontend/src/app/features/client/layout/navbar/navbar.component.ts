@@ -10,6 +10,7 @@ import { ThemeService } from '../../../../core/services/theme.service';
 import { LanguageService, SupportedLang } from '../../../../core/services/language.service';
 import { ApiService } from '../../../../core/services/api.service';
 import { AuthService } from '../../../../core/services/auth.service';
+import { CartService } from '../../../../core/services/cart.service';
 
 interface NavLink {
   key:          string;
@@ -33,6 +34,7 @@ export class NavbarComponent implements OnInit {
   private router          = inject(Router);
   private api             = inject(ApiService);
   auth                    = inject(AuthService);
+  cart                    = inject(CartService);
 
   // ── Reactive state ────────────────────────────────────────
   isDarkMode   = this.themeService.isDarkMode;
