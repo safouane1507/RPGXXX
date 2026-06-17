@@ -1,0 +1,28 @@
+<div class="chat-bubble" (click)="toggleChat()" *ngIf="!isOpen">🦙</div>
+
+<div class="chat-container" *ngIf="isOpen">
+  <div class="chat-header">
+    <div class="avatar">🦙</div>
+    <div class="header-info">
+      <h2>BlaDino</h2>
+      <p><span class="status-dot"></span>Assistant KenzBladi • En ligne</p>
+    </div>
+    <button class="close-btn" (click)="toggleChat()">✕</button>
+  </div>
+
+  <div class="messages">
+    <div *ngFor="let msg of messages" class="message" [ngClass]="msg.type">
+      {{ msg.text }}
+    </div>
+    <div class="typing" *ngIf="isTyping">
+      <span></span><span></span><span></span>
+    </div>
+  </div>
+
+  <div class="input-area">
+    <input type="text" [(ngModel)]="userInput" (keydown)="onKeyDown($event)" placeholder="Posez votre question..." />
+    <button class="send-btn" (click)="sendMessage()">
+      <svg viewBox="0 0 24 24"><path d="M2 21l21-9L2 3v7l15 2-15 2z"/></svg>
+    </button>
+  </div>
+</div>
